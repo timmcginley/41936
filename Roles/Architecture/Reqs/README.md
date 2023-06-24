@@ -1,6 +1,6 @@
 # Architecture Requirements
 
-## A welcoming building
+## A welcoming and inclusive building
 why would people go to the building - how does it seem interesting / inviting?
 Is it a landmark building and to what extent does it try and blend into the
 surroundings? How do we know it is a DTU building but also something new? What
