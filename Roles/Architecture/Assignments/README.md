@@ -1,4 +1,4 @@
-# Assignments
+# ARCH Assignments
 ## Part A
 Identify the parts of the project and the associated deadlines and
 collaborative requirements for the structures group for the 13 and 3 week
