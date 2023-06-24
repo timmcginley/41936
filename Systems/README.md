@@ -1,7 +1,7 @@
 # Elements
 
 * Basement
-* [Core](core)
+* [Core](Core)
 * Facade
 * Spaces
 * Structure
