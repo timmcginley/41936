@@ -22,4 +22,4 @@ The integration to the ICT/PM group is really important. A symbiotic
 relationship between the two subjects can help improve the quality,
 communication and frequency of early design decisions.
 ## Architecture -> Sustainability
-Work closely to develop and assess options for the main elements of the building. Architecture needs to support the sustainability groups wiht the information they need.
+Work closely to develop and assess options for the main elements of the building. Architecture needs to support the sustainability groups with the information they need.
