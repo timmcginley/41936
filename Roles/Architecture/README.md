@@ -1,11 +1,20 @@
 # Architecture
 The design of tall buildings requires a team approach between various
 disciplines of design, material fabrication and building
-construction. The member of the design subject group designs the
+construction. The Architecture role involves:
+* synthesing the client requirements into aesthetic and functional spaces.
+* defining the relationships between the spaces
+* defining the mass (form) fo the building envelope
+* defining access and egress to the BUILDING
+* design of the car parking
+* acoustic analysis of the SPACES
+* designing the FACADE based on the space requirements and input from MEP.
 building. It is also responsible for the facade and finishes in the
 building. They coordinate the team effort so that the different
 material, service, activity components and other parameters act as a
 whole in the design of the project.
+
+## Responsibilities and methods
 The Architecture subject is responsible for the management of the
 usable spaces and the facade and the overall composition of the
 building. The subject group needs to get their heads into the project
