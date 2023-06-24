@@ -1,2 +1,11 @@
-# 41936
-Advanced Building Design @ DTU Construct
+# Roles
+It is not the intention of the course to use the
+traditional design process in which, essentially, the
+architect takes the lead, and the other participants
+wait to receive the basic design from the architect.
+That process is still the most commonly used method in
+the industry, and students may be familiar with the
+process from their student jobs. However, the lack of
+input from different roles in such a process can
+prevent the achievement of a sustainable solution.
+
