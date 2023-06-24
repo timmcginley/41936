@@ -1,9 +1,9 @@
 # Architecture
 
 Advanced Building Design requires the collaborative development of interdisciplinary design solutions from the initial design (PART A) through to the detail design (PART D). Specifically, the responsibilities and dependencies for architecture are:
-* Synthesing the client requirements into aesthetic and functional SPACES.
-* Developing, synthesising and communicating the architectural design concept(s) to the satisfaction of the design team and the client.
-* Checking BR18 conformance.
+* Synthesise the client requirements into aesthetic and functional SPACES.
+* Develop, synthesis and communicate the architectural design concept(s) to the satisfaction of the design team and the client.
+* Checki BR18 conformance.
 * Model different design options for FACADE, BUILDING ENVELOPE, AUDITORIUM and others,to guide and facilitate analysis and feedback from the team.
 * Define the relationships between the SPACES required by the client.
 * Define and iterate the mass (form) of the building envelope.
