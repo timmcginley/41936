@@ -2,9 +2,9 @@
 
 * Basement
 * [Core](Core/README.md)
-* Facade
+* [Facade](Facade/README.md)
 * Spaces
-* Structure
+* [Structure](Structure/README.md)
 * MEP
 * Site
 * Floors
