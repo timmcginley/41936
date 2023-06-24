@@ -10,7 +10,7 @@ statement is it making?
 Consider the different elements of the building and how they are combined to
 support the subject and project requirements.
 
-## Sense of place
+## Site
 Consider how your building creates a sense of place. How are you ‘treating’
 the surrounding area. Have you considered the landscaping around the building?
 is there a hard separation between the inside and outside? If so, is this
