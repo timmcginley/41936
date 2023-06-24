@@ -1,14 +1,14 @@
 # Architecture
-The design of tall buildings requires a team approach between various
-disciplines of design, material fabrication and building
-construction. The Architecture role involves:
-* synthesing the client requirements into aesthetic and functional spaces.
-* defining the relationships between the spaces
-* defining the mass (form) fo the building envelope
-* defining access and egress to the BUILDING
-* design of the car parking
-* acoustic analysis of the SPACES
-* designing the FACADE based on the space requirements and input from MEP.
+Advanced building design requires team collaboration between different roles. It is therefore important to establish the responsibilities and dependencies of each role. For arhcitecture these are:
+* Synthesing the client requirements into aesthetic and functional spaces.
+* Developing, synthesising and communicating the architectural design concept(s).
+* Model
+* Defining the relationships between the spaces
+* Defining the mass (form) fo the building envelope
+* Defining access and egress to the BUILDING
+* Design of the car parking
+* Acoustic analysis of the SPACES
+* Designing the FACADE based on the space requirements and input from MEP.
 building. It is also responsible for the facade and finishes in the
 building. They coordinate the team effort so that the different
 material, service, activity components and other parameters act as a
