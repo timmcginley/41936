@@ -1,7 +1,7 @@
 # Elements
 
 * Basement
-* [Core](Core)
+* [Core](Core/README.md)
 * Facade
 * Spaces
 * Structure
