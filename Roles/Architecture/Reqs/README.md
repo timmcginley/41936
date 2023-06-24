@@ -36,11 +36,8 @@ that satisfies the client brief.)
 Both the architectural ideas and your presentation of them should be expressed
 simply, always.
 
-## Mass / Building Envelope
-The architectural mass, sometimes called the form (or more simply the shape)
-should be considered and explored early in iterations, decisions on this effect
-all disciplines. You should consider both the architectural and engineering
-mass of the building.
+## Building Mass
+The architectural mass, sometimes called the form (or more simply the shape) should be considered and explored early in iterations, decisions on this effect all disciplines. You should consider both the architectural and engineering mass of the building.
 
 ## Entrance / Accessibility / Universal Design
 Design, analyse and communicate how to navigate the building considering:
@@ -58,7 +55,7 @@ Consider the hierarchy of the spaces including size of corridors, lobbies,
 informal and formal meeting and working spaces. Consider the spaces required
 to support the ‘hero’ spaces of the building.
 
-## Public / private space
+## Public / Private space
 Use of public spaces / consider separation of public and private spaces.
 
 ## Facade
