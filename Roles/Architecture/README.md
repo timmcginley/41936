@@ -1,5 +1,5 @@
 # Architecture
-The Architecture subject to 'hit the ground running' in the project and quickly synthesise the client requirements and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. The role needs find to develop interdisciplinary design solutions, incorporating the differing needs of the design team.
+The Architecture needs to develop interdisciplinary design solutions from the initial design (PART A) through to the detail design (PART D).
 
 ## Responsibilities
 Advanced building design requires team collaboration between different roles. It is therefore important to establish the responsibilities and dependencies of each role. For architecture these are:
