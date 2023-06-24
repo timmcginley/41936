@@ -1,13 +1,12 @@
 # Architecture Requirements
 
-## A welcoming and inclusive building
-why would people go to the building - how does it seem interesting / inviting?
-Is it a landmark building and to what extent does it try and blend into the
+## An integrated building design
+* it should be a welcoming and inclusive building
+* why would people go to the building - how does it seem interesting / inviting?
+* Is it a landmark building and to what extent does it try and blend into the
 surroundings? How do we know it is a DTU building but also something new? What
 statement is it making?
-
-## More than the sum of its parts
-Consider the different elements of the building and how they are combined to
+* Consider the different elements of the building and how they are combined to
 support the subject and project requirements.
 
 ## Site
