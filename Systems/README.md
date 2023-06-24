@@ -1,7 +1,11 @@
 # Elements
 
 ## Basement
+## Core
 ## Facade
+## Spaces
+## Structure
+## MEP
 ## Site
-## Floora
+## Floors
 ## Building
