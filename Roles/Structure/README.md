@@ -1,2 +1,4 @@
-# 41936
-Advanced Building Design @ DTU Construct
+# Structure
+*The main role of structural engineers within civil engineering is the design of structures such as buildings, bridges and industrial facilities. In an ideal case structural engineers develop the initial design in partnership with architects.*
+
+Today, the use of mathematical and numerical models of the structure to calculate the stresses that could arise from different load scenarios is common practice. In connection with the design of high-rise buildings the structural engineer needs to consider particular loading effects and service functions such as high wind on façade, deflection due to wind, motion, occupant comfort to horizontal vibrations, internal stiffening system with integrated transportation systems and evacuation ways and vibration damping systems if required. Further the soil-structure interaction in the basement could be challenging and something that need to be solved carefully. 
