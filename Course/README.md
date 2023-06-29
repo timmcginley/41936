@@ -16,13 +16,3 @@ This year we are continuing the experiment to introduce DGNB [add ref] into the 
 ## [BEATS](BEATS/README.md)
 
 Furthermore, we are continuing with the beats - the idea with the beats is that they can provide you and members of your team and peers with a quick numeric overview of your project. This will also help us to track the projects and flag those that mind need help.	 
-
-## Organisation 
-
-The course runs on Monday Afternoons in the Spring semester 
-
-Subjects: 13:00 – 14:00 / 15:00 
-
-Teams: 14:00 / 15:00 - 17:00 
-
-Please keep an eye out for announcements on Monday morning as this is where we will tell you the information you need for the week and provide any updates and clarifications. Also, the Monday morning communication is how the client will provide feedback to you. 
