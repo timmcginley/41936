@@ -8,11 +8,12 @@ This course supports the construction of your knowledge and skills in the collab
 the course is supported by some factors to help us gamify the advnaced building design process.
 
 ## [KPIs](KPIs/README.md)
+This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
 
 ## [DGNB LITE](/Tools/DGNBLite/README.md)
 This year we are continuing the experiment to introduce DGNB [add ref] into the course. ~~Your PM will choose what level your team is aiming at and then different criteria and associated points will be available to you each week.~~
 
-## BEATS 
+## [BEATS](BEATS/README.md)
 
 Furthermore, we are continuing with the beats - the idea with the beats is that they can provide you and members of your team and peers with a quick numeric overview of your project. This will also help us to track the projects and flag those that mind need help.	 
 
