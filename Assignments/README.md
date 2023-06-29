@@ -2,7 +2,7 @@
 
 Please check the Assignments on Learn for more detail. They are summarised here. 
 
-## A Strategise 
+## A [Strategise](Part A/README.md)
 
 *Develop strategies to address technical solutions to address analysed client needs in a 'real' project.*
 
