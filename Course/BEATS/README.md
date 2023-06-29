@@ -36,5 +36,5 @@ The consumption + embedded CO2 over the life span of the building (kgCO2/m2/year
 Ratio of total m2 used for cores versus total m2 gross floor area above ground. 
 ## 19: Horizontal Deflection 
 Horizontal deflection in top of the building. 
-## 20: Absolute top of building 
-We can easily fool ourselves into thinking that the top of the final slab is the top of the building, this is rarely the case, it is important to talk with MEP early on and establish what this is, especially if you are intending to go towards the height limit. 
+## 20: total height of building 
+We can easily fool ourselves into thinking that the top of the final slab is the top of the building, this is rarely the case, it is important to talk with all subjects early on and establish what this is, especially if you are intending to go towards the height limit. 
