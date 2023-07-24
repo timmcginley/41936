@@ -1,4 +1,4 @@
-# Interdisciplinary Architecture
+9# Interdisciplinary Architecture
 ## Architecture -> Structure
 The relationship between structures and architecture is very important and
 needs to be strong. You can use this to explore ideas about what each subject
@@ -21,5 +21,5 @@ subject and check out its section on integration to Architecture.
 The integration to the ICT/PM group is really important. A symbiotic
 relationship between the two subjects can help improve the quality,
 communication and frequency of early design decisions.
-## Architecture -> Sustainability
-Work closely to develop and assess options for the main elements of the building. Architecture needs to support the sustainability groups with the information they need.
+## Architecture -> Sustainability / Materials
+Work closely to develop and [assess material options](https://www.archdaily.com/1004165/step-by-step-how-to-specify-materials-in-an-architecture-project) for the main elements of the building. Architecture needs to support the sustainability groups with the information they need.
