@@ -3,4 +3,8 @@ Advanced Building Design provides collaborative analysis based design experience
 # Features
 * Industry design, engineering and collaboration mentors
 * Deep disciplinary sparring with subject expert teachers
-* Collaboration experience with peers
+* Collaboration experience with peers to produce a 'real' design.
+* OpenBIM Technologies
+* VR Design Reviews
+* Industry supported Building Prototyping Workshops
+
