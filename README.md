@@ -10,4 +10,6 @@ The course runs over the spring 13 week period and the June 3 week period. It re
 * Benchmark your performance against pervious years to help you design 'better' buildings.
 * VR Design Reviews
 * Industry supported Building Prototyping Workshops
+* Track your progress against 4 KPIs (Key Performance Indicators)
+* Selected Projects get to present their work in Mentor's office.
 
