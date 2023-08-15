@@ -3,6 +3,7 @@
 Principles found [here](https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf) and [here](https://universaldesign.ie/what-is-universal-design/the-7-principles/)
 
 These have then be reframed for buildings in this [work](https://findit.dtu.dk/en/catalog/5f96c774d9001d01f079dfd0)
+
 Mosca, E.I., Capolongo, S. (2020). Universal Design-Based Framework to Assess Usability and Inclusion of Buildings. In: Gervasi, O., et al. Computational Science and Its Applications – ICCSA 2020. ICCSA 2020. Lecture Notes in Computer Science(), vol 12253. Springer, Cham. https://doi-org.proxy.findit.cvt.dk/10.1007/978-3-030-58814-4_22
 
 ## Physical-Spatial Quality
