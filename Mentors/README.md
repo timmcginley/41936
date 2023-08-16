@@ -2,7 +2,7 @@
 
 The course is mentored by industry representatives. They will select which teams they will mentor based on you performance in the first assignment.
 
-There will be three different types of mentors representing the three common types of Architecture Engineering collaboration in building design that we see today.
+There will be three different types of mentors representing the three common types of Architecture Engineering collaboration in building design that we see today. We are really excited about this new approach.
 
 ## Type 1 - Engineers in the Architecture Office
 Typically where a large Architecture practice has seen value in employing engineers to increase building design integration. Criteria: Architects and Engineers in the same building. This would also include interdisciplinary that were established wiht the idea to include both architects and engineers for instance [SOM](https://www.som.com/).
