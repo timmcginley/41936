@@ -6,10 +6,10 @@ The role of the Mentor in Advanced Building Design is to:
 3. Understand the relevance and value of the problems that they are working on in the course.
 4. To set 
 
-[Course Overview]
-[Course Concepts]
-[Course Learning Ojectives]
-[Assignments]
+* [Course Overview]
+* [Course Concepts]
+* [Course Learning Ojectives]
+* [Assignments]
 
 
 [Course Overview]: /Course
