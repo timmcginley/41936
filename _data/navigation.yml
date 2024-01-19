@@ -1,1 +1,75 @@
 
+- name: Concepts
+  link: /Concepts
+  dropdown: 
+    - name: Interdisciplinarity
+      link: /Concepts/Interdisciplinarity
+    - name: UniversalDesign
+      link: /Concepts/UniversalDesign
+- name: Roles
+  link: /Roles
+  dropdown: 
+    - name: Architecture
+      link: /Roles/Architecture
+    - name: Structure
+      link: /Roles/Structure
+    - name: MEP
+      link: /Roles/MEP
+    - name: Fire+Mat
+      link: /Roles/Fire+Mat
+    - name: PM-ICT
+      link: /Roles/PM-ICT
+#- name: Uses
+#  link: /Uses
+- name: Schedule
+  link: /Schedule
+  dropdown: 
+    - name: 01 - OpenBIM
+      link: /Schedule/01
+    - name: 02 - Management
+      link: /Schedule/02
+    - name: 03 - Classification
+      link: /Schedule/03
+    - name: 04 - use Cases
+      link: /Schedule/04
+    - name: 05 - Analysis
+      link: /Schedule/05
+    - name: 06 - ML/AI
+      link: /Schedule/06
+    - name: 07 - Drawings
+      link: /Schedule/07
+    - name: 08 - linked Data
+      link: /Schedule/08
+    - name: 09 - Speckle
+      link: /Schedule/09
+    - name: 10 - Node-RED
+      link: /Schedule/10
+    - name: 11 - Project
+      link: /Schedule/11
+    - name: 12 - Project
+      link: /Schedule/12
+    - name: 13 - Presentation
+      link: /Schedule/13
+      
+- name: Assignments
+  link: /Assignments
+  dropdown: 
+    - name: A Analyse
+      link: /Assignments/A
+    - name: B Optioneer
+      link: /Assignments/B
+    - name: C Integrate
+      link: /Assignments/C
+    - name: D Detail
+      link: /Assignments/D
+- name: Examples
+  link: /Examples
+  dropdown: 
+    - name: ABD 2021
+      link: /Examples/2021
+    - name: ABD 2022
+      link: /Examples/2022
+    - name: ABD 2023
+      link: /Examples/2023
+- name: Learning
+  link: /LearningObjectives
