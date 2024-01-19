@@ -27,6 +27,8 @@ This describes the spatial efficiency of the building. This calculation is focus
 
 15 GFA/person, 18 GFA/person or 20 GFA/person 
 
+# Points allocation
+
 |        | 1 pts | 3 pts | 5 pts |
 |--------|----------|------|--------|
 | Time   | 25 months | 30 months | 35 months |
