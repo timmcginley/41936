@@ -9,7 +9,7 @@
     - name: Integration
       link: /Concepts/Integration
 - name: Beats
-  link: /Course/Beats
+  link: /Course/BEATS
 - name: Roles
   link: /Roles
   dropdown: 
