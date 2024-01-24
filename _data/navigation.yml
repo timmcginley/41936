@@ -8,6 +8,8 @@
       link: /Concepts/UniversalDesign
     - name: Integration
       link: /Concepts/Integration
+    - name: DigitalTwin
+      link: /Concepts/DigitalTwin
 - name: Beats
   link: /Course/BEATS
 - name: Roles
