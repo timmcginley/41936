@@ -4,8 +4,24 @@ Develop strategies to address technical solutions to address analysed client nee
 
 Stage A starts the course by collaborating on the construction of a physical scale model, that will act as a 'baseline building' for them to improve on. They will then use this to define an 'excel model' for the building. 
 
-## Structures
-Design Management Scheme 
+Contains:
+* Project Plan
+* other thing
+* other thing
+
+
+## Project Plan 
+
+This should define what work you need to do. The 4-week plan should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include: 
+
+A general scheduled overview of activities 
+
+## Team Contracts 
+PM Responsible
+
+This applies to all subjects, all subjects are involved into comprehending the contracts, its rules, and team decision. Agree on the form of the teams. Submit one signed team contract by every member of the team. The contract is created by the PM group through discussion with the members of the team, and the PM is also responsible to upload it online on DTU Learn. 
+
+## Design Management Scheme 
 
 Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for the 13 and 3 week period and provide these to the PM in a timely manner to be coordinated by your PM group. 
 
