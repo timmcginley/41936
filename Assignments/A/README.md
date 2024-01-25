@@ -16,7 +16,7 @@ PM is primarly responsible for establishing project plan for the entire team.
 
 Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and as well as for the team for the 13 and 3 week period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
 
-For more details what should be included in a subject plan, please find under [Project Plan](/41936/Deliverables/ProjectPlan).
+For more details what should be included in a subject plan, please find under [Project Plan](/41936/Deliverables/ProjectPlan/ProjectPlan.md).
 [Architecture](https://github.com/timmcginley/41936/blob/main/Deliverables/ProjectPlan/README.md#architecture)
 
 
