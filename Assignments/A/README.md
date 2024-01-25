@@ -5,7 +5,7 @@ Develop strategies to address technical solutions to address analysed client nee
 Stage A starts the course by collaborating on the construction of a physical scale model, that will act as a 'baseline building' for them to improve on. They will then use this to define an 'excel model' for the building. 
 
 Contains:
-* Project Plan[link to projecvt that works on pages]().
+* Project Plan[link to projecvt that works on pages](/).
 * other thing
 * other thing
 
