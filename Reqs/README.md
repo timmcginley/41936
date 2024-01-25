@@ -102,3 +102,26 @@ Provide useful BIM
 Provide relevant information in a timely manner to support the production of useful BIM. This should be in accordance with your ICT agreement. When producing information consider who it is for and how you are making it useful for them - what does it enable them to do?   
 
 The client has previously been frustrated in building projects where they have found it difficult to access the project BIM. They have asked that the BIM is therefore shared by project in the Microsoft Teams platform using Speckle. Details for this will be provided. 
+
+## Fire
+Fire requirements for teams that do not have a fire group: 
+
+Max 25 m escape routes 
+
+2 staircases out to the free! 
+
+120 cm free width door 
+
+Staircase 1 m minimum width 
+
+Pressurized staircase (space for it) 
+
+Space for sprinkler, sprinkler needed 
+
+Raising pipes 
+
+Rescue elevator 
+
+No combustible surfaces 
+
+R120 rating for all structural elements 
