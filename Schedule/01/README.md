@@ -4,6 +4,9 @@
 * KPI Definition
 * Group formation
 
+# Elements / Sytems
+* [Projects](/Systems/Project)
+
 
 ## Lesson Plan
 13:00 - 14:00 
