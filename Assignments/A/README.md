@@ -5,16 +5,9 @@ Develop strategies to address technical solutions to address analysed client nee
 Stage A starts the course by collaborating on the construction of a physical scale model, that will act as a 'baseline building' for them to improve on. They will then use this to define an 'excel model' for the building. 
 
 Contains:
-* Project Plan
+* Project Plan[link to projecvt that works on pages]().
 * other thing
 * other thing
-
-
-## Project Plan 
-
-This should define what work you need to do. The 4-week plan should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include: 
-
-A general scheduled overview of activities 
 
 ## Team Contracts 
 PM Responsible
