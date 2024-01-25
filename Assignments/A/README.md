@@ -5,14 +5,28 @@ Develop strategies to address technical solutions to address analysed client nee
 Stage A starts the course by collaborating on the construction of a physical scale model, that will act as a 'baseline building' for them to improve on. They will then use this to define an 'excel model' for the building. 
 
 Contains:
-* Project Plan[link to projecvt that works on pages](/41936/Deliverables/ProjectPlan).
-* other thing
-* other thing
+* [Project Plan](/41936/Deliverables/ProjectPlan)
+* [Team Contract](/41936/Deliverables/TeamContract)
+
+
+## Project Plan
+**Primary responsible:** PM
+
+PM is primarly responsible for establishing project plan for the entire team.
+
+Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and as well as for the team for the 13 and 3 week period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
+
+For more details what should be included in a subject plan, please find under [Project Plan](/41936/Deliverables/ProjectPlan).
+[Architecture](https://github.com/timmcginley/41936/blob/main/Deliverables/ProjectPlan/README.md#architecture)
+
+
+
 
 ## Team Contracts 
-PM Responsible
+### PM Responsible
 
 This applies to all subjects, all subjects are involved into comprehending the contracts, its rules, and team decision. Agree on the form of the teams. Submit one signed team contract by every member of the team. The contract is created by the PM group through discussion with the members of the team, and the PM is also responsible to upload it online on DTU Learn. 
+
 
 ## Design Management Scheme 
 
