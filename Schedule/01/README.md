@@ -1,10 +1,11 @@
-# Week 1
+# Week 1 - Introduction
 
 * Subject selection
 * KPI Definition
 * Group formation
 
 
+## Lesson Plan
 13:00 - 14:00 
 
 Course intro / brief / project / course requirements 
@@ -40,3 +41,15 @@ Break
 16:10 - 17:00 
 
 Analyse Brief as a Team - also reassess the points that you will go for in the project 
+
+## Questions to consider this week
+
+* What is the identity of your subject group (company)? 
+* How does your subject contribute to the team?  
+* List one thing you need the most from each subject.  
+* What is special about your group and what can you offer the team? 
+* Which Team KPIs do you most align with? 
+* Is everyone in your group on the same page?  
+* PM: What values do you want your team to have? 
+* Aspirations: How ambitious are you? 
+
