@@ -40,7 +40,7 @@ Platinum: Scoring an overall 80% with each topic scoring at least 65%
 
 Gold: Scoring an overall 65% with each topic scoring at least 50%
 
-Silver: Scoring an overall 50% with each topic scoring at least 35%
+Si* Lver: Scoring an overall 50% with each topic scoring at least 35%
 
 The maximum possible point of DGNB-lite is 2200, which gives 1760, 1430, 1100 and 770 the threshold points respectively for each level. Students can arrange freely which DGNB criteria you acquire the points from. A final audit will be carried out on Week-13 to validate your claim and decide your DGNB-lite level.
 
@@ -64,10 +64,10 @@ ENV1.1.1 Life cycle assessments in planning
 * An LCA model is built according to the requirement of BR18                                                                                +30 pts (C)
 
 ENV1.1.2 Climate impact (C)
-Lv1: 9 kg CO2 eq / m2 år               100pts
-Lv2: 8 kg CO2 eq / m2 år               150pts
-Lv3: 7.32 kg CO2 eq / m2 år            200pts
-Lv4: 6,55 kg CO2 eq / m2 år            250pts
+* Lv1: 9 kg CO2 eq / m2 år               100pts
+* Lv2: 8 kg CO2 eq / m2 år               150pts
+* Lv3: 7.32 kg CO2 eq / m2 år            200pts
+* Lv4: 6,55 kg CO2 eq / m2 år            250pts
 
 ## ENV1.2 - Sustainable ressource use (C)              Points total: 50pts
 In the future we will focus on more resource categories but this year we focus on timber. All wood used in the building process is considered in this criterium both in the finished building and
@@ -78,8 +78,8 @@ during the construction process, including wood panels, HDF.exc to shield of the
 ## ENV1.3 - Primary energy need and degree covered by renewable energy (C)            Points total: 50pts
 Degree of the building's energy need covered or supplied by renewable energy sources either on site or externally through the energy grid. The timeframe is 10 years from the building is complete. You will need to document the level of renewable energy as well as the sources that enables it.
 
-Lv1: >50% of primary energy need, covered by renewable energy sources              30pts
-Lv2: >80% of primary energy need, covered by renewable energy sources              50pts
+* Lv1: >50% of primary energy need, covered by renewable energy sources              30pts
+* Lv2: >80% of primary energy need, covered by renewable energy sources              50pts
 
 ## ENV1.4 – Water use and wastewater reduction (C)            Points total: 50pts
 Despite the plentiful supply of water in Denmark, there is an increased need for drinking water of high quality. At the same time, treatment of waste water at the plant, is costly. Reduction and separation of gray and blue water is therefore perferred as well as innovations and solutions that recirculate or reduces the water used and wastewater (graywater) discharge of the building.
@@ -137,46 +137,46 @@ Universal design following national guideline - BR18
 
 ## SOC3.2 – Technical user experience (C)              Points total: 300pts
 SOC3.2.1 Operative temperature
-Lv1: Operative temperature at workplace according to EN 15251 Cat 3               10pts
-Lv2: Operative temperature at workplace according to EN 15251 Cat 2               20pts
-Lv3: Operative temperature at workplace according to EN 15251 Cat 1               30pts
+* Lv1: Operative temperature at workplace according to EN 15251 Cat 3               10pts
+* Lv2: Operative temperature at workplace according to EN 15251 Cat 2               20pts
+* Lv3: Operative temperature at workplace according to EN 15251 Cat 1               30pts
 
 SOC3.2.2 Indoor humidity
 * RH > 25% at least 95% of the operating hours (heating period)               +10pts
 * Absolute humidity < 12g/kg (cooling period)                                 +10pts
 
 SOC3.2.3 Air exchange rate
-Lv1: Air exchange rate at workplace meets EN 15251 Cat 3               25pts
-Lv2: Air exchange rate at workplace meets EN 15251 Cat 2               50pts
-Lv3: Air exchange rate at workplace meets EN 15251 Cat 1               75pts
+* Lv1: Air exchange rate at workplace meets EN 15251 Cat 3               25pts
+* Lv2: Air exchange rate at workplace meets EN 15251 Cat 2               50pts
+* Lv3: Air exchange rate at workplace meets EN 15251 Cat 1               75pts
 
 SOC3.2.4 Daylight availability
-Lv1: 300lux > 50% daylight hours > 40% reference plan               15pts
-Lv2: 300lux > 50% daylight hours > 50% reference plan               18pts
-Lv3: 300lux > 50% daylight hours > 55% reference plan               20pts
-Lv4Æ 300lux > 50% daylight hours > 60% reference plan               25pts
+* Lv1: 300lux > 50% daylight hours > 40% reference plan               15pts
+* Lv2: 300lux > 50% daylight hours > 50% reference plan               18pts
+* Lv3: 300lux > 50% daylight hours > 55% reference plan               20pts
+* Lv4Æ 300lux > 50% daylight hours > 60% reference plan               25pts
 
 SOC3.2.5 Visual contact
-Lv1: Viewout_>80% space = Minimum               15pts
-Lv2: Viewout_>80% space = Medium                20pts
-Lv3: Viewout_>80% space = High                  30pts
+* Lv1: Viewout_>80% space = Minimum               15pts
+* Lv2: Viewout_>80% space = Medium                20pts
+* Lv3: Viewout_>80% space = High                  30pts
 
 SOC3.2.6 Glare
-Lv1: DGP_<5% = Minimum               15pts
-Lv2: DGP_<5% = Medium                20pts
-Lv3: DGP_<5% = High                  30pts
+* Lv1: DGP_<5% = Minimum               15pts
+* Lv2: DGP_<5% = Medium                20pts
+* Lv3: DGP_<5% = High                  30pts
 
 SOC3.2.7 Acoustic concept formulated during the planning process
 * Consider acoustic comfort in the design               +10pts
 
 SOC3.2.8 Reverberation time (Individual and multi-person offices up to 40m2)
-Lv1: 1.0 < T <= 1.5               20pts
-Lv2: 0.8 < T < 1.0                30pts
-Lv3: T <= 0.8                     40pts
+* Lv1: 1.0 < T <= 1.5               20pts
+* Lv2: 0.8 < T < 1.0                30pts
+* Lv3: T <= 0.8                     40pts
 
 SOC3.2.9 Reverberation time (Multi-person offices larger than 40m2)
-Lv1: 0.8 < T < 1.0                30pts
-Lv2: T <= 0.8                     40pts
+* Lv1: 0.8 < T < 1.0                30pts
+* Lv2: T <= 0.8                     40pts
 
 * Guide from Victor posted on ARCH teams channel :
 https://dtudk.sharepoint.com/sites/11080F22300-STRUCTURE/Delte%20dokumenter/STRUCTURE/Acoustic/SOC1.3%20Acoustic%20Comfort%20related%20to%20DGBNlite.mp4?csf=1&%3Bweb=1&%3Be=VBAerx&isSPOFile=1&cid=2d536177-774d-47f9-ac66-d6b6570cb68c
@@ -188,10 +188,10 @@ TEC4.1.1 Selection of easy-to-recycle construction materials
 (Awarded per % of the components that achieve the level. Per component group. E.g. 100% of structural elements are at level 3 + 40% of facades are at level 2 * 100% x 15pts + 40% x 10pts = 15 + 4 = 19pts)
 *Consider only 1. structural elements, 2. facades, 3. interior components*
 
-Lv1: Material recovery - be used as a secondary raw material for use outside of building construction                   5pts         
-Lv2: Material recovery in building construction - be used for production of a new building component                    10pts
-Lv3: Material recovery to create comparable product - be reused for equivalent building component                       20pts
-Lv4: Material Reuse - remain unchanged and be reused for equivalent building component                                  25pts
+* Lv1: Material recovery - be used as a secondary raw material for use outside of building construction                   5pts         
+* Lv2: Material recovery in building construction - be used for production of a new building component                    10pts
+* Lv3: Material recovery to create comparable product - be reused for equivalent building component                       20pts
+* Lv4: Material Reuse - remain unchanged and be reused for equivalent building component                                  25pts
 
 TEC4.1.2 Potential for adaptability and future use                                                                                
 1. Develop a conceptual layout of the building for potential future adaptation, from office/public building to living or student accommodation. The concept should be designed from a representative floor of the building and include a highlight of the major changes needed for the adaptations, including Utility, floor plan, heat, and ventilation.                   +45pts
@@ -208,17 +208,17 @@ Ease of cleaning of exterior and interior surfaces
 ## TEC4.3 – Mobility infrastructure (C)            Points total: 60pts
 TEC4.3.1 Bicycle infrastructure
 
-Lv1:                                                                        20pts
+* Lv1:                                                                        20pts
 * Anti-theft measures for bicycles
 * Maintenance facilities are available
 * Weather protection is available for the parking facilities/spaces
 
-Lv2:                                                                        20pts
+* Lv2:                                                                        20pts
 * Incl. Lv1 requirements
 * Lighting is available for the parking facilities/spaces
 * 50cm between each rack for straight parking rack for easy access
 
-Lv3:                                                                        30pts
+* Lv3:                                                                        30pts
 * Incl. Lv2 requirements
 * Larger parking spots for cargo bikes
 * Access the parking space with automatic door
@@ -231,9 +231,9 @@ TEC4.3.2 User comfort for cycling users                                     20pt
 * Available storage facilities
 
 ## TEC4.4 – Quality of the building envelope (C)            Points total: 50pts
-Lv1: Average U-value of exterior wall < min. Building Regulation requirement                    20pts
-Lv2: Average U-value of exterior wall < -15% of min. Building Regulation requirement            30pts
-Lv3: Average U-value of exterior wall < -30% of min. Building Regulation requirement            50pts
+* Lv1: Average U-value of exterior wall < min. Building Regulation requirement                    20pts
+* Lv2: Average U-value of exterior wall < -15% of min. Building Regulation requirement            30pts
+* Lv3: Average U-value of exterior wall < -30% of min. Building Regulation requirement            50pts
 
 ## TEC4.5 – Use and integration of building technology (C)            Points total: 35pts
 Planning and implementing passive building concepts in the building design to reduce the primary energy demand caused by the technical systems in building operation.
@@ -284,13 +284,13 @@ Expected submission: Clear description of intention and setup of workshop, the p
 Address and document your integration of sustainability aspects, at each stage.
 
 PRO5.3.1 Defining sustainability aspects in Week-4 submission (A)                                                           10pts
-E.g. Area of opportunities, potential considerations etc.
+* E.g. Area of opportunities, potential considerations etc.
 
 PRO5.3.2 Inclusion of general sustainability aspects in Week-7 submission (B)                                               20pts
-E.g. net-zero strategies, good use of space, inclusion of public green area etc. 
+* E.g. net-zero strategies, good use of space, inclusion of public green area etc. 
 
 PRO5.3.3 Inclusion of technical sustainability aspects in final client report (C)                                           30pts
-E.g. ease of cleaning and maintenance, circular design, optimisation of materials, material recovery etc.
+* E.g. ease of cleaning and maintenance, circular design, optimisation of materials, material recovery etc.
 
 ## PRO5.4 – End user considerations during design process (B-C)               Points total: 70pts
 Requirements to the considetaion of intended end users throughout the design process as well as in decision making.
@@ -314,6 +314,7 @@ PRO5.5.2 Individual rooms                                                       
 * Surfaces finishes/treatment
 
 PRO5.5.3 Effects on users and on the public                                                            25pts
+
 Typical/possible content:
 * Suitability of rooms and systems
 * Comfort
