@@ -15,3 +15,6 @@ Advanced Building Design requires the collaborative design, modelling, analysis,
 
 Teacher: Tim McGinley
 
+* [Assignments](/41936/Roles/Architecture/Assignments)
+* [Integration](/41936/Roles/Architecture/Integration)
+* [Requirements](/41936/Roles/Architecture/Reqs)
