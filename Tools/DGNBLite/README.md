@@ -63,7 +63,7 @@ ENV1.1.1 Life cycle assessments in planning
 * Variation study of at least 3 different subjects, e.g. ARCH (material choice), MEP (energy consumption), STR (volume optimisation) etc    +30 pts (B)
 * An LCA model is built according to the requirement of BR18                                                                                +30 pts (C)
 
-ENV1.1.2 climate impact (C)
+ENV1.1.2 Climate impact (C)
 Lv1: 9 kg CO2 eq / m2 år               100pts
 Lv2: 8 kg CO2 eq / m2 år               150pts
 Lv3: 7.32 kg CO2 eq / m2 år            200pts
