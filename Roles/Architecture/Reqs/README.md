@@ -106,3 +106,8 @@ start and try it, and then try it again ����
 ## Think abstract
 Where possible think in abstractions - its faster ���� Try and sketch out ideas
 to explore the implications.
+
+## DGNB
+
+[2.1ECO](/Roles/Architecture/Reqs/DGNBLite#eco21--flexibility-and-adaptability-c--------------points-total-150pts)
+)
