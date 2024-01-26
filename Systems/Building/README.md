@@ -1,4 +1,7 @@
 # Building
+
+IFC name : IfcBuilding
+
 The building is the 'product' of the advanced building design project. Its [envelope] determines the ... of the building. 
 
 The building contains the other systems:
