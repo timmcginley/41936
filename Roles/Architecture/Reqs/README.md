@@ -1,5 +1,34 @@
 # Architecture Requirements
 
+Advanced Building Design requires the collaborative design, modelling, analysis, communication and iteration of interdisciplinary solutions to each building system at every stage of the design process. specifically this means the responsibilities and dependencies for architecture are:
+
+## Client Requirements
+* Synthesise the client requirements into aesthetic and functional SPACES.
+
+## Design Concept
+* Develop, synthesis and communicate the architectural design concept(s) to the satisfaction of the design team and the client.
+
+## BR18
+* Check BR18 conformance.
+
+## Iterate
+* Model different design options for FACADE, BUILDING ENVELOPE, AUDITORIUM and others,to guide and facilitate analysis and feedback from the team.
+
+## Spatial Relationships
+* Define the relationships between the SPACES required by the client.
+
+## Building Mass
+* Define and iterate the mass (form) of the building envelope.
+
+## Circulation and Accessability
+* Define access to and egress from the BUILDING
+
+## Acoustic Analysis of the spaces
+* Perform acoustic analysis of the SPACES.
+
+## Facade Design
+* Design and iterate the FACADE based on the space requirements and input from MEP from concept through to detail design.
+
 ## An integrated building design
 * it should be a welcoming and inclusive building
 * why would people go to the building - how does it seem interesting / inviting?
@@ -8,12 +37,6 @@ surroundings? How do we know it is a DTU building but also something new? What
 statement is it making?
 * Consider the different elements of the building and how they are combined to
 support the subject and project requirements.
-
-## Site
-Consider how your building creates a sense of place. How are you ‘treating’
-the surrounding area. Have you considered the landscaping around the building?
-is there a hard separation between the inside and outside? If so, is this
-required?
 
 ## Architectural Concept
 Clear concept for the building - what is it the architecture is trying to
