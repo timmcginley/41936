@@ -6,20 +6,11 @@ Stage B starts by students 'pinning up' a specified set of drawings defined in t
 
 * [Drawings](/41936/Deliverables/B_Drawings)
 
-## Structures
-7 week Subject Drawings 
-Drawings required ->  
 
-Input to horizontal stabilising elements. 
-
-Input to vertical loaded elements. 
-
-Input to any important special structure or important connections 
-
-Design Options 
+* Design Options 
 
 Documentation of 2 Different design options. 
 
-Client Report 
+* Client Report 
 
 Contribute towards the client recommendations for your subject, what options would you recommend to the Client? 
