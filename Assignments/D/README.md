@@ -25,6 +25,6 @@ The 3-week report is a continuation of the 13-week report. The 3-week report
 
 The 13-week report is more principles and estimates of element dimension, considerations of details. You can see it as a concept design report. 
 
-### D BIM Model 
+### D BIM Model
 
-The structural system of the entire building including slabs, beams, columns and core. Also conceptual input to basement structure, ramp access to the basement, stairs in the entire core, the elevator shaft on top of the building, stair access to the building roof, should all be included in the BIM Model and aligned with the other disciplines.
+[link](/41936/Deliverables/FinalBIM)
