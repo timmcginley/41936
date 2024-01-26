@@ -8,3 +8,8 @@ the industry, and students may be familiar with the
 process from their student jobs. However, the lack of
 input from different roles in such a process can
 prevent the achievement of a sustainable solution.
+
+* [Architecture](/41936/Roles/Architecture)
+* [Structure](/41936/Roles/Structure)
+* [MEP](/41936/Roles/MEP)
+* [PM/ICT](/41936/Roles/PM-ICT)
