@@ -1,4 +1,4 @@
-# Drawings
+# CDrawings
 These drawings should be printed on A3 and pinned up (location to be determined) In the event that it is not possible to display them physically alternative digital arrangements will be provided in good time. A template will be provided in week 4 for these drawings that must be used by all subjects. 
 
 This defines what strategies you have decided on. Each subject produces 4 drawings. The required drawings are listed below. 
