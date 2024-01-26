@@ -3,7 +3,7 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## A Analyse
 
-### A1:[Gross Floor Area (Total Above Ground)](/A1:GrossFloorArea/README.md)
+### A1: [Gross Floor Area (Total Above Ground)](/A1:GrossFloorArea/README.md)
 
 ### A2: [Total Height of Building](/A2:TotalHeightOfBuilding/README.md)
 
