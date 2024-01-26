@@ -1,2 +1,5 @@
-# 41936
-Advanced Building Design @ DTU Construct
+# Core
+
+IFC name : N/A
+
+...
