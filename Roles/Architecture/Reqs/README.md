@@ -109,5 +109,5 @@ to explore the implications.
 
 ## DGNB
 
-[2.1ECO](/Roles/Architecture/Reqs/DGNBLite#eco21--flexibility-and-adaptability-c--------------points-total-150pts)
+[2.1ECO](/Tools/DGNBLite/DGNBLite#eco21--flexibility-and-adaptability-c--------------points-total-150pts)
 )
