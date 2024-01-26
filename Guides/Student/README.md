@@ -8,7 +8,7 @@ This is a brief set of guidelines to help students understand their roles in 419
 
 It is up to you to balance these requirements.
 
-* [Project requirements](/41936/Reqs)
-* [Project Brief](41936/Project/Breif)
-* [Subject Requirements](/41936/Roles)
+1. [Project requirements](/41936/Reqs)
+2. [Project Brief](41936/Project/Breif)
+3. [Subject Requirements](/41936/Roles)
 
