@@ -29,8 +29,8 @@ Assessment of building motion at top floors due to wind loading.
 # Buildability
 Easily buildable solutions are preferred. The construction period should be as short as possible.
 
-#Promote maintenance friendly solutions
+# Promote maintenance friendly solutions
 Robust and maintenance-friendly solutions should be used throughout the building.
 
-#Facade
+# Facade
 Concept design of the connection between the primary load carrying system and the secondary facade load carrying system.
