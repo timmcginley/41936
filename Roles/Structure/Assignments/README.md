@@ -8,6 +8,7 @@ Identified parts that will help structure the work which will create the schedul
 system, material, loads, combinations, element sizes, connections, design calculations, drawings etc.
 
 ## Part B
+### Subjet Drawings
 Drawings required:
 - Plan sketch of horizontal stabilising elements.
 -	Plan sketch of vertical loaded elements.
