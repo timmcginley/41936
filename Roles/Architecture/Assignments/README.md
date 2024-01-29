@@ -40,6 +40,7 @@ a preliminary design (LO9).
 - integrate the different requirements into your architectural design (LO5)
 - explore alternatives (LO6)
 - justify and defend your design decisions (LO8)
+  
 ### BIM
 Facade, entrance, ground floor and reception area with furniture and all the
 pieces, representative floors fully modelled (everything on those floor
