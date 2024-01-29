@@ -1,4 +1,4 @@
-9# Interdisciplinary Architecture
+# Interdisciplinary Architecture
 ## Architecture -> Structure
 The relationship between structures and architecture is very important and
 needs to be strong. You can use this to explore ideas about what each subject
