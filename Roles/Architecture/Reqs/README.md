@@ -117,4 +117,3 @@ to explore the implications.
 - [TEC4.3](/41936/Tools/DGNBLite#tec43--mobility-infrastructure-c------------points-total-60pts)
 - [TEC4.4](/41936/Tools/DGNBLite#tec44--quality-of-the-building-envelope-c------------points-total-50pts)
 - [TEC4.4](/41936/Tools/DGNBLite#tec45--use-and-integration-of-building-technology-c------------points-total-35pts)
-
