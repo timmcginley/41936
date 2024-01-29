@@ -5,7 +5,7 @@ collaborative requirements for the structures group for the 13 and 3 week
 period and provide these to the PM in a timely manner to be coordinated by
 your PM group.
 ## Part B
-### 7 week Subject Drawings
+### Subject Drawings
 This should include the following drawing:
 - (1) Section,
 - (2) 3D view,
