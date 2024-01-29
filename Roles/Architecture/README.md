@@ -2,18 +2,9 @@
 
 ![image shows in Github Pages ...](/41936/img/ARCH.jpg)
 
-Advanced Building Design requires the collaborative design, modelling, analysis, communication and iteration of interdisciplinary solutions to each building system at every stage of the design process. specifically this means the responsibilities and dependencies for architecture are:
-* Synthesise the client requirements into aesthetic and functional SPACES.
-* Develop, synthesis and communicate the architectural design concept(s) to the satisfaction of the design team and the client.
-* Check BR18 conformance.
-* Model different design options for FACADE, BUILDING ENVELOPE, AUDITORIUM and others,to guide and facilitate analysis and feedback from the team.
-* Define the relationships between the SPACES required by the client.
-* Define and iterate the mass (form) of the building envelope.
-* Define access to and egress from the BUILDING
-* Design the car parking layout in the BASEMENT.
-* Perform acoustic analysis of the SPACES.
-* Design and iterate the FACADE based on the space requirements and input from MEP from concept through to detail design.
+**The design of tall buildings requires a team approach between various disciplines of design, material fabrication and building construction. The member of the design subject group designs the building. They are also responsible for the facade and finishes in the building. They coordinate the design so that the different material, service, activity components and other parameters act as a whole in the design of the project.**
 
+The Architecture subject is responsible for the management of the usable spaces and the facade and the overall composition of the building. The subject group needs to get their heads into the project quickly and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. An example task will be to coordinate the shape of the floor plate with required rooms and the structural modules. Whilst you will have ideas for the building you will find that your time will also need to be spent coming up with good design solutions between the needs of the different members of the team.
 
 Teacher: Tim McGinley
 
