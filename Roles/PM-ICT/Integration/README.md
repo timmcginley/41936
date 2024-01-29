@@ -1,4 +1,4 @@
-# PM/ICT Integration
+# Interdisciplinary PM/ICT
 
 ## PM/ICT -> Architecture
 The integration between the ICT/PM and architecture group is really important. A symbiotic relationship between the two subjects can help improve the quality, communication and timely design decisions. Both subjects have shared role in space planning - Architecture with the visible and ICT/PM with the hidden spaces in the building.
