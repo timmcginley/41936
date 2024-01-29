@@ -47,7 +47,7 @@ response calculation and organization of building function.
 The overall and detailed structural design can be documented with:
 - CAD-Drawings and
 - Clear and accurate sketches - electronic or by hand.
-- 
+
 The **Part D Subject report** is a continuation of the **Part C report**. The **Part D Subject report** report
 includes details, more drawings, and more appendices including calculations. You can see it as a detailed design report.
 The **Part C report** is more principles and estimates of element dimension, considerations of details. You can see
