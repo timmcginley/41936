@@ -55,6 +55,7 @@ Note 4: The following occupancy load is used in meeting rooms:
 - Kl. 12-13 0 % (lunch break)
 - Kl. 13-15 100 %
 - Kl. 15-17 50 %
+
 Note 5: The area includes the whole floor area including corridors, walking areas, break-out spaces etc. In practice the occupancy load in the landscape office is probably 6-7 m2/person.
 Note 6: Concurrency means that the load in the printer rooms from equipment will be 20 W/m²
 
