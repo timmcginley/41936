@@ -1,4 +1,4 @@
-# ARCH Assignments
+# STR Assignments
 ## Part A
 ### Plan and Team Contract
 Identify the parts of the project and the associated deadlines and collaborative requirements for
