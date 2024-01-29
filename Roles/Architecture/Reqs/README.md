@@ -109,4 +109,12 @@ to explore the implications.
 
 ## DGNB
 
-[2.1ECO](/41936/Tools/DGNBLite#eco21--flexibility-and-adaptability-c--------------points-total-150pts)
+[ECO2.1](/41936/Tools/DGNBLite#eco21--flexibility-and-adaptability-c--------------points-total-150pts)
+[ECO2.3](/41936/Tools/DGNBLite#eco23---commercial-access-c------------points-total-150pts)
+[SOC3.1](/41936/Tools/DGNBLite#soc31---design-for-all-c--------------points-total-200pts)
+[SOC3.2](/41936/Tools/DGNBLite#soc32--technical-user-experience-c--------------points-total-300pts)
+[TEC4.1](/41936/Tools/DGNBLite#tec41--ease-of-recovery-and-recycling-d------------points-total-165pts)
+[TEC4.3](/41936/Tools/DGNBLite#tec43--mobility-infrastructure-c------------points-total-60pts)
+[TEC4.4](/41936/Tools/DGNBLite#tec44--quality-of-the-building-envelope-c------------points-total-50pts)
+[TEC4.4](/41936/Tools/DGNBLite#tec45--use-and-integration-of-building-technology-c------------points-total-35pts)
+
