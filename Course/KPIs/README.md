@@ -34,7 +34,7 @@ This describes the spatial efficiency of the building. This calculation is focus
 | Time   | 30 months | 35 months | 40 months |
 | Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
 | DGNB (Lite)   | Platinum | Gold | Silver |
-| People | 1800 desks       | 1600 desks  | 1400 desks   |
+| People/desks | 1800       | 1600  | 1400   |
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail on the previous page and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 > 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point) + 1600 desks (3 point) = 8 Points
