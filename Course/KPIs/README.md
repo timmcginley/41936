@@ -13,7 +13,7 @@ DGNB “Lite” - silver, gold or platinum
 
 The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area and must be either:  
 
-25.000DKK/m2, 30.000DKK/m2 or 35.000DKK/m2 
+70.000DKK/m2, 75.000DKK/m2 or 80.000DKK/m2 
 
 ## TIME 
 
@@ -25,16 +25,16 @@ The time budget is also flexible, and defined by the PM. The durations (incl. de
 
 This describes the spatial efficiency of the building. This calculation is focused on the heated areas of the building. We will ask you to provide the GFA/person for the non-heated area too, but not as a KPI. The reason for this is, that in this course we need the below ground for the geotechnical subject but, in a real project it is not possible to include the lower floors and still hit the KPI targets here - so we will not ask you to do it, but please consider this in future projects! 
 
-15 GFA/person, 18 GFA/person or 20 GFA/person 
+1800 permanent desks, 1600 permanent desks, 1400 permanent desks
 
 # Points allocation
 
 |        | 1 pts | 3 pts | 5 pts |
 |--------|----------|------|--------|
 | Time   | 25 months | 30 months | 35 months |
-| Cost   | 20k dkk/m2 | 25k dkk/m2| 30k dkk/m2 |
+| Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
 | DGNB (Lite)   | Platinum | Gold | Silver |
-| People | 15 desks/m2       | 18 desks m2  | 20  desks/m2   |
+| People | 1800 desks       | 1600 desks  | 1400 desks   |
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail on the previous page and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
-> 30 months (1 point) + 35.000DKK/M2 (3 pt) + platinum (1 point) + 15 people (3 point) = 8 Points
+> 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point) + 1600 desks (3 point) = 8 Points
