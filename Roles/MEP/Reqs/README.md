@@ -33,7 +33,7 @@ Heating, cooling and ventilation can be supplied to the room in a number of diff
 The optimal combination of low energy consumption and good indoor climate (including daylight) must be found using some sort of sensitivity parameter variation routine. This optimization should be done using IDA ICE (or similar). The purpose is to find the optimal set of parameters in combination with the other design requirements by the other subjects. This sensitivity analysis is a major input from subject 3 to the discussion and shaping/design of the building.
 The data from the following table must be used in setting up the thermal simulations.
 
-| Room   |m2 pr. person   | Watt/person   | Equipment Watt/person   |Lighting W/m2   | Other equipment W/m2   | Notes  |
+| Room   | m2 pr. person   | Watt/person   | Equipment Watt/person   |Lighting W/m2   | Other equipment W/m2   | Notes  |
 |---|---|---|---|---|---|---|
 | Landscape office   | 8   | 90   | 90   | 5   | 3   | Note 3,5   |
 | Single office  | 10 | 90   | 90   | 7   | 3   |   |
