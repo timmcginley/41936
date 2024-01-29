@@ -5,7 +5,7 @@ The course runs over the spring 13 week period and the June 3 week period. It re
 # Features
 * Industry design, engineering and collaboration mentors
 * Deep disciplinary sparring with subject expert teachers
-* Collaboration experience with peers to produce a 'real' design with 7 different subjects.
+* Collaboration experience with peers to produce a 'real' design with 4 different subjects.
 * OpenBIM Technologies to support the OpenBIM Transition in the AEC
 * Benchmark your performance against pervious years to help you design 'better' buildings.
 * VR Design Reviews
