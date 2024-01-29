@@ -7,7 +7,11 @@ your PM group.
 ## Part B
 ### 7 week Subject Drawings
 This should include the following drawing:
-(1)Section,(2)3d view, (3) Ground floor plan, (4) Office plan
+- (1) Section,
+- (2) 3D view,
+- (3) Ground floor plan,
+- (4) Office plan.
+
 These should describe the different elements in the design including those
 from the other subjects, e.g. space for installations ducts vertically and
 horizontally, daylight on working places, number and sizes of elevators, room
@@ -19,7 +23,7 @@ elements of the project, furthermore, it will clearly explain the different
 available options and discuss the decision process and trade offs. Examples
 of how the Team KPIs and project beats have been used to inform the deign are
 also important. This is your main opportunity for written formative (in
-progress feedback from both your teacher and peers, so make the best of it ����
+progress feedback from both your teacher and peers, so make the best of it 😊 
 ### BIM
 Facade, entrance, ground floor and reception area with furniture and all the
 pieces, representative floors fully modelled (everything on those floor
