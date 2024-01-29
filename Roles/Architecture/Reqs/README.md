@@ -101,10 +101,10 @@ Columns can organize space - use them.
 
 ## Try it!
 Embrace both the in and out of control elements of the process. If in doubt -
-start and try it, and then try it again ����
+start and try it, and then try it again 😊
 
 ## Think abstract
-Where possible think in abstractions - its faster ���� Try and sketch out ideas
+Where possible think in abstractions - its faster 😊 Try and sketch out ideas
 to explore the implications.
 
 ## DGNB
