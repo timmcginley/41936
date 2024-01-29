@@ -31,7 +31,7 @@ This describes the spatial efficiency of the building. This calculation is focus
 
 |        | 1 pts | 3 pts | 5 pts |
 |--------|----------|------|--------|
-| Time   | 25 months | 30 months | 35 months |
+| Time   | 30 months | 35 months | 40 months |
 | Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
 | DGNB (Lite)   | Platinum | Gold | Silver |
 | People | 1800 desks       | 1600 desks  | 1400 desks   |
