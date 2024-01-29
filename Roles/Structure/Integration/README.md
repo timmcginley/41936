@@ -1,4 +1,4 @@
-# Structure -> Architecture
+# Structures -> Architecture
 
 Spaces, materials, architecture e.g.
 - Do you have the spaces that the designer wishes, also after you have inserted all your columns etc.
