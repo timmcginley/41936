@@ -1,4 +1,4 @@
-# Structure Requirements
+# Structures Requirements
 
 Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions.
 Building concept
