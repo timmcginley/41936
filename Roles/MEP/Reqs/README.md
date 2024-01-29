@@ -44,7 +44,9 @@ The data from the following table must be used in setting up the thermal simulat
 | Meeting rooms   | 2   | 90   | 25   | 8   | 20   | Note 4   |
 
 Note 1: Area calculated excluding buffet area.
+
 Note 2: Heat gain determined after kitchen design.
+
 Note 3: The following occupancy load is used:
 - Kl. 8-11 80 %
 - Kl. 11-13 25 % (lunch break)
