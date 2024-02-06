@@ -61,25 +61,25 @@
     - name: D 03 - final Presentations
       link: /Schedule/16
       
-- name: Assignments
-  link: /Assignments
-  dropdown: 
-    - name: A Analyse
-      link: /Assignments/A
-    - name: B Optioneer
-      link: /Assignments/B
-    - name: C Integrate
-      link: /Assignments/C
-    - name: D Detail
-      link: /Assignments/D
-- name: Examples
-  link: /Examples
-  dropdown: 
-    - name: ABD 2021
-      link: /Examples/2021
-    - name: ABD 2022
-      link: /Examples/2022
-    - name: ABD 2023
-      link: /Examples/2023
+#- name: Assignments
+#  link: /Assignments
+#  dropdown: 
+#    - name: A Analyse
+#      link: /Assignments/A
+#    - name: B Optioneer
+#      link: /Assignments/B
+#    - name: C Integrate
+#      link: /Assignments/C
+#    - name: D Detail
+#      link: /Assignments/D
+# - name: Examples
+#  link: /Examples
+#  dropdown: 
+#    - name: ABD 2021
+#      link: /Examples/2021
+#    - name: ABD 2022
+#      link: /Examples/2022
+#    - name: ABD 2023
+#      link: /Examples/2023
 - name: Learning
   link: /LearningObjectives
