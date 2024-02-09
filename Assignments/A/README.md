@@ -9,3 +9,4 @@ Contains:
 * [Team Contract](/41936/Deliverables/TeamContract)
 * [Design Management Schema](/41936/Deliverables/DesignManagementSchema)
 * [Benchmark Building Model](/41936/Deliverables/BenchmarkBuildingModel)
+* [Physical Building Model](/41936/Deliverables/PhysicalModel)
