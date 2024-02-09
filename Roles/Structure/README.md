@@ -1,6 +1,6 @@
 # Structure
 
-![image shows in Github Pages ...](/41936/img/STRUCTURE.jpg)
+![image shows in Github Pages ...](/41936/img/STRUCTURE.png)
 
 *The main role of structural engineers within civil engineering is the design of structures such as buildings, bridges and industrial facilities. In an ideal case structural engineers develop the initial design in partnership with architects.*
 
