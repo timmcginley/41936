@@ -9,15 +9,3 @@ Each subject group has to identify the parts of the project, the associated dead
 This should define what work you need to do. The project plan should describe the actual work which is expected for finishing each stage of the Project. It should include: 
 
 A general scheduled overview of activities 
-
-# Architecture
-Placeholder
-
-# Structure
-Placeholder
-
-# MEP
-Placeholder
-
-# PM
-Placeholder
