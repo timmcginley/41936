@@ -14,4 +14,4 @@ For this exercise you should be focusing on:
 * Analysing the Project and Client briefs
 
 For delivery:
-* take pictures of your models and submit them to Learn under Assignments. 
+* Take pictures of your models and submit them to Learn under Assignments. 
