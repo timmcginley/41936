@@ -12,3 +12,6 @@ For this exercise you should be focusing on:
 * Team building
 * Reviewing the previous projects
 * Analysing the Project and Client briefs
+
+For delivery:
+* take pictures of your models and submit them to Learn under Assignments. 
