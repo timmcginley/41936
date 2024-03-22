@@ -14,5 +14,5 @@ Contains:
 
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
-
+or maybe this goes to agile? work it out in the circular repo.
 -->
