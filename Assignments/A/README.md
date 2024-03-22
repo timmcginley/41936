@@ -10,3 +10,9 @@ Contains:
 * [Design Management Schema](/41936/Deliverables/DesignManagementSchema)
 * [Benchmark Building Model](/41936/Deliverables/BenchmarkBuildingModel)
 * [Physical Building Model](/41936/Deliverables/PhysicalModel)
+
+
+<!-- 2025 
+This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
+
+-->
