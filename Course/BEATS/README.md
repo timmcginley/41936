@@ -3,36 +3,36 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## A Analyse
 
-### A1: [Gross Floor Area (Total Above Ground)](/A1:GrossFloorArea/README.md)
+### A1: [Gross Floor Area (Total Above Ground)](/A1_GrossFloorArea/README.md)
 
-### A2: [Total Height of Building](/A2:TotalHeightOfBuilding/README.md)
+### A2: [Total Height of Building](/A2_TotalHeightOfBuilding/README.md)
 
-### A3: [F2F Height](/A3:F2FHeight/README.md)
+### A3: [F2F Height](/A3_F2FHeight/README.md)
 
 ##  B Optioneer
 
-### B1 [# of Permanent Workspaces in Building](/B1:PermanentWorkspacesInBuilding/README.md)
+### B1 [# of Permanent Workspaces in Building](/B1_PermanentWorkspacesInBuilding/README.md)
 
-### B2 [Average Façade Transparency](/B2:AverageFacadeTransparency/README.md)
+### B2 [Average Façade Transparency](/B2_AverageFacadeTransparency/README.md)
 
 
-### B3 [Min Height in Office Space](/B3:MinHeightInOfficeSpace/README.md)
+### B3 [Min Height in Office Space](/B3_MinHeightInOfficeSpace/README.md)
 
 ## C Integrate
 
-### C1 [Core Vs Usable Space Ratio](/C1:CoverVsUsableSpaceRatio/README.md)
+### C1 [Core Vs Usable Space Ratio](/C1_CoverVsUsableSpaceRatio/README.md)
 
-### C2 [Energy Resilience](/C2:EnergyResilience/README.md)
+### C2 [Energy Resilience](/C2_EnergyResilience/README.md)
 
-### C3 [Horizontal Deflection](/C3:HorizontalDeflection/README.md)
+### C3 [Horizontal Deflection](/C3_HorizontalDeflection/README.md)
 
 ## D Detail
 
-### D1 [CO2](/D1:CO2/README.md)
+### D1 [CO2](/D1_CO2/README.md)
 
-### D2 [Cost](/D2:Cost/README.md)
+### D2 [Cost](/D2_Cost/README.md)
 
-### D3: [Hours](/D3:Hours/README.md)
+### D3: [Hours](/D3_Hours/README.md)
 
 ***
 
