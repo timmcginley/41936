@@ -16,8 +16,8 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## Bounding
 ### B2 [Average Façade Transparency](/AverageFacadeTransparency/README.md)
-### C2 [Energy Resilience](/EnergyResilience/README.md)
-### D1 [CO2](/CO2/README.md)
+### B2 [Energy Resilience](/EnergyResilience/README.md)
+### B3 [CO2](/CO2/README.md)
 
 ## Horizontal
 ### H1 [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
