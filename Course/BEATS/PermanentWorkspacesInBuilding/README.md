@@ -1,4 +1,4 @@
-# B1: # of permanent workspaces in building
+# F1: # of permanent workspaces in building
 
 This value is important for the client in making a business case for renting the building – and for you to design the building. At least 90% of the permanent workspaces should meet the minimum daylight requirements in the Danish Building Code. A lot of design choices depend on the number of persons in the building; fire measures (evacuation time, width of stairs), canteen size, number of toilets, size of ventilation etc. Based on the user density of 15, 18 or 20 GFA/person, we expect the building to have at least 1.875, 1.575 or 1.425 permanents workspaces, where at least 90% has sufficient daylight. However, if you add more permanent workspaces it will add to a positive business case for the Client.
 
