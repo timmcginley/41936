@@ -5,24 +5,24 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## Function
 
-### F1 [# of Permanent Workspaces in Building](/B1_PermanentWorkspacesInBuilding/README.md)
-### F2 [Cost](/D2_Cost/README.md)
-### F3 [Hours](/D3_Hours/README.md)
+### F1 [# of Permanent Workspaces in Building](/PermanentWorkspacesInBuilding/README.md)
+### F2 [Cost](/Cost/README.md)
+### F3 [Hours](/Hours/README.md)
 
 ## Vertical
-### V1 [Total Height of Building](/A2_TotalHeightOfBuilding/README.md)
-### V2 [Core Vs Usable Space Ratio](/C1_CoverVsUsableSpaceRatio/README.md)
-### V3 [Horizontal Deflection](/C3_HorizontalDeflection/README.md)
+### V1 [Total Height of Building](/TotalHeightOfBuilding/README.md)
+### V2 [Core Vs Usable Space Ratio](/CoverVsUsableSpaceRatio/README.md)
+### V3 [Horizontal Deflection](/HorizontalDeflection/README.md)
 
 ## Bounding
-### B2 [Average Façade Transparency](/B2_AverageFacadeTransparency/README.md)
-### C2 [Energy Resilience](/C2_EnergyResilience/README.md)
-### D1 [CO2](/D1_CO2/README.md)
+### B2 [Average Façade Transparency](/AverageFacadeTransparency/README.md)
+### C2 [Energy Resilience](/EnergyResilience/README.md)
+### D1 [CO2](/CO2/README.md)
 
 ## Horizontal
-### H1: [Gross Floor Area (Total Above Ground)](/A1_GrossFloorArea/README.md)
-### H2: [F2F Height](/A3_F2FHeight/README.md)
-### H3 [Min Height in Office Space](/B3_MinHeightInOfficeSpace/README.md)
+### H1 [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
+### H2 [F2F Height](/F2FHeight/README.md)
+### H3 [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
 
 
 <!--
