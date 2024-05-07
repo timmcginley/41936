@@ -15,3 +15,24 @@ The Advanced Building Design course for 2024 has 4 subjects to choose from.
 * [Structure](/41936/Roles/Structure)
 * [MEP](/41936/Roles/MEP)
 * [PM/ICT](/41936/Roles/PM-ICT)
+
+<!-- 2025 
+
+arch
+ space allocation
+ facade design
+ building form
+mep
+ comfort and energt use
+structure
+ structural safety
+materials
+ guidance on materials to other subjects
+ dgnb lite reporting
+pm
+ costs
+ schedule
+ it/ bio confirmance
+
+
+--->
