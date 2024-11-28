@@ -5,7 +5,7 @@
 * [Basement](Basement/README.md)
 * [Core](Core/README.md)
 * [Facade](Facade/README.md)
-* Spaces
+* [Spaces](Spaces/README.md)
 * [Structure](Structure/README.md)
 * [Building Services](MEP/README.md)
 * [Site](Site/README.md)
