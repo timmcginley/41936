@@ -1,5 +1,10 @@
 # Advanced Building Design 2025 Awards 
 
+## Stage A
+
+### Best Model
+The model that passess all the test, see [physical model] for more details.
+
 ## Stage B
 
 ### Early Design Integration - TBC
@@ -21,6 +26,8 @@ We want you to embrace parametrics and smarter ways to work in this course. Ther
 ### Fire Safety Award – TBC 
 
 More information to follow. 
+
+[physical model]: 
 
 ### PM Collaboration Award - TBC 
 
