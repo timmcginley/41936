@@ -1,6 +1,6 @@
 # Roles
 
-You should have **expertise / experience / enthusiasm** for the role you choose as well as **empathy** for all the other roles. 
+You should have **expertise / experience / enthusiasm** for the role you choose *and* **empathy** for all the other roles. 
 
 We need to learn to support each other to design the best buildings in the world.
 
