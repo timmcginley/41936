@@ -7,7 +7,7 @@
 * [Facade](Facade/README.md)
 * Spaces
 * [Structure](Structure/README.md)
-* [MEP](MEP/README.md)
+* [Building Services](MEP/README.md)
 * [Site](Site/README.md)
 * [Floors](Floors/README.md)
 * Building
