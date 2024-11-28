@@ -1,6 +1,6 @@
 # Assignments 
 
-Please check the Assignments on Learn for more detail. They are summarised here. 
+The Assignments are designed to guide you through the Advanced Building Design Process.
 
 ## A [Strategise](A/README.md)
 
