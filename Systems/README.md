@@ -1,6 +1,6 @@
 # Elements
 
-*check this to the systems in Agile*
+*Check this to the systems in Agile*
 
 * [Basement](Basement/README.md)
 * [Core](Core/README.md)
