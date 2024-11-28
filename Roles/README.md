@@ -9,11 +9,13 @@ process from their student jobs. However, the lack of
 input from different roles in such a process can
 prevent the achievement of a sustainable solution.
 
-The Advanced Building Design course for 2024 has 4 subjects to choose from.
+The Advanced Building Design course for 2025 has 6 subjects to choose from.
 
 * [Architecture](/41936/Roles/Architecture)
 * [Structure](/41936/Roles/Structure)
 * [MEP](/41936/Roles/MEP)
+* [Geotech](/41936/Roles/Geotech)
+* [Materials](/41936/Roles/Materials)
 * [PM/ICT](/41936/Roles/PM-ICT)
 
 <!-- 2025 
