@@ -1,4 +1,4 @@
-# LO3 - Learn from previous projects
+# 3. Evaluate previous projects
 
 > Evaluate the design models and reports from previous course cohorts to identify the challenges to balancing the project and disciplinary requirements in a complex building project.
 
