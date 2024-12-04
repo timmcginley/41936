@@ -1,14 +1,14 @@
 # Project Reqs
 
-Project and Site requirements 
+## Project and Site requirements 
 
 You should analyse these requirements this week (Learning Objective 01), what do they mean for your respective disciplines? 
 
-Building 
+## Building 
 
 The design is for DTU building 313, but with an alternative use. It should provide a modern landmark for research, and it should signal technical engineering skills, while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building. The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students are thriving. 
 
-Design 
+## Design 
 
 The building should be designed taking the client brief into account. The building should be: 
 
@@ -20,15 +20,15 @@ mirror the visions of sustainable direction for DTU and the future-oriented use 
 
 DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years - see project background for details. 
 
-Design Process 
+## Design Process 
 
 Both your building and your design process should be prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
 
-Height limit (100 m) 
+## Height limit (100 m) 
 
 The design proposal must provide a building, with a maximum building height of 100m. This is an ABSOLUTE limit for the building (only air can be above this). In reality, the height exceeds the masterplan for the area and would not be possible, but this is not a real project. Check beats 1 and 12 for extra information that has to be taken into account. 
 
-Site Boundary (1800 m2) 
+## Site Boundary (1800 m2) 
 
 The site for this imagined project is 1800m2 as indicated in the image below. The width is 30m and the length is 60m. 
 
@@ -43,15 +43,15 @@ A picture containing text
 
 Description automatically generated 
 
-Gross floor area (1400 m2) 
+## Gross floor area (1400 m2) 
 
 The area of the floor plate should not deviate +/-10% m2. It is possible for floors to be smaller if you can justify this. This is calculated as the average floor area (Beat 1 - GFA) divided by the # of floors above ground. 
 
-Car parking spaces (1 car/100m2 GFA) 
+## Car parking spaces (1 car/100m2 GFA) 
 
 You must provide 1 car parking space per 100m2 build. It is important to consider the impact this will have on the basement for instance and to liaise with the other subjects to make this work. Additionally, you should carefully consider the DGNB Criteria ECO2.2 which allocates points for parking - and not as you might first think… 
 
-Bicycle parking spaces (1 bicycle(s) / 25m2 build) 
+## Bicycle parking spaces (1 bicycle(s) / 25m2 build) 
 
 You must provide 1 bike parking spaces per 25m2 build. Special attention should be paid to cyclists so that cycle traffic to the buildings will be an attractive option. 
 
@@ -89,39 +89,30 @@ The project should provide multi tenancy offices. The building must be designed 
 
 2 level underground parking space. (Remember to add what building services need to work out the total!) 
 
-Balconies 
+## Balconies 
 
 Balconies are permitted and they are not included in the GFA (gross floor area). 
 
-Danish Building Code 2018 
+## Danish Building Code 2018 
 
 The overall requirement is that the building design meets Danish Building Code from 2018. 
 
-Provide useful BIM 
+## Provide useful BIM 
 
 Provide relevant information in a timely manner to support the production of useful BIM. This should be in accordance with your ICT agreement. When producing information consider who it is for and how you are making it useful for them - what does it enable them to do?   
 
 The client has previously been frustrated in building projects where they have found it difficult to access the project BIM. They have asked that the BIM is therefore shared by project in the Microsoft Teams platform using Speckle. Details for this will be provided. 
 
 ## Fire
-Fire requirements for teams that do not have a fire group: 
+Fire requirements for all teams: 
 
-Max 25 m escape routes 
-
-2 staircases out to the free! 
-
-120 cm free width door 
-
-Staircase 1 m minimum width 
-
-Pressurized staircase (space for it) 
-
-Space for sprinkler, sprinkler needed 
-
-Raising pipes 
-
-Rescue elevator 
-
-No combustible surfaces 
-
-R120 rating for all structural elements 
+* Max 25 m escape routes 
+* 2 staircases out to the free! 
+* 120 cm free width door 
+* Staircase 1 m minimum width 
+* Pressurized staircase (space for it) 
+* Space for sprinkler, sprinkler needed 
+* Raising pipes 
+* Rescue elevator 
+* No combustible surfaces 
+* R120 rating for all structural elements 
