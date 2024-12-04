@@ -10,7 +10,7 @@ the course is supported by some factors to help us gamify the advnaced building 
 ## [KPIs](KPIs/README.md)
 This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
 
-## [DGNB LITE](/Tools/DGNBLite/README.md)
+## [DGNB](/Tools/DGNB/README.md)
 This year we are continuing the experiment to introduce DGNB [add ref] into the course. ~~Your PM will choose what level your team is aiming at and then different criteria and associated points will be available to you each week.~~
 
 ## [BEATS](BEATS/README.md)
