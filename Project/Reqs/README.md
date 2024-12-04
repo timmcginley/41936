@@ -33,10 +33,8 @@ The design proposal must provide a building, with a maximum building height of 1
 The site for this imagined project is 1800m2 as indicated in the image below. The width is 30m and the length is 60m. 
 
 This is because we need to: 
-
-provide fire trucks access to the building 
-
-reduce risk of fire spreading between the buildings 
+* provide fire trucks access to the building 
+* reduce risk of fire spreading between the buildings 
 
  
 A picture containing text
