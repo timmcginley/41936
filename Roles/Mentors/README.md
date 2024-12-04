@@ -1,5 +1,8 @@
 # Course Mentors
 
+Advanced Building Design Mentors, select groups based on their [Assignment 1](Assignments/A) presentation.
+
+
 The course is mentored by industry representatives. They will select which teams they will mentor based on you performance in the first assignment.
 
 There will be three different types of mentors representing the three common types of Architecture Engineering collaboration in building design that we see today. We are really excited about this new approach.
