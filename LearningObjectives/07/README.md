@@ -1,10 +1,11 @@
-## 7. Produce technical reports documenting the fulfilment of specific functional requirements such as indoor climate, energy performance, structural performance, fire and safety performance, acoustic performance and constructability 
+# 7. Guide
+> Guide the building design team with technical subject reports based on disciplinary analysis to provide the scientific foundation for the 'higher level' guidance in the client report.
 
-### Input 
-Design
-### Process 
-Analyse project  
-### Output 
-Technical report 
+This  is about developing disciplinary empathy or compassion, so you are considering how they will use the information you are providing them, and also the needs to others you might be waiting to receive information from.
 
-This a skill that is important to develop, you are not only doing the engineering and getting the results but learning how to communicate those results. The different subject and client reports all have their own challenges in this.
+| Input | Process | Output |
+|-------|---------|--------|
+| Design models   | Consider how other disciplines will apply the information you are providing.      | Empathetic Disciplinary Guidance     |
+
+
+
