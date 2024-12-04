@@ -1,4 +1,5 @@
-# 1. Collaborate with other specialists 
+# 1. Collaboration
+> Collaborate with diverse members of the design team to realise interdisciplinary design solutions based on systems engineering principles that balance and integrate their own disciplinary technical requirements with those of the team to the satisfaction of the project requirements.
 
 ### Input 
 Get information need from other stakeholders 
