@@ -4,7 +4,17 @@ The design of your building should satisfy the following requirements.
 
 ## The Need
 
-DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years.
+DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. 
+
+We have previously sought to find these in a tall new building, this year  we want to find most of this space by changing theuse of existing buildings and incorporating some new build.
+'
+## The Site
+You will be able to choose from different sites including:
+
+* Building 101
+* Building 116
+* Skylab
+* An alternative location by approval.
 
 ## The Building 
 
