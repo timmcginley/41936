@@ -1,4 +1,5 @@
-## 2. Analyse a client's requirements
+## 2. KPIs
+> Define, monitor and evaluate their project team’s values (KPIs) in a professional manner.'
 
 ### Input 
 The Client brief 
