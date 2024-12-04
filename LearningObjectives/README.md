@@ -1,5 +1,5 @@
 # Learning Objectives
-* [1](01) Collaborate with other disciplines
+* [1](01) Collaborate with each other
 * [2](02) Update KPIs
 * [3](03) Evaluate Previous Projects
 * [4](04) Manage Design Management Scheme
