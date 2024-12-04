@@ -1,6 +1,7 @@
 [41936](/)
 ## Learning Objectives
-1. Collaborate with diverse members of the design team to realise interdisciplinary design solutions based on systems engineering principles that balance and integrate their own disciplinary technical requirements with those of the team to the satisfaction of the project requirements.
+1. Collaborate with diverse members 
+Collaborate with diverse members of the design team to realise interdisciplinary design solutions based on systems engineering principles that balance and integrate their own disciplinary technical requirements with those of the team to the satisfaction of the project requirements.
 1. Define, monitor and evaluate their project team’s values (KPIs) in a professional manner.
 1. Evaluate the design models and reports from previous course cohorts to identify the challenges to balancing the project and disciplinary requirements in a complex building project.
 1. Strategise, track and update a design management scheme (DMS) to support team coordination and collaboration based on analysis of the project requirements.
