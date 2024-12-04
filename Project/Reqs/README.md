@@ -13,6 +13,7 @@ You will be able to choose from different sites including:
 
 * Building 101
 * Building 116
+* Building 313 (The site we have used most)
 * Skylab
 * An alternative location by approval.
 
