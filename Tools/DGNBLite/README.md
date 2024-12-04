@@ -1,4 +1,5 @@
 ## DGNB overview
+> This year we are continuing the experiment to introduce DGNB [add ref] into the course. ~~Your PM will choose what level your team is aiming at and then different criteria and associated points will be available to you each week.~~
 
 | Project stage | DGNB-lite indicator | Criteria | Responsible subject | Total points |
 |--------|----|---------|--------|--------|
