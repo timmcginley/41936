@@ -1,14 +1,14 @@
 # Project Reqs
 
-## Project and Site requirements 
+## The Project and Site requirements 
 
 You should analyse these requirements this week (Learning Objective 01), what do they mean for your respective disciplines? 
 
-## Building 
+## The Building 
 
 The design is for DTU building 313, but with an alternative use. It should provide a modern landmark for research, and it should signal technical engineering skills, while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building. The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students are thriving. 
 
-## Design 
+## Advanced Building Design 
 
 The building should be designed taking the client brief into account. The building design should: 
 
