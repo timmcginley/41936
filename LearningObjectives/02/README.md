@@ -1,4 +1,4 @@
-# LO2 - KPIs
+# 2. KPIs
 > Define, monitor and evaluate their project team’s values (KPIs) in a professional manner.'
 
 ## Input 
