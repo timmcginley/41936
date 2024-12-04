@@ -1,8 +1,8 @@
 # Project Reqs
 
-## The Project and Site requirements 
+## The Need
 
-You should analyse these requirements this week (Learning Objective 01), what do they mean for your respective disciplines? 
+DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years.
 
 ## The Building 
 
@@ -16,9 +16,7 @@ The building should be designed taking the client brief into account. The buildi
 * Provide a strong visual and physical interaction between inside and outside in the new building and open floor plan in the ground floor. 
 * Be high quality in terms of material and sustainability choices, giving the building an experience of a holistic design that
 * Respectful of the architectural and engineering heritage of DTU in terms of spaces, facade expressions and materials. 
-* Mirror the visions of sustainable direction for DTU and the future-oriented use of the project for research on climate adaption and energy solutions.  
-
-DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years - see project background for details. 
+* Mirror the visions of sustainable direction for DTU and the future-oriented use of the project for research on climate adaption and energy solutions.   
 
 ## Agile Building Design
 
