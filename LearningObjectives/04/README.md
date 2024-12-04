@@ -1,10 +1,15 @@
-## 4. Create digital building models by using building information modelling 
+# 4. Design Management Scheme
+> Strategise, track and update a design management scheme (DMS) to support team coordination and collaboration based on analysis of the project requirements.
 
-### Input 
-Technical requirements 
-### Process 
-Design and modelling 
-### Output 
-BIM models, both native and IFC 
+## Input 
+Technical requirements, client brief, ICT contract?
 
-BIM is a core component of the course, in the worst case it can be ‘left to the end’. The intention of the course is that you use BIM to support the design process. So, to support this, you will be asked to produce specific aspects of your building in BIM based on the weekly themes. Furthermore the PART C and PART D assignments also have specific subject BIM requirements. The client has asked that you keep the BIM updated on teams so that they can keep an eye on your progress. Furthermore, the complete BIM model will be used to drive the VR presentation to internal assessors at the end of the course to assess the primary product of the course - the final building - however it is also useful to enable formative (in progress) feedback to you, from your teachers and peers. The submission of the BIM should be in native and IFC format. Although through a link to 41934 we encourage the use of Open BIM tools, many teams groups choose to use Revit although, other tools are available, it is important to define what you will be using early in the project, and that you have access to the tools you will need. The best case is if this is on your own laptop to give you the most flexibility in how and when you collaborate with your colleagues (L01). 
+## Process 
+Identify and synthesise the activities into a Design Management Scheme.
+## Output 
+Design Management Scheme.
+
+
+## Overview
+This is important, the DMS helps you to progress the design. The Design Management Scheme is synthesised by the project managers, but it is important that the whole team collaborate on it.
+
