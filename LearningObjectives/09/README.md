@@ -1,10 +1,8 @@
-## 9. Develop an outline design and preliminary design 
+## 9. OpenBIM
+> Model and analyse digital OpenBIM building models using computational design and disciplinary analysis tools to provide realtime guidance to the whole team throughout the design process
 
-### Input 
-Requirements and feedback 
-### Process 
-Reflection and design 
-### Output 
-Outline and  
+The course provides a  great opportunity to develop you modelling skills in OpenBIM. BIM is a core component of the course, in the worst case it can be ‘left to the end’. The intention of the course is that you use BIM to support the design process. So, to support this, you will be asked to produce specific aspects of your building in BIM based on the weekly themes. Furthermore the PART C and PART D assignments also have specific subject BIM requirements. The client has asked that you keep the BIM updated on teams so that they can keep an eye on your progress. Furthermore, the complete BIM model will be used to drive the VR presentation to internal assessors at the end of the course to assess the primary product of the course - the final building - however it is also useful to enable formative (in progress) feedback to you, from your teachers and peers. The submission of the BIM should be in native and IFC format. Although through a link to 41934 we encourage the use of Open BIM tools, many teams groups choose to use Revit although, other tools are available, it is important to define what you will be using early in the project, and that you have access to the tools you will need. The best case is if this is on your own laptop to give you the most flexibility in how and when you collaborate with your colleagues (L01). 
 
-These are the 2 stages of the project. The outline design is completed at the end of the 13-week period (PART C). At the START of the 3 week period (PART D) you receive formative feedback to help you understand how you can improve your project and achieve your learning objectives. This formative (in progress) feedback will then help you to work on your PART D submission (preliminary design). You will then receive summative (final) feedback on the assessment of your project. It is very important that the assessors can see both that you submitted a strong outline design and that your improved on it for the preliminary design. Both your peers and the teachers spend a lot of time on the 13-week (PART C) feedback so make sure you take the opportunity to improve on this. 
+| Input | Process | Output |
+|-------|---------|--------|
+| Previous OpenBIM models    | Model and Analyse     | New OpenBIM models     |
