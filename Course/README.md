@@ -12,15 +12,9 @@ This course is designed to give the greatest opportunity to arrive at a design t
 We use the following concepts in the advancced building design process.
 
 * [KPIs](KPIs/README.md)
-* DGNB Alignment
-* BEATS
-
-## 
+* [DGNB](/Tools/DGNB/README.md) Alignment
+* [BEATS](BEATS/README.md)
 
 
-## [DGNB](/Tools/DGNB/README.md)
-This year we are continuing the experiment to introduce DGNB [add ref] into the course. ~~Your PM will choose what level your team is aiming at and then different criteria and associated points will be available to you each week.~~
-
-## [BEATS](BEATS/README.md)
 
 Furthermore, we are continuing with the beats - the idea with the beats is that they can provide you and members of your team and peers with a quick numeric overview of your project. This will also help us to track the projects and flag those that mind need help.	 
