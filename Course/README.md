@@ -1,5 +1,5 @@
 ## Course overview 
-The course has around 100 students each year with different disciplinary backgrounds. The students choose a subject and then submit a tender to become part of a team. There are 1-2 students per subject (group) and 7 subject groups per building team. 
+This course has around 100 students each year with different disciplinary backgrounds. The students choose a subject and then submit a tender to become part of a team. There are 1-2 students per subject (group) and 7 subject groups per building team. 
 
 > ‘knowledge is constructed through the activities of the learner’ ​(Biggs, 2014)​ 
 
