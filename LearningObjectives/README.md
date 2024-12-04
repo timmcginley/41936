@@ -4,7 +4,7 @@
 * [3](03) Evaluate Previous Projects
 * [4](04) Manage Design Management Scheme
 * [5](05) Analyse Benchmark Building Model
-* [6](06) Communicate Design and Analysis
+* [6](06) Communicate design and analysis
 * [7](07) Guide the design team
 * [8](08) Justify and defend design decisions
 * [9](09) Learn from OpenBIM
