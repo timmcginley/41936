@@ -1,10 +1,13 @@
-## 5. Integrate various technical requirements into a functional building design that satisfies the client brief
+# 5. Benchmark Building Model
+> Develop, maintain and evaluate a digital benchmark building model (BBM) to assess design proposals throughout the project against analysis of the project requirements
 
-### Input 
-Technical requirements 
-### Process 
-Integrate…. 
-### Output 
-a functional building design that satisfies the client brief 
+## Input 
+Previous models and reports, blank BBM, BEATS, Your assumptions and initial design idea.
+## Process 
+Use the BBM to work out thefeasibility of your building and explore different options early in the design process
+## Output 
+A completed BBM to test the feasibility of the design.
 
-Based on your analysis of the client brief in Learning Objective 2, you will integrate the technical requirements into a functional design that satisfies the client brief. How can you get formative (in progress) feedback on this? what questions could you ask your subject teachers and discuss with your peers? Are you interested in the integration of all the requirements into the final building design or is it more about identifying the requirements for the core and seek feedback on how your design addresses this. If you can stick to the theme weeks this should help and mean that you can also learn from your peers who will probably also be interested in that theme in that week. 
+## Overview
+The benchmark model is really important as it will enable you when combined wiht the BEATS to see the benefits and drawback of your approach and also the benefits and challenges of other teams approachess so we cna seee which combination of approaches are successful.
+
