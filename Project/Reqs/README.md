@@ -10,21 +10,21 @@ The design is for DTU building 313, but with an alternative use. It should provi
 
 ## Design 
 
-The building should be designed taking the client brief into account. The building should be: 
+The building should be designed taking the client brief into account. The building design should: 
 
-designed to provide a good environment for research, innovation and consulting with a strong visual and physical interaction between inside and outside in the new building and open floor plan in the ground floor. 
-
-in high quality terms of material and sustainability choices, giving the building an experience of a holistic design that respects the architectural heritage of DTU in terms of spaces, facade expressions and materials. 
-
-mirror the visions of sustainable direction for DTU and the future-oriented use of the project for research on climate adaption and energy solutions.  
+* Be designed to provide a good environment for research, innovation and consulting
+* Provide a strong visual and physical interaction between inside and outside in the new building and open floor plan in the ground floor. 
+* Be high quality in terms of material and sustainability choices, giving the building an experience of a holistic design that
+* Respectful of the architectural and engineering heritage of DTU in terms of spaces, facade expressions and materials. 
+* Mirror the visions of sustainable direction for DTU and the future-oriented use of the project for research on climate adaption and energy solutions.  
 
 DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years - see project background for details. 
 
-## Design Process 
+## Agile Building Design
 
-Both your building and your design process should be prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
+Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
 
-## Height limit (100 m) 
+## Height limit (27 m) - 67m!
 
 The design proposal must provide a building, with a maximum building height of 100m. This is an ABSOLUTE limit for the building (only air can be above this). In reality, the height exceeds the masterplan for the area and would not be possible, but this is not a real project. Check beats 1 and 12 for extra information that has to be taken into account. 
 
