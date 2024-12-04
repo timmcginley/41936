@@ -1,4 +1,7 @@
 # Project KPIs (Key Performance Indicators)
+>This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
+
+
 In this first session of the course you will be introduced to your teachers and meet with the other members of your subject. You will be asked to divide into groups and to consider what is important for your subject group / company.  
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
