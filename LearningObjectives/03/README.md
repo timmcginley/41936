@@ -1,10 +1,13 @@
-## 3. design management scheme to enable the project team to work together towards common goals and deadlines 
+# LO3 - Learn from previous projects
+
+> Evaluate the design models and reports from previous course cohorts to identify the challenges to balancing the project and disciplinary requirements in a complex building project.
 
 ### Input 
-Technical requirements, client brief, ICT contract? 
+Models and reports from pervious years
 ### Process 
-Identify and synthesise the activities into a Design Management Scheme 
+Evaluate the previous preformance
 ### Output 
-[Design Management Scheme]
+Identify approaches you will reproduce (conserve) and which you will change (discard).
 
-This is important, the DMS helps you to progress the design. The Design Management Scheme is synthesised by the project managers, but it is important that the whole team collaborate on it. 
+We think it is really important to learn from previous work for two reasons. 1. it helps us do better work. 2. we can't afford to not learn from previous work as there is such an urgency with the climate crisis. We need to learn how to design better, more sustainable buildings, now.
+
