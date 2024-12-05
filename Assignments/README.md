@@ -2,6 +2,8 @@
 
 The Assignments are designed to guide you through the Advanced Building Design Process.
 
+This pages in includes the stages and the grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObejectives)
+
 ## A [Strategise](A/README.md)
 
 *Develop strategies to address technical solutions to address analysed client needs in a 'real' project.*
@@ -29,13 +31,15 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 # Grading Criteria
 
 ## 1/3 Integration (BIM):
+Focus on the 
+### Spaces
 We assess how well you've organized the spaces according to specifications, including accessibility by foot, bicycle, light rail, taxi, and car. We evaluate access to spaces on each floor and between floors in various scenarios: regular use, maintenance tasks, during events, and in emergencies such as fire. Additionally, we look at how effectively you've integrated different technical disciplines in the basement, shafts, ground floor, and office floors. Your adherence to BIM model requirements, including entities and LOD, is also considered.
 
 ## 1/3 Fulfilling Client Requirements (BIM and Client Report):
-We evaluate how well you've met the client's requirements and your team's KPIs.
+The teams We evaluate how well you've met the client's requirements and your team's KPIs.
 
 ## 1/3 Subject/Technical (Subject Reports):
-We assess how well you've met the requirements outlined in the subject reports.
+Your teacher (Chief Consultant) assesses how well you've met the requirements outlined in the subject reports. They make their recommendation to the assessment panel.
 
 # Authorship:
 
