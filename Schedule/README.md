@@ -8,24 +8,6 @@ Teams: 14:00 / 15:00 - 17:00
 
 Please keep an eye out for announcements on Monday morning as this is where we will tell you the information you need for the week and provide any updates and clarifications. Also, the Monday morning communication is how the client will provide feedback to you. 
 
-    - name: 01 - Course Introduction
-    - name: 02 - Subject Introduction
-    - name: 03 - Modelling
-    - name: 04 - Presentation 1
-    - name: 05 - External Lecture
-    - name: 06 - Subject Lectures
-    - name: 07 - Subject Lectures
-    - name: 08 - Drawings Presentation
-    - name: 09 - Systems Design
-    - name: 10 - Consultancy
-    - name: 11 - Consultancy
-    - name: 12 - Consultancy
-    - name: 13 - Space Planning Presentation
-    - name: D 01 - Introduction
-    - name: D 02 - Detail Developement
-    - name: D 03 - final Presentations
-      link: /Schedule/16
-
 * Week 1: [Introduction](01/README.md)
 * Week 2: [Subjects](02/README.md)
 * Week 3: [Modelling](03/README.md)
