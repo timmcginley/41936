@@ -1,4 +1,4 @@
-# Teaching Assistant's guide to Advanced Building Design
+# Teaching Assistant
 
 Teaching Assistants (TAs) play important role in supporting both teachers and students.
 
