@@ -2,11 +2,12 @@
 ![image shows in Github Pages ...](/41936/img/PMICT.jpg)
 
 **The project manager in 2025 is management with a small m. The aim of the course is to support the whole design team to collaborate and gain confidence in their design decisions. The role of PM is therfore to:**
-* remove barriers to collaboration
-* align the information processes in the team.
-* ensure that the deliverables are created and submitted on time.
-* Apply and reflect on different strategies to support their team.
-* Track the KPIs and Design Management Scheme
+* Define their professional values and build a team that relects these
+* Remove barriers to collaboration and
+* Align information processes in the team and support OpenBIM tools processes and standards
+* Ensure project deliverables are created and submitted on time
+* Apply and reflect on different strategies to support their team
+* Track the KPIs and Design Management Scheme to guide and encourage their team
 * Clearly communicate and adapt their style of management to balance the needs of the team and the project.
 * Respond to requests and any changes communicated to them in writing by the client at any point in the project.
 
