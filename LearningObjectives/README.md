@@ -1,4 +1,11 @@
 # Learning Objectives
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 * [1](01) Collaborate with each other
 * [2](02) Update KPIs
 * [3](03) Evaluate Previous Projects
