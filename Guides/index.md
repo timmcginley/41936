@@ -1,5 +1,10 @@
 # Guides for Advanced Building Design Course
-
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
 These are the guides to help everyone involved in the course clarify their roles and know where to find information.
 
 ## Students
