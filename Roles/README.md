@@ -1,4 +1,11 @@
 # Roles
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 
 You should have **expertise / experience / enthusiasm** for the role you choose *and* **empathy** for all the other roles. 
 
