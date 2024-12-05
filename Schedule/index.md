@@ -1,4 +1,4 @@
-# Advanced Building Design Schedule
+# Schedule
 
 ```{toctree}
 :hidden:
