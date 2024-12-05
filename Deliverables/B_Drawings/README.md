@@ -1,7 +1,5 @@
 # Stage B Drawings
 
-
-
 These drawings should be printed on A3 and pinned up (location to be determined) In the event that it is not possible to display them physically alternative digital arrangements will be provided in good time. A template will be provided in week 4 for these drawings that must be used by all subjects. 
 
 A first task of PM is to coordinate the drawings that are presented. PM should look for opportunities where different systems can be represented on the same drawing.
