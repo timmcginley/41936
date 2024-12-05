@@ -2,6 +2,17 @@
 
 These drawings should be printed on A3 and pinned up (location to be determined) In the event that it is not possible to display them physically alternative digital arrangements will be provided in good time. A template will be provided in week 4 for these drawings that must be used by all subjects. 
 
+This year we will also ask you to upload your drawings so that we can also show them to other years. Their (SPECKLE) stream was IFC which means it would theoretically be possible to query it and check it here.
+
+Please check out the examples below and you can also have a look at the 3d models in the speckle stream here from 2022 BIM Speckle stream for example 2.
+
+[https://speckle.xyz/streams/0dc122e122]()
+
+
+The link shows all the branches their speckle stream. See how they have used comments to identify issues they wanted to work on in the model and also included different types of analysis. You do not need to do this but we think it is cool.
+
+The example below are chosen from 2023 so that we are consistent with the projects we show you. The submitted work is not necessarily consistent with the requirements for this year. Please check them.
+
 A first task of PM is to coordinate the drawings that are presented. PM should look for opportunities where different systems can be represented on the same drawing.
 
 This defines what strategies you have decided on. Each subject produces 4 drawings. The required drawings are listed below. 
