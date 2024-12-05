@@ -13,12 +13,12 @@ We need to learn to support each other to design the best buildings in the world
 
 Advanced Building Design 2025 has 6 roles for you to choose from.
 
-* [Architecture (inc. Fire safety)](/Architecture)
-* [Structure  (inc. Structural Fire safety)](/Structure)
-* [MEP](/MEP)
-* [Geotech](/Geotech)
+* [Architecture (inc. Fire safety)](Architecture)
+* [Structure  (inc. Structural Fire safety)](Structure)
+* [MEP](MEP)
+* [Geotech](Geotech)
 * [Materials](Materials)
-* [PM/ICT](/Roles/PM-ICT)
+* [PM/ICT](PM-ICT)
 
 
 <!-- 2025 
