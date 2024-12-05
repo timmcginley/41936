@@ -1,4 +1,4 @@
-# Project Reqs
+# Project Requirements
 
 The design of your building should satisfy the following requirements.
 
