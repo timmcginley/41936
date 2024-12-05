@@ -1,3 +1,11 @@
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+Non Credit/HTML-IFC
+```
+
 # Assignments 
 
 This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObjectives).
