@@ -1,4 +1,4 @@
-# Part A Assignment
+# Part A
 
 > Develop strategies to address technical solutions to address analysed client needs in a 'real' project. 
 
