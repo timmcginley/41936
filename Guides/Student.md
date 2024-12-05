@@ -1,4 +1,4 @@
-# Student Guide to Advanced Building Design
+# Student
 
 This is a brief set of guidelines to help students understand their roles in 41936.
 
