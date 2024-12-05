@@ -1,4 +1,4 @@
-# Benchmark Building
+# Benchmark Building Model
 
 Based on an excel sheet template. It will focus on the Beats and extend these in some cases.
 
