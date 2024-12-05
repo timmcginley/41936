@@ -2,6 +2,8 @@
 
 This is a brief set of guidelines to help students understand their roles in 41936.
 
+## Your role
+
 * You are a member of a subject group.
 * You have a subject company.
 * You also have a Project team.
