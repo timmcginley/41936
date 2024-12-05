@@ -1,4 +1,4 @@
-# Mentor's guide to Advanced Building Design
+# Mentor
 
 There will be 3 Mentor groups as described in [Mentors]. This will be 3 groups of about 10 students each. 
 
