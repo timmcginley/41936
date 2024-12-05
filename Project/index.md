@@ -1,4 +1,11 @@
 # Project
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 
 In 2024 we had one project, we have now run this 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits.
 
