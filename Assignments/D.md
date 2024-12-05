@@ -1,4 +1,4 @@
-# Part D Assignments
+# Part D
 
 > Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR. 
 
