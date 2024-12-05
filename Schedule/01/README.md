@@ -1,14 +1,12 @@
 # Week 1 - Introduction
 
-* Subject selection
-* KPI Definition
-* Group formation
-* Establish Building GFA target (Activity 1) 
+Welcome to Advanced Building Design 2025.
 
-# Elements / Sytems
-* [Projects](/Systems/Project)
+Make sure you have read the course guide before starting the course:
 
-## Lesson Plan
+* [Advanced Building Design Student course guide](/41936/Guides/Students)
+
+## Week 1 lesson plan
 
 | **Time**      | **Name** |**Activity**   |
 |---------------|------------|------|
