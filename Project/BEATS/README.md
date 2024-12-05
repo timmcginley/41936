@@ -1,7 +1,28 @@
 # BEATS 
 The purpose of the beats is to help us to understand the implications of the decisions you are making. Also it should help you to see that it is not possible to optimise every requirement. There are 12 beats for you to monitor, 3 in each of the 4 parts of the course.
 
+Stage A
+### H1 [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
+### V1 [Total Height of Building](/TotalHeightOfBuilding/README.md)
+### H2 [F2F Height](/F2FHeight/README.md)
 
+Stage B
+### F1 [# of Permanent Workspaces in Building](/PermanentWorkspacesInBuilding/README.md)
+### B2 [Average Façade Transparency](/AverageFacadeTransparency/README.md)
+### H3 [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
+
+Stage C
+### V2 [Core Vs Usable Space Ratio](/CoverVsUsableSpaceRatio/README.md)
+### B2 [Energy Resilience](/EnergyResilience/README.md)
+### V3 [Horizontal Deflection](/HorizontalDeflection/README.md)
+
+Stage D
+### B3 [CO2](/CO2/README.md)
+### F2 [Cost](/Cost/README.md)
+### F3 [Hours](/Hours/README.md)
+
+<!--
+Arranged on DesignGrid
 
 ## Function
 
@@ -24,38 +45,30 @@ The purpose of the beats is to help us to understand the implications of the dec
 ### H2 [F2F Height](/F2FHeight/README.md)
 ### H3 [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
 
+-->
 
 <!--
 ## A Analyse
 
 ### A1: [Gross Floor Area (Total Above Ground)](/A1_GrossFloorArea/README.md)
-
 ### A2: [Total Height of Building](/A2_TotalHeightOfBuilding/README.md)
-
 ### A3: [F2F Height](/A3_F2FHeight/README.md)
 
 ##  B Optioneer
 
 ### B1 [# of Permanent Workspaces in Building](/B1_PermanentWorkspacesInBuilding/README.md)
-
 ### B2 [Average Façade Transparency](/B2_AverageFacadeTransparency/README.md)
-
 ### B3 [Min Height in Office Space](/B3_MinHeightInOfficeSpace/README.md)
 
 ## C Integrate
-
 ### C1 [Core Vs Usable Space Ratio](/C1_CoverVsUsableSpaceRatio/README.md)
-
 ### C2 [Energy Resilience](/C2_EnergyResilience/README.md)
-
 ### C3 [Horizontal Deflection](/C3_HorizontalDeflection/README.md)
 
 ## D Detail
 
 ### D1 [CO2](/D1_CO2/README.md)
-
 ### D2 [Cost](/D2_Cost/README.md)
-
 ### D3: [Hours](/D3_Hours/README.md)
 
 ***
