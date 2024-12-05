@@ -5,11 +5,14 @@
 Your 'company' has the following responsibilities:
 * Don't go bankrupt
 * Pay all employees on time
+* Be responsible and independent
+* Provide sound consultancy
+* Understand the needs of the client
 * Write invoices to the PMs (except PMs who write to the client).
 * Produce work on time.
 * Act professionally at all times
 * Speak up when you are not sure
-* Engage in continuous professional development of
+* Engage in continuous professional development and life long learning practices.
 * Put the needs of the project first and accept change as part of the process.
 
 Once you have chosen your subject. You can then create a company within the project. 
