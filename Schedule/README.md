@@ -18,14 +18,14 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 * Week 5: [External Lecture / Building Visit](05/README.md)
 * Week 6: [Subject Lectures](06/README.md)
 * Week 7: [Subject Lectures](07/README.md)
-* Week 8: [Drawing Session](08/README.md)
+* Week 8: [Drawing Presentation](08/README.md)
   
 ## [Stage C](/41936/Assignments/C)
 * Week 9: [Systems Design](09/README.md)
 * Week 10: [Consultancy](10/README.md)
 * Week 11: [Consultancy](11/README.md)
 * Week 12: [Consultancy](12/README.md)
-* Week 13: [Consultancy](13/README.md)
+* Week 13: [Submit Part C](13/README.md)
 
 ## [Stage D](/41936/Assignments/D)
 * 3Week 1: [Introduction](14/README.md)
