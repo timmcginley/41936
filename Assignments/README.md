@@ -2,7 +2,7 @@
 
 This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObejectives).
 
-The course has four
+The course has four stages, A,B,C and D.
 
 ## A [Strategise](A/README.md)
 
@@ -15,8 +15,6 @@ The course has four
 ## C [Integrate](C/README.md)
 
 *Collaborate to integrate the building systems of different disciplines to satisfy technical and design requirements.*
-
-Stage C starts by responding to the client feedback and integrating the chosen solution into an 'outline design'. This stage should also update the excel to check the building is on target and justify if not. This will help inform the required subject and client report assignments for stage C. 
 
 ## D [Detail](D/README.md)
 
