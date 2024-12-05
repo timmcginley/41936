@@ -35,13 +35,21 @@ The building should be designed taking the client brief into account. The buildi
 
 Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
 
-## <mark>[UPDATE] Height limit (27 m) - 67m!</mark>
+## [2025 UPDATE] Height limit (27 m) - 67m!
 
-The design proposal must provide a building, with a maximum building height of 100m. This is an ABSOLUTE limit for the building (only air can be above this). In reality, the height exceeds the masterplan for the area and would not be possible, but this is not a real project. Check beats 1 and 12 for extra information that has to be taken into account. 
+The ultimate height for this year will be 27m (nothing above but air). Thats 67m less than earlier years. design proposal must provide a building, with a maximum building height of 100m. This is an ABSOLUTE limit for the building (only air can be above this). In reality, the height exceeds the masterplan for the area and would not be possible, but this is not a real project. Check [beats] 1 and 12 for extra information that has to be taken into account. 
 
-## Site Boundary (1800 m2) 
+## Site Boundary 
+
+### 101 (TBC)
+
+### Skylab (TBC)
+
+### 313 (1800 m2) 
 
 The site for this imagined project is 1800m2 as indicated in the image below. The width is 30m and the length is 60m. 
+
+
 
 This is because we need to: 
 * provide fire trucks access to the building 
