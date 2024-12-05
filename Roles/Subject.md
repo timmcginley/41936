@@ -1,4 +1,4 @@
-# Advanced Building Design Subjects
+# Subjects
 
 The course is divided into the following subjects:
 * [Architecture](/41936/roles/Architecture)
