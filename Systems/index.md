@@ -1,4 +1,11 @@
 # Systems
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 
 * [Site](Site/README.md)
 * [Core](Core/README.md)
