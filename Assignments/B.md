@@ -1,4 +1,4 @@
-# Part B Assignments
+# Part B
 
 > Design and analyse different options by defining evaluate different design tactics to satisfy your design strategy in BIM 
 
