@@ -8,23 +8,23 @@
 Non Credit/HTML-IFC
 ```
 
-This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObjectives).
+This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/LearningObjectives).
 
 The course has four stages, A,B,C and D.
 
-## A [Strategise](A/README.md)
+## A [Strategise](A.md)
 
 Analyse and reflect on [previous projects] to develop a design concept.
 
-## B [Optioneer](B/README.md)
+## B [Optioneer](B.md)
 
 Identify and evaluate different design approaches to satisfy your design concept.
 
-## C [Integrate](C/README.md)
+## C [Integrate](C.md)
 
 Integrate the building systems of different disciplines to satisfy technical and design requirements for your building.
 
-## D [Detail](D/README.md)
+## D [Detail](D.md)
 
 Detail and communicate your team's final design to a variety of stakeholders in technical reports and a presentation including VR.
 
