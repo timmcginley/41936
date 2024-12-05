@@ -1,4 +1,11 @@
 # BEATS 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 The purpose of the beats is to help us to understand the implications of the decisions you are making. Also it should help you to see that it is not possible to optimise every requirement. There are 12 beats for you to monitor, 3 in each of the 4 parts of the course.
 
 ## Stage A
