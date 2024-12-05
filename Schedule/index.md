@@ -1,5 +1,13 @@
 # Advanced Building Design Schedule
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
+
 The course runs on Monday Afternoons in the Spring semester 
 
 Subjects: 13:00 – 14:00 / 15:00 
