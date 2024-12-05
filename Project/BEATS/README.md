@@ -1,25 +1,25 @@
 # BEATS 
 The purpose of the beats is to help us to understand the implications of the decisions you are making. Also it should help you to see that it is not possible to optimise every requirement. There are 12 beats for you to monitor, 3 in each of the 4 parts of the course.
 
-Stage A
-### H1 [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
-### V1 [Total Height of Building](/TotalHeightOfBuilding/README.md)
-### H2 [F2F Height](/F2FHeight/README.md)
+## Stage A
+### [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
+### [Total Height of Building](/TotalHeightOfBuilding/README.md)
+### [F2F Height](/F2FHeight/README.md)
 
-Stage B
-### F1 [# of Permanent Workspaces in Building](/PermanentWorkspacesInBuilding/README.md)
-### B2 [Average Façade Transparency](/AverageFacadeTransparency/README.md)
-### H3 [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
+## Stage B
+### [# of Permanent Workspaces in Building](/PermanentWorkspacesInBuilding/README.md)
+### [Average Façade Transparency](/AverageFacadeTransparency/README.md)
+### [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
 
-Stage C
-### V2 [Core Vs Usable Space Ratio](/CoverVsUsableSpaceRatio/README.md)
-### B2 [Energy Resilience](/EnergyResilience/README.md)
-### V3 [Horizontal Deflection](/HorizontalDeflection/README.md)
+## Stage C
+### [Core Vs Usable Space Ratio](/CoverVsUsableSpaceRatio/README.md)
+### [Energy Resilience](/EnergyResilience/README.md)
+### [Horizontal Deflection](/HorizontalDeflection/README.md)
 
-Stage D
-### B3 [CO2](/CO2/README.md)
-### F2 [Cost](/Cost/README.md)
-### F3 [Hours](/Hours/README.md)
+## Stage D
+### [CO2](/CO2/README.md)
+### [Cost](/Cost/README.md)
+### [Hours](/Hours/README.md)
 
 <!--
 Arranged on DesignGrid
