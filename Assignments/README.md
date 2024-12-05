@@ -1,8 +1,6 @@
 # Assignments 
 
-The Assignments are designed to guide you through the Advanced Building Design Process.
-
-This pages includes the stages and the grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObejectives).
+This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/41936/LearningObejectives).
 
 ## A [Strategise](A/README.md)
 
