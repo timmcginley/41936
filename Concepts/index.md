@@ -5,7 +5,6 @@
 :glob:
 *
 */index
-Non Credit/HTML-IFC
 ```
 
 * [Digital Twins](/DigitalTwin)
