@@ -1,4 +1,4 @@
-# Teacher's guide to Advanced Building Design
+# Teacher
 
 **To encourge a professional attitude in the students, the 'teacher role' is reframed as that of 'Chief Consultant' with the following responsibilities:**
 
