@@ -13,5 +13,5 @@ These are the course deliverables. For when they need to be completed see [Assig
 * [Drawings](Drawings.md)
 * [Physical Models](PhysicalModel.md)
 * [Presentation](Presentation.md)
-* [Project Plan](Project Plan.md)
+* [Project Plan](ProjectPlan.md)
 * [Team Contract](TeamContract.md)
