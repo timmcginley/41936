@@ -16,6 +16,8 @@ Teams: 14:00 / 15:00 - 17:00
 
 Please keep an eye out for announcements on Monday morning as this is where we will tell you the information you need for the week and provide any updates and clarifications. Also, the Monday morning communication is how the client will provide feedback to you. 
 
+**Check the [subjects](../Subject) for lecture content each week**
+
 ## [Stage A](/41936/Assignments/A)
 * Week 1: [Introduction](01.md)
 * Week 2: [Subjects](02.md)
