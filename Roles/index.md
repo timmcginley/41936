@@ -5,13 +5,9 @@
 *
 */index
 ```
+We need to learn to support each other to design the best buildings in the world. To do this you will form disciplinary specific [companies](Company.md) that provide engineering and or design consulatancy services as part of a [team](Team.md) for the [client](Client.md).
 
-
-You should have **expertise / experience / enthusiasm** for the role you choose *and* **empathy** for all the other roles. 
-
-We need to learn to support each other to design the best buildings in the world.
-
-To do this you will form disciplinary specific [companies](Company.md) that provide engineering and or design consulatancy services as part of a [team](Team.md) for the [client](Client.md).
+> You should have **expertise / experience / enthusiasm** for the role you choose *and* **empathy** for all the other roles. 
 
 ## ABD 2025 student roles
 * [Architecture (inc. Fire safety)](Architecture)
