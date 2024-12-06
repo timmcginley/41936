@@ -1,8 +1,12 @@
 # BIM
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.  
 
-## Non negotiables
+## Rules
 * All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
+* Try and incorporate tools from the Advanced BIM class in your processs
+* Preference OpenBIM models, standards and processes at all stages of the process
+* Validate your IFC files so they conform to the schema with a schema checking tool
+* Check your IFC file conforms to the disciplinary needs using the relevant IDS
 
 ## Stage C BIM Model
 
