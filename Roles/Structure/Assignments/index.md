@@ -9,7 +9,7 @@ system, material, loads, combinations, element sizes, connections, design calcul
 
 ## Part B
 ### Subjet Drawings
-Drawings required:
+Drawings required to be integrated into the interdisciplinary drawings:
 - Plan sketch of horizontal stabilising elements.
 -	Plan sketch of vertical loaded elements.
 -	Sketch of any specific and important special structure.
