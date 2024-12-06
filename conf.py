@@ -14,7 +14,7 @@ import shutil
 # Copy notebooks
 # shutil.copytree('../../notebooks', 'notebooks', dirs_exist_ok=True)
 
-project = 'Course 41936'
+project = 'Advanced Building Design'
 copyright = '2025, DTU'
 author = 'DTU Construct'
 
