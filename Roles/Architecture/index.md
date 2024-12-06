@@ -1,4 +1,4 @@
-# Architecture
+# 1 Architecture
 
 ![image](https://github.com/user-attachments/assets/be2f84cf-d9f1-488a-b04b-9a2f9e73e80b)
 
