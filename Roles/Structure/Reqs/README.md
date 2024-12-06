@@ -1,9 +1,10 @@
-# Structures Requirements
+# STR Requirements
 
 Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions.
 Building concept
 
-## Development of building concept, including:
+## Building Concept
+Development of building concept, including:
 - Choice of static system (stiffening elements, beam-column system, floor plates).
 - Choice of material (concrete, steel, composite, etc).
 - Loading assumptions (dead loads, traffic loads, wind loads).
