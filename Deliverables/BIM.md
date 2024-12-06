@@ -2,7 +2,7 @@
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.  
 
 ## Non negotiables
-* All BIM should be submitted in both native format (i.e. Revit) AND IFC 4X3.
+* All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
 
 ## Stage C BIM Model
 
