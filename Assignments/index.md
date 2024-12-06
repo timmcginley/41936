@@ -28,10 +28,17 @@ Integrate the building systems of different disciplines to satisfy technical and
 
 Detail and communicate your team's final design to a variety of stakeholders in technical reports and a presentation including VR.
 
-# Grading Criteria
+# Assessment Rubric
 
-## 1/3 Integration (BIM):
-Focus on the 
+## Integration 
+Focus: OpenBIM models 
+
+* Collaborate with diverse members of the design team to realise **interdisciplinary design solutions** based on **systems engineering** principles that balance and integrate their own **disciplinary technical requirements** with those of the team to the satisfaction of the **project requirements**. 
+
+* Actively support alternative interdisciplinary design solution options to support an integrated design process that provides meaningful choices to the client and design team. 
+
+* Make and justify your design decisions based on the project requirements, team needs and reflection on the client, disciplinary expert and peer feedback to improve the design throughout the design process. 
+
 ### Spaces
 We assess how well you've organized the spaces according to specifications, including accessibility by foot, bicycle, light rail, taxi, and car. We evaluate access to spaces on each floor and between floors in various scenarios: regular use, maintenance tasks, during events, and in emergencies such as fire. Additionally, we look at how effectively you've integrated different technical disciplines in the basement, shafts, ground floor, and office floors. Your adherence to BIM model requirements, including entities and LOD, is also considered.
 
