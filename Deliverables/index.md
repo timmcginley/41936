@@ -5,7 +5,7 @@
 *
 */index
 ```
-These are the course deliverables. For when they need to be completed see the [Assignments](../Assignments)
+These are the course deliverables. For when they need to be completed see [Assignments](../Assignments).
 
 * [BIM](BIM.md)
 * [Benchmark Building Model](BBM.md)
