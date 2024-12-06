@@ -6,16 +6,16 @@
 */index
 ```
 
-* [1](01) Collaborate with each other
-* [2](02) Update KPIs
-* [3](03) Evaluate Previous Projects
-* [4](04) Manage Design Management Scheme
-* [5](05) Analyse Benchmark Building Model
-* [6](06) Communicate design and analysis
-* [7](07) Guide the design team
-* [8](08) Justify and defend design decisions
-* [9](09) Learn from OpenBIM
-* [10](10) Justify design decisions
+* [1](01.md) Collaborate with each other
+* [2](02.md) Update KPIs
+* [3](03.md) Evaluate Previous Projects
+* [4](04.md) Manage Design Management Scheme
+* [5](05.md) Analyse Benchmark Building Model
+* [6](06.md) Communicate design and analysis
+* [7](07.md) Guide the design team
+* [8](08.md) Justify and defend design decisions
+* [9](09.md) Learn from OpenBIM
+* [10](10.md) Justify design decisions
 
 ## How is my learning aligned to the course activities? 
 The best way to start any course is to ask what you are expected to learn from it. The course learning objectives are therefore provided below with a brief description of how you are expected to achieve each of the learning objectives. 
