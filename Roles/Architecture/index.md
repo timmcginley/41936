@@ -1,6 +1,7 @@
 # Architecture
 
-![image shows in Github Pages ...](/41936/img/ARCH.jpg)
+![image](https://github.com/user-attachments/assets/be2f84cf-d9f1-488a-b04b-9a2f9e73e80b)
+
 
 **The design of tall buildings requires a team approach between various disciplines of design, material fabrication and building construction. The member of the design subject group designs the building. They are also responsible for the facade and finishes in the building. They coordinate the design so that the different material, service, activity components and other parameters act as a whole in the design of the project.**
 
