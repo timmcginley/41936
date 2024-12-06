@@ -9,6 +9,6 @@ The Architecture subject is responsible for the management of the usable spaces 
 
 Cheif Consultant: Tim McGinley
 
-* [Assignments](/41936/Roles/Architecture/Assignments)
-* [Integration](/41936/Roles/Architecture/Integration)
-* [Requirements](/41936/Roles/Architecture/Reqs)
+* [Assignments](Assignments)
+* [Integration](Integration)
+* [Requirements](Reqs)
