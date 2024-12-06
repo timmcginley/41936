@@ -1,4 +1,6 @@
-# Structures -> Architecture
+# Integration
+
+## Structures -> Architecture
 
 Spaces, materials, architecture e.g.
 - Do you have the spaces that the designer wishes, also after you have inserted all your columns etc.
@@ -7,14 +9,14 @@ Spaces, materials, architecture e.g.
 
 The work in subject Structure will initially be in close cooperation with Subject Architecture where the main design parameters of the building should be established. That is; floor plans (including space for technical installations), design of windows, floor height, ventilation concept, heating and cooling system (especially if building integrated solutions are used), and thermal mass. Keep in mind that establishing the right combination of design parameters in the very early phase of the process is the only way to ensure that satisfactory indoor climate and low energy consumption in the building can be made possible
 
-# Structures -> MEP
+## Structures -> MEP
 
 Façade daylight, installation sizes and collisions of ducts with columns or beams, thermal bridges e.g.
 - Does your façade solutions, including columns and beams in facade, provide enough daylight into the building? Sometimes beams in the façade prevent high windows and therefore good daylight
 - Do the structural elements create thermal bridges through the insulated building envelope?
 - Do you have space for all installations, vertical and horizontal? Have you optimized the required space not to spend client’s money unwisely? Do any installation have to go through structural components, and is that a structural problem? When ducts and pipes branch out from the vertical shaft on every floor, the shaft is often significantly weakened.
 
-# Structures -> PM/ICT
+## Structures -> PM/ICT
 
 BIM model should fit with structural models e.g.
 - Structural choices have huge impact on the overall cost of the project. Please discuss this and agree if this fits in the overall economy budget for the project.
