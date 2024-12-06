@@ -1,4 +1,4 @@
-# PM/ICT
+# 6 PM/ICT
 ![image shows in Github Pages ...](/41936/img/PMICT.jpg)
 
 **The project manager in 2025 is management with a small m. The aim of the course is to support the whole design team to collaborate and gain confidence in their design decisions. The role of PM is therfore to:**
