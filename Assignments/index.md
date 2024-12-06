@@ -54,13 +54,6 @@ Focus: Subject Report
 * Communicate and investigate the building design and analysis using models, drawings, reports, diagrams, dashboards and presentations to internal and or external assessors to a professional level. 
 * Guide the building design team with technical subject reports based on disciplinary analysis to provide the scientific foundation for the 'higher level' guidance in the client report.
 
-Assessment Rubric
-
-
-||Basic|Good|Advanced|
-|-|-|-|-|
-|Points|2|3|4|
-|Integrate [BIM] AKA: Compromise |OpenBIM models demonstrate that design information is Coordinated (the same) across the different subjects.|Your OpenBIM model, the team’s client report and your subject report demonstrate that design information is Coordinated (the same) according to the Design Management Scheme. |All Information across OpenBIM, client and subject reports is coordinated including different integrated design options. Documented design decisions are  integrated and justified |
 
 ### Spaces
 We assess how well you've organized the spaces according to specifications, including accessibility by foot, bicycle, light rail, taxi, and car. We evaluate access to spaces on each floor and between floors in various scenarios: regular use, maintenance tasks, during events, and in emergencies such as fire. Additionally, we look at how effectively you've integrated different technical disciplines in the basement, shafts, ground floor, and office floors. Your adherence to BIM model requirements, including entities and LOD, is also considered.
