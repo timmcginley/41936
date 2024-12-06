@@ -16,7 +16,7 @@ import shutil
 
 project = 'Advanced Building Design'
 copyright = '2025, DTU'
-author = 'DTU Construct'
+author = 'Advanced Building Design Lab'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
