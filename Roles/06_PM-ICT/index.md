@@ -1,4 +1,4 @@
-# 6 PM/ICT
+# PM/ICT
 
 ![image](https://github.com/user-attachments/assets/6dcc98ea-5000-4d5d-a29d-cc650d66972c)
 
