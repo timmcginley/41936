@@ -1,10 +1,9 @@
 # MEP Assignments
 ## Part A
 ### Plan and Team Contract
-Identify the parts of the project and the associated deadlines and collaborative requirements for the MEP group for the 13 and 3 week period and provide these to the PM in a timely manner to be coordinated by your PM group.
-The main design parameters of the building should be established. That is; initial space management for technical rooms/floors, shafts. The concept for heating, cooling and ventilation. Input to design of windows, floor height, and thermal mass.
+Identify the parts of the project and the associated deadlines and collaborative requirements for the MEP group for the 13 and 3 week period and provide these to the PM in a timely manner to be coordinated by your PM group. The main design parameters of the building should be established. That is; initial space management for technical rooms/floors, shafts. The concept for heating, cooling and ventilation. Input to design of windows, floor height, and thermal mass.
 Consider the following points to help you in planning the activities schedule.
-1.	Detail the success criteria (energy class, daylight factors, indoor climate category (I, II or III))
+1.	Detail the **success criteria** (energy class, daylight factors, indoor climate category (I, II or III))
 2.	What are the expected analyses to be performed using which tools? The expected tool is IDA ICE and Be18, but you need to describe what optimisation calculations you want to perform. Examples are room height, ventilation concept, need for solar shading and similar. But the actual calculations depends on your project and focus area.
 3.	Outline expected interfaces with the work from the other subjects?
 4.	Describe alternative solutions (preferably in a sketch) if the expected concept proves to be non-functional.
@@ -13,7 +12,7 @@ Consider the following points to help you in planning the activities schedule.
 
 ## Part B
 ### Subject Drawings
-The drawings have to include:
+The Teams interdisciplinary drawings should include the following input from MEP:
 1.	Initial results from the optimization of the building envelope.
 2.	Expected energy supply system in building (heating and cooling)
 3.	Ventilation concept.
