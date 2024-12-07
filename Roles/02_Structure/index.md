@@ -1,4 +1,4 @@
-# 2 Structure
+# Structure
 
 ![image](https://github.com/user-attachments/assets/46a17f1e-809b-4eff-8c48-9ed4930ada91)
 
