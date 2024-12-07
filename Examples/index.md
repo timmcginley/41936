@@ -1,4 +1,4 @@
-# 41936 Examples
+# Examples
 
 ```{toctree}
 :hidden:
