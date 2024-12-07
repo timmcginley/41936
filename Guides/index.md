@@ -1,4 +1,4 @@
-# Guides for Advanced Building Design Course
+# Guides
 ```{toctree}
 :hidden:
 :glob:
