@@ -1,5 +1,12 @@
 # Subjects
 
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 * [Architecture](Architecture)
 * [Structure](Structure)
 * [MEP](MEP)
