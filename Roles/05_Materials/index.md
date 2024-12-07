@@ -1,4 +1,4 @@
-# 5 Materials / LCA
+# Materials / LCA
 *The materials subject is a new subject in Advanced Building Design. We have added it to support greater investigation of different material options in project. Including their LCA implications. Additionally the subject is responsible for the DGNB-Lite documentation of the project.*
 
 *This subject explores the emerging potential of an architectural materials engineer as an integral part of the building design team.*
