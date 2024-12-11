@@ -25,8 +25,8 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 * Week 4: [Presentation Part A](04.md)
   
 ## [Stage B](/41936/Assignments/B)
-* Week 5: [External Lecture / Building Visit](05.md)
-* Week 6: [Subject Lectures](06.md)
+* Week 5: [Part B and Subject introductions](05.md)
+* Week 6: [External Lecture / Building Visit](06.md)
 * Week 7: [Subject Lectures](07.md)
 * Week 8: [Drawing Presentation](08.md)
   
