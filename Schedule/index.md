@@ -32,9 +32,9 @@ Please keep an eye out for announcements on Monday morning as this is where we w
   
 ## [Stage C](/41936/Assignments/C)
 * Week 9: [Part C Introduction *](09.md)
-* Week 10: [Cheif Consultant Session *](10.md)
+* Week 10: [Chief Consultant Session *](10.md)
 * Week 11: [External Lecture](11.md)
-* Week 12: [Cheif Consultant Session *](12.md)
+* Week 12: [Chief Consultant Session *](12.md)
 * Week 13: [Submit Part C *](13.md)
 
 ## [Stage D](/41936/Assignments/D)
