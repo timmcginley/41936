@@ -1,7 +1,7 @@
 # Client Requirements
-Advanced Building Design @ DTU Construct
 
-## USER 
+
+## USERS
 
 1000 permanant desks
 
