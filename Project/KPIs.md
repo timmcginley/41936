@@ -16,7 +16,7 @@ DGNB “Lite” - silver, gold or platinum
 
 The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area and must be either:  
 
-70.000DKK/m2, 75.000DKK/m2 or 80.000DKK/m2 
+60.000DKK/m2, 65.000DKK/m2 or 70.000DKK/m2 
 
 ## TIME 
 
@@ -24,11 +24,12 @@ The time budget is also flexible, and defined by the PM. The durations (incl. de
 
 30 months, 35 months or 40 months 
 
+<!--
 ## USER 
-
 This describes the spatial efficiency of the building. This calculation is focused on the heated areas of the building. We will ask you to provide the GFA/person for the non-heated area too, but not as a KPI. The reason for this is, that in this course we need the below ground for the geotechnical subject but, in a real project it is not possible to include the lower floors and still hit the KPI targets here - so we will not ask you to do it, but please consider this in future projects! 
 
 1800 permanent desks, 1600 permanent desks, 1400 permanent desks
+-->
 
 # Points allocation
 
@@ -37,7 +38,10 @@ This describes the spatial efficiency of the building. This calculation is focus
 | Time   | 30 months | 35 months | 40 months |
 | Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
 | DGNB (Lite)   | Platinum | Gold | Silver |
-| People/desks | 1800       | 1600  | 1400   |
+
+<!--
+| People/desks | 1800 | 1600  | 1400   |
+-->
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail on the previous page and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
-> 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point) + 1600 desks (3 point) = 8 Points
+> 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point)  = 5 Points
