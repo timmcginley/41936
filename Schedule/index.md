@@ -19,8 +19,8 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 **Check the [subjects](../Subject) for lecture content each week**
 
 ## [Stage A](/41936/Assignments/A)
-* Week 1: [Introduction](01.md)
-* Week 2: [Subjects](02.md)
+* Week 1: [Introduction to Course and Part A](01.md)
+* Week 2: [Interdisciplinarity](02.md)
 * Week 3: [Modelling](03.md)
 * Week 4: [Presentation 1](04.md)
   
