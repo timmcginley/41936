@@ -31,7 +31,7 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 * Week 8: [Part B (Drawing) Presentation](08.md)
   
 ## [Stage C](/41936/Assignments/C)
-* Week 9: [Systems Design](09.md)
+* Week 9: [Part C Introduction](09.md)
 * Week 10: [Consultancy](10.md)
 * Week 11: [Consultancy](11.md)
 * Week 12: [Consultancy](12.md)
