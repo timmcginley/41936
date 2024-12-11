@@ -21,7 +21,7 @@ We need to learn to support each other to design the best buildings in the world
 * [Client](Client.md)
 * [Chief Consultant (Teacher)](Teacher.md)
 * [Mentor (industry Expert)](Mentor.md)
-* [TA](TA.md)
+* [TA (Facilitator)](TA.md)
 
 <!-- 2025 
 
