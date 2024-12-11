@@ -38,7 +38,7 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 * Week 13: [Submit Part C *](13.md)
 
 ## [Stage D](/41936/Assignments/D)
-* 3Week 1: [Introduction](14.md)
-* 3Week 2: [Introduction](15.md)
-* 3Week 3: [Introduction](16.md)
+* 3Week 1: [Introduction *](14.md)
+* 3Week 2: [Introduction *](15.md)
+* 3Week 3: [Introduction *](16.md)
 
