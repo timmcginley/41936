@@ -19,8 +19,8 @@ We need to learn to support each other to design the best buildings in the world
 
 ## Non student Roles
 * [Client](Client.md)
-* [Teacher (Chief Consultant)](Teacher.md)
-* [Mentor](Mentor.md)
+* [Chief Consultant (Teacher)](Teacher.md)
+* [Mentor (industry Expert)](Mentor.md)
 * [TA](TA.md)
 
 <!-- 2025 
