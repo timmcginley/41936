@@ -4,6 +4,8 @@
 
 The office floor should feature maximum flexibility to support flexible multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms.
 
+**The offices need to provide space for 1000 desks.**
+
 ### Auditorium (100 people) 
 
 The building must include an auditorium and all the meeting rooms. The auditorium shall be completely or partly located inside the tower (Envelope). 
