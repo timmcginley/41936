@@ -28,7 +28,7 @@ Please keep an eye out for announcements on Monday morning as this is where we w
 * Week 5: [Part B and Subject introductions](05.md)
 * Week 6: [External Lecture / Building Visit](06.md)
 * Week 7: [Subject Lectures](07.md)
-* Week 8: [Drawing Presentation](08.md)
+* Week 8: [Part B (Drawing) Presentation](08.md)
   
 ## [Stage C](/41936/Assignments/C)
 * Week 9: [Systems Design](09.md)
