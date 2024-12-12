@@ -6,5 +6,6 @@
 */index
 ```
 
-* DGNB Lite
-* IDS
+* [DGNB Lite](DGNBLite.md)
+* [IDS](ABD-IDS.md)
+* [DesignGrid](DesignGrid.md)
