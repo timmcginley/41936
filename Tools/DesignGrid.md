@@ -12,7 +12,7 @@ To address these challenges we propose a lightweight framework called the 'Desig
 
 ![image](https://github.com/user-attachments/assets/fa528eed-aaf7-4594-80ca-28a0022d8189)
 
-It has the following properties:
+The Design Grid has the following properties:
 
 ### 1. Provide simple overview (Rows)
 Buildings are complex, but this can be simplified by dividing the elements into functional, horizontal, bounding or vertical elements, this is how we have designed the rows.
