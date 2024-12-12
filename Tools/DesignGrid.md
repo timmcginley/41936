@@ -5,7 +5,7 @@
 
 * In the early design stages (when it is easiest to make changes) consultants do not have all the design information they need to do their analysis.
 * Single disciplines can only see their own requirements, models, building systems, work practices and knowledge and may not be able to empathise with other disciplines, reducing the chance of effective compromise.
-* 
+* Modelling the building in seperate building models and drawings cna make it difficult to get an 'overview' of the building.
 
 ## A new design and analysis framework
 To address these challenges we propose a lightweight framework called the 'Design Grid' to help simplify the design and analysis of buildings. Designs progress from top to bottom and left to right. The grid does not differentiate between disciplines but instead focuses on 16 conceptual elements of the building. It does not explicitly define the relationship between the concepts instead it prompts the design team to discuss and identify these themselves.
