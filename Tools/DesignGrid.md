@@ -8,7 +8,7 @@
 * 
 
 ## A new design and analysis framework
-To address these challenges we propose a lightweight framework called the 'Design Grid' to help simplify the design and analysis of buildings into 16 elements. 
+To address these challenges we propose a lightweight framework called the 'Design Grid' to help simplify the design and analysis of buildings. Designs progress from top to bottom and left to right. The grid does not differentiate between disciplines but instead focuses on 16 conceptual elements of the building. It does not explicitly define the relationship between the concepts instead it prompts the design team to discuss and identify these themselves.
 
 ![image](https://github.com/user-attachments/assets/fa528eed-aaf7-4594-80ca-28a0022d8189)
 
