@@ -20,11 +20,59 @@ Buildings are complex, but this can be simplified by dividing the elements into 
 ### 2. Encourage disciplinary empathy (Connections between boxes)
 Enable members of the design team to quickly see the implications of each other decisions. Furthermore the framework reduces the complicating factor of 'disciplinary ownership of systems' which increases the potential for conflict and reduces opportunites to achieve effective compromise.
 
-### 3. Enable exploration of iternatives
+### 3. Enable the iterative exploration of alternatives
 In order to design better, more sustainable buildings we need to develop and analyse different ideas, the DesignGrid enablesus to see the implications of different options and the effect they have on other elements.
 
 ### 4. Define and monitor goals
 The last row includes both the materialised solutions for the building and the use of the building, so that you can check your design against the original need of the building (its use).
+
+## Row A
+### Site 
+Do you know where it is?
+What is the buildings footprint?
+What is the relationship to and affect of other buildings?
+### Height
+Do you know how tall it is?
+Have you considered its height with respect to its surroundings?
+### Mass
+Do you know the shape or ‘form’ of your building? how is this affected by its surroundings, the daylight, and the building’s access?
+### Floors
+Do you know how many floors you have and what you have on them?
+
+## Row B
+### Space
+Do you have the spaces you need?
+### Relationships
+Is the relationship between the spaces logical?
+### Walls
+Have you bounded the spaces appropriately?
+### Plenum
+After providing the plenum is there enough floor to ceiling space?
+
+## Row C
+### Stuff
+Do your spaces provide the stuff your users need to use them?
+### Vertical
+Have you considered all the vertical flows in the building, load services people etc.?
+### Openings
+Have you considered the openings in the bounding elements (doors and windows)?
+### Horizontal
+Have you considered all the horizontal flows in the building, load services people etc.?
+
+## Row D
+### Use
+Does your building provide the safe, pleasant and comfortable use that is required of it?
+
+### Core
+Are the vertical flows transferred through the materials, systems and products of the building?
+
+### Facade
+Is the facade design integrated and detailed with real products?
+
+### Floors
+Are the horizontal flows transferred through the materials, systems and products of the building?
+
+
 
 
 
