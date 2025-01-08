@@ -1,6 +1,6 @@
 # STR Requirements
 
-Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions.
+These include basic requirements, overall requirements and optional requirements.
 
 ## Basic requirements
 
