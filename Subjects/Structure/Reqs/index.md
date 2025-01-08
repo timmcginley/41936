@@ -1,7 +1,6 @@
 # STR Requirements
 
 Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions.
-Building concept
 
 ## Building Concept
 Development of building concept, including:
@@ -9,29 +8,29 @@ Development of building concept, including:
 - Choice of material (concrete, steel, composite, etc).
 - Loading assumptions (dead loads, traffic loads, wind loads).
 
-# Structural quality
+## Structural quality
 The structural quality should ensure lifetimes of 50-100 years for all essential building elements used in the building structure, facades, windows, etc.
 
 # Refined Design
 Refinement of preliminary design, only detailing (beams, columns, slabs, core) with respect to ventilation, floor area arrangement (individual offices, open plan office landscape, aisles, recreation areas), and façade connection to main structure.
 
-# Load Combinations
+## Load Combinations
 Partial safety factors for different combinations and decisive load cases for overall and local structural design.
 
-# Structural Members
+## Structural Members
 Detail Design of structural members.
 
-# Dynamic Properties
+## Dynamic Properties
 Establish dynamic properties.
 
-# Building Motion
+## Building Motion
 Assessment of building motion at top floors due to wind loading.
 
-# Buildability
+## Buildability
 Easily buildable solutions are preferred. The construction period should be as short as possible.
 
-# Promote maintenance friendly solutions
+## Promote maintenance friendly solutions
 Robust and maintenance-friendly solutions should be used throughout the building.
 
-# Facade
+## Facade
 Concept design of the connection between the primary load carrying system and the secondary facade load carrying system.
