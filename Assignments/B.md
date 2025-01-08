@@ -4,7 +4,7 @@
 
 Stage B starts by students 'pinning up' a specified set of drawings defined in their Design Management Schema based on informal feedback they develop design options which modelled, reported and sent to the client for feedback.
 
-* [Drawings](/41936/Deliverables/B_Drawings)
+* [Drawings](../Deliverables/B_Drawings)
 
 
 * Design Options 
