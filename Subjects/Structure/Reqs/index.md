@@ -11,7 +11,7 @@ Development of building concept, including:
 ## Structural quality
 The structural quality should ensure lifetimes of 50-100 years for all essential building elements used in the building structure, facades, windows, etc.
 
-# Refined Design
+## Refined Design
 Refinement of preliminary design, only detailing (beams, columns, slabs, core) with respect to ventilation, floor area arrangement (individual offices, open plan office landscape, aisles, recreation areas), and façade connection to main structure.
 
 ## Load Combinations
