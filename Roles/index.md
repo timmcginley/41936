@@ -43,35 +43,20 @@ After choosing you [subject](../Subjects) in week 1, you will be invited to form
 * Support interdisciplinarity in their design team
 * Produce and maintain ICT contracts
 * Estimate building cost
-* Estimate builing construction time
+* Produce building construction schedule
 * Collate invoices and send to client
 * Manage client relationship (via email only)
 
 ## Non student Roles
 
-### [~~Teachers~~ Chief Consultants](Teacher.md)
-The role formally known as teachers will now be called 'Cheif consultants'.
+### [Chief Consultants (AKA Teachers)](Teacher.md)
+The role formally known as Teachers will now be called 'Chief consultants'.
 ### [Client](Client.md)
+Guide the process towards their needs and interests.
 ### [Mentor (industry Expert)](Mentor.md)
+Provide professional advice on the project.
 ### [TA (Facilitator)](TA.md)
-
-<!-- 2025 
-
-Arch
-
-Structure
- structural safety and integrity
-Mep
+Support team interdisciplinarity.
 
 
-Geotechnical
- Responsible for the design of the foundations and provision of the underground space required by the building team.
-Materials
 
-PM
- costs
- schedule
- it/ bio confirmance
-
-
---->
