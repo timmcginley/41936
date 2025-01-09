@@ -47,7 +47,7 @@ After choosing you [subject](../Subjects) in week 1, you will be invited to form
 * Collate invoices and send to client
 * Manage client relationship (via email only)
 
-## Non Student Roles
+## Support Roles
 
 ### [Chief Consultants (AKA Teachers)](Teacher.md)
 The role formally known as Teachers will now be called 'Chief consultants'.
