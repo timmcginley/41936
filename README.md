@@ -1,7 +1,7 @@
 # Advanced Building Design
 > Designing better, more sustainable buildings requires interdisciplinary analysis and improvement *throughout* the design process.
 
-Advanced Building Design has been runnning at DTU for 15 years, it offers participants a collaborative, analysis based, professional design experience. However we do not simply wish to replicate real world design processes, we use the course to develop new ways of working that will help you to provide solutions the challenges your will face in your career. Ultimately, through its integration into the [circular education system] our aim is to learn how to design the best buildings in the world.
+Advanced Building Design is an interdisciplinary innovation course that has been runnning at DTU for 15 years, it offers participants a collaborative, analysis based, professional design experience. As an innovation course we do not simply wish to replicate real world design processes. We want to define new ways of working that ultimately, through the integration into the [circular education system] demonstrate who we can design better, more sustainable buildings.
 
 ## Course Features
 * Collaboration experience with peers to produce a 'real' design in one of 6 possible roles.
