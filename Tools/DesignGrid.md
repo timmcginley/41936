@@ -52,24 +52,24 @@ After providing the plenum is there enough floor to ceiling space?
 ## Row C
 ### Stuff
 Do your spaces provide the stuff your users need to use them?
-### Vertical
+### Vertical flows
 Have you considered all the vertical flows in the building, load services people etc.?
 ### Openings
 Have you considered the openings in the bounding elements (doors and windows)?
-### Horizontal
+### Horizontal flows
 Have you considered all the horizontal flows in the building, load services people etc.?
 
 ## Row D
 ### Use
 Does your building provide the safe, pleasant and comfortable use that is required of it?
 
-### Core
+### Vertical components
 Are the vertical flows transferred through the materials, systems and products of the building?
 
 ### Facade
 Is the facade design integrated and detailed with real products?
 
-### Floors
+### Horizontal components
 Are the horizontal flows transferred through the materials, systems and products of the building?
 
 
