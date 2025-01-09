@@ -14,7 +14,7 @@ The model should be:
 * Scale 1 : 100
 * Use the board you have been provided with
 
-For this exercise you should be focusing on:
+For this exercise you should focus on:
 
 * Team building
 * Reviewing the previous projects
