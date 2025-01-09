@@ -5,7 +5,7 @@
 *
 */index
 ```
-The ABD course has been designed to give participants a professional interdisciplinary design experience. In order to design the best building in the world we need to learn how to support each other in the desing process. 
+To design the best building in the world we need to learn how to support each other in the design process. To support this, the ABD course has been designed to give participants a professional interdisciplinary design experience. 
 
 ## ABD ~~Student~~ Consultant roles
 After choosing you [subject](../Subjects) in week 1, you will be invited to form small consultancies. These disciplinary specific [companies](Company.md) will provide engineering and or design consulatancy services as part of a [team](Team.md) for the [client](Client.md).
