@@ -65,7 +65,7 @@ jobs:
           echo "DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
           echo "CONDA_ENV=$CONDA/envs/docsEnv" >> $GITHUB_ENV
           # echo "CONDA_ENV=$CONDA/envs/BIMEnv" >> $GITHUB_ENV
-      - uses: actions/cache@v4
+      - uses: actions/cache@v3
         with:
           path: ${{ env.CONDA_ENV }}
           key: ${{ matrix.label }}-conda-${{ hashFiles('environment.yml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
@@ -81,7 +81,7 @@ jobs:
       - name: Fetch environment cache
         run: |
           echo "CONDA_PKG=$CONDA/envs/docsEnv/conda-bld" >> $GITHUB_ENV
-      - uses: actions/cache/restore@v4
+      - uses: actions/cache/restore@v3
         with:
           path: ${{ env.CONDA_PKG }}
           key: ${{ matrix.label }}-conda-pkg-${{ hashFiles('environment.yml') }}-${{ env.DATE }}-${{ env.CACHE_NUMBER }}
@@ -97,7 +97,7 @@ jobs:
           
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
         
       - name: Build with Sphinx
         run: |
