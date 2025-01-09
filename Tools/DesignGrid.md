@@ -3,10 +3,10 @@
 
 ## Building Design Challenges
 
-* In the early design stages (when it is easiest to make changes) consultants do not have all the design information they need to do their analysis.
-* If we lock the design too early in the process we risk missing out on a better design.
-* Single disciplines can only see their own requirements, models, building systems, work practices and knowledge and may not be able to empathise with other disciplines, reducing the chance of effective compromise.
-* Modelling the building in seperate building models and drawings can make it difficult to get an 'overview' of the building.
+1. In the early design stages (when it is easiest to make changes) consultants do not have all the design information they need to do their analysis.
+1. If we lock the design too early in the process we risk missing out on a better design. If we don't lock the design at some point it is difficult to analyse, therefore we must be able to 'lock for analysis', but still be able to change in response to that analysis to make better, more sustainable buildings.
+1. Single disciplines can only see their own requirements, models, building systems, work practices and knowledge and may not be able to empathise with other disciplines, reducing the chance of effective compromise.
+1. Modelling the building in seperate building models and drawings can make it difficult to get an 'overview' of the building.
 
 ## A new design and analysis framework
 To address these challenges we propose a lightweight framework called the 'Design Grid' to help simplify the design and analysis of buildings. Designs progress from top to bottom and left to right. The grid does not differentiate between disciplines but instead focuses on 16 conceptual elements of the building. It does not explicitly define the relationship between the concepts instead it prompts the design team to discuss and identify these themselves.
