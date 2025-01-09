@@ -5,7 +5,7 @@ Advanced Building Design is an interdisciplinary innovation course that has been
 
 ## Course Features
 * Collaboration experience with peers to produce a 'real' design in one of 6 possible roles.
-* Play the role of running of a design/engineering consultancy; do the work and keep the lights on.
+* Roleplay the management of a design/engineering consultancy; do the work and keep the lights on.
 * Receive input from leading industry design, engineering and collaboration mentors.
 * Engage in deep disciplinary sparring and feedback with subject expert teachers (chief consultants)
 * Apply OpenBIM Technologies to support the OpenBIM Transition in the AEC.
