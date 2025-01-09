@@ -1,5 +1,5 @@
 # Design Grid
->Designing better, more sustainable buildings requires interdisciplinary analysis throughout the design process.
+>Designing better, more sustainable buildings requires interdisciplinary analysis and improvement throughout the design process.
 
 ## Building Design Challenges
 
