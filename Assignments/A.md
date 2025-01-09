@@ -6,6 +6,12 @@ Stage A starts the course by collaborating on the construction of a physical sca
 You will then use the building model to define the benchmark building model (A3). This stage also includes the definition of the Design Management Strategy (DMS) all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS. 
 
 Includes:
+* Physical Building Model (A1)
+* Project Plan (A2)
+* Team Contract (A3)
+* Design Management Schema (A4)
+* Benchmark Building Model (A5)
+
 ## [A1 Physical Building Model](../Deliverables/PhysicalModel)
 For this course we ask you in Stage A to make a model in your teams.
 
@@ -56,7 +62,7 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 The DMS should also include the signed [team contract](TeamContract.md)? 
 
 ## [A5 Benchmark Building Model](../Deliverables/BenchmarkBuildingModel)
-Based on an excel sheet template. It will focus on the Beats and extend these in some cases.
+Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
 
 You should think of this in 2 ways:
 1. the most basic BIM you could imagine - no geometry - just the basic information for your design
