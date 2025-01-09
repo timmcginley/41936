@@ -6,6 +6,10 @@
 */index
 ```
 
+> ‘knowledge is constructed through the activities of the learner’ ​(Biggs, 2014)​ 
+
+This course supports the construction of your knowledge and skills in the collaborative design and development of a complex building through engaging activities that are aligned to support you to achieve the course learning objectives. 
+
 * [1](01.md) Collaborate with each other
 * [2](02.md) Update KPIs
 * [3](03.md) Evaluate Previous Projects
