@@ -17,8 +17,9 @@ The model should be:
 For this exercise you should focus on:
 
 * Team building
-* Reviewing the previous projects
 * Analysing the Project and Client briefs
+* Understanding your role, the elements for you to foucs on and the interfaces to others in the design team.
+* Learning from the previous projects
 
 For delivery:
 * Take pictures of your models and submit them to Learn under Assignments. 
