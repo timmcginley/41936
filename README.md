@@ -25,15 +25,3 @@ In 2025 the course has 175 students with different disciplinary backgrounds. Par
 
 ## What is the Building?
 Traditionally we have focused on new tall office buildings but in 2025 we will change to focus on the options of renovating buildings on DTU Campus that comply with DTU Campus plan and the municipalities plan. Check this year's [project](/Project) for more information.
-
-
-
-> ‘knowledge is constructed through the activities of the learner’ ​(Biggs, 2014)​ 
-
-This course supports the construction of your knowledge and skills in the collaborative design and development of a high rise building through activities that are aligned to support you to achieve the course learning objectives. Motivating activities have been carefully developed over the last 14 year period to inspire you in this course. 
-
-
-
-
-
-
