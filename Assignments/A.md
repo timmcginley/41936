@@ -2,15 +2,19 @@
 
 > Develop strategies to address technical solutions to address analysed client needs in a 'real' project. 
 
-Stage A starts the course by collaborating on the construction of a physical scale model (A1), that will act as a 'baseline building' for your team to improve on. In parallel the PMs will define the work that the whole team needs to do in teh project plan (A2). 
-You will then use the building model to define the benchmark building model (A3). This stage also includes the definition of the Design Management Strategy (DMS) all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS. 
+Stage A starts the course by collaborating on the construction of a physical scale model (A1), that will act as a 'baseline building' for your team to improve on. 
+* In parallel the PMs will define the work that the whole team needs to do in the project plan (A2). 
+* You will then use the building model to define the benchmark building model (A3).
+* This stage also includes the definition of the Design Management Strategy (DMS)(A4) all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS. 
 
 Includes:
 * Physical Building Model (A1)
-* Project Plan (A2)
-* Team Contract (A3)
+* Benchmark Building Model (A3)
 * Design Management Schema (A4)
-* Benchmark Building Model (A5)
+* Team Contract (A3)
+* Project Plan (A2)
+
+
 
 ## [A1 Physical Building Model](../Deliverables/PhysicalModel)
 For this course we ask you in Stage A to make a model in your teams.
