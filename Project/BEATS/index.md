@@ -9,24 +9,24 @@
 The purpose of the beats is to help us to understand the implications of the decisions you are making. Also it should help you to see that it is not possible to optimise every requirement. There are 12 beats for you to monitor, 3 in each of the 4 parts of the course.
 
 ## Stage A
-### [Gross Floor Area (Total Above Ground)](/GrossFloorArea/README.md)
-### [Total Height of Building](/TotalHeightOfBuilding/README.md)
-### [F2F Height](/F2FHeight/README.md)
+### [Gross Floor Area (Total Above Ground)](GrossFloorArea.md)
+### [Total Height of Building](TotalHeightOfBuilding.md)
+### [F2F Height](F2FHeight.md)
 
 ## Stage B
-### [# of Permanent Workspaces in Building](/PermanentWorkspacesInBuilding/README.md)
-### [Average Façade Transparency](/AverageFacadeTransparency/README.md)
-### [Min Height in Office Space](/MinHeightInOfficeSpace/README.md)
+### [# of Permanent Workspaces in Building](PermanentWorkspacesInBuilding.md)
+### [Average Façade Transparency](AverageFacadeTransparency.md)
+### [Min Height in Office Space](MinHeightInOfficeSpace.md)
 
 ## Stage C
-### [Core Vs Usable Space Ratio](/CoverVsUsableSpaceRatio/README.md)
-### [Energy Resilience](/EnergyResilience/README.md)
-### [Horizontal Deflection](/HorizontalDeflection/README.md)
+### [Core Vs Usable Space Ratio](CoverVsUsableSpaceRatio.md)
+### [Energy Resilience](EnergyResilience.md)
+### [Horizontal Deflection](HorizontalDeflection.md)
 
 ## Stage D
-### [CO2](/CO2/README.md)
-### [Cost](/Cost/README.md)
-### [Hours](/Hours/README.md)
+### [CO2](CO2.md)
+### [Cost](Cost.md)
+### [Hours](Hours.md)
 
 <!--
 Arranged on DesignGrid
