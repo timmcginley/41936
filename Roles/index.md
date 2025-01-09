@@ -23,8 +23,10 @@ We need to learn to support each other to design the best buildings in the world
 
 ## ABD 2025 Consultant (student) roles
 All subjects:
-* Counting hours and invoicing for payment
-* Guiding the buildign design team towards a better, more sustainable buildings
+* Counting hours spent and consultancy costs and invoicing for payment.
+* Guiding each other towards a better, more sustainable buildings
+* Monitoring Project KPIs and BEATS
+* Producing timely, professional and accurate information based on the team's ICT Contract.
 
 ### [Architecture (inc. Fire safety)](Architecture)
 * Space allocation
