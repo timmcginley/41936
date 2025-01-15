@@ -1,26 +1,32 @@
-# Project Brief 2024
+# Project Brief 2025
+
+he project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
+
+## Researcher Space
 
 ### Office Floor 
 
-The office floor should feature maximum flexibility to support flexible multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms.
+The office floor should feature maximum flexibility to support flexible multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms. These rooms blur that you could book for a week rather than just an hour or so like a meeting room, they are a space for people to come together from different disciplines to solve specific 
+
+One plan would be for traditional cellular office 
 
 **The offices need to provide space for 1000 desks.**
 
+## Teaching and Learning spaces
+
 ### Auditorium (100 people) 
 
-The building must include an auditorium and all the meeting rooms. The auditorium shall be completely or partly located inside the tower (Envelope). 
+The building must include an auditorium. The auditorium should be completely or partly located inside the building. 
 
-### Multipurpose spaces
+### Multipurpose space
 
 The building must include a 250 m2 multipurpose space with a height of 6m, without columns, with access for a small forklift.
-
-### Core Area facilities 
-
-Core areas should have copying rooms, printing rooms, distribution rooms and toilet facilities as well as support spaces and facilities for cleaning. Lifts and technical rooms need to be provided to the requirements of MEP. 
 
 ### Café facilities 
 
 The building must include a café for minimum 50 persons. Consider what facilities need to be offered by the café.
+
+## Meeting rooms
 
 ### Meeting Rooms (25 people) 
 
@@ -32,6 +38,8 @@ The building must include a café for minimum 50 persons. Consider what faciliti
 
 ### Soundproof Office Booth
 5 booth per office and student floors for 1-2 person.
+
+## Student Area
 
 ### Student Area 
 
