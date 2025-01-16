@@ -8,7 +8,7 @@ In week 1 of the project, the PMs set their KPIs to describe the values of the t
 
 ## DGNB / Sustainability 
 
-DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. To make this easier Kristoffer Negendahl has written an LCA lite excel sheet to help in your calculations. The ‘level’ must be decided by your PM as either: 
+DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM as either: 
 
 DGNB “Lite” - silver, gold or platinum 
 
@@ -46,6 +46,7 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 |--------|----------|------|--------|
 | Time   | 30 months | 35 months | 40 months |
 | Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
+<!--   non breaking?-->
 | DGNB (Lite)   | Platinum | Gold | Silver |
 
 <!--
