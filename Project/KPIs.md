@@ -16,7 +16,11 @@ DGNB “Lite” - silver, gold or platinum
 
 The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area and must be either:  
 
+30.000DKK/m2, 35.000DKK/m2 or 40.000DKK/m2
+
+<!-- 2024 
 60.000DKK/m2, 65.000DKK/m2 or 70.000DKK/m2 
+-->
 
 ## TIME 
 
@@ -30,6 +34,11 @@ This describes the spatial efficiency of the building. This calculation is focus
 
 1800 permanent desks, 1600 permanent desks, 1400 permanent desks
 -->
+
+<!-- thoughts on numbers
+Roughly 200 students involved in Advanced Building design - 200 students and 200 staff?
+
+--->
 
 # Points allocation
 
