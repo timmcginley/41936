@@ -1,6 +1,6 @@
 # Project Brief 2025
 
-he project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
+The project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
 
 ## Researcher Space
 
