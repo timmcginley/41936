@@ -45,13 +45,12 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 |        | 1 pts | 3 pts | 5 pts |
 |--------|----------|------|--------|
 | Time   | 30 months | 35 months | 40 months |
-| Cost   | 70k dkk/m2 | 75k dkk/m2| 80k dkk/m2 |
-<!--   non breaking?-->
+| Cost   | 30k dkk/m2 | 35k dkk/m2| 40k dkk/m2 |
 | DGNB (Lite)   | Platinum | Gold | Silver |
 
 <!--
 | People/desks | 1800 | 1600  | 1400   |
 -->
 
-In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail on the previous page and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
+In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 > 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point)  = 5 Points
