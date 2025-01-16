@@ -23,46 +23,32 @@ The design is for DTU building 313, but with an alternative use. It should provi
 
 ## Advanced Building Design 
 
-The building should be designed taking the client brief into account. The building design should: 
 
-* Be designed to provide a good environment for research, innovation and consulting
-* Provide a strong visual and physical interaction between inside and outside in the new building and open floor plan in the ground floor. 
-* Be high quality in terms of material and sustainability choices, giving the building an experience of a holistic design that
-* Respectful of the architectural and engineering heritage of DTU in terms of spaces, facade expressions and materials. 
-* Mirror the visions of sustainable direction for DTU and the future-oriented use of the project for research on climate adaption and energy solutions.   
 
 ## Agile Building Design
 
 Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
 
-## [2025 UPDATE] Height limit (27 m) - 67m!
+## Height limit 27 m
 
-The ultimate height for this year will be 27m (nothing above but air). Thats 67m less than earlier years. design proposal must provide a building, with a maximum building height of 100m. This is an ABSOLUTE limit for the building (only air can be above this). In reality, the height exceeds the masterplan for the area and would not be possible, but this is not a real project. Check [beats] 1 and 12 for extra information that has to be taken into account. 
+**The ultimate height for this year will be 27m (nothing above but air).** This has been _reduced_ from previous years to be _more realistic_ and align to the municipality's plan and DTU Campus plan. Check [beats] 1 and 12 for extra information that has to be taken into account. 
 
 ## Site Boundary 
+The site boundary should be the same as the existing building.
 
-### 101 (TBC)
+## GFA
+The total building should not exceed 6000m2.
 
-### Skylab (TBC)
+### 308
+No floor in building 308 can have a GFA greater than 2500m2.
 
-### 313 (1800 m2) 
+### 304
+No floor in building 304 can have a GFA greater than 2000m2.
 
-The site for this imagined project is 1800m2 as indicated in the image below. The width is 30m and the length is 60m. 
+### 115
+No floor in building 115 can have a GFA greater than 1500m2.
 
-
-
-This is because we need to: 
-* provide fire trucks access to the building 
-* reduce risk of fire spreading between the buildings 
-
- 
-A picture containing text
-
-Description automatically generated 
-
-## Gross floor area (1400 m2) 
-
-The area of the floor plate should not deviate +/-10% m2. It is possible for floors to be smaller if you can justify this. This is calculated as the average floor area (Beat 1 - GFA) divided by the # of floors above ground. 
+<!--
 
 ## Car parking spaces (1 car/100m2 GFA) 
 
@@ -82,21 +68,23 @@ B313 should ensure a good environment for both people, flora, and fauna on campu
 
 DTU wants to maintain a green campus with landscapes in the future and has developed a strategic campus plan (To be released soon) that supports this. Any landscape/nature included in a new building must be replaced by new actions in the outdoor environment. 
 
+-->
+
 ## Flexible 
 
 Flexible and robust office building that can accommodate a range of tenants. 
 
 ## Connection to Campus 
 
-Explain the relation between the building complex and the rest of the Campus 
+Explain the relationship between the building complex and the rest of the campus 
 
 ## Connection to Building 310 
 
 You can build above but MUST NOT transfer any loads to the existing buildings (the foundations would not have been designed for it). 310 touches our site in 2 places. You can either; build up to the edge of building 310 in both places or connect (knock through) to one space but stay at least 1m clear of the other. It is up to your group which you choose. 
 
-## Minimum underground floors (3 floors) 
+## Underground space (3000m2)?
 
-If you have a geo consultant then you must have a minimum of 3 underground floors, that support the underground building services requirements and parking levels. This will affect your C02 for the project and therefore you produce 2 CO2 figures, one including the basement and one without including the basement. 
+If you have a geo consultant then you must have a minimum of 3000m2 of basement. This should be possible that support the underground building services requirements and parking levels. This will affect your C02 for the project and therefore you will produce 2 CO2 figures, one including the basement and one without including the basement. 
 
 ## Typology (multi tenanted office) 
 
