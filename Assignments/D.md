@@ -11,7 +11,33 @@ This is handed in some days before the final presentation to give the review pan
 
 ## D BIM Model
 
-[link](/41936/Deliverables/FinalBIM)
+### General Rules
+* All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
+* For IFC be sure to save also save the quantities and make sure that IFCSpaces haev exported correctly.
+* Try and incorporate tools from the Advanced BIM class in your processs
+* Preference OpenBIM models, standards and processes at all stages of the process
+* Validate your IFC files so they conform to the schema with a schema checking tool
+* Check your IFC file conforms to the disciplinary needs using the relevant IDS
+
+File naming: xxx_xxx_xxx_xxx
+
+### Architecture
+Check IFCSpaces have exported successfully.
+Ceilings present and correctly classified
+
+
+### Structure
+The structural system of the entire building including slabs, beams, columns and core. Also conceptual input to basement structure, ramp access to the basement, stairs in the entire core, the elevator shaft on top of the building, stair access to the building roof, should all be included in the BIM Model and aligned with the other disciplines.
+
+## Materials
+Are the materials correct?
+
+### PM
+Check that the models are aligned, are in the correct place.
+Are all models classified in the same system?
+Was the IFC export successful
+Have the clashes been fixed or if not possible documented in your report?
+
 
 ## Final Presentation
 
