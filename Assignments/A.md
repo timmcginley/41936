@@ -13,6 +13,7 @@ Includes:
 * Design Management Schema (A4)
 * Team Contract (A3)
 * Project Plan (A2)
+* Invoicing for Part A (A6)
 
 
 
@@ -41,12 +42,12 @@ The model that passess all the tests
 ### Award Early Design Integration
 The team that demonstrated the best interdisciplinary collaboration in the model building activity.
 
-## [A2 Project Plan](../Deliverables/ProjectPlan)
+## A2 Project Plan
 **Primary responsible:** PM
 
 PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and as well as for the team for the 13 and 3 week period and provide these to the PM in a timely manner to be collectively coordinated by your PM group. This should define what work you need to do. The project plan should describe the actual work which is expected for finishing each stage of the Project. It should include: A general scheduled overview of activities 
 
-## [A3 Team Contract](../Deliverables/TeamContract)
+## A3 Team Contract
 This is one of the first coordination tasks for the PM.
 
 ### All subjects responsibilities
@@ -59,7 +60,7 @@ This is one of the first coordination tasks for the PM.
 * The contract is created by the team's PM through discussion with the members of the team
 * Upload of the contract online on DTU Learn.
   
-## [A4 Design Management Schema](../Deliverables/DesignManagementSchema)
+## A4 Design Management Schema
 The Design Management Schema (DMS) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a general scheduled overview of activities.
 
 ### Subject Responsibilities
@@ -73,7 +74,7 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 
 The DMS should also include the signed [team contract](TeamContract.md)? 
 
-## [A5 Benchmark Building Model](../Deliverables/BenchmarkBuildingModel)
+## A5 Benchmark Building Model
 Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
 
 You should think of this in 2 ways:
@@ -84,7 +85,9 @@ It would be difficult to produce a full shared BIM model at this stage, or would
 
 You should do this, based on the construction of a physical model, produce an 'excel workbook' documenting the basic properties of the initial model. This should also document if this satisfies the analysed client requirements.
 
-
+## A6 Invoices
+* All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
+* The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
