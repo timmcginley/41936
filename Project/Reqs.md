@@ -6,33 +6,70 @@ The design of your building should satisfy the following requirements. Remember 
 
 ## The Project
 
-DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. 
+DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. This project is intended to provide a minimum 3000m2 of additional area.
 
 We have previously sought to find these in a tall new building, this year  we want to find most of this space by changing theuse of existing buildings and incorporating some new build.
 
 The project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
 
+### Danish Building Code 2018 
+
+The overall requirement is that the building design meets Danish Building Code from 2018. 
+
 ## The Site
 You will be able to choose from different sites including:
 
 ### Building 308
-### Building 304
-### Building 115
+Current GFA Gross (4.684 m2) Net (4.320 m2)
+* More complex renovation (space plan) but less floors requied on top.
 
-## Site Boundary 
+### Building 304
+Current GFA Gross (1.810 m2) Net (1.623 m2)
+* Some cellular offices but mainly computers
+* The computers will be moved to another location
+* Building could be demolished but materails should be retained.
+* Most suitable project for rebuild
+
+### Building 115
+Current GFA Gross (5.736 m2) Net (5.188 m2)
+* Currently used as offices only
+* Needs to be Modernised
+* Improve collaboration
+* Interaction between students and staff
+* Most simple renovation case, but would require more floors on top
+
+### Site Boundary 
 The site boundary should be the same as the existing building.
 
 ## The Building 
 
 The design is for DTU building 313, but with an alternative use. It should provide a modern landmark for research, and it should signal technical engineering skills, while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building. The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students are thriving. 
 
-### Danish Building Code 2018 
-
-The overall requirement is that the building design meets Danish Building Code from 2018. 
-
-### Typology (multi tenanted office) 
+### Building Typology (multi tenanted office) 
 
 The project should provide multi tenancy offices. The building must be designed for multiple users who will share arrival areas and a number of facilities. 
+
+### Building 308
+Current GFA Gross (4.684 m2) Net (4.320 m2)
+* More complex renovation (space plan) but less floors requied on top.
+
+### Building 304
+Current GFA Gross (1.810 m2) Net (1.623 m2)
+* Some cellular offices but mainly computers
+* The computers will be moved to another location
+* Building could be demolished but materails should be retained.
+* Most suitable project for rebuild
+
+
+### Building 115
+Current GFA Gross (5.736 m2) Net (5.188 m2)
+* Currently used as offices only
+* Needs to be Modernised
+* Improve collaboration
+* Interaction between students and staff
+* Most simple renovation case, but would require more floors on top
+
+
 
 ### Connection to Campus 
 
@@ -45,8 +82,7 @@ Explain the relationship between the building complex and the rest of the campus
 ## Floors
 
 ### GFA
-The total building should not exceed 6000m2.
-
+The total building should not exceed 10000m2.
 * No floor in building 308 can have a GFA greater than 2500m2.
 * No floor in building 304 can have a GFA greater than 2000m2.
 * No floor in building 115 can have a GFA greater than 1500m2.
@@ -54,8 +90,7 @@ The total building should not exceed 6000m2.
 ### Floor to floor height
 This needs to be carefully considered.
 
-### Underground floors (3000m2)?
-
+### Underground floors
 If you have a geo consultant then you must have a minimum of 2 floors of basement. This should be possible that support the underground building services requirements and storage.
 
 ### Public top floor 
