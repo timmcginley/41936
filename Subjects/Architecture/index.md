@@ -11,13 +11,12 @@ The Architecture subject is responsible for the management of the usable spaces 
 
 Cheif Consultant: Tim McGinley
 
-* [Assignments](Assignments)
-* [Integration](Integration)
-* [Requirements](Reqs)
-
 ## Assignments
+This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall needs of each assignment.
 ### Part A
 Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for the 13 and 3 week period and provide these to the PM in a timely manner to be coordinated by your PM group.
+* Physical model
+* Support the analysis, design and construction of the physical model.
 
 ### Part B
 #### Subject Drawings
@@ -192,7 +191,7 @@ To transfer positive emotions to different users through healthy behaviours, phy
 #### Principle 7: Social Inclusion: 
 To foster active participation of different users during the design process, guarantee the same experience for all users, reinforce the cultural values of any design project, and treat all groups with dignity and respect.
 
-## Interdisciplinary Architecture
+## Interdisciplinarity
 ### Architecture -> Structure
 The relationship between structures and architecture is very important and
 needs to be strong. You can use this to explore ideas about what each subject
