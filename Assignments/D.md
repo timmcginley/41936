@@ -4,6 +4,12 @@
 
 Stage D starts by reviewing and providing peer feedback on subject and client reports. They are then given the teacher and peer feedback at the same time. based on this they reflect, model, analyse and document the project in detail (preliminary design). The reports are then used by the reviewers time to ask questions at the  the presentation and VR model demonstration. 
 
+* Part D Client Report
+* Part D Subject Reports
+* Part D BIM
+* Part D Invoice
+
+
 ## D Report 
 This is handed in some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
 
