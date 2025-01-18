@@ -28,4 +28,8 @@ It is a course that produces great BIM, but often it is too late to be useful in
 
 We want you to embrace parametrics and smarter ways to work in this course. Therefore in parallel. 
 
+### PM Collaboration Award
+
+PMs nominated by their team based on how well they supported collaboration in the team. 
+
 [LINK](/41936/Deliverables/C_BIM)
