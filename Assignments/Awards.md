@@ -2,16 +2,9 @@
 
 ## Stage A
 
-
-
 ## Stage B
 
-
 ## Stage C
-
-### OpenBIM award – BuildingSmart Denmark 
-
-It is a course that produces great BIM, but often it is too late to be useful in the design process - we want to support you to build useful BIM early so that you can use it to better understand the challenges in your building and move towards better integrated designs and making better choices. 
 
 ## Computational Design - TBC 
 
