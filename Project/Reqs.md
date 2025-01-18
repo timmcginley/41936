@@ -8,6 +8,17 @@ The design of your building should satisfy the following requirements. Remember 
 
 DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. This project is intended to provide a minimum 3000m2 of additional area.
 
+In 2024 we had one project, we have now run this 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits.
+
+In future iterations of the course we will have different versions that you can choose from. This should reflect the rising importance of experience working on renovations rather than new buildings. This will be linked to the interest of the mentor that you are working on your project with. As an idea these alternatives could be:
+
+1. Tall building (the same project we have run since 2019)
+2. Typical DTU building renovation / addition
+3. 101 building renovation / addition
+4. Skylab renovation / addition
+
+All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
+
 ### Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
 
