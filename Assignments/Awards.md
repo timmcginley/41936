@@ -2,8 +2,7 @@
 
 ## Stage A
 
-### Best Model
-The model that passess all the test, see [physical model] for more details.
+
 
 ## Stage B
 
