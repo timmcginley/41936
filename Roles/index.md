@@ -7,6 +7,23 @@
 ```
 To design the best building in the world we need to learn how to support each other in the design process. To support this, the ABD course has been designed to give participants a professional interdisciplinary design experience. 
 
+These are the guides to help everyone involved in the course clarify their roles and know where to find information.
+
+## Students
+The most important role in the course :)
+Check out the [Student Advanced Building Design Guide](Student.md)
+
+## Teachers
+Our Subject matter experts. Whilst the Mentors can advise and suggest solutions, ultimately the subject teacher is the one who decides on subject specific issues.
+Check out the [Teacher Advanced Building Design Guide](Teacher.md)
+
+## Mentors
+Our link to industry, whilst many of the teachers are from industry, you role is to provide an industry perspective on the projects and best approaches / rules of thumb from experience.
+Check out the [Mentor Advanced Building Design Guide](Mentor.md)
+
+## Teaching Assistants
+Check out the [TA Adavanced Advanced Building Design Guide](TA.md)
+
 ## ABD Consultant (AKA Students) roles
 After choosing you [subject](../Subjects) in week 1, you will be invited to form small consultancies. These disciplinary specific [companies](Company.md) will provide engineering and or design consulatancy services as part of a [team](Team.md) for the [client](Client.md).
 
