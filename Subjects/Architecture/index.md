@@ -14,7 +14,7 @@ Cheif Consultant: Tim McGinley
 * [Integration](Integration)
 * [Requirements](Reqs)
 
-## ARCH Requirements
+## Requirements
 Advanced Building Design requires the collaborative design, modelling, analysis, communication and iteration of interdisciplinary solutions to each building system at every stage of the design process. specifically this means the responsibilities and dependencies for architecture are:
 
 ### Client Requirements
