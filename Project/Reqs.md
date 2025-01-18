@@ -69,10 +69,6 @@ We have previously sought to find these in a tall new building, this year  we wa
 
 The project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
 
-### Danish Building Code 2018 
-
-The overall requirement is that the building design meets Danish Building Code from 2018. 
-
 ## The Site
 You will be able to choose from different sites including:
 
@@ -226,10 +222,11 @@ Balconies are permitted and they are not included in the GFA (gross floor area).
 
 
 
+## Construction and Safety requirements
+### Danish Building Code 2018 
+The overall requirement is that the building design meets Danish Building Code from 2018. 
 
-
-
-## Fire
+### Fire
 Fire requirements for all teams: 
 
 * Max 25 m escape routes 
