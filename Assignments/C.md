@@ -4,6 +4,13 @@ Collaborate to integrate the building systems of different disciplines to satisf
 
 Stage C starts by responding to the client feedback and integrating the chosen solution into an 'outline design'. This stage should also update the excel to check the building is on target and justify if not. This will help inform the required subject and client report assignments for stage C. 
 
+## Client Report
+The client report is a high level report that follows the structure of the different systems.
+
+
+## Subject Reports
+Please see the individual subjects for the specifics of each subject's report.
+
 
 
 ## Structures
@@ -19,6 +26,15 @@ Following aspects and issues should be addressed in the report (deliverables):
 * Dimensions of the element profiles and sectional forces on slabs, beams, columns and core. 
 
 ## C BIM 
+The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.
+
+### Architecture
+This model should include all the spaces. 
+
+### Structural - BIM / 3D models 
+
+You should be developing the BIM model through the course. This might not be possible in the early stages, however, start as soon as possible when some elements are certain. To give you a guide you should expect to have a model that we can do a quantity take off from by week 10. The structural system of the entire building, basement structure, ramp access to the basement, stairs in the entire core should all be included in the BIM Model and aligned with the other disciplines. The elevator shaft on top of the building, stair access to the building roof. 
+
 
 ### OpenBIM award – BuildingSmart Denmark 
 
