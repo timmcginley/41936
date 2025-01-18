@@ -6,10 +6,6 @@
 
 ## Stage C
 
-## Computational Design - TBC 
-
-We want you to embrace parametrics and smarter ways to work in this course. Therefore in parallel. 
-
 ## Stage D
 
 ### Fire Safety Award – TBC 
