@@ -38,6 +38,9 @@ For delivery:
 ### Award Best Model
 The model that passess all the tests
 
+### Award Early Design Integration
+The team that demonstrated the best interdisciplinary collaboration in the model building activity.
+
 ## [A2 Project Plan](../Deliverables/ProjectPlan)
 **Primary responsible:** PM
 
