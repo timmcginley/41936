@@ -4,15 +4,16 @@
 
 Stage B starts by students 'pinning up' a specified set of drawings defined in their Design Management Schema based on informal feedback they develop design options which modelled, reported and sent to the client for feedback.
 
-* [Drawings](../Deliverables/B_Drawings)
-* Design Options 
+* B1 Drawings
+* B2 Client Report
+* B3 Part B Invoice
 
 Documentation of 2 Different design options. 
 
 
 Define the overall concept for your building through multi-disciplinary drawings that will be 'pinned up'. The drawings will be 'marked up' with feedback by the client/teachers for you to consider.
 
-## [Drawings/Sketches](../Deliverables/B_Drawings)
+## B1 Drawings/Sketches
 * Please bring your printed drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81).
 
 * **PM coordinates these efforts into integrated drawings**
@@ -141,11 +142,15 @@ Isometric or perspective view
 * A structural detail dealing with some important connection
 * Schematics of ventilation, heating, cooling, hot and cold water, wastewater, and sprinkler if needed.
 
-## Client Report 
+## B2 Client Report 
 
 Contribute towards the client recommendations for your subject, what options would you recommend to the Client? The client report analyzing different options to assist the client in making decisions and providing feedback on the designs in Week 8. The purpose of the report is to document the decisions made by both you and the client (teachers) regarding the initial design of the buildings. We encourage you to develop your own way of presenting this report based on your impression of the client from the communication you have had with them so far. For example, consider whether they would prefer a detailed report with extensive calculations or summaries presented in a 'one-pager'. Would they appreciate an executive summary?
 
 The representation of choices to the client is not predefined in this task; it's up to you, just as it would be in a real project. PM will coordinate these efforts and present recommendations to the client.
+
+## B3 Invoices
+* All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
+* The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 
 ## Submission
 
