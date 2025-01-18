@@ -151,6 +151,7 @@ The representation of choices to the client is not predefined in this task; it's
 ## B3 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
+* Should inlcude documented performance against KPIs / Beats to demonstrate on track.
 
 ## Submission
 
