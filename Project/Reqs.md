@@ -16,13 +16,13 @@ In this first session of the course you will be introduced to your teachers and 
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
-## DGNB / Sustainability 
+#### DGNB / Sustainability 
 
 DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM as either: 
 
 DGNB “Lite” - silver, gold or platinum 
 
-## COST 
+#### COST 
 
 The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area and must be either:  
 
@@ -32,7 +32,7 @@ The cost level is decided by your PM in balance with sustainability goals and es
 60.000DKK/m2, 65.000DKK/m2 or 70.000DKK/m2 
 -->
 
-## TIME 
+#### TIME 
 
 The time budget is also flexible, and defined by the PM. The durations (incl. design proposal period) to choose between are respectively: 
 
@@ -50,7 +50,7 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 
 --->
 
-# Points allocation
+#### Points allocation
 
 |        | 1 pts | 3 pts | 5 pts |
 |--------|----------|------|--------|
