@@ -4,6 +4,11 @@ Collaborate to integrate the building systems of different disciplines to satisf
 
 Stage C starts by responding to the client feedback and integrating the chosen solution into an 'outline design'. This stage should also update the excel to check the building is on target and justify if not. This will help inform the required subject and client report assignments for stage C. 
 
+* Client Report
+* Subject Reports
+* Part C BIM
+* Part C Invoice
+
 ## Client Report
 The client report is a high level report that follows the structure of the different systems.
 
