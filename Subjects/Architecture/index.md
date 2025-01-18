@@ -159,4 +159,24 @@ To transfer positive emotions to different users through healthy behaviours, phy
 #### Principle 7: Social Inclusion: 
 To foster active participation of different users during the design process, guarantee the same experience for all users, reinforce the cultural values of any design project, and treat all groups with dignity and respect.
 
+## Interdisciplinary Architecture
+### Architecture -> Structure
+The relationship between structures and architecture is very important and
+needs to be strong. You can use this to explore ideas about what each subject
+should model. For instance, one approach for the floors is for the architects
+to model the finished floor and for the structures group to model the
+structural slab. This should avoid potential clashes in the federated BIM
+(model/s).
+
+### Architecture -> MEP
+The relationship to building services is really important to architecture,
+for instance, the location of the plant rooms and the routes of larger
+ventilation ducting that may be too noisy for space requirements such as
+meeting rooms.
+
+### Architecture -> PM / ICT
+The integration to the ICT/PM group is really important. A symbiotic
+relationship between the two subjects can help improve the quality,
+communication and frequency of early design decisions.
+
 
