@@ -6,9 +6,6 @@
 
 ## Stage B
 
-### Early Design Integration - TBC
-
-More information to follow. 
 
 ## Stage C
 
