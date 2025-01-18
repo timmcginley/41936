@@ -8,10 +8,3 @@
 
 ## Stage D
 
-### Fire Safety Award – TBC 
-
-More information to follow. 
-
-[physical model]: 
-
-
