@@ -63,7 +63,7 @@ Teams: 14:00 / 15:00 - 17:00
 
 -->
 
-## Week 1 - Introduction to Course and Part A
+## 01 - Introduction
 
 Welcome to Advanced Building Design 2025.
 We will meet for the first session in **Auditorium 32 in building 306.**
@@ -106,38 +106,38 @@ This requires that you define the F2F height.
 * Will you have different types of floors for different parts of the building?
 * 
 
-## Week 02 - Model Existing Building
+## Week 02 - Existing Building
 
 * Lecture on Interdisiciplinarity
 * Model the existing building
 * Document the original model you will adapt it next week.
 
-## Week 03 - Model Proposed Building
+## Week 03 - Proposed Building
 
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
 
-## Week 04 - Part A Presentation and Feedback *
+## Week 04 - Part A Presentation *
 
 * Present your models in the Foyer of 127
 * Feedback on your models from the cheif consultants
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
-## Week 05 - Into to Part B and Subjects *
+## Week 05 - Part B and Subjects *
 
-## Week 06 - External Lecture / Building Visit
+## Week 06 - External Lecture
 
 ## Week 07 - Subject Lectures *
 
-## Week 08 - Part B (Drawing) Presentation and Feedback *
+## Week 08 - Part B Presentation*
 
 ## Week 09 - Part C Introduction *
 
-## Week 10 - Chief Consultant Session *
+## Week 10 - Consultant Session *
 
 ## Week 11 - External Lecture
 
-## Week 12 - Chief Consultant Session *
+## Week 12 - Consultant Session *
 
 ## Week 13 - Submit Part C *
 
@@ -146,5 +146,5 @@ This requires that you define the F2F height.
 
 ## 3Week 02: Final Sprint
 
-## 3Week 03: Part D Presentation and Feedback
+## 3Week 03: Part D Presentation
 
