@@ -28,16 +28,15 @@ For this exercise you should focus on:
 For delivery:
 * Take pictures of your models and submit them to Learn under Assignments.
 
-```{admonition} Award Best Model
+<!-- award admonitions - work in Sphyinx -->
+
+```{admonition} Best Model Award
 The model that passess all the test
 ```
 
-
-### Award Best Model
-The model that passess all the tests
-
-### Award Early Design Integration
+```{admonition} Early Design Integration Award
 The team that demonstrated the best interdisciplinary collaboration in the model building activity.
+```
 
 ## A2 Project Plan
 **Primary responsible:** PM
