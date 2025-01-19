@@ -63,7 +63,7 @@ Teams: 14:00 / 15:00 - 17:00
 
 -->
 
-## Week 1 - Introduction
+## Week 1 - Introduction to Course and Part A
 
 Welcome to Advanced Building Design 2025.
 We will meet for the first session in **Auditorium 32 in building 306.**
@@ -72,7 +72,7 @@ Make sure you have read the course guide before the first session:
 
 * [Advanced Building Design Student course guide](../Guides/Student.md)
 
-### Week 1 lesson plan
+### Lesson plan
 
 | **Time**      | **Name** |**Activity**   |
 |---------------|------------|------|
@@ -86,8 +86,7 @@ Make sure you have read the course guide before the first session:
 | 15:50 - 16:10 | Break| |
 | 16:10 - 17:00 | Analyse brief | Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
 
-### Questions to consider this week
-
+### Questions
 * What is the identity of your subject group (company)? 
 * How does your subject contribute to the team?  
 * List one thing you need the most from each subject.  
@@ -97,21 +96,55 @@ Make sure you have read the course guide before the first session:
 * PM: What values do you want your team to have? 
 * Aspirations: How ambitious are you?
 
-### Activity 1
+### Activity
+* Team formation
+    * find subject
 In this first activity you will be asked to make a 'guesstimate' of the GFA for your building.
-* What GFA are you aiming at for your building?
+* What **GFA** are you aiming at for your building?
 This requires that you define the F2F height.
 * Will you have a greater ceiling height on the ground floor?
 * Will you have different types of floors for different parts of the building?
+* 
 
+## Week 02 - Model Existing Building
 
-## Week 02 - Models
-
-The focus on this week is on interdisciplinarity
-
-In this week we will:
-
-
+* Lecture on Interdisiciplinarity
 * Model the existing building
+* Document the original model you will adapt it next week.
 
+## Week 03 - Model Proposed Building
+
+* Adapt existing building model to you proposal
+* Calculate the improvement you have made in the new model
+
+## Week 04 - Part A Presentation and Feedback *
+
+* Present your models in the Foyer of 127
+* Feedback on your models from the cheif consultants
+* Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
+
+## Week 05 - Into to Part B and Subjects *
+
+## Week 06 - External Lecture / Building Visit
+
+## Week 07 - Subject Lectures *
+
+## Week 08 - Part B (Drawing) Presentation and Feedback *
+
+## Week 09 - Part C Introduction *
+
+## Week 10 - Chief Consultant Session *
+
+## Week 11 - External Lecture
+
+## Week 12 - Chief Consultant Session *
+
+## Week 13 - Submit Part C *
+
+
+## 3Week 01: Part D Introduction
+
+## 3Week 02: Final Sprint
+
+## 3Week 03: Part D Presentation and Feedback
 
