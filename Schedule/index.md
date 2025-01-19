@@ -142,9 +142,9 @@ This requires that you define the F2F height.
 ## Week 13 - Submit Part C *
 
 
-## 3Week 01: Part D
+## 3Week 1 - Part D
 
-## 3Week 02: Final Sprint
+## 3Week 2 - Final Sprint
 
-## 3Week 03: Part D Presentation
+## 3Week 3 - Part D Presentation
 
