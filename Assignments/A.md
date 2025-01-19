@@ -28,7 +28,7 @@ For this exercise you should focus on:
 For delivery:
 * Take pictures of your models and submit them to Learn under Assignments.
 
-```{attention} Award Best Model
+```{admonition} Award Best Model
 The model that passess all the test
 ```
 
