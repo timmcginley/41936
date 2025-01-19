@@ -1,5 +1,13 @@
 # Advanced Building Design
 
+``versionchanged``
+==================
+
+.. versionchanged:: v0.1.1
+
+   Here's a version changed message.
+
+
 ``attention``
 =============
 
