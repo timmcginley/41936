@@ -63,7 +63,7 @@ Teams: 14:00 / 15:00 - 17:00
 
 -->
 
-## 01 - Introduction
+## Week 01 - Part A
 
 Welcome to Advanced Building Design 2025.
 We will meet for the first session in **Auditorium 32 in building 306.**
@@ -123,7 +123,7 @@ This requires that you define the F2F height.
 * Feedback on your models from the cheif consultants
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
-## Week 05 - Part B and Subjects *
+## Week 05 - Part B *
 
 ## Week 06 - External Lecture
 
@@ -131,7 +131,7 @@ This requires that you define the F2F height.
 
 ## Week 08 - Part B Presentation*
 
-## Week 09 - Part C Introduction *
+## Week 09 - Part C *
 
 ## Week 10 - Consultant Session *
 
@@ -142,7 +142,7 @@ This requires that you define the F2F height.
 ## Week 13 - Submit Part C *
 
 
-## 3Week 01: Part D Introduction
+## 3Week 01: Part D
 
 ## 3Week 02: Final Sprint
 
