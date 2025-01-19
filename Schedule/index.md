@@ -74,17 +74,17 @@ Make sure you have read the course guide before the first session:
 
 ### Lesson plan
 
-| **Time**      | **Name** |**Activity**   |
-|---------------|------------|------|
-| 13:00 - 14:00 | **Introduction** | Course intro / brief / project / course requirements |
-| 14:00 -14:30  | |Break and fill Belbin (Check DTU Learn to download the form) - you are trying to find your main type.|
-| 14:30 -14:45  | **Choose Subject**| Whole class divide into subjects Teachers and TAs will help where numbers are not even |
-| 14:45 - 15:00 | **Create Companies**| Each subject subdivides into separate companies (2-3 people) use Belbin results and teachers and TAs to help |
-| 15:00 - 15:15 | **Values** |PM define team values and other groups work out 30 second lift pitch - why pick them + hourly rate. |
-| 15:15 - 15:20 | PM PRESENT VALUES| |
-| 15:20 - 15:50 | TENDERING | PM try to get points based on Belbin etc. subjects approach in waves.|
-| 15:50 - 16:10 | Break| |
-| 16:10 - 17:00 | Analyse brief | Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
+| **Time**      |**Activity**   |
+|---------------|------------|
+| 13:00 - 14:00 | **Introduction** <br> Course intro / brief / project / course requirements |
+| 14:00 -14:30  | Break and fill Belbin <br>(Check DTU Learn to download the form) - you are trying to find your main type.|
+| 14:30 -14:45  | **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
+| 14:45 - 15:00 | **Create Companies**<br>Each subject subdivides into separate companies (2-3 people) use Belbin results and teachers and TAs to help |
+| 15:00 - 15:15 | **Values** <br>PM define team values and other groups work out 30 second lift pitch - why pick them + hourly rate. |
+| 15:15 - 15:20 | PM PRESENT VALUES<br>|
+| 15:20 - 15:50 | TENDERING <br> PM try to get points based on Belbin etc. subjects approach in waves.|
+| 15:50 - 16:10 | Break<br> |
+| 16:10 - 17:00 | Analyse brief <br> Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
 
 ### Questions
 * What is the identity of your subject group (company)? 
