@@ -62,3 +62,56 @@ Teams: 14:00 / 15:00 - 17:00
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
+## Week 1 - Introduction
+
+Welcome to Advanced Building Design 2025.
+We will meet for the first session in **Auditorium 32 in building 306.**
+
+Make sure you have read the course guide before the first session:
+
+* [Advanced Building Design Student course guide](../Guides/Student.md)
+
+### Week 1 lesson plan
+
+| **Time**      | **Name** |**Activity**   |
+|---------------|------------|------|
+| 13:00 - 14:00 | **Introduction** | Course intro / brief / project / course requirements |
+| 14:00 -14:30  | |Break and fill Belbin (Check DTU Learn to download the form) - you are trying to find your main type.|
+| 14:30 -14:45  | **Choose Subject**| Whole class divide into subjects Teachers and TAs will help where numbers are not even |
+| 14:45 - 15:00 | **Create Companies**| Each subject subdivides into separate companies (2-3 people) use Belbin results and teachers and TAs to help |
+| 15:00 - 15:15 | **Values** |PM define team values and other groups work out 30 second lift pitch - why pick them + hourly rate. |
+| 15:15 - 15:20 | PM PRESENT VALUES| |
+| 15:20 - 15:50 | TENDERING | PM try to get points based on Belbin etc. subjects approach in waves.|
+| 15:50 - 16:10 | Break| |
+| 16:10 - 17:00 | Analyse brief | Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
+
+### Questions to consider this week
+
+* What is the identity of your subject group (company)? 
+* How does your subject contribute to the team?  
+* List one thing you need the most from each subject.  
+* What is special about your group and what can you offer the team? 
+* Which Team KPIs do you most align with? 
+* Is everyone in your group on the same page?  
+* PM: What values do you want your team to have? 
+* Aspirations: How ambitious are you?
+
+### Activity 1
+In this first activity you will be asked to make a 'guesstimate' of the GFA for your building.
+* What GFA are you aiming at for your building?
+This requires that you define the F2F height.
+* Will you have a greater ceiling height on the ground floor?
+* Will you have different types of floors for different parts of the building?
+
+
+## Week 02 - Models
+
+The focus on this week is on interdisciplinarity
+
+In this week we will:
+
+
+* Model the existing building
+
+
