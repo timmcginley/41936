@@ -9,7 +9,7 @@ Stage C starts by responding to the client feedback and integrating the chosen s
 * Part C BIM
 * Part C Invoice
 
-## Client Report
+## C Client Report
 The client report is a high level report including information on the:
 * Project & KPIs
 * Team
@@ -25,7 +25,7 @@ The client report is a high level report including information on the:
 * Questions for feedback
 
 
-## Consultant Reports
+## C Consultant Reports
 Each consultancy deliver a report:
 
 * A4: Maximum 20 pages + appendixes
