@@ -24,8 +24,6 @@ Make sure you have read the course guide before the first session:
 
 * [Advanced Building Design Student course guide](/Roles/Student.md)
 
-### Lesson plan
-
 | **Time**      |**Activity**   |
 |---------------|------------|
 | 13:00 - 14:00 | **Introduction** <br> Course intro / brief / project / course requirements |
