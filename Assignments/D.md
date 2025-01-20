@@ -1,12 +1,17 @@
 # Part D
 
-> Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR. 
+> Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR.
+
+```{attention} Final Presentation location
+The final presentation will take place in Building 117, Room 24. You can enter the room from Building 127. 
+```
 
 Stage D starts by reviewing and providing peer feedback on subject and client reports. They are then given the teacher and peer feedback at the same time. based on this they reflect, model, analyse and document the project in detail (preliminary design). The reports are then used by the reviewers time to ask questions at the  the presentation and VR model demonstration. 
 
 * Part D Client Report
 * Part D Subject Reports
 * Part D BIM
+* Part D Presentation
 * Part D Invoice
 
 
@@ -16,6 +21,7 @@ This is handed in some days before the final presentation to give the review pan
 [link](/41936/Deliverables/FinalReport)
 
 ## D BIM Model
+Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon.
 
 ### General Rules
 * All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
@@ -31,7 +37,6 @@ File naming: xxx_xxx_xxx_xxx
 Check IFCSpaces have exported successfully.
 Ceilings present and correctly classified
 
-
 ### Structure
 The structural system of the entire building including slabs, beams, columns and core. Also conceptual input to basement structure, ramp access to the basement, stairs in the entire core, the elevator shaft on top of the building, stair access to the building roof, should all be included in the BIM Model and aligned with the other disciplines.
 
@@ -43,7 +48,6 @@ Check that the models are aligned, are in the correct place.
 Are all models classified in the same system?
 Was the IFC export successful
 Have the clashes been fixed or if not possible documented in your report?
-
 
 ## Final Presentation
 Your presentation should include the following.
