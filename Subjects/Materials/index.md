@@ -3,40 +3,42 @@
 
 *This subject explores the emerging potential of an architectural materials engineer as an integral part of the building design team.*
 
-The materials subject for 2025 combines a number of roles
-
-| Role   | Savings |
-| -------- | ------- |
-| Design  | $250    |
-| Analysis | $80     |
-| Audit    | $420    |
-
-## Design
-* Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.
-
-
-## Analysis
-* Identify a new materail / product to develop that satisfies a unique problem in the design.
-* Define functional units
-
-
-## Documentation
-* Produce EPD for the new materail / product
-
-## Auditing
-* Peer review of the other groups 
-
-## Material Requirements 
-
-Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions. 
-
 ## Sustainability and the build environment
 A central part of this subject is to understand and potentially challenge the taken for granted, In regard to how we build. This is done from a sustainability point of perspective. But how can we argue that something is sustainable and what does that entail. during the subject you will explore and try to define sustainability in context to your building project.
 
-## Green Building Rating Systems
-A central criterion for the high-rise building is the DGNB lite certification. A simplified version of the GBRS, DGNB, that is the most common used in Denmark. A green building rating system functions both as a tool to documentation but should also be considered as a set of criteria's that can help support or define parts of the building design process. Understanding these criteria, where and how they affect your teams process and what measures you can plan out to accommodate the needed information at the right time to the right people. DGNB screening and initial process plotting for knowledge sharing or interventions.
 
-## DGNB lite Requirements
+## The role
+The materials subject for 2025 combines a number of roles:
+
+* Design
+* Analysis
+* Documentation
+* Guidance
+
+
+### Design
+* Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.
+
+
+### Analysis
+* Identify a new materail / product to develop that satisfies a unique problem in the design.
+* Define functional units
+* 
+
+### Documentation
+* Produce EPD for the new material / product
+
+### Guidance
+* Peer review of the other groups
+* Supporting the design team to 
+
+## Requirements 
+
+
+## DGNB
+A central criterion for the sustainability of buildings is the DGNB lite certification. A simplified version of the GBRS, DGNB, that is the most common used in Denmark. A green building rating system functions both as a tool to documentation but should also be considered as a set of criteria's that can help support or define parts of the building design process. Understanding these criteria, where and how they affect your teams process and what measures you can plan out to accommodate the needed information at the right time to the right people. DGNB screening and initial process plotting for knowledge sharing or interventions.
+
+### DGNB lite Requirements
 Identify, analyse and delegate DGNB lite requirements to the different subject groups. Inform and plan with PMs to align with DMS continually through the process. Develop and performco-design processes across the building team to develop solutions. Balancing the needs of different disciplines and the DGNB lite requirements through development of metrics and decision support tools.
 
 ## Circularity in the build environment and life circle assessment
@@ -48,18 +50,14 @@ The building project can be viewed is an arena of development. Consisting of dif
 In many ways you are the new actor entering in an already existing arena, the new kid on the block. Therefore, you need to understand the different actors of the arena, their values, priorities, and stakes in this Arena. Where do they align and where might they clash? Where is the opportunities and need for collaboration? From this understanding you are better able to create tools for negotiation between these different values and how the different requirements, values and needs can be combined and co-designed into something more than its parts.
 
 ## Sustainable project navigation
-Aligning The different subject groups values and priorities and strategically navigating them towards a shared goal is no easy task, and the subject of sustainability is not always at the forefront of every other team's mind in decision making and co-design process.
-
-It is your task to bring the project team together and create value and anchorage in the different the subject teams to pursue more sustainable solutions.
+Aligning The different subject groups values and priorities and strategically navigating them towards a shared goal is no easy task, and the subject of sustainability is not always at the forefront of every other team's mind in decision making and co-design process. It is your task to bring the project team together and create value and anchorage in the different the subject teams to pursue more sustainable solutions.
 
 ## Perform LCA on the building.
-During this project initial faces, you will need to Create an initial baseline model that can support early identification of hotspots in the design of the building sketch and support prioritised decision making, in later scenario development. The scenarios you develop should be to a degree that enables informed decision making with clear evaluations on information shortcomings, advantages, and drawback from an Environmental performance standpoint. The hope is to support a transdisciplinary process of knowledge sharing and prioritisation and decision making.
+During this project initial faces, you will need to Create an initial baseline model that can support early identification of hotspots in the design of the building sketch and support prioritised decision making, in later scenario development. The scenarios you develop should be to a degree that enables informed decision making with clear evaluations on information shortcomings, advantages, and drawback from an environmental performance standpoint. The hope is to support a transdisciplinary process of knowledge sharing and prioritisation and decision making. Lastly you will need to create a complete LCA of the building including all the regulation required life cycle stages. Pay attention and document all insecurities or shortcomings in your model as well as a discussion and perspectivation of the final LCA analysis and results. It is expected that you manage to keep a information link to the LCA calculation tools (including your Life cycle inventory) and the interface to the BIM models, so there is a clear project model alignment through the process.
 
-Lastly you will need to create a complete LCA of the building including all the regulation required life cycle stages. Pay attention and document all insecurities or shortcomings in your model as well as a discussion and perspectivation of the final LCA analysis and results.
-
-It is expected that you manage to keep a information link to the LCA calculation tools (including your Life cycle inventory) and the interface to the BIM models, so there is a clear project model alignment through the process.
-
+```{hint}
 Coordinate with the PM on how to achieve this and make sure this is included in the DMS.
+```
 
 ## Material knowledge, search and strategies for sustainable building design
 The materials that go into constructing a building is vast in quantity, taking up and imbedding large amounts of resources and energy in a structure for decades.
