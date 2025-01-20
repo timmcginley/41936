@@ -16,13 +16,29 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * Part D Invoice
 
 
-## D Report Client and Consultant Reports
-This is handed in some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
+## D Client Report
+The final client report should include:
+
+* Project & KPIs
+* Team
+* Advanced Building Design, what it is to you
+* Beats
+* Site
+* Building Design
+* Floors
+* Spaces, entrance, auditorium, multipupose and cafe
+* Structural system inc. floor plan, loads, components, Geotechnical, Fire Safety
+* MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
+* Facade
+* Reflection
+
+## D Consultant Reports
+These will be submitted soem days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
 
 ## D BIM Model
-Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon.
+Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon. The BIM should:
 
-### General Rules
+* Satisfy all the requirements stated in the [ICT Agreement](/Assignments/A.md#ict-agreement).
 * All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
 * For IFC be sure to save also save the quantities and make sure that IFCSpaces haev exported correctly.
 * Try and incorporate tools from the Advanced BIM class in your processs
