@@ -16,8 +16,6 @@ Define the overall concept for your building through multi-disciplinary drawings
 
 ## B1 Drawings/Sketches
 
-<!-- important admonition - works in Sphinx -->
-
 ```{important}
 **PM coordinates these efforts into integrated drawings**
 ```
@@ -32,35 +30,17 @@ Define the overall concept for your building through multi-disciplinary drawings
 
 * We require that the drawings integrate input from all subjects. This ensures that the project and solutions are coherent and do not clash.
 
-<!--
-These drawings should be printed on A3 and pinned up (location to be determined) In the event that it is not possible to display them physically alternative digital arrangements will be provided in good time. A template will be provided in week 4 for these drawings that must be used by all subjects. 
-
-This year we will also ask you to upload your drawings so that we can also show them to other years. Their (SPECKLE) stream was IFC which means it would theoretically be possible to query it and check it here.
-
-Please check out the examples below and you can also have a look at the 3d models in the speckle stream here from 2022 BIM Speckle stream for example 2.
-
-[https://speckle.xyz/streams/0dc122e122]()
-
-
-The link shows all the branches their speckle stream. See how they have used comments to identify issues they wanted to work on in the model and also included different types of analysis. You do not need to do this but we think it is cool.
-
-The example below are chosen from 2023 so that we are consistent with the projects we show you. The submitted work is not necessarily consistent with the requirements for this year. Please check them.
-
--->
-
 A first task of PM is to coordinate the drawings that are presented. PM should look for opportunities where different systems can be represented on the same drawing.
 
 ### Integrated Drawings
 
-This defines what strategies you have decided on. Each subject produces 4 drawings. The required drawings are listed below. 
-
 These should include:
 * Minimum one site plan
-* Two alternatives of the ground floor
-* Two alternatives of an office floor
-* Two alternatives of vertical sections of an office floor
-* Two alternatives of the section of the entire building, coloured by functions
-* Minimum one 3D view
+* 2 x alternatives of the ground floor (1:100)
+* 2 x alternatives of an office floor (1:100)
+* 2 x alternatives of vertical sections of an office floor (1:50)
+* 2 x alternatives of the section of the entire building, coloured by functions (1:200)
+* Minimum one 3D view (A1)
 Any other relevant drawings/sketches
 
 #### Minimum one site plan:
@@ -73,14 +53,14 @@ Any other relevant drawings/sketches
 * Evacuation strategy showing the building 
 * Fire egress
 
-#### Two alternative ground floor drawings:
+#### 2 x alternative ground floor drawings:
 1:100 or appropriate Layout
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 * Location and sizes of shafts in core
 
-#### Two alternatives office floor drawings:
+#### 2 x alternatives office floor drawings:
 1:200 or appropriate Layout
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
@@ -88,7 +68,7 @@ Any other relevant drawings/sketches
 * Allocated space (in core) for building services and structural elements, location of shafts and routing of building services elements. Explain integration of building services as well as structural and architectural elements. 
 * Fire egress
 
-#### Two alternatives of vertical sections of an office floor:
+#### 2 x alternatives of vertical sections of an office floor:
 1:50 or appropriate
 * Indicate façades incl. windows, cores, slabs, ceilings, and partitioning walls
 * Indication of horizontal stabilizing and vertical load-bearing elements
@@ -96,7 +76,7 @@ Any other relevant drawings/sketches
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 
-#### Two vertical section of the entire building including basement:
+#### 2 x vertical section of the entire building including basement:
 1:200 or appropriate either North South or West East.
 * Coloured code functions (office, shaft, lift, fire egress etc.) in the building (by hand is okay)
 * Indication of horizontal stabilizing and vertical load-bearing elements
@@ -105,10 +85,11 @@ Any other relevant drawings/sketches
 * Footprint, showing also the layout of structural components at foundation level
 * Show interactions between structure and geotechnical.
 
-#### Basement plan
+#### 2 x Basement plan
 1:200
 * Footprint, showing also the layout of structural components at foundation level
 * Soil profile
+* Showing the different options for Geotech.
 
 #### Minimum one 3D view
 Isometric or perspective view
