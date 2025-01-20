@@ -30,18 +30,37 @@ These should describe the different elements in the design including those from 
 
 ### Part C 
 #### Subject Report
-The Part C subject report for architecture will be organised in the themes / elements of the project, furthermore, it will clearly explain the different available options and discuss the decision process and trade offs. Examples of how the Team KPIs and project beats have been used to inform the deign are also important. This is your main opportunity for written formative (in progress feedback from both your teacher and peers, so make the best of it 😊 
+The Part C subject report for architecture will be organised in the themes / elements of the project, furthermore, it will clearly explain the different available options and discuss the decision process and trade offs. Examples of how the Team KPIs and project beats have been used to inform the deign are also important. This is your main opportunity for written formative (in progress feedback from both your teacher and peers, so make the most of it 😊 
+
+Report Structure:
+* **Front Page,** view of building from eye level looking up.
+* **Introduction**, The project, Beats and KPIs, work division
+* **Site**, Connection to the campus, site analysis, Koppen-Gieger class
+* **Building Concept**, Building concept development, Design process, General vision and idea of the building
+* **Floors**, Functionality, Distribution ofmain functions, floor plans
+* **Spaces**
+    *  Entrance
+    *  Auditorium
+    *  Multipurpose
+    *  Cafe
+* **Structure**, Core, column placements and design
+* **Facade**, Design principles and materials
+* **Building Flows / MEP**, integration
+* **Basement** / Substructure, bike prking and storage.
+* **Evacuation & Safety** Specific Evacuation
+* **Summary** and questions
+* **Copy of invoice sent to PM**
+* **Appendix** / Fire evacuation calculations
+
 ### BIM
 Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor levels), copy room, toilets, gym, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
 
 ### Part D 
 #### Subject Report
-This is a continuation on the 13 week report but with more detail on the themes discussed in the course. This report describes the work done to develop
-a preliminary design (LO9).
-- collaborate with the other specialists (LO1)
-- integrate the different requirements into your architectural design (LO5)
-- explore alternatives (LO6)
-- justify and defend your design decisions (LO8)
+This is a continuation on the Part C report but with more detail on the themes discussed in the course. It will contain the following additional content
+
+* 6 details (introduced in Part D Architecture lecture)
+
   
 #### BIM
 Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), copy room, toilets, gym?, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
