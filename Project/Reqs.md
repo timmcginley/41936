@@ -180,7 +180,7 @@ One plan would be for traditional cellular office
 
 ### Auditorium (100 people) 
 
-The building must include an auditorium. The auditorium should be completely or partly located inside the building. 
+The building must include an auditorium. The auditorium should be completely or partly located inside the building. This should be your 'perfect auditorium' what would that be like? Make sure that both the presenter and the audience are physically and acoustically confortable etc. Please pay special attention to make sure that no one needs to 'twist their nexk' to see the presenter or the screen. Can the room also be used for other functions - if so what?
 
 ### Multipurpose space
 
@@ -189,6 +189,14 @@ The building must include a 250 m2 multipurpose space with a height of 6m, witho
 ### Café facilities 
 
 The building must include a café for minimum 50 persons. Consider what facilities need to be offered by the café.
+
+### Materials Library
+
+![image](https://github.com/user-attachments/assets/694d729f-7ba5-4412-b285-7a74024a242f)
+[Materials Research Centre](https://www.fosterandpartners.com/people/teams/materials-research-centre), Foster and Partners
+
+* 100m2 to include shelves and draws and a system to 'borrow' materials.
+* Consider how the materials in the library should be classified / ordered to support the design of better, more sustainable buildings.
 
 ## Meeting rooms
 
