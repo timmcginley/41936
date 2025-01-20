@@ -35,13 +35,6 @@ A first task of PM is to coordinate the drawings that are presented. PM should l
 ### Integrated Drawings
 
 These should include:
-* Minimum one site plan
-* 2 x alternatives of the ground floor (1:100)
-* 2 x alternatives of an office floor (1:100)
-* 2 x alternatives of vertical sections of an office floor (1:50)
-* 2 x alternatives of the section of the entire building, coloured by functions (1:200)
-* Minimum one 3D view (A1)
-Any other relevant drawings/sketches
 
 #### Minimum one site plan:
 1:200 or appropriate
