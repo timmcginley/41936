@@ -33,7 +33,7 @@ Detail and communicate your team's final design to a variety of stakeholders in 
 Assesment is divided into 3 equal parts, Integration, Project and Subject (Discipline).
 
 ## Integration 
-Focus: OpenBIM models [C](Assignments/C.md#c-bim) and [D](Assignments/D.md#d-bim)
+Focus: OpenBIM models [C](Assignments/C.md#c-bim) and [D](Assignments/D.md#d-bim) and reports
 
 * Collaborate with diverse members of the design team to realise **interdisciplinary design solutions** based on **systems engineering** principles that balance and integrate their own **disciplinary technical requirements** with those of the team to the satisfaction of the **project requirements**. 
 * Actively support alternative interdisciplinary design solution options to support an integrated design process that provides meaningful choices to the client and design team. 
