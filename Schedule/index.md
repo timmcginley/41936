@@ -125,21 +125,32 @@ This requires that you define the F2F height.
 
 ## Week 05 - Part B *
 
+14:00 – 15:00 (introduction to the subject – focus on options for Part B)
+
 ## Week 06 - External Lecture
 
-## Week 07 - Subject Lectures *
+## Week 07 - Subject Lectures **
+13.00 – 15.00 (focus on the drawings they need to produce)
 
-## Week 08 - Part B Presentation*
+## Week 08 - Part B Presentation ****
+13.00 – 17.00 (interdisciplinary drawing feedback session)
 
-## Week 09 - Part C *
+## Week 09 - Part C **/
+c Intro
+14.30 – 15.00 (introduction to part C following general introduction)
 
-## Week 10 - Consultant Session *
+## Week 10 - Consultant Session **
+13.00 – 15.00 Chief consultant session (you choose what to do)
 
-## Week 11 - External Lecture
+## Week 11 - External Lecture *
+13.00 - 14.00 External lecture
+14.00 – 15.00 Chief consultant session following external lecture.
 
 ## Week 12 - Consultant Session *
+13.00 – 14.00 Q+A
 
 ## Week 13 - Submit Part C *
+13.00 – 14.00 Q+A
 
 
 ## 3Week 1 - Part D
