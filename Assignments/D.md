@@ -12,6 +12,7 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * Part D Subject Reports
 * Part D BIM
 * Part D Presentation
+* Part D VR Model
 * Part D Invoice
 
 
@@ -71,6 +72,19 @@ Your presentation should include the following.
 * Inform the client about the estimated cost of the project.
 * Provide the estimated timeline for construction.
 * State the targeted DGNB certification level and explain the sustainability measures taken to achieve it.
+
+## Part D VR Model
+
+The VR tour should include the following points in the building.
+
+a.    Entrance
+b.    Auditorium
+c.    Multipurpose space
+d.    Meeting room(s)
+e.    Furnished office space
+f.    Space above suspended ceilings
+g.    Staircases
+h.    Basement
 
 ## Fire Safety Award – TBC 
 
