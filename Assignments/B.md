@@ -4,28 +4,29 @@
 
 Stage B starts by students 'pinning up' a specified set of drawings defined in their Design Management Schema based on informal feedback they develop design options which modelled, reported and sent to the client for feedback.
 
-* B1 Drawings
-* B2 Client Report
+At this point in the project you need feedback on 2 different design options so that you can advise the client on your recommended design.
+
+* B1 Drawings (inc. 2 options)
+* B2 Client Report (Your team's integrated design recommendations)
 * B3 Part B Invoice
 
 Documentation of 2 Different design options. 
-
 
 Define the overall concept for your building through multi-disciplinary drawings that will be 'pinned up'. The drawings will be 'marked up' with feedback by the client/teachers for you to consider.
 
 ## B1 Drawings/Sketches
 
-<!-- award admonitions - work in Sphyinx -->
+<!-- important admonition - works in Sphinx -->
 
 ```{important}
 **PM coordinates these efforts into integrated drawings**
 ```
 
-* Please bring your printed drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81).
+* Please bring your printed and correctly scaled drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
 
-* You will not formally present your drawings. Your subject teachers will, at some point, go with you to the drawings and discuss them. The idea is to create immediate feedback from the teachers.
+* The main function of the drawings session is to get you to decide and present 2 options for each discipline. To support this you will pin up drawings of **two different alternatives** for the floor plan and section. The differences can include the shape of the building, floor height, structural system, type of materials, location of rooms, or shafts, etc.
 
-* You will have to present **two different alternatives** for the floor plan and section. The differences can include the shape of the building, floor height, structural system, type of materials, location of rooms, or shafts, etc.
+* The aim is to get feedback from the Cheif consultants, external mentors and TAs but also to learn from each others work. At the session you should also look at each others drawings and find ones that are similar to yours. In this way you should be able to establish buddy groups looking at similar issues. Feedback will be oral, so you will need to take notes - this can be done directly on the drawings where appropriate so they provide a record of your next steps. You will use this feedback to inform the decisions about the 
 
 * We are not providing an 'official template' as some drawings will be sketches, while others will be made on a computer. However, please ensure each of your drawings include the number of your team, The name of the drawing.
 
