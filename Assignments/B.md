@@ -49,6 +49,8 @@ The example below are chosen from 2023 so that we are consistent with the projec
 
 A first task of PM is to coordinate the drawings that are presented. PM should look for opportunities where different systems can be represented on the same drawing.
 
+### Integrated Drawings
+
 This defines what strategies you have decided on. Each subject produces 4 drawings. The required drawings are listed below. 
 
 These should include:
@@ -60,7 +62,7 @@ These should include:
 * Minimum one 3D view
 Any other relevant drawings/sketches
 
-### Minimum one site plan:
+#### Minimum one site plan:
 1:200 or appropriate
 * Location of the building
 * Access for the fire brigades to the building
@@ -68,20 +70,20 @@ Any other relevant drawings/sketches
 * Utility systems connected to the building
 * Fire egress
 
-### Two alternative ground floor drawings:
+#### Two alternative ground floor drawings:
 1:100 or appropriate Layout
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 
-### Two alternatives office floor drawings:
+#### Two alternatives office floor drawings:
 1:200 or appropriate Layout
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 
-### Two alternatives of vertical sections of an office floor:
+#### Two alternatives of vertical sections of an office floor:
 1:50 or appropriate
 * Indicate façades incl. windows, cores, slabs, ceilings, and partitioning walls
 * Indication of horizontal stabilizing and vertical load-bearing elements
@@ -89,25 +91,26 @@ Any other relevant drawings/sketches
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 
-### Two vertical section of the entire building including basement:
+#### Two vertical section of the entire building including basement:
 1:200 or appropriate
 * Coloured code functions (office, shaft, lift, fire egress etc.)&nbsp;in the building (by hand is okay)
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of main technical rooms and shafts
 
-### Minimum one 3D view
+#### Minimum one 3D view
 Isometric or perspective view
 * At least one view from the camera position, ideally from a pedestrian point&nbsp;
 
-### Any other relevant drawings/sketches:
+#### Any other relevant drawings/sketches:
 * Sketch of any specific and important subject's point of view
 * A structural detail dealing with some important connection
 * Schematics of ventilation, heating, cooling, hot and cold water, wastewater, and sprinkler if needed.
 
+### Required subject information 
 **These must include the following disciplinary information...**
 
-### Architecture 
+#### Architecture 
 * Section,  
 * 3d view,  
 * Ground floor plan,  
@@ -115,31 +118,31 @@ Isometric or perspective view
 
 this should include 2 options...
 
-### Structure 
+#### Structure 
 
 * Plan sketch of horizontal stabilising elements. 
 * Plan sketch of vertical loaded elements. 
 * Sketch of any specific and important special structure. 
 * A structural detail dealing with some important connection. 
 
-### MEP 
+#### MEP 
 * Schematics of heating, ventilation, cooling, hot and cold water, drainage 
 * Floor section of supply system (mainly ventilation) 
 * Location and sizes of technical rooms and shafts
 * The main numbers for the LCA summarised.
 
-### Geo 
+#### Geo 
 * Soil profile,  
 * Footprint, showing also the layout of structural components at foundation level 
 * Section N-S, including interactions with structure 
 * Section E-W 
 
-### Fire - [Move to Architecture]
+#### Fire - [Move to Architecture]
 * Placement of the building showing the access of the fire brigade 
 * Describe your evacuation strategy showing the building 
 * What part of your building is performance based? What will follow the prescriptive codes? 
 
-### PM / ICT 
+#### PM / ICT 
 * Selected IT tools for simulation/analysis and BIM-modelling, present a process-map, WBS (Work breakdown structure) overview 
 * Coordinated schedule of activities for the entire team in the 13-week period 
 * Allocated space for building services and structural elements, location of shafts and routing of building services elements. Explain integration of building services as well as structural and architectural elements. 
