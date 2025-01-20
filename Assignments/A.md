@@ -71,7 +71,7 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 ## A5 ICT Contract
 PM to complete an ICT Contract for the team.
 
-## A5 Benchmark Building Model
+## A6 Benchmark Building Model
 Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
 
 You should think of this in 2 ways:
@@ -82,7 +82,7 @@ It would be difficult to produce a full shared BIM model at this stage, or would
 
 You should do this, based on the construction of a physical model, produce an 'excel workbook' documenting the basic properties of the initial model. This should also document if this satisfies the analysed client requirements.
 
-## A6 Invoices
+## A7 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 
