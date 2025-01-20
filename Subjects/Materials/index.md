@@ -3,6 +3,29 @@
 
 *This subject explores the emerging potential of an architectural materials engineer as an integral part of the building design team.*
 
+The materials subject for 2025 combines a number of roles
+
+| Role   | Savings |
+| -------- | ------- |
+| Design  | $250    |
+| Analysis | $80     |
+| Audit    | $420    |
+
+## Design
+* Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.
+
+
+## Analysis
+* Identify a new materail / product to develop that satisfies a unique problem in the design.
+* Define functional units
+
+
+## Documentation
+* Produce EPD for the new materail / product
+
+## Auditing
+* Peer review of the other groups 
+
 ## Material Requirements 
 
 Besides the below, there will be more specific Structural Requirements included in one of the first teaching sessions. 
@@ -29,7 +52,7 @@ Aligning The different subject groups values and priorities and strategically na
 
 It is your task to bring the project team together and create value and anchorage in the different the subject teams to pursue more sustainable solutions.
 
-## PerformLCA on the building.
+## Perform LCA on the building.
 During this project initial faces, you will need to Create an initial baseline model that can support early identification of hotspots in the design of the building sketch and support prioritised decision making, in later scenario development. The scenarios you develop should be to a degree that enables informed decision making with clear evaluations on information shortcomings, advantages, and drawback from an Environmental performance standpoint. The hope is to support a transdisciplinary process of knowledge sharing and prioritisation and decision making.
 
 Lastly you will need to create a complete LCA of the building including all the regulation required life cycle stages. Pay attention and document all insecurities or shortcomings in your model as well as a discussion and perspectivation of the final LCA analysis and results.
