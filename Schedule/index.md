@@ -66,6 +66,7 @@ Teams: 14:00 / 15:00 - 17:00
 ## Week 01 - Part A
 
 Welcome to Advanced Building Design 2025.
+
 We will meet for the first session in **Auditorium 32 in building 306.**
 
 Make sure you have read the course guide before the first session:
@@ -87,6 +88,7 @@ Make sure you have read the course guide before the first session:
 | 16:10 - 17:00 | Analyse brief <br> Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
 
 ### Questions
+* Which type of consultant do you want to be in this project?
 * What is the identity of your subject group (company)? 
 * How does your subject contribute to the team?  
 * List one thing you need the most from each subject.  
