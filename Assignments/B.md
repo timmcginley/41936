@@ -37,7 +37,7 @@ A first task of PM is to coordinate the drawings that are presented. PM should l
 These should include:
 
 #### Minimum one site plan:
-1:200 or appropriate
+1:200 scale
 * Location of the building
 * Access for the fire brigades to the building
 * Placement of the building showing the access of the fire brigade 
@@ -47,14 +47,14 @@ These should include:
 * Fire egress
 
 #### 2 x alternative ground floor drawings:
-1:100 or appropriate Layout
+1:100 scale
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 * Location and sizes of shafts in core
 
 #### 2 x alternatives office floor drawings:
-1:200 or appropriate Layout
+1:200 scale
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
@@ -62,31 +62,34 @@ These should include:
 * Fire egress
 
 #### 2 x alternatives of vertical sections of an office floor:
-1:50 or appropriate
-* Indicate façades incl. windows, cores, slabs, ceilings, and partitioning walls
-* Indication of horizontal stabilizing and vertical load-bearing elements
+1:50 scale
+* ARCH: Indicate façades incl. windows, cores, slabs, ceilings, and partitioning walls
+* STR: Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 
 #### 2 x vertical section of the entire building including basement:
-1:200 or appropriate either North South or West East.
-* Coloured code functions (office, shaft, lift, fire egress etc.) in the building (by hand is okay)
-* Indication of horizontal stabilizing and vertical load-bearing elements
-* Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
-* Location and sizes of main technical rooms and shafts
-* Footprint, showing also the layout of structural components at foundation level
-* Show interactions between structure and geotechnical.
+1:200 scale either North South or West East.
+* ARCH: Coloured code functions (office, shaft, lift, fire egress etc.) in the building (by hand is okay)
+* STR: Indication of horizontal stabilizing and vertical load-bearing elements
+* MEP: Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
+* MEP: Location and sizes of main technical rooms and shafts
+* GEO/STR: Footprint, showing also the layout of structural components at foundation level
+* GEO/STR: Show interactions between structure and geotechnical.
 
 #### 2 x Basement plan
-1:200
-* Footprint, showing also the layout of structural components at foundation level
-* Soil profile
-* Showing the different options for Geotech.
+1:200 scale
+* GEO: Footprint, showing also the layout of structural components at foundation level
+* MEP: Plant / Technical Space
+* ARCH: Bike / stuff storage.
+* GEO: Soil profile
+* GEO: Showing the different options for Geotech.
 
 #### Minimum one 3D view
-Isometric or perspective view
-* At least one view from the camera position, ideally from a pedestrian point&nbsp;
+Perspective view (A1)
+* ARCH: Camera position, ideally from a pedestrian point (none of us actually have helicopters)
+* MAT: Show some of the materials of the buidling - but ok to leave out / white where not sure - can you show diff options?
 
 #### Dashboard (printed)
 * MAT: The main numbers for the LCA summarised for the differernt options.
