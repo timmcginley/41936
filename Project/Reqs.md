@@ -174,9 +174,8 @@ One plan would be for traditional cellular office
 **The offices need to provide space for 1000 desks.**
 
 ## Spaces
-## Researcher Space
 
-## Teaching and Learning spaces
+Your proposal must include the following spaces.
 
 ### Auditorium (100 people) 
 
