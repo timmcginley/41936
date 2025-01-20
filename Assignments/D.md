@@ -2,7 +2,7 @@
 
 > Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR.
 
-```{attention} Final Presentation location
+```{attention}
 The final presentation will take place in Building 117, Room 24. You can enter the room from Building 127. 
 ```
 
@@ -51,7 +51,13 @@ Was the IFC export successful
 Have the clashes been fixed or if not possible documented in your report?
 
 ## Final Presentation
-Your presentation should include the following.
+Timings for the presentation:
+
+* 10 min. Presentation    
+* 10 min. VR    
+* 10 min. Questions
+  
+Your presentation should include the following:
 
 ### Design Intentions and KPIs
 * Explain the key performance indicators (KPIs) for the project.
