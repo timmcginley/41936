@@ -2,6 +2,8 @@
 *The materials subject is a new subject in Advanced Building Design. We have added it to support greater investigation of different material options in project. Including their LCA implications. Additionally the subject is responsible for the DGNB-Lite documentation of the project.*
 
 *This subject explores the emerging potential of an architectural materials engineer as an integral part of the building design team.*
+You have four main roles as a materials consultant.
+
 
 ## Sustainability and the build environment
 A central part of this subject is to understand and potentially challenge the taken for granted, In regard to how we build. This is done from a sustainability point of perspective. But how can we argue that something is sustainable and what does that entail. during the subject you will explore and try to define sustainability in context to your building project.
