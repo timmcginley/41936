@@ -1,10 +1,25 @@
 # Materials / LCA
 ![image](https://github.com/user-attachments/assets/c305534c-ac06-4972-9f27-dccbdb2e6e44)
 
+*The role of Materials consulant in Adnvavced Building Design is essential to explore the emerging potential of an materials designer / engineer as an integral part of the building design team.*
 
-*The materials subject is a new subject in Advanced Building Design. We have added it to support both the invesitgation and anlaysis of the sustainability of existing materials as well as an opportubnity to deisgn and analyse new materails that satisfy your project team's needs. existing greater investigation of different material options in project. Including their LCA implications. Additionally the subject is responsible for the DGNB-Lite documentation of the project.*
+Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportubnity to deisgn and analyse new materials that satisfy your project team's needs.
 
-*This subject explores the emerging potential of an architectural materials engineer as an integral part of the building design team.*
+## Skills 
+* Experience with LCA (essential - at least one member)
+* Experience with DGNB (Desirable)
+* Experience with EPDs (Desirable)
+* Material design / engineering experience (Desirable)
+* Passionate about sustainability (essential)
+
+Cheif Consultant: Navid Ranjbar.
+
+## Requirements 
+Advanced Building Design Materials Consultants have the following Requirements:
+
+We have added it to s
+
+
 You have four main roles as a materials consultant.
 
 
