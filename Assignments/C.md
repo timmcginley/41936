@@ -13,8 +13,8 @@ Stage C starts by responding to the client feedback and integrating the chosen s
 The client report is a high level report that follows the structure of the different systems.
 
 
-## Subject Reports
-Delivered as either:
+## Consultant Reports
+Each consultancy deliver a report:
 
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
