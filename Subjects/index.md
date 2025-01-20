@@ -6,10 +6,11 @@
 *
 */index
 ```
-## All subjects in 2025
+## Consultant subjects in 2025
 
 * All subjects need to have an innovation in the system they are pushing forwards.
 * All subjects need to make a clear scientific claim about an advanced element in their design.
+* Which type of consultant do you want to be in this project?
 
 ## [Architecture](Architecture)
 ## [Structure](Structure)
