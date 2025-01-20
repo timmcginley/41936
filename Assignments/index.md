@@ -48,7 +48,7 @@ Focus: Client Report
 * Evaluate the design models and reports from previous course cohorts to identify the challenges to balancing the project and disciplinary requirements in a complex building project.
 
 ## Subject 
-Focus: Subject Report 
+Focus: Consultant Report [C](Assignments/C.md#c-consultant-report) and [D](Assignments/D.md#d-consultant-report)
 
 * Model and analyse digital OpenBIM building models using computational design and disciplinary analysis tools to provide realtime guidance to the whole team throughout the design process. 
 * Communicate and investigate the building design and analysis using models, drawings, reports, diagrams, dashboards and presentations to internal and or external assessors to a professional level. 
