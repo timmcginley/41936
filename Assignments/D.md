@@ -16,10 +16,8 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * Part D Invoice
 
 
-## D Report 
+## D Report Client and Consultant Reports
 This is handed in some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
-
-[link](/41936/Deliverables/FinalReport)
 
 ## D BIM Model
 Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon.
