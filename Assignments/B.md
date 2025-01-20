@@ -14,9 +14,12 @@ Documentation of 2 Different design options.
 Define the overall concept for your building through multi-disciplinary drawings that will be 'pinned up'. The drawings will be 'marked up' with feedback by the client/teachers for you to consider.
 
 ## B1 Drawings/Sketches
-* Please bring your printed drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81).
 
-* **PM coordinates these efforts into integrated drawings**
+```{important} Interdisciplinary Drawings
+**PM coordinates these efforts into integrated drawings**
+```
+
+* Please bring your printed drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81).
 
 * You will not formally present your drawings. Your subject teachers will, at some point, go with you to the drawings and discuss them. The idea is to create immediate feedback from the teachers.
 
@@ -66,7 +69,6 @@ this should include 2 options...
 * Floor section of supply system (mainly ventilation) 
 * Location and sizes of technical rooms and shafts
 * The main numbers for the LCA summarised.
-
 
 ### Geo 
 * Soil profile,  
