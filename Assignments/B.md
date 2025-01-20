@@ -16,7 +16,7 @@ Define the overall concept for your building through multi-disciplinary drawings
 ## B1 Drawings/Sketches
 
 ```{important} Interdisciplinary Drawings
-**PM coordinates these efforts into integrated drawings**
+  **PM coordinates these efforts into integrated drawings**
 ```
 
 * Please bring your printed drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81).
