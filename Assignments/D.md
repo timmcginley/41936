@@ -46,6 +46,27 @@ Have the clashes been fixed or if not possible documented in your report?
 
 
 ## Final Presentation
+Your presentation should include the following.
+
+### Design Intentions and KPIs
+* Explain the key performance indicators (KPIs) for the project.
+* Describe the intentions behind your design and how they align with the client’s goals and requirements.
+### Response to Feedback
+* Summarize the feedback received after the 13-week submission.
+* Explain how you have incorporated this feedback into the design to make improvements.
+### Navigating the Building
+* Describe the approach to the building and the main entrance.
+* Explain how people move around within the building.
+### Building Layout
+* Discuss how the building is divided into different sections.
+* Show a few floor plans.
+### Structural and Building Services Systems
+* Indicate the principles of the structural systems used in the design.
+* Describe the building service systems.
+### Project Details
+* Inform the client about the estimated cost of the project.
+* Provide the estimated timeline for construction.
+* State the targeted DGNB certification level and explain the sustainability measures taken to achieve it.
 
 ## Fire Safety Award – TBC 
 
