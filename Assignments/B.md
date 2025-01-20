@@ -15,6 +15,8 @@ Define the overall concept for your building through multi-disciplinary drawings
 
 ## B1 Drawings/Sketches
 
+<!-- award admonitions - work in Sphyinx -->
+
 ```{important} Interdisciplinary Drawings
   **PM coordinates these efforts into integrated drawings**
 ```
