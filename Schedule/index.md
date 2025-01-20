@@ -136,7 +136,7 @@ This requires that you define the F2F height.
 
 ## Week 08 - Part B Presentation ****
 13.00 – 17.00 (interdisciplinary drawing feedback session)
-Check the [Drawing Assignment](/Assignments/A.md#b1-drawings) in Part B for more details
+Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ## Week 09 - Part C **/
 c Intro
