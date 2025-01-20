@@ -155,16 +155,18 @@ This needs to be carefully considered.
 If you have a geo consultant then you must have a minimum of 2 floors of basement. This should be possible that support the underground building services requirements and storage.
 
 ### Public top floor 
-
-The building must have an observatory with public access. 
+The building must have an accessible top floor including:
+* Shared herb / vegetable
+* Greenhouses
+* Place to enjoy the sun / observe the stars
 
 ### Public ground floor 
 
-The building must have a mostly public ground floor including reception area to serve the auditorium and multi sue space and will also be the centre of security monitoring and access control. The division between public and 'private' DTU areas should be clear.
+The building must have a mostly public ground floor including reception area to serve the auditorium and will also be the centre of security monitoring and access control. The division between public and 'private' DTU areas should be clear.
 
 ### Office Floor(s) 
 
-The office floor should feature maximum flexibility to support flexible multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms. These rooms blur that you could book for a week rather than just an hour or so like a meeting room, they are a space for people to come together from different disciplines to solve specific.
+The office floor should feature maximum flexibility to support multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms. These rooms blur that you could book for a week rather than just an hour or so like a meeting room, they are a space for people to come together from different disciplines to solve specific.
 
 One plan would be for traditional cellular office 
 
