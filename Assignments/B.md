@@ -67,8 +67,10 @@ Any other relevant drawings/sketches
 1:200 or appropriate
 * Location of the building
 * Access for the fire brigades to the building
+* Placement of the building showing the access of the fire brigade 
 * Access for waste truck
 * Utility systems connected to the building
+* Evacuation strategy showing the building 
 * Fire egress
 
 #### Two alternative ground floor drawings:
@@ -76,12 +78,14 @@ Any other relevant drawings/sketches
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
+* Location and sizes of shafts in core
 
 #### Two alternatives office floor drawings:
 1:200 or appropriate Layout
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
+* Allocated space (in core) for building services and structural elements, location of shafts and routing of building services elements. Explain integration of building services as well as structural and architectural elements. 
 * Fire egress
 
 #### Two alternatives of vertical sections of an office floor:
@@ -93,61 +97,41 @@ Any other relevant drawings/sketches
 * Fire egress
 
 #### Two vertical section of the entire building including basement:
-1:200 or appropriate
-* Coloured code functions (office, shaft, lift, fire egress etc.)&nbsp;in the building (by hand is okay)
+1:200 or appropriate either North South or West East.
+* Coloured code functions (office, shaft, lift, fire egress etc.) in the building (by hand is okay)
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of main technical rooms and shafts
+* Footprint, showing also the layout of structural components at foundation level
+* Show interactions between structure and geotechnical.
+
+#### Basement plan
+1:200
+* Footprint, showing also the layout of structural components at foundation level
+* Soil profile
 
 #### Minimum one 3D view
 Isometric or perspective view
 * At least one view from the camera position, ideally from a pedestrian point&nbsp;
 
-#### Any other relevant drawings/sketches:
-* Sketch of any specific and important subject's point of view
-* A structural detail dealing with some important connection
-* Schematics of ventilation, heating, cooling, hot and cold water, wastewater, and sprinkler if needed.
+#### Dashboard (printed)
+* MAT: The main numbers for the LCA summarised for the differernt options.
+* PM: Performance against the Beats (estimated or calculated)
+* PM: Performance against the KPIs
+* PM: Selected IT tools for simulation/analysis and BIM-modelling, present a process-map, WBS (Work breakdown structure) overview
+* PM: Client requirements coordinated with the system engineering process. 
 
-### Required subject information 
-**These must include the following disciplinary information...**
-
-#### Architecture 
-* Section,  
-* 3d view,  
-* Ground floor plan,  
-* Office plan
-
-this should include 2 options...
-
-#### Structure 
-
-* Plan sketch of horizontal stabilising elements. 
-* Plan sketch of vertical loaded elements. 
-* Sketch of any specific and important special structure. 
-* A structural detail dealing with some important connection. 
-
-#### MEP 
-* Schematics of heating, ventilation, cooling, hot and cold water, drainage 
-* Floor section of supply system (mainly ventilation) 
-* Location and sizes of technical rooms and shafts
-* The main numbers for the LCA summarised.
-
-#### Geo 
-* Soil profile,  
-* Footprint, showing also the layout of structural components at foundation level 
-* Section N-S, including interactions with structure 
-* Section E-W 
-
-#### Fire - [Move to Architecture]
-* Placement of the building showing the access of the fire brigade 
-* Describe your evacuation strategy showing the building 
-* What part of your building is performance based? What will follow the prescriptive codes? 
+#### Other relevant drawings/sketches:
+* STR: Plan sketch of horizontal stabilising elements. 
+* STR: Plan sketch of vertical loaded elements.
+* STR: Sketch of any specific and important special structure. 
+* STR: A structural detail dealing with some important connection
+* MEP: Schematics of ventilation, heating, cooling, hot and cold water, wastewater, and sprinkler if not possible to show in main section.
+* FIRE: What part of your building is performance based? What will follow the prescriptive codes? 
 
 #### PM / ICT 
-* Selected IT tools for simulation/analysis and BIM-modelling, present a process-map, WBS (Work breakdown structure) overview 
 * Coordinated schedule of activities for the entire team in the 13-week period 
-* Allocated space for building services and structural elements, location of shafts and routing of building services elements. Explain integration of building services as well as structural and architectural elements. 
-* Client requirements coordinated with the system engineering process. 
+
 
 ## B2 Client Report 
 
