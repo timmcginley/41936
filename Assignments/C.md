@@ -10,7 +10,19 @@ Stage C starts by responding to the client feedback and integrating the chosen s
 * Part C Invoice
 
 ## Client Report
-The client report is a high level report that follows the structure of the different systems.
+The client report is a high level report including information on the:
+* Project & KPIs
+* Team
+* Advanced Building Design, what it is to you
+* Beats
+* Site
+* Building Design
+* Floors
+* Spaces, entrance, auditorium, multipupose and cafe
+* Structural system inc. floor plan, loads, components, Geotechnical, Fire Safety
+* MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
+* Facade
+* Questions for feedback
 
 
 ## Consultant Reports
