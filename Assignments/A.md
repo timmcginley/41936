@@ -68,7 +68,8 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 * Coordinate the tasks of the subjects and produce the design management schema.
 * Collate the weekly predicted design cost include this in the design management schema and track and document this throughout the project.
 
-The DMS should also include the signed [team contract](TeamContract.md)? 
+## A5 ICT Contract
+PM to complete an ICT Contract for the team.
 
 ## A5 Benchmark Building Model
 Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
