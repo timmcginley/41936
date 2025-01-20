@@ -124,7 +124,6 @@ Current GFA Gross (1.810 m2) Net (1.623 m2)
 * Building could be demolished but materails should be retained.
 * Most suitable project for rebuild
 
-
 ### Building 115
 Current GFA Gross (5.736 m2) Net (5.188 m2)
 * Currently used as offices only
@@ -132,8 +131,6 @@ Current GFA Gross (5.736 m2) Net (5.188 m2)
 * Improve collaboration
 * Interaction between students and staff
 * Most simple renovation case, but would require more floors on top
-
-
 
 ### Connection to Campus 
 
@@ -197,30 +194,22 @@ The building must include a café for minimum 50 persons. Consider what faciliti
 * 100m2 to include shelves and draws and a system to 'borrow' materials.
 * Consider how the materials in the library should be classified / ordered to support the design of better, more sustainable buildings.
 
-## Meeting rooms
+### Meeting rooms
 
-### Meeting Rooms (25 people) 
-
-2 x 25 people 
-
-### Meeting Rooms (15 people) 
-
-10 x 15 people 
+* 2 x 25 people <mark>[adjust to new brief]</mark>
+* 10 x 15 people <mark>[adjust to new brief]</mark>
 
 ### Soundproof Office Booth
 5 booth per office and student floors for 1-2 person.
-
-## Student Area
 
 ### Student Area 
 
 Area for students. 
 <!-- including permanent desk spaces - 300. see Beat 14 for details. -->
-<!--
+
 ### Atrium 
 
 The building should include an atrium (visually connected to the foyer) to provide visual understanding of the inside of the building, it is up to your team how high / big this is. 
--->
 
 ### Additional
 * As many spaces as possible should support several functions.
@@ -229,7 +218,7 @@ The building should include an atrium (visually connected to the foyer) to provi
 
 Flexible and robust office building that can accommodate a range of tenants. 
 
-## Parking provision 
+### Parking provision 
 
 2 level underground parking space. (Remember to add what building services need to work out the total!) 
 
