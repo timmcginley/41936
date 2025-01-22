@@ -55,15 +55,15 @@ Heating, cooling and ventilation can be supplied to the room in a number of diff
 The optimal combination of low energy consumption and good indoor climate (including daylight) must be found using some sort of sensitivity parameter variation routine. This optimization should be done using IDA ICE (or similar). The purpose is to find the optimal set of parameters in combination with the other design requirements by the other subjects. This sensitivity analysis is a major input from subject 3 to the discussion and shaping/design of the building.
 The data from the following table must be used in setting up the thermal simulations.
 
-| Room   | m2 pr. person   | Watt/person   | Equipment Watt/person   |Lighting W/m2   | Other equipment W/m2   | Notes  |
+| Room                           | m2 pr. person  | Watt/person  | Equipment Watt/person |Lighting W/m2   | Other equipment W/m2   | Notes      |
 |---|---|---|---|---|---|---|
-| Landscape office   | 8   | 90   | 90   | 5   | 3   | Note 3,5   |
-| Single office  | 10 | 90   | 90   | 7   | 3   |   |
-| Print and copying room   |   |   |   | 100   | 100  | Note 6   |
-| Reception   | 20   |   |   | 8   | 3   |   |
-| Canteen   | 1.5   | 90   |   | 5   | 3   | Note 1   |
-| Kitchen incl. secondary spaces  |   |   |   |   | 3   | Note 2   |
-| Meeting rooms   | 2   | 90   | 25   | 8   | 20   | Note 4   |
+| Landscape office               | 8              | 90           | 90                    | 5              | 3                      | Note 3,5   |
+| Single office                  | 10             | 90           | 90                    | 7              | 3                      |   |
+| Print and copying room         |                |              |                       | 100            | 100                    | Note 6   |
+| Reception                      | 20             |              |                       | 8              | 3                      |   |
+| Canteen                        | 1.5            | 90           |                       | 5              | 3                      | Note 1   |
+| Kitchen incl. secondary spaces |                |              |                       |                | 3                      | Note 2   |
+| Meeting rooms                  | 2              | 90           | 25                    | 8              | 20                     | Note 4   |
 
 ```{Admonitions}Notes
 Note 1: Area calculated excluding buffet area.
@@ -189,5 +189,21 @@ Further the reporting should contain detailed requirements or actual products fo
 BIM: Required spaces for building services elements. Include a detailed model of ventilation system at an office floor and main vertical services in the core.
 Choose 1 floor level from the above-detailed ones and add all your HVAC components. Create volume delimitation (boxes with names on it – ask PM Subject for the explanation if needed) in the basement technical floor representing space division for the components. Vertical Inlet and Outlet ventilation from the basement to the top of the building based on your design criteria have to be included (is it continuous or not?). 
 
-* [Integration](/41936/Roles/MEP/Integration)
-* [Requirements](/41936/Roles/MEP/Reqs)
+## Integration
+
+### MEP -> Architecture
+The work in subject 3 will initially be in close cooperation with Subject 1 where the main design parameters of the building should be established. That is; floor plans (including space for technical installations), design of windows, floor height, ventilation concept, heating and cooling system (especially if building integrated solutions are used), and thermal mass. Keep in mind that establishing the right combination of design parameters in the very early phase of the process is the only way to ensure that satisfactory indoor climate and low energy consumption in the building can be made possible.
+It is important for the work in subject 3 that it is coordinated with the work from the other subjects - mainly subject 1 and 2. An example of this coordination is to estimate how much space is required for the ventilation system and other technical installations in both the horizontal (on the floor) and vertical direction (shafts). Consider which services to put in basement, at technical floors and close to sky bar. This must initially be based on rules of thumb, but later on based on more advanced methods.
+
+### MEP -> Structures
+It is important very early on to establish the floor height including room height, deck construction and the cavity above the suspended ceiling (if you have one). This needs input from subject 1, 2 and 3.
+
+Beams in façade take window height and daylight. Are there designated spaces for routing of installations? Do installations collide with columns or beams? E.g. are the radiator pipes at the façade blocked by columns or do beams block the ducting?
+- Do the structural elements create thermal bridges through the insulated building envelope? This is relevant for façade but also for roof or basement floors that separates warm space from parking space.
+- Do the installation have to go through structural components, and is that a structural problem? Small holes in some parts of the beam is often acceptable
+
+### MEP -> PM/ICT
+MEP constitutes a significant share of total costs. Air-borne heating and cooling may be cheap to purchase but occupies more rentable space than hydronic h/c systems. Therefore, the MEP has to coordinate with the PM from cost perspective, BIM Model quality assurance and space management.
+- Be aware of the waste management system you chose, to remove the waste from the building and coordinate the height of the basement accordingly. Is it from –1 Level, removed by a waste management truck, that results in a higher floor to floor for –1 Level than for –2 Level and –3 Level. That provides a bigger volume floor to floor x area, for the MEP – 1 Level technical floor. This results in the access ramp to be either inside or outside the excavation/retaining system area, therefore, coordination of these has to be between Geotechnical Engineer, Structural Engineer, Architect, MEP, Fire and PM.
+
+
