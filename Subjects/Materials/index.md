@@ -5,14 +5,27 @@
 
 Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportubnity to deisgn and analyse new materials that satisfy your project team's needs.
 
-## Skills 
+Cheif Consultant: Navid Ranjbar.
+
+## Skills Required
 * Experience with LCA (essential - at least one member)
 * Experience with DGNB (Desirable)
 * Experience with EPDs (Desirable)
 * Material design / engineering experience (Desirable)
 * Passionate about sustainability (essential)
 
-Cheif Consultant: Navid Ranjbar.
+## We can support you with
+* things to consider in material design
+* How to produce a basic EPD
+* An overview of LCA
+* An overview of DGNB (Lite)
+* Inspiration from some realworld examples
+
+## You will need to independently
+* Get the material requirements from the team.
+* Prvide each consultant with the LCA impact they are responsible for
+* Decide which elements of the design to focus
+* Review available materials
 
 ## Requirements 
 Advanced Building Design Materials Consultants have the following Requirements:
