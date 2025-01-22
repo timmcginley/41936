@@ -9,6 +9,8 @@ Foster+Partners office, London, UK.
 
 The Architecture subject is responsible for the management of the usable spaces and the facade and the overall composition of the building. The subject group needs to get their heads into the project quickly and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. An example task will be to coordinate the shape of the floor plate with required rooms and the structural modules. Whilst you will have ideas for the building you will find that your time will also need to be spent coming up with good design solutions between the needs of the different members of the team.
 
+.. literalinclude:: example.py
+
 Cheif Consultant: Tim McGinley
 
 ## Assignments
