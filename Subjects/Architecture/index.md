@@ -5,7 +5,7 @@ Foster+Partners office, London, UK.
 
 
 
-**The design of tall buildings requires a team approach between various disciplines of design, material fabrication and building construction. The member of the design subject group designs the building. They are also responsible for the facade and finishes in the building. They coordinate the design so that the different material, service, activity components and other parameters act as a whole in the design of the project.**
+**Building design requires a team approach between various disciplines of design, material fabrication and building construction. Architectural Consultants are mainly responsible for the design of the [spaces], [facades] and [finishes] and communication of the design. They are responsible to deisgn a building that provides the function required by the client, that is greater than the sum of its parts.**
 
 The Architecture subject is responsible for the management of the usable spaces and the facade and the overall composition of the building. The subject group needs to get their heads into the project quickly and start exploring the potential form (shape) and arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. An example task will be to coordinate the shape of the floor plate with required rooms and the structural modules. Whilst you will have ideas for the building you will find that your time will also need to be spent coming up with good design solutions between the needs of the different members of the team.
 
