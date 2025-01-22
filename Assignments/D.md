@@ -32,7 +32,7 @@ The final client report should include:
 * Reflection
 
 ## D Consultant Reports
-These will be submitted soem days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
+These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
 
 ## D BIM
 Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon. The BIM should:
