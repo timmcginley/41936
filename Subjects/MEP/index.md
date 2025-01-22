@@ -91,7 +91,7 @@ Further the reporting should contain detailed requirements or actual products fo
 *N.B….You should also be aware that the air intake and outlet of ventilation air will take up a lot of room, especially if the ventilation units are placed on the floors of the building - and not in the basement and/or top floor. In total the building design, which gives the energy demand in the building together with the energy supply and distribution system, defines the energy concept of the building. All of this must be documented based on the optimization and included in a Be18 and IDA ICE calculation to document that the main requirements can be met.*
 
 #### D BIM
-'
+
 **@Peter/Christian Please check against [Part D bim description](/Assignements/D.md#d-bim)**
 
 BIM: Required spaces for building services elements. Include a detailed model of ventilation system at an office floor and main vertical services in the core.
