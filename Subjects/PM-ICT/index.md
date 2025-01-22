@@ -5,7 +5,7 @@
 
 
 **The project manager in 2025 is management with a small m. The aim of the course is to support the whole design team to collaborate and gain confidence in their design decisions. The role of PM is therfore to:**
-* Define their professional values and build a team that relects these
+* Define their professional values and build a team that reflects these
 * Remove barriers to collaboration and
 * Align information processes in the team and support OpenBIM tools processes and standards
 * Ensure project deliverables are created and submitted on time
