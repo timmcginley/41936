@@ -65,10 +65,9 @@ The data from the following table must be used in setting up the thermal simulat
 | Kitchen incl. secondary spaces  |   |   |   |   | 3   | Note 2   |
 | Meeting rooms   | 2   | 90   | 25   | 8   | 20   | Note 4   |
 
+```{Admonitions}Notes
 Note 1: Area calculated excluding buffet area.
-
 Note 2: Heat gain determined after kitchen design.
-
 Note 3: The following occupancy load is used:
 - Kl. 8-11 80 %
 - Kl. 11-13 25 % (lunch break)
@@ -79,9 +78,11 @@ Note 4: The following occupancy load is used in meeting rooms:
 - Kl. 12-13 0 % (lunch break)
 - Kl. 13-15 100 %
 - Kl. 15-17 50 %
-
 Note 5: The area includes the whole floor area including corridors, walking areas, break-out spaces etc. In practice the occupancy load in the landscape office is probably 6-7 m2/person.
 Note 6: Concurrency means that the load in the printer rooms from equipment will be 20 W/m²
+```
+
+
 
 Generally
 - Equipment: comprise laptops and screens and other person-related equipment like IP-telephone, mobile charger, height adjustable desks etc.
