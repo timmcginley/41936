@@ -11,7 +11,32 @@ The Architecture subject is responsible for the management of the usable spaces 
 
 .. literalinclude:: example.py
 
-Cheif Consultant: Tim McGinley
+Chief Consultant: Tim McGinley
+
+## Skills and motivation
+* Experience with Architectural design (essential - at least one member)
+* Taken a design studio (Desirable)
+* Experience with computational design (Desirable)
+* Material design / engineering experience (Desirable)
+* Ability to listen and grow from feedback (essential)
+* Willingness to explore different options
+* Enthusiasm to find solutions that work for the whole team.
+* A consultancy that covers interest in resolving both the conceptual and detail challenges
+
+## We support you with
+* Understanding the role of the architect
+* Facade design
+* Space planning
+* Design tutorials and crits
+* Advice on interdisciplinary desi
+* Detail drawings (Part D)
+* Inspiration from some realworld examples
+
+## You will need to independently
+* Work in BIM / Design software to develop your designs
+* Develop the interfaces
+* Work out the questions you need to ask in the consultancy sessions
+* Work out how to keep the team moving so that they are not sitting around waiting for you.
 
 ## Assignments
 This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall needs of each assignment.
