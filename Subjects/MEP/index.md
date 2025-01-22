@@ -65,7 +65,7 @@ The data from the following table must be used in setting up the thermal simulat
 | Kitchen incl. secondary spaces |                |              |                       |                | 3                      | Note 2   |
 | Meeting rooms                  | 2              | 90           | 25                    | 8              | 20                     | Note 4   |
 
-```{Admonitions}Notes
+```{Note}
 Note 1: Area calculated excluding buffet area.
 Note 2: Heat gain determined after kitchen design.
 Note 3: The following occupancy load is used:
