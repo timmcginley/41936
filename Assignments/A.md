@@ -71,7 +71,10 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 ## A5 ICT Contract
 PM to complete an ICT Contract for the team.
 
-## A6 Benchmark Building Model
+## A6 IDS for consultant BIM
+Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
+
+## A7 Benchmark Building Model
 Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
 
 You should think of this in 2 ways:
