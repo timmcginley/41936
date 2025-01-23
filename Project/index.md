@@ -1,4 +1,5 @@
 # DTU Fri
+
 ```{toctree}
 :hidden:
 :glob:
@@ -8,7 +9,6 @@
 
 ![image](https://github.com/user-attachments/assets/369ea55f-ce3f-4ddb-bc0f-ffc8593ae6c5)
 [AART](https://aart.dk/projekter/dtu-bygning-208)'s renovation of Building 208
-
 
 ## Project Requirements 2025
 
