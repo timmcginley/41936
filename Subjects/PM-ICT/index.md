@@ -14,7 +14,7 @@
 
 According to “Description of Services for Building and Landscape 2018”: 2.2 ICT management -  In respect of agreed digital design work, the ICT manager is responsible for coordinating any digital cooperation between the consultants, design contractors, the client and any authorities together with the design manager. The digital design cooperation is organized based on the ICT specification of the consultancy agreement. If no ICT specification has been prepared, the ICT manager will organize the digital cooperation together with the consultants.
 
-Cheif Consultant: Jan Karlshøj
+Chief Consultant: Jan Karlshøj
 
 ## Requirements 
 
