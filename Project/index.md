@@ -25,9 +25,11 @@ Your building and your design process should be agile and prepared for change - 
 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
+### The Client
+The project needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
+
 ### Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
-
 
 In this first session of the course you will be introduced to your teachers and meet with the other members of your subject. You will be asked to divide into groups and to consider what is important for your subject group / company.  
 
@@ -35,37 +37,17 @@ In week 1 of the project, the PMs set their KPIs to describe the values of the t
 
 #### DGNB
 
-DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM as either: 
-
-DGNB “Lite” - silver, gold or platinum 
+DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM:
 
 #### COST 
 
-The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area and must be either:  
-
-30.000DKK/m2, 35.000DKK/m2 or 40.000DKK/m2
-
-<!-- 2024 
-60.000DKK/m2, 65.000DKK/m2 or 70.000DKK/m2 
--->
+The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area:
 
 #### LCA
+it is important that all consultants keep a close eye on the LCA for the elements and systems they are responsible for.
 
-Previous projects have acheived between
-
-80 months, 100 months or 120 months
-
-<!--
 ## USER 
-This describes the spatial efficiency of the building. This calculation is focused on the heated areas of the building. We will ask you to provide the GFA/person for the non-heated area too, but not as a KPI. The reason for this is, that in this course we need the below ground for the geotechnical subject but, in a real project it is not possible to include the lower floors and still hit the KPI targets here - so we will not ask you to do it, but please consider this in future projects! 
-
-1800 permanent desks, 1600 permanent desks, 1400 permanent desks
--->
-
-<!-- thoughts on numbers
-Roughly 200 students involved in Advanced Building design - 200 students and 200 staff?
-
---->
+This is the total number of permanant desks in your building.
 
 #### Points allocation
 
@@ -74,15 +56,13 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 | CO2eq/m2/User      | 60       | 80      | 100     |
 | Cost (dkk/m2)      | 30.000   | 35.000  | 40.000  |
 | DGNB (Lite)        | Platinum | Gold    | Silver  |
-| Perm. desk space   | 1000     | 800     | 600     |
+| Perm. desk space   | 600      | 400     | 200     |
 
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
-> 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point)  = 5 Points
 
-We have previously sought to find these in a tall new building, this year  we want to find most of this space by changing theuse of existing buildings and incorporating some new build.
+> 60 (CO2eq/m2/User) (1 point) + 35.000DKK/M2 (3 pt) + platinum (1 point) + 400 desks (3 point) = 8 Points
 
-The project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
 
 ## The Site
 Teh site of the project is DTU Lyngby Campus. You will be able to choose from different sites including:
