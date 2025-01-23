@@ -26,7 +26,7 @@ Your building and your design process should be agile and prepared for change - 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### Project KPIs (Key Performance Indicators)
->This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
+>This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
 
 
 In this first session of the course you will be introduced to your teachers and meet with the other members of your subject. You will be asked to divide into groups and to consider what is important for your subject group / company.  
