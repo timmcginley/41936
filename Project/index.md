@@ -68,12 +68,12 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 
 #### Points allocation
 
-|                    | 1 pts    | 3 pts | 5 pts  |
-|--------------------|----------|-------|--------|
-| Time CO2eq/m2/User | 60       | 80    | 100    |
-| Cost dkk/m2        | 30k      | 35k   | 40k    |
-| DGNB (Lite)        | Platinum | Gold  | Silver |
-| People/desks       | 1800     | 1600  | 1400   |
+|                    | 1 pts    | 3 pts   | 5 pts   |
+|--------------------|----------|---------|---------|
+| CO2eq/m2/User      | 60       | 80      | 100     |
+| Cost (dkk/m2)      | 30.000   | 35.000  | 40.000  |
+| DGNB (Lite)        | Platinum | Gold    | Silver  |
+| Perm. desk space   | 1000     | 800     | 600     |
 
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
