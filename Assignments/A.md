@@ -31,7 +31,7 @@ For delivery:
 
 ### Tests
 * The Structure test (wind test)
-* The Fire test
+* The Fire test (Evacuating string test)
 
 
 <!-- award admonitions - work in Sphyinx -->
