@@ -7,6 +7,7 @@
 ```
 
 ![image](https://github.com/user-attachments/assets/369ea55f-ce3f-4ddb-bc0f-ffc8593ae6c5)
+[AART](https://aart.dk/projekter/dtu-bygning-208)'s renovation of Building 208
 
 
 # Project Requirements 2025
@@ -84,43 +85,34 @@ We have previously sought to find these in a tall new building, this year  we wa
 The project is for it needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
 
 ## The Site
-You will be able to choose from different sites including:
-
-### Building 308
-Current GFA Gross (4.684 m2) Net (4.320 m2)
-* More complex renovation (space plan) but less floors requied on top.
-
-### Building 304
-Current GFA Gross (1.810 m2) Net (1.623 m2)
-* Some cellular offices but mainly computers
-* The computers will be moved to another location
-* Building could be demolished but materails should be retained.
-* Most suitable project for rebuild
-
-### Building 115
-Current GFA Gross (5.736 m2) Net (5.188 m2)
-* Currently used as offices only
-* Needs to be Modernised
-* Improve collaboration
-* Interaction between students and staff
-* Most simple renovation case, but would require more floors on top
+Teh site of the project is DTU Lyngby Campus. You will be able to choose from different sites including:
+![image](https://github.com/user-attachments/assets/b4940d8a-18dc-45a0-a71b-71547deae4f2)
+Overview of the different available sites available on DTU Lyngby Campus
 
 ### Site Boundary 
 The site boundary should be the same as the existing building.
 
-## The Building 
-
-The design is for DTU building 313, but with an alternative use. It should provide a modern landmark for research, and it should signal technical engineering skills, while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building. The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students are thriving. 
-
-### Building Typology (multi tenanted office) 
-
-The project should provide multi tenancy offices. The building must be designed for multiple users who will share arrival areas and a number of facilities. 
+## The Building
+YouR team should develop a design to renovates an existing building on Campus. It should provide:
+* a modern landmark for research, .
+* The building typology is a multi tenancy office building wiht research and teaching facilities.
+* The building must be designed for multiple users who will share arrival areas and a number of facilities. 
+* signal technical engineering skills,
+* while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building.
+* The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students can thrive.
+* Strong connection to the rest of the campus
+  
+You should choose one of the following buildings to renovate.
 
 ### Building 308
+![image](https://github.com/user-attachments/assets/c3d23453-3d4c-478f-b255-17ca1d9185f4)
+
 Current GFA Gross (4.684 m2) Net (4.320 m2)
 * More complex renovation (space plan) but less floors requied on top.
 
 ### Building 304
+![image](https://github.com/user-attachments/assets/a56be984-a5a6-49b0-b181-c7a2454215b0)
+
 Current GFA Gross (1.810 m2) Net (1.623 m2)
 * Some cellular offices but mainly computers
 * The computers will be moved to another location
@@ -128,6 +120,7 @@ Current GFA Gross (1.810 m2) Net (1.623 m2)
 * Most suitable project for rebuild
 
 ### Building 115
+![image](https://github.com/user-attachments/assets/e1e2e378-0c30-4f28-91c8-9a5a6741ad4d)
 Current GFA Gross (5.736 m2) Net (5.188 m2)
 * Currently used as offices only
 * Needs to be Modernised
@@ -135,63 +128,66 @@ Current GFA Gross (5.736 m2) Net (5.188 m2)
 * Interaction between students and staff
 * Most simple renovation case, but would require more floors on top
 
-### Connection to Campus 
-
-Explain the relationship between the building complex and the rest of the campus 
-
-### Height limit 27 m
+### R1: Height limit 27 m
 
 **The ultimate height for this year will be 27m (nothing above but air).** This has been _reduced_ from previous years to be _more realistic_ and align to the municipality's plan and DTU Campus plan. Check [beats] 1 and 12 for extra information that has to be taken into account. 
 
 ## Floors
 
-### GFA
+### F01: GFA
 The total building should not exceed 10000m2.
 * No floor in building 308 can have a GFA greater than 2500m2.
 * No floor in building 304 can have a GFA greater than 2000m2.
 * No floor in building 115 can have a GFA greater than 1500m2.
 
-### Floor to floor height
-This needs to be carefully considered.
+Balconies are permitted and they are not included in the GFA (gross floor area).
 
-### Underground floors
-If you have a geo consultant then you must have a minimum of 2 floors of basement. This should be possible that support the underground building services requirements and storage.
-
-### Public top floor 
-The building must have an accessible top floor including:
-* Shared herb / vegetable
-* Greenhouses
-* Place to enjoy the sun / observe the stars
-
-### Public ground floor 
-
-The building must have a mostly public ground floor including reception area to serve the auditorium and will also be the centre of security monitoring and access control. The division between public and 'private' DTU areas should be clear.
-
-### Office Floor(s) 
+### F02: Office Floor(s) 
 
 The office floor should feature maximum flexibility to support multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms. These rooms blur that you could book for a week rather than just an hour or so like a meeting room, they are a space for people to come together from different disciplines to solve specific.
 
 One plan would be for traditional cellular office 
 
-**The offices need to provide space for 1000 desks.**
+**The offices needs to provide the desks promised in your user KPI**
+
+### F03: Floor to floor height
+This needs to be carefully considered.
+
+### F04: Underground floors
+If you have a geo consultant then you must have a minimum of 2 floors of basement. This should be possible that support the underground building services requirements and storage.
+
+### F05: Public top floor 
+The building must have an accessible top floor including:
+* Shared herb / vegetable
+* Greenhouses
+* Place to enjoy the sun / observe the stars
+
+### F06: Public ground floor 
+
+The building must have a mostly public ground floor including reception area to serve the auditorium and will also be the centre of security monitoring and access control. The division between public and 'private' DTU areas should be clear.
 
 ## Spaces
 
 Your proposal must include the following spaces.
 
-### Auditorium (100 people) 
+### S01: Auditorium (100 people) 
 
 The building must include an auditorium. The auditorium should be completely or partly located inside the building. This should be your 'perfect auditorium' what would that be like? Make sure that both the presenter and the audience are physically and acoustically confortable etc. Please pay special attention to make sure that no one needs to 'twist their nexk' to see the presenter or the screen. Can the room also be used for other functions - if so what?
 
-### Multipurpose space
+### S02: Multipurpose space
+The building must include multipurpose space:
+* 250 m2 area
+* 6m high
+* Uninterupted by columns
+* With access for a small forklift
 
-The building must include a 250 m2 multipurpose space with a height of 6m, without columns, with access for a small forklift.
-
-### Café facilities 
-
+### S03: Café facilities 
 The building must include a café for minimum 50 persons. Consider what facilities need to be offered by the café.
+* This is a place to go and get 'good' coffee.
+* This is a place to meet informally, a variety of seating options should be included - think where the 'best seats are'?
+* Does this have a good view?
 
-### Materials Library
+### S04:Materials Library
 
 ![image](https://github.com/user-attachments/assets/694d729f-7ba5-4412-b285-7a74024a242f)
 [Materials Research Centre](https://www.fosterandpartners.com/people/teams/materials-research-centre), Foster and Partners
@@ -199,46 +195,32 @@ The building must include a café for minimum 50 persons. Consider what faciliti
 * 100m2 to include shelves and draws and a system to 'borrow' materials.
 * Consider how the materials in the library should be classified / ordered to support the design of better, more sustainable buildings.
 
-### Meeting rooms
+### S05: Meeting rooms
 
 * 2 x 25 people <mark>[adjust to new brief]</mark>
 * 10 x 15 people <mark>[adjust to new brief]</mark>
 
-### Soundproof Office Booth
+### S06: Soundproof Office Booth
 5 booth per office and student floors for 1-2 person.
 
-### Student Area 
-
-Area for students. 
+### S07: Student Area 
+Area for students. For this you need to think what kind of spaces you like. 
 <!-- including permanent desk spaces - 300. see Beat 14 for details. -->
 
-### Atrium 
+### S08: Atrium 
+![image](https://github.com/user-attachments/assets/5564e87d-59ff-4e14-9722-29762fc65c02)
+Atrium in Building 208 [(AART)](https://aart.dk/en/projects/dtu-bygning-208)
 
 The building should include an atrium (visually connected to the foyer) to provide visual understanding of the inside of the building, it is up to your team how high / big this is. 
 
-### Additional
-* As many spaces as possible should support several functions.
-
-### Flexible 
-
-Flexible and robust office building that can accommodate a range of tenants. 
-
-### Parking provision 
-
-2 level underground parking space. (Remember to add what building services need to work out the total!) 
-
-## Building Accessories and finishes
-### Balconies 
-
-Balconies are permitted and they are not included in the GFA (gross floor area). 
-
-
+### F09: Bicycle parking spaces (1 bicycle(s) / 25m2 build) 
+You must provide 1 bike parking spaces per 25m2 build. Special attention should be paid to cyclists so that cycle traffic to the buildings will be an attractive option. 
 
 ## Construction and Safety requirements
-### Danish Building Code 2018 
+### C01: Danish Building Code 2018 
 The overall requirement is that the building design meets Danish Building Code from 2018. 
 
-### Fire
+### C02: Fire Safety
 Fire requirements for all teams: 
 
 * Max 25 m escape routes 
@@ -258,9 +240,7 @@ Fire requirements for all teams:
 
 You must provide 1 car parking space per 100m2 build. It is important to consider the impact this will have on the basement for instance and to liaise with the other subjects to make this work. Additionally, you should carefully consider the DGNB Criteria ECO2.2 which allocates points for parking - and not as you might first think… 
 
-## Bicycle parking spaces (1 bicycle(s) / 25m2 build) 
 
-You must provide 1 bike parking spaces per 25m2 build. Special attention should be paid to cyclists so that cycle traffic to the buildings will be an attractive option. 
 
 ## Sustainable 
 
