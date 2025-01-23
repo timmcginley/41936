@@ -77,6 +77,10 @@ Produce an IDS for each consultant to help them check their models. structure th
 ## A7 Benchmark Building Model
 Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
 
+* A1 Gross Floor Area (total Above Ground)
+* A2 Total Height of Building
+* A3 F2F Height
+
 You should think of this in 2 ways:
 1. the most basic BIM you could imagine - no geometry - just the basic information for your design
 2. This gives you an idea of a design that you can use as a benchmark / baseline - can you do better? what affect would this building have on your KPIs?
