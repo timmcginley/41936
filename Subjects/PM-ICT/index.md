@@ -101,13 +101,15 @@ The integration between the ICT/PM and architecture group is really important. A
 ### Part A
 Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and a as for the team for the Part A and Part D period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
 
+#### Design management Schema
 The design management scheme (DMS) (e.g. an activities-Gantt chart) has to be created to define your strategy for accomplishing the requirements set for the 13-week and the 3 week period for the whole team. To satisfy learning objectives 03 and 02. Note that these are general learning objectives that apply to all subjects and whilst it is your ‘responsibility’ in PM to deliver and submit the DMS, you should encourage the other subjects to support you in this. The design management scheme (DMS) should:
 
-Identify milestones and main tasks in the design of the project, their order and mutual dependencies (e.g., Design Structure Matrix), according to the course-specific view on System Engineering
-Define the methods used to ensure spatial coordination, vertically and horizontally in the design of the building, inside and outside of the building.
-Identify major components that should be coordinated
-Describe the methods for selecting the ICT tools to be used e.g. why you choose one tools instead of another, when you use it, how you use it, who is involved, how do you ensure projects development tracking using these tools and processes. The team contract must be coordinated and created by the PM, as a formal document to which all team members bind to. It has to be signed by all team members and uploaded as a separate PDF file but together with the 4 week plan in the same zip file.
-Part B
+* Identify milestones and main tasks in the design of the project, their order and mutual dependencies (e.g., Design Structure Matrix), according to the course-specific view on System Engineering
+* Define the methods used to ensure spatial coordination, vertically and horizontally in the design of the building, inside and outside of the building.
+* Identify major components that should be coordinated
+* Describe the methods for selecting the ICT tools to be used e.g. why you choose one tools instead of another, when you use it, how you use it, who is involved, how do you ensure projects development tracking using these tools and processes. The team contract must be coordinated and created by the PM, as a formal document to which all team members bind to. It has to be signed by all team members and uploaded as a separate PDF file but together with the 4 week plan in the same zip file.
+
+### Part B
 Make sure that the team develops integrated drawings, including alternative solutions. Capture input from teachers' comments and decide, together with the team, on your recommendation for the solution that your team is suggesting.
 
 Part C
