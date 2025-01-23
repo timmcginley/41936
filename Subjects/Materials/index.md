@@ -53,7 +53,6 @@ Advanced Building Design Materials Consultants need to be able to analyse curren
 
 ## Requirements 
 
-
 ### DGNB
 A central criterion for the sustainability of buildings is the DGNB lite certification. A simplified version of the GBRS, DGNB, that is the most common used in Denmark. A green building rating system functions both as a tool to documentation but should also be considered as a set of criteria's that can help support or define parts of the building design process. Understanding these criteria, where and how they affect your teams process and what measures you can plan out to accommodate the needed information at the right time to the right people. DGNB screening and initial process plotting for knowledge sharing or interventions.
 
@@ -113,6 +112,22 @@ Ultimately you are responsible for the materials and can ‘override’ other gr
 This collaboration should be clearly defined in the DMS.
 
 Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects.Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
+
+## Assignments
+
+### Part A
+* Help set CO2 eq / m2 / person target
+* Analyse the previous projects
+* Analyse the implications of the DGNBLite scehma for the team.
+
+### Part B
+
+#### Drawings
+* Produce the different material options
+
+### Part C
+* Seek 'regulatory approval' for the new material / product.
+* Produce EPD either for the new material / component and 
 
 
 
