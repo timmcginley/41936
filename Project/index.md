@@ -1,4 +1,4 @@
-# Project
+# DTU Fri
 ```{toctree}
 :hidden:
 :glob:
@@ -10,7 +10,7 @@
 [AART](https://aart.dk/projekter/dtu-bygning-208)'s renovation of Building 208
 
 
-# Project Requirements 2025
+## Project Requirements 2025**
 
 This course has run since 2007 and we have now run the same 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understnad and improve our interdisciplinary design experiences. However from 2025 you will be able to choose from different buildings and their briefs will be set by emerging societal needs. 
 
@@ -26,7 +26,11 @@ Your building and your design process should be agile and prepared for change - 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### The Client
-The project needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. 
+Buuildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. the client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people wiht different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
+
+>  We need to take an ordinary DTU building and 'undiscipline' it we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. This building will be called DTU Fri.
+
+at The client would imagines  a new The project needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. The Client wants a dashboard to keep them updated on your progress throughout the project.
 
 ### Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
