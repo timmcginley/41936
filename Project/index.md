@@ -11,9 +11,9 @@
 
 # Project Requirements 2025
 
-This course has run since 2007 and we have now run the same 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understnad and improve our interdisciplinary design experiences. However from 2025 you will be able to choose from different buildings and their breifs will be set by emerging societal needs. 
+This course has run since 2007 and we have now run the same 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understnad and improve our interdisciplinary design experiences. However from 2025 you will be able to choose from different buildings and their briefs will be set by emerging societal needs. 
 
-This year's breif responds in part to recommendations from previous students that the course should focus on:
+This year's brief responds in part to recommendations from previous students that the course should focus on:
 * Renovation and reuse of existing buildings
 * Reuse / circularity of materials.
 * Support exploration of emerging and biobased materials and components
