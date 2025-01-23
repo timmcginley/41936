@@ -23,7 +23,7 @@ Chief Consultant: Tim McGinley
 
 ## We support you with
 * Understanding the role of the architect
-* Space planning adn zoning
+* Space planning and zoning
 * Fire safety and evacuation
 * Facade design
 * Design tutorials and crits
@@ -34,16 +34,32 @@ Chief Consultant: Tim McGinley
 
 ## You will need to independently
 * Work in BIM / Design software to develop your designs
-* Develop the interfaces
-* Work out the questions you need to ask in the consultancy sessions
+* Develop the interfaces between the disciplines in your team.
+* Work out the questions you need to ask in consultancy sessions.
 * Work out how to keep the team moving so that they are not sitting around waiting for you.
 
 ## Assignments
-This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall needs of each assignment.
+This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall requirements of each assignment.
 ### Part A
-Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for the 13 and 3 week period and provide these to the PM in a timely manner to be coordinated by your PM group.
-* Physical model
+Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for all periods of the project (A,B,C and D) and provide these to the PM in a timely manner to be coordinated by your PM group.
+
+#### A1 Physical model
 * Support the analysis, design and construction of the physical model.
+* Use the model to explore the spatial capacity and requirements of your team's chosen building
+* Explore different options for facade design
+* Work with Geo consultants (if you haev them) to model the site that the building sits on.
+
+#### A2 Project Plan
+* Analyse the documentation and previous projects to work out what you need to do when and provide this information to the PM.
+
+#### A4 Design Management Schema.
+* Agree your project responsibilites with your PM.
+
+#### A5 ICT Contract
+* Agree the tools you will use, the standards you will comply wiht and how you will support integrated digital design process with your PM.
+
+#### A7 Benchmark Building Model
+* Define the beats etc. that you can.
 
 ### Part B
 #### Subject Drawings
