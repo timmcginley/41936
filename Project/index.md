@@ -6,26 +6,23 @@
 */index
 ```
 
+![image](https://github.com/user-attachments/assets/369ea55f-ce3f-4ddb-bc0f-ffc8593ae6c5)
 
-In 2024 we had one project, we have now run this 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits.
-
-In future iterations of the course we will have different versions that you can choose from. This should reflect the rising importance of experience working on renovations rather than new buildings. This will be linked to the interest of the mentor that you are working on your project with. As an idea these alternatives could be:
 
 # Project Requirements 2025
 
-Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. 
+We have now run this 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits. Thsin is great for developing a data set of common comparable buildings, that we can use to better understnad and improve our interdisciplinary design experiences. However from 2025 it is possible to choose from different buildings and their breifs will be set by emerging societal needs. 
 
-The design of your building should satisfy the following requirements. Remember that Project requirements in this course justify 1/3 of your grade for the course. This includes the list below AND and any additional requirments introduced by the client through the process.
+This year's breif responds in part to recommendations from previous students that the course should focus on:
+* Renovation and reuse of existing buildings
+* Reuse / circularity of materials.
+* Support exploration of emerging and biobased materials and components
+
+Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. The design of your building should satisfy the following requirements. Remember that Project requirements in this course justify 1/3 of your grade for the course. This includes the list below AND and any additional requirments introduced by the client through the process.
 
 ## The Project
 
-DTU's expected growth and strategic investment in research, education and innovation creates. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. This project is intended to provide a minimum 3000m2 of additional area.
-
-In 2024 we had one project, we have now run this 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits.
-
-In future iterations of the course we will have different versions that you can choose from. This should reflect the rising importance of experience working on renovations rather than new buildings. This will be linked to the interest of the mentor that you are working on your project with. As an idea these alternatives could be:
-
-All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
+DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview on the progress of the teams.
@@ -35,7 +32,7 @@ In this first session of the course you will be introduced to your teachers and 
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
-#### DGNB / Sustainability 
+#### DGNB
 
 DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM as either: 
 
@@ -51,11 +48,11 @@ The cost level is decided by your PM in balance with sustainability goals and es
 60.000DKK/m2, 65.000DKK/m2 or 70.000DKK/m2 
 -->
 
-#### TIME 
+#### LCA
 
-The time budget is also flexible, and defined by the PM. The durations (incl. design proposal period) to choose between are respectively: 
+Previous projects have acheived between
 
-30 months, 35 months or 40 months 
+80 months, 100 months or 120 months
 
 <!--
 ## USER 
@@ -71,15 +68,13 @@ Roughly 200 students involved in Advanced Building design - 200 students and 200
 
 #### Points allocation
 
-|        | 1 pts | 3 pts | 5 pts |
-|--------|----------|------|--------|
-| Time   | 30 months | 35 months | 40 months |
-| Cost   | 30k dkk/m2 | 35k dkk/m2| 40k dkk/m2 |
-| DGNB (Lite)   | Platinum | Gold | Silver |
+|                    | 1 pts    | 3 pts | 5 pts  |
+|--------------------|----------|-------|--------|
+| Time CO2eq/m2/User | 60       | 80    | 100    |
+| Cost dkk/m2        | 30k      | 35k   | 40k    |
+| DGNB (Lite)        | Platinum | Gold  | Silver |
+| People/desks       | 1800     | 1600  | 1400   |
 
-<!--
-| People/desks | 1800 | 1600  | 1400   |
--->
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 > 30 months (1 point) + 75.000DKK/M2 (3 pt) + platinum (1 point)  = 5 Points
