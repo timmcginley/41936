@@ -20,18 +20,24 @@ The model should be:
 For this exercise you should focus on:
 
 * Team building
+* Analysing the existing building through drawings and BIM and in person visits.
 * Analysing the Project and Client briefs
-* Understanding your role, the elements for you to foucs on and the interfaces to others in the design team.
+* Understanding your role, the elements for you to focus on and the interfaces to others in the design team.
 * Learning from the previous projects
 * Satisfy the tests from the list of tests.
 
 For delivery:
 * Take pictures of your models and submit them to Learn under Assignments.
 
+### Tests
+* The Structure test (wind test)
+* The Fire test
+
+
 <!-- award admonitions - work in Sphyinx -->
 
 ```{admonition} Best Model Award
-The model that passess all the test
+The model that passes all the tests and get the most sticker votes.
 ```
 
 ```{admonition} Early Design Integration Award
@@ -75,19 +81,29 @@ PM to complete an ICT Contract for the team.
 Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
 
 ## A7 Benchmark Building Model
-Based on an excel sheet template. It will focus on the [Beats](../Project/BEATs) and extend these in some cases.
+Based on the construction of a physical model, fill in the supplied excel workbook documenting the basic properties of the btoh the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
 
-* A1 Gross Floor Area (total Above Ground)
-* A2 Total Height of Building
-* A3 F2F Height
+### Existing Building
+* Floor area (ground and above)
+* Building Height
+* F2F Height (ground floor)
+* F2F office floor
+* Total office area
+* Total desks
+
+### Proposed Design
+* Floor area (ground and above)
+* Building Height
+* F2F Height (ground floor)
+* F2F office floor
+* Total office area
+* Total desks
 
 You should think of this in 2 ways:
 1. the most basic BIM you could imagine - no geometry - just the basic information for your design
 2. This gives you an idea of a design that you can use as a benchmark / baseline - can you do better? what affect would this building have on your KPIs?
 
-It would be difficult to produce a full shared BIM model at this stage, or would it? we are more interested in the information than the geometry in the early days, if you do not have a 3d model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? At this point you will also be defining the F2F for the building.
-
-You should do this, based on the construction of a physical model, produce an 'excel workbook' documenting the basic properties of the initial model. This should also document if this satisfies the analysed client requirements.
+It would not be possible to produce a full shared BIM model at this stage, we are more interested in the information than the geometry in the early days, if you do not have a 3d model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? 
 
 ## A7 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
