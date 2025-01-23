@@ -5,7 +5,7 @@ Foster+Partners office, London, UK.
 
 
 
-**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design. ** 
+**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
 
 Architectural consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Check teh integration examples below for more information. Whilst you may have your 'own' ideas for the building you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team.
 
