@@ -62,7 +62,7 @@ Identify the parts of the project and the associated deadlines and collaborative
 * Define the beats etc. that you can.
 
 ### Part B
-#### Subject Drawings
+#### Drawings
 This should include the following drawing:
 - (1) Section,
 - (2) 3D view,
@@ -72,7 +72,7 @@ This should include the following drawing:
 These should describe the different elements in the design including those from the other subjects, e.g. space for installations ducts vertically and horizontally, daylight on working places, number and sizes of elevators, room demands for toilets, tea kitchens and other secondary rooms.
 
 ### Part C 
-#### Subject Report
+#### Consultant Report
 The Part C subject report for architecture will be organised in the themes / elements of the project, furthermore, it will clearly explain the different available options and discuss the decision process and trade offs. Examples of how the Team KPIs and project beats have been used to inform the deign are also important. This is your main opportunity for written formative (in progress feedback from both your teacher and peers, so make the most of it 😊 
 
 Report Structure:
