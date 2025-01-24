@@ -32,58 +32,59 @@ Buildings on Campus tend to seperate researchers and students and divied the res
 
 The client intends to make a donation to DTU for the renovation of the existing, however they have lots of other projects and are aware that they can easily become distracted. Therefore it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
 
-### Project KPIs (Key Performance Indicators)
+### 4 Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
 
 In this first session of the course you will be introduced to your teachers and meet with the other members of your subject. You will be asked to divide into groups and to consider what is important for your subject group / company.  
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
-#### DGNB Level
+#### 01: Total users
+The total number of permanant desks in your building.
 
+#### 02: DGNB Lite Level
 DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM:
 
-#### Construction cost
-The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
-
-#### LCA / user
+#### 03: LCA / user
 It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for.
 
-#### Total users
-This is the total number of permanant desks in your building.
+#### 04: Construction cost
+The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
 
 #### Points allocation
-
 |                           | 1 pts    | 3 pts   | 5 pts   |
 |---------------------------|----------|---------|---------|
+| Perm. desk space          | 600      | 400     | 200     |
+| DGNB Lite Level           | Platinum | Gold    | Silver  |
 | LCA/ user (CO2eq/m2/User) | 60       | 80      | 100     |
 | Construction Cost (dkk/m2)| 30.000   | 35.000  | 40.000  |
-| DGNB Lite Level           | Platinum | Gold    | Silver  |
-| Perm. desk space          | 600      | 400     | 200     |
 
 
-In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
+In the [first session](/Schedule/index.md#week-01---part-a) (PM Only): If you are in PM decide on the KPI values and make a describe these in the provided form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 
 > 60 (CO2eq/m2/User) (1 point) + 35.000DKK/M2 (3 pt) + platinum (1 point) + 400 desks (3 point) = 8 Points
 
 
 ## The Site
-Teh site of the project is DTU Lyngby Campus. You will be able to choose from different sites including:
 ![image](https://github.com/user-attachments/assets/b4940d8a-18dc-45a0-a71b-71547deae4f2)
 Overview of the different available sites available on DTU Lyngby Campus
+
+The site of the project is DTU Lyngby Campus. You will be able to choose from three different sites including:
 
 ### Site Boundary 
 The site boundary should be the same as the existing building.
 
 ## The Building
-YouR team should develop a design to renovates an existing building on Campus. It should provide:
-* a modern landmark for research, .
-* The building typology is a multi tenancy office building wiht research and teaching facilities.
-* The building must be designed for multiple users who will share arrival areas and a number of facilities. 
-* signal technical engineering skills,
-* while giving a 'DTU feeling' of core professionalism, innovation, and sustainability in the building.
-* The building and its near surroundings should be inviting, encourage inclusion and be a place where researchers, employees and students can thrive.
-* Strong connection to the rest of the campus
+Your team should develop a design to renovate building 115, 304 or 308. It should be:
+* inviting, encourage inclusion and follow Universal Design Principles.
+* designed for multiple users who will share arrival areas and a number of facilities.
+* 'non' disciplinary / undisciplined, supporting interdisciplinarity, creativity, discovery and collaboration.
+
+and provide:
+* research, teaching and contemplation facilities where researchers, employees and students can thrive.
+* flexible multi tenancy office floors for researchers with a mix of open and closed plan working areas
+* a 'DTU feeling'.
+* a strong connection to the rest of the campus
   
 You should choose one of the following buildings to renovate.
 
