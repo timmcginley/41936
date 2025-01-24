@@ -12,39 +12,14 @@ The geotechnical engineer in this project should first ensure a safe and robust 
 
 Chief Consultant: Varvara Zania 
 
-## Requirements
+This document covers the following
 
-### Basement area boundary 
-The basement should not extend beyond the site boundary. 
+* [Skills and motivations](#skills-and-motivation)
+* [Assignments](#assignments)
+* [Requirements](#requirements)
+* [Integration](#integration)
 
-### Parking (ommitted 2025)
-
-### Geotechnical structures 
-Design of geotechnical structures shall comply with the basic requirements for resistance, serviceability and durability of structures. EN 1997 principles should be followed. 
-
-### Geotechnical design 
-The general requirement for reliability of the geotechnical design is fulfilled by the application of the principles delineated in EN 1997. 
-
-### Ground model 
-Processed information from ground investigation and other available data shall be collected in a Ground Model. 
-
-### Geotechnical design model 
-A Geotechnical Design Model shall be developed for each geotechnical design situation and associated limit states, as expected for each underground structure (foundation and excavation support systems) for ULS and SLS. 
-
-### Construction concept 
-The factors that influence the selection of the excavation support method and the foundation type (thereafter also the construction materials) should be carefully assessed. A concept for the foundation layout, the excavation pit, and the basement system should be developed. 
-
-### Excavation support 
-Define after appropriate design verifications the materials and dimensions of the support system. 
-
-### Foundation type 
-Define after appropriate design verifications the materials and dimensions of the foundation system. 
-
-### Basement wall 
-Define after appropriate design verifications the materials and dimensions of the basement wall. 
-
-### Tunnels 
-You can choose to include or ignore these. This a decision for your team correlated against the information that you find / look for. 
+## Skills and motivations
 
 ## Assignments
 
@@ -80,8 +55,6 @@ Documentation of 2 Different design options.
 
 Contribute towards the client recommendations for your subject, what options would you recommend to the Client? 
 
- 
-
 ### Part C  
 
 #### Consulant (subject) Report 
@@ -110,6 +83,40 @@ The BIM Model must contain the following elements:
 * Retaining system (sheet piles, diaphragm wall, anchors, struts etc.),
 * foundation system (raft foundation, piles etc.)
 * Your BIM should be created as per your agreement with PM so they can take off the quantities they need and so can the materials consultants
+
+## Requirements
+
+### Basement area boundary 
+The basement should not extend beyond the site boundary. 
+
+### Parking (ommitted 2025)
+
+### Geotechnical structures 
+Design of geotechnical structures shall comply with the basic requirements for resistance, serviceability and durability of structures. EN 1997 principles should be followed. 
+
+### Geotechnical design 
+The general requirement for reliability of the geotechnical design is fulfilled by the application of the principles delineated in EN 1997. 
+
+### Ground model 
+Processed information from ground investigation and other available data shall be collected in a Ground Model. 
+
+### Geotechnical design model 
+A Geotechnical Design Model shall be developed for each geotechnical design situation and associated limit states, as expected for each underground structure (foundation and excavation support systems) for ULS and SLS. 
+
+### Construction concept 
+The factors that influence the selection of the excavation support method and the foundation type (thereafter also the construction materials) should be carefully assessed. A concept for the foundation layout, the excavation pit, and the basement system should be developed. 
+
+### Excavation support 
+Define after appropriate design verifications the materials and dimensions of the support system. 
+
+### Foundation type 
+Define after appropriate design verifications the materials and dimensions of the foundation system. 
+
+### Basement wall 
+Define after appropriate design verifications the materials and dimensions of the basement wall. 
+
+### Tunnels 
+You can choose to include or ignore these. This a decision for your team correlated against the information that you find / look for. 
 
 ## Integration
 
