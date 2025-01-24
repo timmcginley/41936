@@ -40,6 +40,7 @@ Chief Consultant: Tim McGinley
 
 ## Assignments
 This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall requirements of each assignment.
+
 ### Part A
 Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for all periods of the project (A,B,C and D) and provide these to the PM in a timely manner to be coordinated by your PM group.
 
