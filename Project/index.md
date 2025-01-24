@@ -26,13 +26,15 @@ Your building and your design process should be agile and prepared for change - 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### The Client
+
 Buildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. the client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people wiht different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
 
->  We need to take an ordinary DTU building and 'undiscipline' it, we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. This building will be called DTU Fri.
+>  We need to take an ordinary DTU building and 'undiscipline' it, we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. **This building will be called DTU Fri**.
 
-The client intends to make a donation to DTU for the renovation of the existing, however they have lots of other projects and are aware that they can easily become distracted. Therefore it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
+The client intends to make a donation to DTU to enable this project, however they have lots of other projects and are aware that they can easily become distracted. Therefore it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
 
 ### 4 Project KPIs (Key Performance Indicators)
+
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
 
 In this first session of the course you will be introduced to your teachers and meet with the other members of your subject. You will be asked to divide into groups and to consider what is important for your subject group / company.  
@@ -217,23 +219,3 @@ Fire requirements for all teams:
 * Rescue elevator 
 * No combustible surfaces 
 * R120 rating for all structural elements
-
-<!-- Depreciated Requirements
-
-## Car parking spaces (1 car/100m2 GFA) 
-
-You must provide 1 car parking space per 100m2 build. It is important to consider the impact this will have on the basement for instance and to liaise with the other subjects to make this work. Additionally, you should carefully consider the DGNB Criteria ECO2.2 which allocates points for parking - and not as you might first think… 
-
-
-
-## Sustainable 
-
-Your proposal should have a clear justification for the sustainability of the proposed project. How does your work contribute to the sustainability level your team is committed to? 
-
-DTU wants the project to introduce and investigate a circular approach, where sustainable considerations permeate the decision making. DTU aims to increase the standard for circular buildings, where design is performed innovatively with clever use of materials. 
-
-B313 should ensure a good environment for both people, flora, and fauna on campus. 
-
-DTU wants to maintain a green campus with landscapes in the future and has developed a strategic campus plan (To be released soon) that supports this. Any landscape/nature included in a new building must be replaced by new actions in the outdoor environment. 
-
--->
