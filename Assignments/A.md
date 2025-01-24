@@ -47,7 +47,7 @@ The team that demonstrated the best interdisciplinary collaboration in the model
 ## A2 Project Plan
 **Primary responsible:** PM
 
-PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and as well as for the team for the 13 and 3 week period and provide these to the PM in a timely manner to be collectively coordinated by your PM group. This should define what work you need to do. The project plan should describe the actual work which is expected for finishing each stage of the Project. It should include: A general scheduled overview of activities 
+PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages of the project and provide these to the PM in a timely manner fro coordination. The project plan should describe the actual work which is expected for finishing each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
 
 ## A3 Team Contract
 This is one of the first coordination tasks for the PM.
