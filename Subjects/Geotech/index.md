@@ -19,7 +19,28 @@ This document covers the following
 * [Requirements](#requirements)
 * [Integration](#integration)
 
-## Skills and motivations
+## Skills and motivation
+Geoechnical Consultants have the following skills and motivations:
+
+* Experience with geotechnical design (desirable- at least one member)
+* interest to explore different materials and techniques
+* Analsyse existing drawings, model and building to establish current carrying capacity.
+* Ability to listen and grow from feedback (essential)
+* Willingness to explore different options
+* Enthusiasm to find solutions that work for the whole team.
+
+## Your chief consultant can support you with
+In the project you will be supported by the chief consutlant with the following:
+
+* Understanding the role of the Geotechnical consultant
+* Assessing the current carrying capactiy of the existing foundations
+
+## You will need to independently learn
+
+* Work in BIM / Design software to develop your designs
+* Develop the interfaces between the disciplines in your team.
+* Work out the questions you need to ask in consultancy sessions.
+* Work out how to keep the team moving so that they are not sitting around waiting for you.
 
 ## Assignments
 
