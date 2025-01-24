@@ -7,11 +7,20 @@ Foster+Partners office, London, UK.
 
 **Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
 
-Architectural consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Check teh integration examples below for more information. Whilst you may have your 'own' ideas for the building you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team.
+Architectural consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
 
-Chief Consultant: Tim McGinley
+Chief Consultant: Tim McGinley and Anne Dederichs
+
+This document covers the following
+
+* [Skills and motivations](#skills-and-motivation)
+* [Assignments](#assignments)
+* [Requirements](#requirements)
+* [Integration](#integration)
 
 ## Skills and motivation
+Architectural Consultants have the following skills and motivations:
+
 * Experience with Architectural design (essential - at least one member)
 * Taken a design studio (Desirable)
 * Experience with computational design (Desirable)
@@ -21,7 +30,9 @@ Chief Consultant: Tim McGinley
 * Enthusiasm to find solutions that work for the whole team.
 * A consultancy that covers interest in resolving both the conceptual and detail challenges
 
-## We support you with
+## Your chief consultant can support you with
+In the project you will be supported by the chief consutlant with the following:
+
 * Understanding the role of the architect
 * Space planning and zoning
 * Fire safety and evacuation
@@ -32,7 +43,8 @@ Chief Consultant: Tim McGinley
 * Detail drawings (Part D)
 * Inspiration from some real world examples
 
-## You will need to independently
+## You will need to independently learn
+
 * Work in BIM / Design software to develop your designs
 * Develop the interfaces between the disciplines in your team.
 * Work out the questions you need to ask in consultancy sessions.
