@@ -1,4 +1,4 @@
-# DTU Fri
+# Project
 
 ```{toctree}
 :hidden:
@@ -26,11 +26,11 @@ Your building and your design process should be agile and prepared for change - 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### The Client
-Buuildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. the client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people wiht different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
+Buildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. the client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people wiht different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
 
->  We need to take an ordinary DTU building and 'undiscipline' it we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. This building will be called DTU Fri.
+>  We need to take an ordinary DTU building and 'undiscipline' it, we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. This building will be called DTU Fri.
 
-at The client would imagines  a new The project needs to provide space for students and researchers. It is not officially attached to any department at DTU, a bit like skylab but without the focus on supporting start ups. The Client wants a dashboard to keep them updated on your progress throughout the project.
+The client intends to make a donation to DTU for the renovation of the existing, however they have lots of other projects and are aware that they can easily become distracted. Therefore it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
 
 ### Project KPIs (Key Performance Indicators)
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
@@ -39,28 +39,27 @@ In this first session of the course you will be introduced to your teachers and 
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
-#### DGNB
+#### DGNB Level
 
-DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate DGNB Lite schema for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ must be decided by your PM:
+DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM:
 
-#### COST 
+#### Construction cost
+The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
 
-The cost level is decided by your PM in balance with sustainability goals and especially time budget. Refer to the PM subject document for what to include in costs. The construction budget depends on the resulting gross area:
+#### LCA / user
+It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for.
 
-#### LCA
-it is important that all consultants keep a close eye on the LCA for the elements and systems they are responsible for.
-
-## USER 
+#### Total users
 This is the total number of permanant desks in your building.
 
 #### Points allocation
 
-|                    | 1 pts    | 3 pts   | 5 pts   |
-|--------------------|----------|---------|---------|
-| CO2eq/m2/User      | 60       | 80      | 100     |
-| Cost (dkk/m2)      | 30.000   | 35.000  | 40.000  |
-| DGNB (Lite)        | Platinum | Gold    | Silver  |
-| Perm. desk space   | 600      | 400     | 200     |
+|                           | 1 pts    | 3 pts   | 5 pts   |
+|---------------------------|----------|---------|---------|
+| LCA/ user (CO2eq/m2/User) | 60       | 80      | 100     |
+| Construction Cost (dkk/m2)| 30.000   | 35.000  | 40.000  |
+| DGNB Lite Level           | Platinum | Gold    | Silver  |
+| Perm. desk space          | 600      | 400     | 200     |
 
 
 In the session (PM Only): If you are in PM decide on the KPI values and make a describe these in the form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. These are explained in more detail above and their values are summarised here. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
