@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/dd0ee651-bd70-4a8c-ae11-7b784b89caf5)
 
-**The role of geotechnical engineering is to ensure that an acceptable state of equilibrium is achieved after constructions, at or under the ground surface. As such, the Geotech consultants work comprises of the geotechnical design of the required temporary and permanent structures (referred to as 'underground works') for the advnaced Building design project.**
+**The role of geotechnical engineering is to ensure that an acceptable state of equilibrium is achieved after constructions, at or under the ground surface. As such, the Geotech consultants work comprises of the geotechnical design of the required temporary and permanent structures (referred to as 'underground works') for the Advanced Building Design project.**
 
 The geotechnical engineer in this project should first ensure a safe and robust load transfer from the building to the supporting ground without compromising the global stability of the structure. In addition to the bearing capacity of the foundation system, the induced soil deformations need to be limited to avoid additional distress to the structural elements (beams, columns, and slabs). Furthermore, the building is embedded in the ground because of the multi–storey underground space, located beneath the building. In doing so, a ground model needs to be established based on the geotechnical interpretation of experimental and field soil investigation data. The geotechnical engineer will be responsible for proposing and designing feasible solutions providing: 
 
