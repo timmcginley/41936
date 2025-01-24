@@ -1,9 +1,10 @@
-# Subjects
+# Subjects (Consultants)
 
-The course is divided into the following subjects:
-* [Architecture](Architecture)
-* [Structure](Structure)
-* [MEP](MEP)
-* [Geotechnical](Geotech)
-* [Material](Material)
-* [PM-ICT](PM-ICT)
+The course is divided into the following consultancy subjects:
+
+* [Architecture](/Subject/Architecture)
+* [Structure](/Subject/Structure)
+* [MEP](/Subject/MEP)
+* [Geotechnical](/Subject/Geotech)
+* [Material](/Subject/Material)
+* [PM-ICT](/Subject/PM-ICT)
