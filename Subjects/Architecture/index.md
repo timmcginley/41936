@@ -39,10 +39,9 @@ Chief Consultant: Tim McGinley
 * Work out how to keep the team moving so that they are not sitting around waiting for you.
 
 ## Assignments
-This provides advice for what the Architecture subject is responsible for, this needs to be integrated into the overall requirements of each assignment.
+This advice needs to be integrated into the overall requirements of each assignment.
 
 ### Part A
-Identify the parts of the project and the associated deadlines and collaborative requirements for the structures group for all periods of the project (A,B,C and D) and provide these to the PM in a timely manner to be coordinated by your PM group.
 
 #### A1 Physical model
 * Support the analysis, design and construction of the physical model.
@@ -57,22 +56,24 @@ Identify the parts of the project and the associated deadlines and collaborative
 * Agree your project responsibilites with your PM.
 
 #### A5 ICT Contract
-* Agree the tools you will use, the standards you will comply wiht and how you will support integrated digital design process with your PM.
+* Agree the design / BIM tools you will use, the standards you will comply with and how you will support integrated digital design process with your PM.
 
 #### A7 Benchmark Building Model
-* Define the beats etc. that you can.
+* Support the team to define the required information for the existing and proposed building.
 
 ### Part B
-#### Drawings
-This should include the following drawing:
-- (1) Section,
-- (2) 3D view,
-- (3) Ground floor plan,
-- (4) Office plan.
 
-These should describe the different elements in the design including those from the other subjects, e.g. space for installations ducts vertically and horizontally, daylight on working places, number and sizes of elevators, room demands for toilets, tea kitchens and other secondary rooms.
+#### Drawings
+You should include the following drawings:
+- (1) Section(s),
+- (2) 3D view(s),
+- (3) Ground floor plan(s),
+- (4) Office plan(s).
+
+These should describe the different elements in the design including those from the other subjects.
 
 ### Part C 
+
 #### Consultant Report
 The Part C subject report for architecture will be organised in the themes / elements of the project, furthermore, it will clearly explain the different available options and discuss the decision process and trade offs. Examples of how the Team KPIs and project beats have been used to inform the deign are also important. This is your main opportunity for written formative (in progress feedback from both your teacher and peers, so make the most of it 😊 
 
