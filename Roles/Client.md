@@ -1,6 +1,10 @@
 # Client
 
-In this scenario the client is the new department of DTU X. That department does not exist yet. So the driving force behind the project is the person funding. The funding is annonymous but we know that it is a previous student that has been very successful in deep tech development and investments since leaving DTU.
+The client is ...
+
+In this scenario the client is the new department of DTU Fri. DTU Fri is not really a department, it does not have any faculty, it doesn't even have any administration. All it has is an online booking service
+
+That department does not exist yet. So the driving force behind the project is the person funding. The funding is annonymous but we know that it is a previous student that has been very successful in deep tech development and investments since leaving DTU.
 
 ## Conditions
 * The client is in ultimate control of the design of the building
