@@ -153,7 +153,12 @@ This should be seen as your main opportunity to get feedback on your current tra
 ```
 
 * Seek 'regulatory approval' for the new material / product.
-* Produce EPD either for the new material / component and 
+* Produce EPD either for the new material / component and
+* 
+## Part D
+
+### D BIM
+Are the materials correct?
 
 
 
