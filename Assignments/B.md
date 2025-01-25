@@ -13,6 +13,7 @@ At this point in the project you need feedback on 2 different design options so 
 Documentation of 2 Different design options. 
 
 Define the overall concept for your building through multi-disciplinary drawings that will be 'pinned up'. The drawings will be 'marked up' with feedback by the client/teachers for you to consider.
+<hr>
 
 ## B1 Drawings
 
@@ -24,7 +25,7 @@ Define the overall concept for your building through multi-disciplinary drawings
 
 * The main function of the drawings session is to get you to decide and present 2 options for each discipline. To support this you will pin up drawings of **two different alternatives** for the floor plan and section. The differences can include the shape of the building, floor height, structural system, type of materials, location of rooms, or shafts, etc.
 
-* The aim is to get feedback from the Cheif consultants, external mentors and TAs but also to learn from each others work. At the session you should also look at each others drawings and find ones that are similar to yours. In this way you should be able to establish buddy groups looking at similar issues. Feedback will be oral, so you will need to take notes - this can be done directly on the drawings where appropriate so they provide a record of your next steps. You will use this feedback to inform the decisions about the 
+* The aim is to get feedback from the Chief consultants, external mentors and TAs but also to learn from each others work. At the session you should also look at each others drawings and find ones that are similar to yours. In this way you should be able to establish buddy groups looking at similar issues. Feedback will be oral, so you will need to take notes - this can be done directly on the drawings where appropriate so they provide a record of your next steps. You will use this feedback to inform the decisions about the 
 
 * We are not providing an 'official template' as some drawings will be sketches, while others will be made on a computer. However, please ensure each of your drawings include the number of your team, The name of the drawing.
 
