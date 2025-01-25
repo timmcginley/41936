@@ -10,7 +10,7 @@
 
 
 ## A1 Physical Building Model
-For this course we ask you in Stage A to make a model in your teams. In the model we will provide some new modelling material but encourage you to reuse the material used in the previous years.
+Make a model of the existing building document it with photos and then adpat it into a proposed building working in your team. We will provide limited new modelling material and encourage you to reuse the material used in the previous years.
 
 The model should be:
 
@@ -26,10 +26,14 @@ For this exercise you should focus on:
 * Learning from the previous projects
 * Satisfy the tests from the list of tests.
 
-For delivery:
-* Take pictures of your models and submit them to Learn under Assignments.
+### For delivery:
+Produce a document including photos of
+* existing building
+* proposed building
+* your model being tested
+with descriptions into a document and upload it to the learn site wiht the other documents for Part A.
 
-### Tests
+### A1 Tests
 * The Structure test (wind test)
 * The Fire test (Evacuating string test)
 
@@ -43,11 +47,14 @@ The model that passes all the tests and get the most sticker votes.
 ```{admonition} Early Design Integration Award
 The team that demonstrated the best interdisciplinary collaboration in the model building activity.
 ```
+<hr>
 
 ## A2 Project Plan
 **Primary responsible:** PM
 
 PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages of the project and provide these to the PM in a timely manner fro coordination. The project plan should describe the actual work which is expected for finishing each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
+
+<hr>
 
 ## A3 Team Contract
 This is one of the first coordination tasks for the PM.
@@ -61,7 +68,8 @@ This is one of the first coordination tasks for the PM.
 * Submit one signed team contract per team.
 * The contract is created by the team's PM through discussion with the members of the team
 * Upload of the contract online on DTU Learn.
-  
+<hr>  
+
 ## A4 Design Management Schema
 The Design Management Schema (DMS) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a general scheduled overview of activities.
 
@@ -73,12 +81,15 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 ### PM Responsibilities
 * Coordinate the tasks of the subjects and produce the design management schema.
 * Collate the weekly predicted design cost include this in the design management schema and track and document this throughout the project.
+<hr>
 
 ## A5 ICT Contract
 PM to complete an ICT Contract for the team.
+<hr>
 
 ## A6 IDS for consultant BIM
 Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
+<hr>
 
 ## A7 Benchmark Building Model
 Based on the construction of a physical model, fill in the supplied excel workbook documenting the basic properties of the btoh the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
