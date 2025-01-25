@@ -102,44 +102,7 @@ We want you to embrace parametrics and smarter ways to work in this course. Ther
 
 PMs nominated by their team based on how well they supported collaboration in the team. 
 
-[LINK](/41936/Deliverables/C_BIM)
-
-who ?
-
-Part C subjekt rapport
-
-The 13 week subject report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there).
-
-Following aspects and issues should be addressed in the report (deliverables): 
-
-Goals for DGNB certification and discussion on decision process and value of the criteria chosen to reach the intended certification level.
-
-DGNB lite documentation on all Topics and the chosen Criteria’s.
-
-Emphasis should be on value creation of the criteria to the buildings design and end user experience.
-
-LCA documentation including:
-
-Goal and scope
-
-Life cycle inventory
-
-Visual representation/overview over Life Cycle inventory in reference to the building design
-
-Sensitivity analysis
-
-Life cycle impact analysis
-
-Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
-
-Discussion on the Sustainability of your teams building design.
-
-How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
-
-How does the building design show sustainability and sustainable material choices.
-
-Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
-
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
-
+## Part C Submission
+Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
+PM to gather all documents from the team and submit them under Assignment Part B in DTU Learn before the deadline. 
 
