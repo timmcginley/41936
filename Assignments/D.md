@@ -7,15 +7,15 @@ The final presentation will take place in Building 306, Auditorium 32.
 
 Stage D starts by reviewing and providing peer feedback on subject and client reports. They are then given the teacher and peer feedback at the same time. based on this they reflect, model, analyse and document the project in detail (preliminary design). The reports are then used by the reviewers time to ask questions at the  the presentation and VR model demonstration. 
 
-* Part D Client Report
-* Part D Subject Reports
-* Part D BIM
-* Part D Presentation
-* Part D VR Model
-* Part D Invoice
+* D1 Client Report
+* D2 Subject Reports
+* D3 BIM
+* D4 Presentation
+* D5 VR Model
+* D6 Invoice
+<hr>
 
-
-## D Client Report
+## D1 Client Report
 The final client report should include:
 
 * Project & KPIs
@@ -30,11 +30,13 @@ The final client report should include:
 * MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
 * Facade
 * Reflection
+<hr>
 
-## D Consultant Reports
+## D2 Consultant Reports
 These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
+<hr>
 
-## D BIM
+## D3 BIM
 Please ensure your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at noon. The BIM should:
 
 * Satisfy all the requirements stated in the [ICT Agreement](/Assignments/A.md#ict-agreement).
@@ -46,10 +48,9 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 * Check your IFC file conforms to the disciplinary needs using the relevant IDS
 
 File naming: xxx_xxx_xxx_xxx
+<hr>
 
-### Architecture
-Check IFCSpaces have exported successfully.
-Ceilings present and correctly classified
+
 
 ### Structure
 The structural system of the entire building including slabs, beams, columns and core. Also conceptual input to basement structure, ramp access to the basement, stairs in the entire core, the elevator shaft on top of the building, stair access to the building roof, should all be included in the BIM Model and aligned with the other disciplines.
