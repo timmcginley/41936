@@ -124,9 +124,9 @@ The representation of choices to the client is not predefined in this task; it's
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 * Should inlcude documented performance against KPIs / Beats to demonstrate on track.
 
-## Submission
-
-Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF and upload it to Learn. File name: 9W_TeamXX
+## Part B Submission
+Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
+PM to gather all documents from the team and submit them under Assignment Part B in DTU Learn before the deadline. 
 
 Enter your BEATS in MS Teams:
 B1: Number of Permanent Workspaces in the Building
