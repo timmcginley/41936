@@ -84,7 +84,7 @@ To design and build more sustainable buildings now and in the future, we need to
 
 Here the material subject people have a critical role in identifying problematic materials or building designs. Using an array of design tools and methods to both map out and communicate the issues as well as enabling collaborative processes with the relevant subject groups involved, to develop alternative material or design proposals.
 
-### Designnew materials
+### Design new materials
 @Navid :)
 
 ## Material Integration
@@ -148,6 +148,9 @@ Furthermore, it should clearly explain the different available options, your bui
 
 This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
 
+```{hint}
+This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
+```
 
 * Seek 'regulatory approval' for the new material / product.
 * Produce EPD either for the new material / component and 
