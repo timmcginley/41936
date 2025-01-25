@@ -36,7 +36,14 @@ Each consultancy deliver a report:
 Note: words count should be the same on A4 and A3 format
 File format: One PDF document per subject. No other formats are accepted.
 
-Additionally, to the subject specific requirements for this report described in the subject manual. You must also provide a weekly breakdown of your hours on the project so far.
+Additionally, to the subject specific requirements for this report described for each subject below.
+
+* [Architecture Report](/Subjects/Architecture#consultant-report)
+* [Strcuture Report](/Subjects/Architecture#consultant-report)
+* [MEP Report](/Subjects/Architecture#consultant-report)
+* [Geotech Report](/Subjects/Geotech#consultant-report)
+* [Materials Report](/Subjects/Materials#consultant-report)
+* [PM-ICT Report](/Subjects/PM-ICT#consultant-report)
 
 File name: C_Report_TeamXX_SubY
 * Example - C_Report_Team10_Arch
