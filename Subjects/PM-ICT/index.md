@@ -113,11 +113,11 @@ The design management scheme (DMS) (e.g. an activities-Gantt chart) has to be cr
 Make sure that the team develops integrated drawings, including alternative solutions. Capture input from teachers' comments and decide, together with the team, on your recommendation for the solution that your team is suggesting.
 
 ### Part C
-#### Client report
+#### C Client report
 Status on cost estimate. Status on DGNB Light score. Status on coordination issues. Present the existing situation, solved issues, not solved etc. The PM must facilitate the development of a coherent client report that presents a sustainable and safe building according to the client’s needs and budget.
 
-#### Consultant Report
-Contents
+#### C Consultant Report
+Contents:
 
 * Project schedules for the entire team. 3-week schedule (Part D) and the achieved observations during the process.
 * Explain how the project was managed. Present how you used the schedule, tools, system engineering, KPI’s, beats to develop the project. Explain how you took action within the team, during the design meetings, how you overviewed or acted as a mediator when design criteria and client requirements were decided.
@@ -166,7 +166,7 @@ Contains the final:
 * Explain how the building is used during operation.
 * Explain how access to key elements for operation and maintenance tasks elements.
 
-#### Subject Report
+#### D Subject Report
 Document the general spatial coordination and detailed coordination on two different storeys.
 * Include the revised ICT contract.
 * Include reports from the ICT tool used to identify clashes and explain why they have not been solved.
@@ -176,14 +176,6 @@ Document the general spatial coordination and detailed coordination on two diffe
 * Explain how coordination issues were documented and solved during the project, and how it could have been improved.
 * Explain how the project was managed during the course and what have been improved.
 * Explain how the review and quality assurance processes were performed.
-
-#### Subject Report
-This is a continuation on the 13 week report but with more detail on the themes discussed in the course. This report describes the work done to develop a preliminary design (LO9).
-
-Collaborate with the other specialists (LO1)
-Integrate the different requirements into your architectural design (LO5)
-explore alternatives (LO6)
-Justify and defend your design decisions (LO8)
 
 #### D BIM
 Your responsibility is to coordinate the BIM models to the benefit of your building team. This includes clash detection and quality assurance and cost calculations. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues (e.g., clashes, misplaced objects, duplicated objects etc.). Use the VR session as a team, to ensure you find these issues, and together with the clash detection analysis you will conduct, will result in a good overall BIM Management. The BIM Model information must correspond entirely to the ICT Contract rules. For this assignment an overall increase in the quality and coordination has to be seen from the 13-week period. Your Model has to be a in a ready to build stage. Moreover, this will be analysed during the final presentation and assessment of the teamwork.
