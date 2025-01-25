@@ -3,8 +3,6 @@
 ![image](https://github.com/user-attachments/assets/5fa8748b-4925-42ed-8948-29abcc847de5)
 Foster+Partners office, London, UK.
 
-
-
 **Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
 
 Architectural consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
@@ -118,9 +116,10 @@ Facade, entrance, ground floor and reception area with furniture and all the pie
 This is a continuation on the Part C report but with more detail on the themes discussed in the course. It will contain the following additional content
 
 * 6 details (introduced in Part D Architecture lecture)
-
   
-#### BIM
+#### D BIM
+Check IFCSpaces have exported successfully.
+Ceilings present and correctly classified.
 Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), copy room, toilets, gym?, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
 
 ## Requirements
