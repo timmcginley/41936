@@ -125,3 +125,6 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
 or maybe this goes to agile? work it out in the circular repo.
 -->
+
+## Part A Submission
+PM to gather all documents from the team and submit them under Assignment Part A in DTU Learn before the deadline.
