@@ -120,7 +120,8 @@ This is a continuation on the Part C report but with more detail on the themes d
 #### D BIM
 Check IFCSpaces have exported successfully.
 Ceilings present and correctly classified.
-Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), copy room, toilets, gym?, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
+
+Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), copy room, toilets, lockers, auditoriums, roof, cafeteria, restaurant, bike parkingc(not all of them), the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
 
 ## Requirements
 Advanced Building Design requires the collaborative design, modelling, analysis, communication and iteration of interdisciplinary solutions to each building system at every stage of the design process. specifically this means the responsibilities and dependencies for architecture are:
