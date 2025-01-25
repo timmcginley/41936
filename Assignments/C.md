@@ -40,46 +40,19 @@ Additionally, to the subject specific requirements for this report described in 
 
 File name: C_Report_TeamXX_SubY
 * Example - C_Report_Team10_Arch
+
+```{note}
 Note_1: Over the limit pages will be ignored
+
 Note_2: Extra information should be included & referenced to the appendixes chapter at the end of the report, placed after the reference chapter, and will in this way be taken into consideration.
+
 Note_3: Pages without an author(s) will be ignored.
-  
-## Structures
-After the PREVIOUS milestone you can now start calculating in more details the forces and dimensions of your structure. Use the methods you are most familiar with. We can give some supervision to FE-modelling but if you have no experience with this method use proper hand-calculations; the Empire State Building was designed long before the computer era! At the end of the 13 weeks you should have a clear idea about your structure, loads and dimensions, detailing and the integration of special architectural features if any. Before you finish the 13-week period your project should be at a point that you have no questions left regarding finalizing the design in the 3 weeks period. You will get comments on the report you have to prepare at the end of the 13 weeks, which should clear up last details. 
-
-Following aspects and issues should be addressed in the report (deliverables): 
-
-* Development of building concept. 
-* Choice of static system (stiffening elements, beam-column system, floor plates). 
-* Choice of material (pure concrete, steel-concrete composite, pure or partial steel structure). 
-* Loading assumptions (dead loads, traffic loads, fire and overall wind loads). 
-* First verification of overall structural stability and foundation pressure. 
-* Dimensions of the element profiles and sectional forces on slabs, beams, columns and core.
-
-### Material
-
-The part C subject report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there).
-
-Following aspects and issues should be addressed in the report (deliverables): 
-
-* Goals for DGNB certification and discussion on decision process and value of the criteria chosen to reach the intended certification level.
-* DGNB lite documentation on all Topics and the chosen Criteria’s.
-* Emphasis should be on value creation of the criteria to the buildings design and end user experience.
-* LCA documentation including:
-    * Goal and scope
-    * Life cycle inventory
-    * Visual representation/overview over Life Cycle inventory in reference to the building design
-    * Sensitivity analysis
-    * Life cycle impact analysis
-    * Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
-* Discussion on the Sustainability of your teams building design.
-* How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
-* How does the building design show sustainability and sustainable material choices.
-* Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
+```
 
 ```{hint}
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
+This is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊 Use visuals and diagrams to underline and communicate your design choices and decision making process. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
 ```
+<hr>
 
 ## C3 BIM 
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.
