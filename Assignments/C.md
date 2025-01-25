@@ -24,6 +24,7 @@ The client report is a high level report including information on the:
 * MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
 * Facade
 * Questions for feedback
+<hr>
 
 
 ## C2 Consultant Reports
