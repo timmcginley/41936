@@ -30,7 +30,7 @@ The client report is a high level report including information on the:
 The specific requirements for each report for each subject can be found below.
 
 * [Architecture Report](/Subjects/Architecture/index.html#c-consultant-report)
-* [Strcuture Report](/Subjects/Structure/index.html#c-consultant-report)
+* [Structure Report](/Subjects/Structure/index.html#c-consultant-report)
 * [MEP Report](/Subjects/MEP/index.html#c-consultant-report)
 * [Geotech Report](/Subjects/Geotech/index.html#c-consultant-report)
 * [Materials Report](/Subjects/Materials/index.html#c-consultant-report)
