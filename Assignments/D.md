@@ -33,7 +33,15 @@ The final client report should include:
 <hr>
 
 ## D2 Consultant Reports
-These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work.
+These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work. Links to the requirements for each consultant can be foudn below
+
+* [Architecture Report](/Subjects/Architecture#d-consultant-report)
+* [Strcuture Report](/Subjects/Architecture#d-consultant-report)
+* [MEP Report](/Subjects/Architecture#d-consultant-report)
+* [Geotech Report](/Subjects/Geotech#d-consultant-report)
+* [Materials Report](/Subjects/Materials#d-consultant-report)
+* [PM-ICT Report](/Subjects/PM-ICT#d-consultant-report)
+
 <hr>
 
 ## D3 BIM
