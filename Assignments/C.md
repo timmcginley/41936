@@ -4,10 +4,10 @@ Collaborate to integrate the building systems of different disciplines to satisf
 
 Stage C starts by responding to the client feedback and integrating the chosen solution into an 'outline design'. This stage should also update the excel to check the building is on target and justify if not. This will help inform the required subject and client report assignments for stage C. 
 
-* Client Report
-* Subject Reports
-* Part C BIM
-* Part C Invoice
+* C1 Client Report
+* C2 Consultant Reports
+* C3 BIM
+* C4 Invoice
 <hr>
 
 ## C1 Client Report
@@ -81,6 +81,11 @@ We want you to embrace parametrics and smarter ways to work in this course. Ther
 
 ### PM Collaboration Award
 PMs nominated by their team based on how well they supported collaboration in the team. 
+<hr>
+
+## C4 Invoice
+PM to collect invoices from the consultants on their team and collate into a single invoice fro the team including.
+<hr>
 
 ## Part C Submission
 Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
