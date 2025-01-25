@@ -26,7 +26,6 @@ The client report is a high level report including information on the:
 * Questions for feedback
 <hr>
 
-
 ## C2 Consultant Reports
 The specific requirements for each report for each subject can be found below.
 
@@ -66,21 +65,25 @@ This is your main opportunity to get feedback on your current trajectory and app
 ## C3 BIM 
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.
 
-### Architecture
-This model should include all the spaces. 
+* [Architecture BIM](/Subjects/Architecture#c-bim)
+* [Structure BIM](/Subjects/Structure#c-bim)
+* [MEP BIM](/Subjects/MEP#c-bim)
+* [Geotech BIM](/Subjects/Geotech#c-bim)
+* [Materials BIM](/Subjects/Materials#c-bim)
+* [PM-ICT BIM](/Subjects/PM-ICT#c-bim)
 
-### Structural - BIM / 3D models 
+```{admonition}OpenBIM award – BuildingSmart Denmark 
+It is a course that produces great BIM, but often it is too late to be useful in the design process - we want to support you to build useful BIM early so that you can use it to better understand the challenges in your building and move towards better integrated designs and making better choices.
+```
 
-You should be developing the BIM model through the course. This might not be possible in the early stages, however, start as soon as possible when some elements are certain. To give you a guide you should expect to have a model that we can do a quantity take off from by week 10. The structural system of the entire building, basement structure, ramp access to the basement, stairs in the entire core should all be included in the BIM Model and aligned with the other disciplines. The elevator shaft on top of the building, stair access to the building roof. 
-
-### OpenBIM award – BuildingSmart Denmark 
-It is a course that produces great BIM, but often it is too late to be useful in the design process - we want to support you to build useful BIM early so that you can use it to better understand the challenges in your building and move towards better integrated designs and making better choices. 
-
-### Computational Design Award
+```{admonition}Computational Design Award
 We want you to embrace parametrics and smarter ways to work in this course. Therefore in parallel. 
+``` 
 
-### PM Collaboration Award
+```{admonition}PM Collaboration Award
 PMs nominated by their team based on how well they supported collaboration in the team. 
+``` 
+
 <hr>
 
 ## C4 Invoice
