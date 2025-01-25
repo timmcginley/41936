@@ -7,6 +7,11 @@ Material selection decisions in project are very complex, require the involvemen
 
 Chief Consultant: Navid Ranjbar.
 
+* Skills and learning
+* Assignments
+* Requirements
+* Interfaces
+
 ## Skills Required
 * Experience with LCA (essential - at least one member)
 * Experience with DGNB (Desirable)
@@ -27,14 +32,62 @@ Chief Consultant: Navid Ranjbar.
 * Decide which elements of the design to focus
 * Review available materials
 
-## Role
+## Assignments
+
+### Part A
+* Help set CO2 eq / m2 / person target
+* Analyse the previous projects
+* Analyse the implications of the DGNBLite scehma for the team.
+
+### Part B
+
+#### Drawings
+* Produce the different material options
+
+### Part C
+
+#### Consultant Report
+
+Part C report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there). The following aspects and issues should be addressed in the report (deliverables): 
+
+* Goals for DGNB certification and discussion on decision process and value of the criteria chosen to reach the intended certification level.
+* DGNB lite documentation on all Topics and the chosen Criteria’s.
+* Emphasis should be on value creation of the criteria to the buildings design and end user experience.
+* LCA documentation including:
+    * Goal and scope
+    * Life cycle inventory
+    * Visual representation/overview over Life Cycle inventory in reference to the building design
+    * Sensitivity analysis
+    * Life cycle impact analysis
+    * Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
+* Discussion on the Sustainability of your teams building design.
+* How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
+* How does the building design show sustainability and sustainable material choices.
+Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
+
+This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
+
+```{hint}
+This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
+```
+
+* Seek 'regulatory approval' for the new material / product.
+* Produce EPD either for the new material / component and
+* 
+## Part D
+
+### D BIM
+Are the materials correct?
+
+## Requirements 
+
+### Role
 Advanced Building Design Materials Consultants need to be able to analyse current approaches to materials and iff appropriate suggest new materials and components where current solutions do not meet the needs of the team. The materials subject for 2025 combines a number of roles:
 
 * Design
 * Analysis
 * Documentation
 * Guidance
-
 
 ### Design
 * Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.
@@ -50,8 +103,6 @@ Advanced Building Design Materials Consultants need to be able to analyse curren
 ### Guidance
 * Peer review of the other groups
 * Supporting the design team to 
-
-## Requirements 
 
 ### DGNB
 A central criterion for the sustainability of buildings is the DGNB lite certification. A simplified version of the GBRS, DGNB, that is the most common used in Denmark. A green building rating system functions both as a tool to documentation but should also be considered as a set of criteria's that can help support or define parts of the building design process. Understanding these criteria, where and how they affect your teams process and what measures you can plan out to accommodate the needed information at the right time to the right people. DGNB screening and initial process plotting for knowledge sharing or interventions.
@@ -112,70 +163,3 @@ Ultimately you are responsible for the materials and can ‘override’ other gr
 This collaboration should be clearly defined in the DMS.
 
 Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects.Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
-
-## Assignments
-
-### Part A
-* Help set CO2 eq / m2 / person target
-* Analyse the previous projects
-* Analyse the implications of the DGNBLite scehma for the team.
-
-### Part B
-
-#### Drawings
-* Produce the different material options
-
-### Part C
-
-#### Consultant Report
-
-Part C report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there). The following aspects and issues should be addressed in the report (deliverables): 
-
-* Goals for DGNB certification and discussion on decision process and value of the criteria chosen to reach the intended certification level.
-* DGNB lite documentation on all Topics and the chosen Criteria’s.
-* Emphasis should be on value creation of the criteria to the buildings design and end user experience.
-* LCA documentation including:
-    * Goal and scope
-    * Life cycle inventory
-    * Visual representation/overview over Life Cycle inventory in reference to the building design
-    * Sensitivity analysis
-    * Life cycle impact analysis
-    * Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
-* Discussion on the Sustainability of your teams building design.
-* How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
-* How does the building design show sustainability and sustainable material choices.
-Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
-
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
-
-```{hint}
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
-```
-
-* Seek 'regulatory approval' for the new material / product.
-* Produce EPD either for the new material / component and
-* 
-## Part D
-
-### D BIM
-Are the materials correct?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
