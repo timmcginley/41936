@@ -55,14 +55,7 @@ File naming: xxx_xxx_xxx_xxx
 <hr>
 
 
-
-### PM
-Check that the models are aligned, are in the correct place.
-Are all models classified in the same system?
-Was the IFC export successful
-Have the clashes been fixed or if not possible documented in your report?
-
-## Final Presentation
+## D4 Presentation
 Timings for the presentation:
 
 * 10 min. Presentation    
@@ -90,8 +83,9 @@ Your presentation should include the following:
 * Inform the client about the estimated cost of the project.
 * Provide the estimated timeline for construction.
 * State the targeted DGNB certification level and explain the sustainability measures taken to achieve it.
+<hr>
 
-## Part D VR Model
+## D5 VR Model
 
 The VR tour should include the following points in the building.
 
