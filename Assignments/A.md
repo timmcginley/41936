@@ -115,6 +115,7 @@ You should think of this in 2 ways:
 2. This gives you an idea of a design that you can use as a benchmark / baseline - can you do better? what affect would this building have on your KPIs?
 
 It would not be possible to produce a full shared BIM model at this stage, we are more interested in the information than the geometry in the early days, if you do not have a 3d model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? 
+<hr>
 
 ## A7 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
