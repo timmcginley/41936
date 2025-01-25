@@ -48,12 +48,11 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 * Check your IFC file conforms to the disciplinary needs using the relevant IDS
 
 File naming: xxx_xxx_xxx_xxx
+
+* [ADD SUBJECTS HERE] - TAKE FROM PART C...
+
+
 <hr>
-
-
-
-### Structure
-The structural system of the entire building including slabs, beams, columns and core. Also conceptual input to basement structure, ramp access to the basement, stairs in the entire core, the elevator shaft on top of the building, stair access to the building roof, should all be included in the BIM Model and aligned with the other disciplines.
 
 ## Materials
 Are the materials correct?
