@@ -112,89 +112,92 @@ The design management scheme (DMS) (e.g. an activities-Gantt chart) has to be cr
 ### Part B
 Make sure that the team develops integrated drawings, including alternative solutions. Capture input from teachers' comments and decide, together with the team, on your recommendation for the solution that your team is suggesting.
 
-Part C
-Client report
+### Part C
+#### Client report
 Status on cost estimate. Status on DGNB Light score. Status on coordination issues. Present the existing situation, solved issues, not solved etc. The PM must facilitate the development of a coherent client report that presents a sustainable and safe building according to the client’s needs and budget.
 
-Subject Report
+#### Consultant Report
 Contents
 
-Project schedules for the entire team. 3-week schedule (Part D) and the achieved observations during the process.
-Explain how the project was managed. Present how you used the schedule, tools, system engineering, KPI’s, beats to develop the project. Explain how you took action within the team, during the design meetings, how you overviewed or acted as a mediator when design criteria and client requirements were decided.
-Document the methods used to ensure traceability between requirements and implemented solutions. Present how you implemented and achieved the client requirements. Hint: Present the integration or requirements, work performed in the context of applied system engineering to your project and specifications.
-Document the spatial coordination between subjects, including sketches/drawings/renderings. Special attention should be given to:
-Allocation of spaces in shafts
-Coordination between building services and the structural system
-Coordination between the structural system and foundation
-Elements in the facades.
-Cost estimated
-DGNB light score
-ICT-Contract
-To be included in the cost estimate:
-
-Excavation
-All materials related to the building
-All services related to erecting the building
-Cost of design
-Rent or lease of equipment used during construction
-Overhead related to managing the erection of the building
-Maintenance for 50 years
-Cleaning of the building and site for 50 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
-Supply (water, electricity, heat, cooling, gas)
-Waste (‘solid waste’, sewage)
+* Project schedules for the entire team. 3-week schedule (Part D) and the achieved observations during the process.
+* Explain how the project was managed. Present how you used the schedule, tools, system engineering, KPI’s, beats to develop the project. Explain how you took action within the team, during the design meetings, how you overviewed or acted as a mediator when design criteria and client requirements were decided.
+* Document the methods used to ensure traceability between requirements and implemented solutions. Present how you implemented and achieved the client requirements. Hint: Present the integration or requirements, work performed in the context of applied system engineering to your project and specifications.
+* Document the spatial coordination between subjects, including sketches/drawings/renderings. Special attention should be given to:
+* Allocation of spaces in shafts
+* Coordination between building services and the structural system
+* Coordination between the structural system and foundation
+* Elements in the facades.
+* Cost estimated
+* DGNB light score
+* To be included in the cost estimate:
+    * Excavation
+    * All materials related to the building
+    * All services related to erecting the building
+    * Cost of design
+    * Rent or lease of equipment used during construction
+    * Overhead related to managing the erection of the building
+    * Maintenance for 50 years
+    * Cleaning of the building and site for 50 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
+    * Supply (water, electricity, heat, cooling, gas)
+    * Waste (‘solid waste’, sewage)
 Should not be included in the estimate:
-Furniture
-Cost of site
-Building permit
-Lawyers
-VAT
+    * Furniture
+    * Cost of site
+    * Building permit
+    * Lawyers
+    * VAT
 
-Including the ICT/PM [Contract] - ICT Contract which has to be presented in the appendices. Refer to it in the section of the report where you think is valuable.
+Include the ICT/PM [Contract] - ICT Contract which has to be presented in the appendices. Refer to it in the section of the report where you think is valuable.
 
 Document how the interfaces between the subjects were coordinated (BCF can be used). Talk about the BIM model, present information about its advancement, how many issues initially, did you solve them as a team?
-Suggest improvements to BIM process in the Part D period.
-Explain how the project will be managed in the Part D period.
-BIM
+* Suggest improvements to BIM process in the Part D period.
+* Explain how the project will be managed in the Part D period.
+
+### C BIM
 The BIM Model must include spaces and should in general aim to be at Dikon LOD 300. Your responsibility is to coordinate the BIM models to benefit your building team. The submission at this stage may not be entirely clash-free or undergo full quality assurance, but it should represent progress towards quantity take-off for cost calculations. However, your ultimate goal should be to deliver a coordinated model by the end of the course. The BIM Model information must comply with the ICT Contract rules.
 
-Part D
-The 3 week period reports are a development of the previous 13 week reports. This is true for all subjects.
+## Part D
+The Part D reports are a development of the previous reports. This is true for all subjects.
 
-Client report
-The final:
+### D Client report
+Contains the final:
+* Final cost estimates.
+* DGNB light score.
+* Explain how the building is used during operation.
+* Explain how access to key elements for operation and maintenance tasks elements.
 
-Final cost estimates.
-DGNB light score.
-Explain how the building is used during operation.
-Explain how access to key elements for operation and maintenance tasks elements.
-Subject Report
+#### Subject Report
 Document the general spatial coordination and detailed coordination on two different storeys.
+* Include the revised ICT contract.
+* Include reports from the ICT tool used to identify clashes and explain why they have not been solved.
+* Include the original and revised project schedules and explain any differences between them.
+* Document traceability between requirements, the implemented solutions and the process that led to the solution.
+* Document how the interfaces between the subjects were coordinated. Use of BCF is the preferred solution.
+* Explain how coordination issues were documented and solved during the project, and how it could have been improved.
+* Explain how the project was managed during the course and what have been improved.
+* Explain how the review and quality assurance processes were performed.
 
-Include the revised ICT contract.
-Include reports from the ICT tool used to identify clashes and explain why they have not been solved.
-Include the original and revised project schedules and explain any differences between them.
-Document traceability between requirements, the implemented solutions and the process that led to the solution.
-Document how the interfaces between the subjects were coordinated. Use of BCF is the preferred solution.
-Explain how coordination issues were documented and solved during the project, and how it could have been improved.
-Explain how the project was managed during the course and what have been improved.
-Explain how the review and quality assurance processes were performed.
-Subject Report
+#### Subject Report
 This is a continuation on the 13 week report but with more detail on the themes discussed in the course. This report describes the work done to develop a preliminary design (LO9).
 
 Collaborate with the other specialists (LO1)
 Integrate the different requirements into your architectural design (LO5)
 explore alternatives (LO6)
 Justify and defend your design decisions (LO8)
-BIM
+
+#### D BIM
 Your responsibility is to coordinate the BIM models to the benefit of your building team. This includes clash detection and quality assurance and cost calculations. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues (e.g., clashes, misplaced objects, duplicated objects etc.). Use the VR session as a team, to ensure you find these issues, and together with the clash detection analysis you will conduct, will result in a good overall BIM Management. The BIM Model information must correspond entirely to the ICT Contract rules. For this assignment an overall increase in the quality and coordination has to be seen from the 13-week period. Your Model has to be a in a ready to build stage. Moreover, this will be analysed during the final presentation and assessment of the teamwork.
 
 As a general rule for all subjects: The entire building has to be design at information Dikon LOD 300 and one floor (suggested to detail all subject elements on that specific floor) has to be LOD 325. 
+```{hint}
+Check the subject pages to see what each consultant in your team is responsible and / or you have defined in the teams ICT contract.
+```
+* [Architecture BIM](/Subjects/Architecture#d-bim)
+* [Structure BIM](/Subjects/Structure#d-bim)
+* [MEP BIM](/Subjects/MEP#d-bim)
+* [Geotech BIM](/Subjects/Geotech#d-bim)
+* [Materials BIM](/Subjects/Materials#d-bim)
 
-What to include:
-
-Architecture: Façade, entrance, ground floor and reception area with furniture and all the pieces, office floor, copy room, toilets, gym, lockers, auditoriums, sky bar, cafeteria, restaurant, bike parking, car parking (represent by adding only some elements (car, bikes) not all)
-Structures The structural system, Basement structure, access to the basement, stairs in the core
-MEP Choose 1 floor level from the above-detailed ones and add all your HVAC components. Create volume delimitation (boxes with names on it –ask PM/ICT for the explanation if needed) in the basement technical floor representing space division for the components. Vertical Inlet and Outlet ventilation from the basement to the top of the building based on your design criteria have to be included (is it continuous or not).
 Note All subjects are required to model having interoperability/coordination as a first rule If other subjects need help, help your team members.
 
 
