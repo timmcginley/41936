@@ -32,9 +32,7 @@ Define the overall concept for your building through multi-disciplinary drawings
 
 A first task of PM is to coordinate the drawings that are presented. PM should look for opportunities where different systems can be represented on the same drawing.
 
-### Integrated Drawings
-
-These should include:
+The drawings should include:
 
 #### Minimum one site plan:
 1:200 scale
@@ -107,7 +105,8 @@ Perspective view (A1)
 * FIRE: What part of your building is performance based? What will follow the prescriptive codes? 
 
 #### PM / ICT 
-* Coordinated schedule of activities for the entire team in the 13-week period 
+* Coordinated schedule of activities for the entire team in the 13-week period
+<hr>
 
 
 ## B2 Client Report 
@@ -118,11 +117,13 @@ The report will analyzing different options to assist the client in making decis
 The purpose of the report is to document the decisions made by both you and the client (teachers) regarding the initial design of the buildings. We encourage you to develop your own way of presenting this report based on your impression of the client from the communication you have had with them so far. For example, consider whether they would prefer a detailed report with extensive calculations or summaries presented in a 'one-pager'. Would they appreciate an executive summary?
 
 The representation of choices to the client is not predefined in this task; it's up to you, just as it would be in a real project. PM will coordinate these efforts and present recommendations to the client.
+<hr>
 
 ## B3 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 * Should inlcude documented performance against KPIs / Beats to demonstrate on track.
+<hr>
 
 ## Part B Submission
 Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
