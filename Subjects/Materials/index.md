@@ -5,7 +5,7 @@
 
 Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportubnity to deisgn and analyse new materials that satisfy your project team's needs.
 
-Cheif Consultant: Navid Ranjbar.
+Chief Consultant: Navid Ranjbar.
 
 ## Skills Required
 * Experience with LCA (essential - at least one member)
