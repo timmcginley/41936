@@ -1,7 +1,7 @@
 # Part D
 
 ```{attention}
-The final presentation will take place in Building 117, Room 24. You can enter the room from Building 127. 
+The final presentation will take place in Building 306, Auditorium 32.
 ```
 **Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR.**
 
