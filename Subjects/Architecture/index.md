@@ -109,8 +109,8 @@ Report Structure:
 * **Copy of invoice sent to PM**
 * **Appendix** / Fire evacuation calculations
 
-### BIM
-LOD to be defined by PM in the ICT Agreement
+### C BIM
+LOD to be defined by PM in the ICT Agreement. This model should include all the spaces. 
 Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor levels), copy room, toilets, gym, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
 
 ### Part D 
