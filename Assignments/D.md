@@ -54,8 +54,7 @@ File naming: xxx_xxx_xxx_xxx
 
 <hr>
 
-## Materials
-Are the materials correct?
+
 
 ### PM
 Check that the models are aligned, are in the correct place.
