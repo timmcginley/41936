@@ -56,7 +56,7 @@ Identify the parts of the project and the associated deadlines and collaborative
 
 ### Part B  
 **@Varvara please check against [general Part B description](/Assignements/B.md#b1-drawings)**
-#### Drawings 
+#### B Drawings 
 
 At this stage of the project you should have developed preliminary geotechnical design models for the underground works. These will be depicted in four drawings that contain:  
 * Presentation of the ground model. Soil stratigraphy and soil parameters for each layer
@@ -72,13 +72,13 @@ Moreover the following milestones should be met that will help you to create the
 ##### Design Options 
 Documentation of 2 Different design options. 
 
-#### Client Report 
+#### B Client Report 
 
 Contribute towards the client recommendations for your subject, what options would you recommend to the Client? 
 
 ### Part C  
 
-#### Consulant (subject) Report 
+#### C Consulant Report 
 Your report should include:
 * Design basis (ground model, loads, load combinations, safety factors of safety, preliminary geotechnical design models)
 * Preliminary design for the ultimate limit states of the foundations, retaining structures (temporary) and basement wall.
@@ -93,7 +93,7 @@ Provide the team with a BIM model to support coordination with the other subject
 
 ### Part D  
 
-#### Consultant Report 
+#### D Consultant Report 
 * Design basis (final version). This includes final geotechnical design models in addition to the 13 week report content. 
 * Final design including both the ultimate and the serviceability limit states (ULS and SLS) of the foundations, retaining structures (temporary) and basement wall. 
 * Assessment of soil-structure-interaction effects in collaboration with the structural engineer. The soil foundation stiffness is first estimated for static and dynamic load conditions, thereafter the effects of compliance on the structural performance is assessed. 
