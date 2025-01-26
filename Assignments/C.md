@@ -41,10 +41,6 @@ Each consultancy delivers a report:
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
 
-```{hint}
-This is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊 Use visuals and diagrams to underline and communicate your design choices and decision making process. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
-```
-
 ### Format
 
 * File format: One PDF document per subject. No other formats are accepted.
@@ -67,6 +63,10 @@ We want you to explore innovative structural solutions.
 
 ```{admonition} Geotechnical Innovation Award
 Renovations are challenging for renovation projects, this award shows thatyou are pushing the limits.
+```
+
+```{hint}
+This is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊 Use visuals and diagrams to underline and communicate your design choices and decision making process. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
 ```
 <hr>
 
