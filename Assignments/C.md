@@ -31,7 +31,12 @@ The client report is a high level report including information on the:
 <hr>
 
 ## C2 Consultant Reports
-The specific requirements for each report for each subject can be found below.
+Each consultancy delivers a report:
+
+* A4: Maximum 20 pages + appendixes
+* A3: Maximum 13 pages + appendixes
+
+Consultancy specific requirements.
 
 * [Architecture Report](/Subjects/Architecture/index.html#c-consultant-report)
 * [Structure Report](/Subjects/Structure/index.html#c-consultant-report)
@@ -40,12 +45,7 @@ The specific requirements for each report for each subject can be found below.
 * [Materials Report](/Subjects/Materials/index.html#c-consultant-report)
 * [PM-ICT Report](/Subjects/PM-ICT/index.html#c-consultant-report)
 
-Each consultancy delivers a report:
-
-* A4: Maximum 20 pages + appendixes
-* A3: Maximum 13 pages + appendixes
-
-Specifically:
+All reports:
 
 * File format: One PDF document per consultancy. No other formats are accepted.
 * Note: words count should be the same on A4 and A3 format
