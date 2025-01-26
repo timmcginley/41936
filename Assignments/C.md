@@ -41,6 +41,20 @@ Each consultancy delivers a report:
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
 
+```{hint}
+This is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊 Use visuals and diagrams to underline and communicate your design choices and decision making process. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
+```
+
+### Format
+
+* File format: One PDF document per subject. No other formats are accepted.
+* Note: words count should be the same on A4 and A3 format
+* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
+* Example for part c consultant report for architecture in team 10: _25-10-C-ARCH.pdf_
+* Note_1: Over the limit pages will be ignored
+* Note_2: Extra information should be included & referenced to the appendixes chapter at the end of the report, placed after the reference chapter, and will in this way be taken into consideration.
+* Note_3: Pages without an author(s) will be ignored.
+
 ### Awards
 
 ```{admonition} Architecture Supporting others Award
@@ -53,19 +67,6 @@ We want you to explore innovative structural solutions.
 
 ```{admonition} Geotechnical Innovation Award
 Renovations are challenging for renovation projects, this award shows thatyou are pushing the limits.
-```
-### Notes
-
-* File format: One PDF document per subject. No other formats are accepted.
-* Note: words count should be the same on A4 and A3 format
-* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
-* Example for part c consultant report for architecture in team 10: _25-10-C-ARCH.pdf_
-* Note_1: Over the limit pages will be ignored
-* Note_2: Extra information should be included & referenced to the appendixes chapter at the end of the report, placed after the reference chapter, and will in this way be taken into consideration.
-* Note_3: Pages without an author(s) will be ignored.
-
-```{hint}
-This is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊 Use visuals and diagrams to underline and communicate your design choices and decision making process. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
 ```
 <hr>
 
