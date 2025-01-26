@@ -72,15 +72,15 @@ The building Information models and processes for this project are essential bot
 * [Materials BIM](/Subjects/Materials#c-bim)
 * [PM-ICT BIM](/Subjects/PM-ICT#c-bim)
 
-```{admonition}OpenBIM award – BuildingSmart Denmark 
+```{admonition} OpenBIM award – BuildingSmart Denmark 
 It is a course that produces great BIM, but often it is too late to be useful in the design process - we want to support you to build useful BIM early so that you can use it to better understand the challenges in your building and move towards better integrated designs and making better choices.
 ```
 
-```{admonition}Computational Design Award
+```{admonition} Computational Design Award
 We want you to embrace parametrics and smarter ways to work in this course. Therefore in parallel. 
 ``` 
 
-```{admonition}PM Collaboration Award
+```{admonition} PM Collaboration Award
 PMs nominated by their team based on how well they supported collaboration in the team. 
 ``` 
 
