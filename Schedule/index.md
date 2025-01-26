@@ -75,13 +75,18 @@ This requires that you define the F2F height.
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
 ## Week 05 - Part B *
-
+13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
+13.00 - 14.00 Walk from building 306 to 116
 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
+15.00 - 17.00 Continure work on drawings.
 
-## Week 06 - External Lecture
-
-## Week 07 - Subject Lectures **
+## Week 06 - Subject Lectures **
 13.00 – 15.00 (focus on the drawings they need to produce)
+15.00 - 17.00 Continure work on drawings.
+
+## Week 07 - External Lecture 
+13.00 - 14.00 External Lecture
+14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
 13.00 – 17.00 (interdisciplinary drawing feedback session)
