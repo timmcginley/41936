@@ -10,8 +10,8 @@
 
 The course runs on Monday Afternoons in the Spring semester 
 
-Subjects: 13:00 – 14:00 / 15:00 
-Teams: 14:00 / 15:00 - 17:00  
+* Subjects: 13:00 – 14:00 / 15:00 
+* Teams: 14:00 / 15:00 - 17:00  
 
 ## Week 01 - Part A
 
@@ -75,46 +75,53 @@ This requires that you define the F2F height.
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
 ## Week 05 - Part B *
-13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
-13.00 - 14.00 Walk from building 306 to 116
-14:00 – 15:00 (introduction to the subject – focus on options for Part B)
-15.00 - 17.00 Continure work on drawings.
+* 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
+* _13.00 - 14.00 Walk from building 306 to 116_
+* 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
+* 15.00 - 17.00 Continure work on drawings.
 
 ## Week 06 - Subject Lectures **
-13.00 – 15.00 (focus on the drawings they need to produce)
-15.00 - 17.00 Continure work on drawings.
+* 13.00 – 15.00 (focus on the drawings they need to produce)
+* 15.00 - 17.00 Continure work on drawings.
 
 ## Week 07 - External Lecture 
-13.00 - 14.00 External Lecture
-14.00 - 17.00 Team time to finalise drawings.
+* 13.00 - 14.00 External Lecture
+* 14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
-13.00 – 17.00 (interdisciplinary drawing feedback session)
-Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
+* 13.00 – 17.00 (interdisciplinary drawing feedback session)
+* Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ## Week 09 - Part C **/
-c Intro
-14.30 – 15.00 (introduction to part C following general introduction)
+* 13.00 - 13.00  Part C Introduction (Building 406 Auditorium 32)
+* _13.00 - 14.00 Walk from building 306 to 116_
+* 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
 
 ## Week 10 - Consultant Session **
-13.00 – 15.00 Chief consultant session (you choose what to do)
+* 13.00 – 15.00 Chief consultant Session (Consultant rooms in Building 116).
+* 15.00 - 17.00 Team time
 
 ## Week 11 - External Lecture *
-13.00 - 14.00 External lecture
-14.00 – 15.00 Chief consultant session following external lecture.
+* 13.00 - 14.00 External lecture (TBC)
+* 14.00 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 
 ## Week 12 - Consultant Session *
-13.00 – 14.00 Q+A
+* 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
+* 14.00 - 17.00 Team time
 
 ## Week 13 - Submit Part C *
-13.00 – 14.00 Q+A
+* 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
+* 14.00 - 17.00 Team time
 
-
-## 3Week 1 - Part D
+## 3Week 1 - Part D Introduction
+### Monday
+* 10.00 - 10.00  Part D Introduction (Building 406 Auditorium 32)
+* _13.00 - 14.00 Walk from building 306 to 116_
 
 ## 3Week 2 - Final Sprint
 
 ## 3Week 3 - Part D Presentation
+Exact date TBC.
 
 <!--
 
