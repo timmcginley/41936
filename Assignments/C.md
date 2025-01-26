@@ -45,9 +45,9 @@ Each consultancy delivers a report:
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
 
-### Format
+Specifically:
 
-* File format: One PDF document per subject. No other formats are accepted.
+* File format: One PDF document per consultancy. No other formats are accepted.
 * Note: words count should be the same on A4 and A3 format
 * File name: [YEAR]-[TEAM]-[PART]-[SUB].file
 * Example for part c consultant report for architecture in team 10: _25-10-C-ARCH.pdf_
