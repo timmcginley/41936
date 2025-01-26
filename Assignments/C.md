@@ -54,6 +54,7 @@ We want you to explore innovative structural solutions.
 ```{admonition} Geotechnical Innovation Award
 Renovations are challenging for renovation projects, this award shows thatyou are pushing the limits.
 ```
+### information
 
 ```{note}
 File format: One PDF document per subject. No other formats are accepted.
