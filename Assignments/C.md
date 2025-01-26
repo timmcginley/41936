@@ -41,6 +41,12 @@ Each consultancy delivers a report:
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
 
+### Awards
+
+```{admonition} Architecture Supporting others Award
+We want you to support others solutions.
+```
+
 ```{admonition} Structural Innovation Award
 We want you to explore innovative structural solutions.
 ```
