@@ -59,12 +59,12 @@ File naming: xxx_xxx_xxx_xxx
 
 You can find consultant specific requirements below:
 
-* [Architecture Report](/Subjects/Architecture)
-* [Strcuture Report](/Subjects/Structure)
-* [MEP Report](/Subjects/MEP)
-* [Geotech Report](/Subjects/Geotech)
-* [Materials Report](/Subjects/Materials)
-* [PM-ICT Report](/Subjects/PM-ICT#d-bim)
+* [Architecture BIM](/Subjects/Architecture)
+* [Structure BIM](/Subjects/Structure)
+* [MEP BIM](/Subjects/MEP)
+* [Geotech BIM](/Subjects/Geotech)
+* [Materials BIM](/Subjects/Materials)
+* [PM-ICT BIM](/Subjects/PM-ICT#d-bim)
 
 <hr>
 
