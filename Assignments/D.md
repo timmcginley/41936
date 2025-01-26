@@ -57,8 +57,14 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 
 File naming: xxx_xxx_xxx_xxx
 
-* [ADD SUBJECTS HERE] - TAKE FROM PART C...
+You can find consultant specific requirements below:
 
+* [Architecture Report](/Subjects/Architecture)
+* [Strcuture Report](/Subjects/Structure)
+* [MEP Report](/Subjects/MEP)
+* [Geotech Report](/Subjects/Geotech)
+* [Materials Report](/Subjects/Materials)
+* [PM-ICT Report](/Subjects/PM-ICT#d-bim)
 
 <hr>
 
