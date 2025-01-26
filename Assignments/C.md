@@ -54,16 +54,16 @@ We want you to explore innovative structural solutions.
 ```{admonition} Geotechnical Innovation Award
 Renovations are challenging for renovation projects, this award shows thatyou are pushing the limits.
 ```
-### information
+### Information
 
 ```{note}
 File format: One PDF document per subject. No other formats are accepted.
 
 Note: words count should be the same on A4 and A3 format
 
-File name: C_Report_TeamXX_SubY
+File name: [YEAR]-[TEAM]-[PART]-[SUB].file
 
-Example - C_Report_Team10_Arch
+Example for part c consultant report for architecture in team 10: _25-10-C-ARCH.pdf_
 
 Note_1: Over the limit pages will be ignored
 
