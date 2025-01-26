@@ -55,7 +55,11 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 * Validate your IFC files so they conform to the schema with a schema checking tool
 * Check your IFC file conforms to the disciplinary needs using the relevant IDS
 
-File naming: xxx_xxx_xxx_xxx
+```{important}
+File naming: [YR]-[TEAM]-[PART]-[SUB].file (TBC)
+
+Example for the architects in team 10 in 2025 : 25-10-D-ARCH.ifc
+```
 
 You can find consultant specific requirements below:
 
