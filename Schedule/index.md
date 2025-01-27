@@ -14,6 +14,7 @@ The course runs on Monday Afternoons in the Spring semester
 * Teams: 14:00 / 15:00 - 17:00  
 
 ## Week 01 - Part A
+_Feb 3 2025 13:00 - 17:00_
 
 Welcome to Advanced Building Design 2025.
 
@@ -58,50 +59,64 @@ This requires that you define the F2F height.
 * 
 
 ## Week 02 - Existing Building
+_Feb 10 2025 13:00 - 17:00_
 
 * Lecture on Interdisiciplinarity
 * Model the existing building
 * Document the original model you will adapt it next week.
 
 ## Week 03 - Proposed Building
+_Feb 17 2025 13:00 - 17:00_
 
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
 
 ## Week 04 - Part A Presentation *
+_Feb 24 2025 13:00 - 17:00_
 
 * Present your models in the Foyer of 127
 * Feedback on your models from the cheif consultants
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
 ## Week 05 - Part B *
+_March 3 2025 13:00 - 17:00_
 * 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 * 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
 * 15.00 - 17.00 Continure work on drawings.
 
 ## Week 06 - Subject Lectures **
+_March 10 2025 13:00 - 17:00_
 * 13.00 – 15.00 (focus on the drawings they need to produce)
 * 15.00 - 17.00 Continure work on drawings.
 
-## Week 07 - External Lecture 
+## Week 07 - External Lecture
+_March 17 2025 13:00 - 17:00_
 * 13.00 - 14.00 External Lecture
 * 14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
+_March 24 2025 13:00 - 17:00_
 * 13.00 – 17.00 (interdisciplinary drawing feedback session)
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ## Week 09 - Part C **/
+_March 31 2025 13:00 - 17:00_
 * 13.00 - 13.00  Part C Introduction (Building 406 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 * 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
 
 ## Week 10 - Consultant Session **
+_April 7 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant Session (Consultant rooms in Building 116).
 * 15.00 - 17.00 Team time
 
+```{information}
+**Easter break 21st - 28th April**
+```
+
 ## Week 11 - External Lecture *
+_April 28 2025 13:00 - 17:00_
 * 13.00 - 14.00 External lecture (TBC)
 * 14.00 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 
