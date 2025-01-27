@@ -15,7 +15,6 @@ Make sure you have read the course guide before the first session
 ```
 
 ## Week 01 - Part A
-Location: Auditorium 32 in building 306
 We will meet for the first session in **Auditorium 32 in building 306.**
 
 _Feb 3 2025 13:00 - 17:00_
