@@ -13,7 +13,29 @@ The course runs on Monday Afternoons in the Spring semester
 * Subjects: 13:00 – 14:00 / 15:00 
 * Teams: 14:00 / 15:00 - 17:00  
 
+## Overview Calender
+
+| Week | Arch      | Str       | MEP       | Geo       | Mat       | PM        |
+|------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1    | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      |
+| 2    | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary |
+| 3    | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         |
+| 4    | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      |
+| 5    | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      |
+|      | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   |
+| 6    | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS |
+| 7    | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
+|      | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
+| 8    | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      |
+| 9    | PART C    | PART C    | PART C    | PART C    | PART C    | PART C    |
+| 10   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
+| 11   | EXT       | EXT       | EXT       | EXT       | EXT       | EXT       |
+| 12   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
+| 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
+
 ## Week 01 - Part A
+Location: Auditorium 32 in building 306
+
 _Feb 3 2025 13:00 - 17:00_
 
 Welcome to Advanced Building Design 2025.
@@ -59,56 +81,69 @@ This requires that you define the F2F height.
 * 
 
 ## Week 02 - Existing Building
-_Feb 10 2025 13:00 - 17:00_
 Location: Building 117 Room 024
+
+_Feb 10 2025 13:00 - 17:00_
+
 
 * Lecture on Interdisiciplinarity
 * Model the existing building
 * Document the original model you will adapt it next week.
 
 ## Week 03 - Proposed Building
-_Feb 17 2025 13:00 - 17:00_
 Location: Building 117 Room 024
+
+_Feb 17 2025 13:00 - 17:00_
+
 
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
 
 ## Week 04 - Part A Presentation *
-_Feb 24 2025 13:00 - 17:00_
 Location: Building 117 Room 024
+
+_Feb 24 2025 13:00 - 17:00_
+
 
 * Present your models in the Foyer of 127
 * Feedback on your models from the cheif consultants
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
 ## Week 05 - Part B *
-_March 3 2025 13:00 - 17:00_
 Location: Building 306 - Auditorium 32
+
+_March 3 2025 13:00 - 17:00_
+
 * 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 * 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
 * 15.00 - 17.00 Continure work on drawings.
 
 ## Week 06 - Subject Lectures **
-_March 10 2025 13:00 - 17:00_
 Location: Building 116 - Check consultant guide for your subjects
+
+_March 10 2025 13:00 - 17:00_
+
 * 13.00 – 15.00 (focus on the drawings they need to produce)
 * 15.00 - 17.00 Continure work on drawings.
 
 ## Week 07 - External Lecture
 Location: Building 306 - Auditorium 32
+
 _March 17 2025 13:00 - 17:00_
 * 13.00 - 14.00 External Lecture
 * 14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
 Location: Building 116
+
 _March 24 2025 13:00 - 17:00_
 * 13.00 – 17.00 (interdisciplinary drawing feedback session)
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ## Week 09 - Part C **/
 Location: Building 406 Auditorium 32
+
 _March 31 2025 13:00 - 17:00_
 * 13.00 - 13.00  Part C Introduction (Building 406 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
@@ -116,6 +151,7 @@ _March 31 2025 13:00 - 17:00_
 
 ## Week 10 - Consultant Session **
 Location: Building 116 - Check consultant guide for your subjects
+
 _April 7 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant Session (Consultant rooms in Building 116).
 * 15.00 - 17.00 Team time
@@ -126,18 +162,22 @@ _April 7 2025 13:00 - 17:00_
 
 ## Week 11 - External Lecture *
 Location: Building 406 Auditorium 32
+
 _April 28 2025 13:00 - 17:00_
 * 13.00 - 14.00 External lecture (TBC)
-* 14.00 – 15.00 Chief consultant session (Consultant rooms in Building 116).
+* _14.00 - 14.30 Return to Building 116_
+* 14.30 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 
 ## Week 12 - Consultant Session *
-Location: Building 116 - Check consultant guide for your subjects
+Location: Building 116 - Check consultant guide for your subject room
+
 _May 5 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
 ## Week 13 - Submit Part C *
-Location: Building 116 - Check consultant guide for your subjects
+Location: Building 116 - Check consultant guide for your subject room
+
 _May 12 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
@@ -179,25 +219,7 @@ Exact date TBC.
 * 3Week 2: [Introduction *](15.md)
 * 3Week 3: [Introduction *](16.md)
 
-## Detailed Calender
 
-| Week | Arch      | Str       | MEP       | Geo       | Mat       | PM        |
-|------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1    | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      |
-| 2    | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary |
-| 3    | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         |
-| 4    | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      |
-| 5    | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      |
-|      | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   |
-| 6    | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS |
-| 7    | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
-|      | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
-| 8    | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      |
-| 9    | PART C    | PART C    | PART C    | PART C    | PART C    | PART C    |
-| 10   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
-| 11   | EXT       | EXT       | EXT       | EXT       | EXT       | EXT       |
-| 12   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
-| 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
 
