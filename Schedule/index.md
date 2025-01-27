@@ -60,6 +60,7 @@ This requires that you define the F2F height.
 
 ## Week 02 - Existing Building
 _Feb 10 2025 13:00 - 17:00_
+Location: Building 117 Room 024
 
 * Lecture on Interdisiciplinarity
 * Model the existing building
@@ -67,12 +68,14 @@ _Feb 10 2025 13:00 - 17:00_
 
 ## Week 03 - Proposed Building
 _Feb 17 2025 13:00 - 17:00_
+Location: Building 117 Room 024
 
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
 
 ## Week 04 - Part A Presentation *
 _Feb 24 2025 13:00 - 17:00_
+Location: Building 117 Room 024
 
 * Present your models in the Foyer of 127
 * Feedback on your models from the cheif consultants
@@ -80,6 +83,7 @@ _Feb 24 2025 13:00 - 17:00_
 
 ## Week 05 - Part B *
 _March 3 2025 13:00 - 17:00_
+Location: Building 306 - Auditorium 32
 * 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 * 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
@@ -87,26 +91,31 @@ _March 3 2025 13:00 - 17:00_
 
 ## Week 06 - Subject Lectures **
 _March 10 2025 13:00 - 17:00_
+Location: Building 116 - Check consultant guide for your subjects
 * 13.00 – 15.00 (focus on the drawings they need to produce)
 * 15.00 - 17.00 Continure work on drawings.
 
 ## Week 07 - External Lecture
+Location: Building 306 - Auditorium 32
 _March 17 2025 13:00 - 17:00_
 * 13.00 - 14.00 External Lecture
 * 14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
+Location: Building 116
 _March 24 2025 13:00 - 17:00_
 * 13.00 – 17.00 (interdisciplinary drawing feedback session)
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ## Week 09 - Part C **/
+Location: Building 406 Auditorium 32
 _March 31 2025 13:00 - 17:00_
 * 13.00 - 13.00  Part C Introduction (Building 406 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 * 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
 
 ## Week 10 - Consultant Session **
+Location: Building 116 - Check consultant guide for your subjects
 _April 7 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant Session (Consultant rooms in Building 116).
 * 15.00 - 17.00 Team time
@@ -116,26 +125,26 @@ _April 7 2025 13:00 - 17:00_
 ```
 
 ## Week 11 - External Lecture *
+Location: Building 406 Auditorium 32
 _April 28 2025 13:00 - 17:00_
 * 13.00 - 14.00 External lecture (TBC)
 * 14.00 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 
-```{information}
-**National Holiday 5th May**
-```
-
 ## Week 12 - Consultant Session *
-_May 12 2025 13:00 - 17:00_
+Location: Building 116 - Check consultant guide for your subjects
+_May 5 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
 ## Week 13 - Submit Part C *
-_May 19 2025 13:00 - 17:00_
+Location: Building 116 - Check consultant guide for your subjects
+_May 12 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
 ## 3Week 1 - Part D Introduction
 ### Monday
+Location: Building 406 Auditorium 32
 * 10.00 - 10.00  Part D Introduction (Building 406 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 
