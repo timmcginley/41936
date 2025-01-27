@@ -21,7 +21,12 @@ Define the overall concept for your building through multi-disciplinary drawings
 **PM coordinates these efforts into integrated drawings**
 ```
 
-* Please bring your printed and correctly scaled drawings with you on Monday, March 17?(TBC). Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
+* Please bring your printed and correctly scaled drawings with you on Monday, March 17th. Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
+
+
+```{note}
+We would like to be able to reuse your work (annonymised) in teaching and research to help us design better, more sustainable buldings, by making the work available to future students. You can opt out of this by including an optout.txt saying you do not give you permisssion for the work to be used in future research or teaching along with this submission.
+```
 
 * The main function of the drawings session is to get you to decide and present 2 options for each discipline. To support this you will pin up drawings of **two different alternatives** for the floor plan and section. The differences can include the shape of the building, floor height, structural system, type of materials, location of rooms, or shafts, etc.
 
