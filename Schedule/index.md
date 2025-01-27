@@ -6,21 +6,19 @@
 *
 */index
 ```
-Advanced Buuilding Design runs on Monday Afternoons in the Spring semester and the 3 week period in June.
+Welcome to Advanced Building Design 2025!
+
+Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
+
+```{hint}
+Make sure you have read the course guide before the first session
+```
 
 ## Week 01 - Part A
 Location: Auditorium 32 in building 306
+We will meet for the first session in **Auditorium 32 in building 306.**
 
 _Feb 3 2025 13:00 - 17:00_
-
-Welcome to Advanced Building Design 2025.
-
-```{important}
-We will meet for the first session in **Auditorium 32 in building 306.**
-```
-Make sure you have read the course guide before the first session:
-
-* [Advanced Building Design Student course guide](/Roles/Student.md)
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
