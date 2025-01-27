@@ -13,26 +13,6 @@ The course runs on Monday Afternoons in the Spring semester
 * Subjects: 13:00 – 14:00 / 15:00 
 * Teams: 14:00 / 15:00 - 17:00  
 
-## Overview Calender
-
-| Week | Arch      | Str       | MEP       | Geo       | Mat       | PM        |
-|------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1    | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      | Introduction      |
-| 2    | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary | Interdisciplinary |
-| 3    | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         |
-| 4    | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      |
-| 5    | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      |
-|      | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   |
-| 6    | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS |
-| 7    | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
-|      | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
-| 8    | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      |
-| 9    | PART C    | PART C    | PART C    | PART C    | PART C    | PART C    |
-| 10   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
-| 11   | EXT       | EXT       | EXT       | EXT       | EXT       | EXT       |
-| 12   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
-| 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
-
 ## Week 01 - Part A
 Location: Auditorium 32 in building 306
 
@@ -219,7 +199,27 @@ Exact date TBC.
 * 3Week 2: [Introduction *](15.md)
 * 3Week 3: [Introduction *](16.md)
 
+## Overview Calender
 
+| Week | Arch      | Str       | MEP       | Geo       | Mat       | PM        |
+|------|-----------|-----------|-----------|-----------|-----------|-----------|
+| 1    | **Part A**     | **Part A**     | **Part A**       | **Part A**      | **Part A**      | **Part A**      |
+| 2    | Existing Model | Existing | Existing | Existing | Existing | Existing |
+| 3    | Proposed        | Modelling         | Modelling         | Modelling         | Modelling         | Modelling         |
+| 4    | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      | Presentation      |
+| 5    | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      | Part B Intro      |
+|      | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   | SUB INT   |
+| 6    | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS | EXT / VIS |
+| 7    | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
+|      | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   | SUBJECT   |
+| 8    | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      | DRAW      |
+| 9    | PART C    | PART C    | PART C    | PART C    | PART C    | PART C    |
+| 10   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
+| 11   | EXT       | EXT       | EXT       | EXT       | EXT       | EXT       |
+| 12   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
+| 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
+
 
