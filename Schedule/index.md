@@ -6,10 +6,7 @@
 *
 */index
 ```
-The course runs on Monday Afternoons in the Spring semester 
-
-* Subjects: 13:00 – 14:00 / 15:00 
-* Teams: 14:00 / 15:00 - 17:00  
+Advanced Buuilding Design runs on Monday Afternoons in the Spring semester and the 3 week period in June.
 
 ## Week 01 - Part A
 Location: Auditorium 32 in building 306
