@@ -120,11 +120,17 @@ _April 28 2025 13:00 - 17:00_
 * 13.00 - 14.00 External lecture (TBC)
 * 14.00 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 
+```{information}
+**National Holiday 5th May**
+```
+
 ## Week 12 - Consultant Session *
+_May 12 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
 ## Week 13 - Submit Part C *
+_May 19 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
