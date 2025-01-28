@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/5fa8748b-4925-42ed-8948-29abcc847de5)
 Foster+Partners office, London, UK.
 
-**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
+**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this Architect's focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
 
 >However, a burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
 
