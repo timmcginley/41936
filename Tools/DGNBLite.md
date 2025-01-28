@@ -26,11 +26,11 @@
 *DGNB is a certification system regarding sustainable building produced by German Sustainable Building Council (Deutsche Gesellschaft für Nachhaltiges Bauen). It translates various factors that dictate sustainable planning and construction into practical application.*
 
 *The conceptual principles of DGNB revolve around a holistic understanding of sustainability, encompassing not only the environmental(ENV) impact that is usually quoted when referring to sustainability, but also other aspects such as:
-* socialcultural(SOC), 
-* economic(ECO), 
-* technical(TEC), 
-* project(PRO)
-* site (SITE)
+* SOC (socialcultural) 
+* ECO (economic) 
+* TEC (technical), 
+* PRO (project)
+* SITE (site)
 While SOC, ENV and ECO are weighted equally, sharing 22,5% each in the total points, TEC, PRO and SITE shares 15%, 12,5% and 5% respectively.*
 
 *In this DGNB-lite version custom-made for 41936, the DGNB System Version 2020 International is referred with slight adjustment regarding LCA requirement to fit with the Danish Building Regulation. The practice of DGNB-lite in the course is intended to give students an understanding of how the DGNB certification system works in a real design process and gives students the possibility to carry out the auditing work.*
