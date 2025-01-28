@@ -252,17 +252,17 @@ Ease of cleaning of exterior and interior surfaces
 
 #### TEC4.3.1 Bicycle infrastructure
 
-* Lv1:                                                                        20pts
+Lv1:                                                                        20pts
 * Anti-theft measures for bicycles
 * Maintenance facilities are available
 * Weather protection is available for the parking facilities/spaces
 
-* Lv2:                                                                        20pts
+Lv2:                                                                        20pts
 * Incl. Lv1 requirements
 * Lighting is available for the parking facilities/spaces
 * 50cm between each rack for straight parking rack for easy access
 
-* Lv3:                                                                        30pts
+Lv3:                                                                        30pts
 * Incl. Lv2 requirements
 * Larger parking spots for cargo bikes
 * Access the parking space with automatic door
