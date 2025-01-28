@@ -1,37 +1,37 @@
 ## DGNB overview
-> This year we are continuing the experiment to introduce DGNB [add ref] into the course. ~~Your PM will choose what level your team is aiming at and then different criteria and associated points will be available to you each week.~~
+The 
 
 | Project stage | DGNB-lite indicator | Criteria | Responsible subject | Total points |
-|--------|----|---------|--------|--------|
-| B-C   | ENV 1.1 | Building Life Cycle Assessment | MEP | 350pts |
-| C   | ENV 1.2 | Sustainable resource use | MEP | 50pts |
-| C   | ENV 1.3 | Primary energy need and degree covered by renewable energy | MEP | 50pts |
-| C   | ENV 1.4 | Water use and wastewater reduction | MEP | 50pts |
-| C   | ECO2.1 | Flexibility and adaptability | ARCH | 150pts |
-| C   | ECO2.2 | LCC and continues cost estimation | PM/ICT | 200pts |
-| C   | ECO2.3 | Commercial access | ARCH | 150pts |
-| C   | SOC3.1 | Design for all | ARCH | 200pts |
-| C   | SOC3.2 | Technical user comfort | ARCH+MEP | 300pts |
-| D   | TEC4.1 | Ease of recovery and recycling | ARCH+PM/ICT | 165pts |
-| C   | TEC4.2 | Ease of cleaning building components | PM/ICT | 40pts |
-| C   | TEC4.3 | Mobility infrastructure | ARCH | 60pts |
-| C   | TEC4.4 | Quality of the building envelope | ARCH+MEP | 50pts |
-| C   | TEC4.5 | Use and integration of building technology | MEP+ARCH | 35pts |
-| A   | PRO5.1 | Comprehensive project brief (A) | PM/ICT | 45pts |
-| A-C   | PRO5.2 | Transdisciplinary collaboration and co-design | PM/ICT | 120pts |
-| A-C   | PRO5.3 | Sustainability aspects in tender phase  | PM/ICT | 60pts |
-| B-C   | PRO5.4 | End user considerations during design process | PM/ICT | 70pts |
-| C   | PRO4.5 | Comprehensive project brief (C) | PM/ICT | 55pts |
+|-------|----|---------|--------|--------|
+| B-C   | ENV 1.1 | Building Life Cycle Assessment | MAT | 350pts |
+| C     | ENV 1.2 | Sustainable resource use | ARCH | 50pts |
+| C     | ENV 1.3 | Primary energy need and degree covered by renewable energy | MEP | 50pts |
+| C     | ENV 1.4 | Water use and wastewater reduction | MEP | 50pts |
+| C     | ECO 2.1 | Flexibility and adaptability | ARCH | 150pts |
+| C     | ECO 2.2 | LCC and continues cost estimation | PM/ICT | 200pts |
+| C     | ECO 2.3 | Commercial access | ARCH | 150pts |
+| C     | SOC 3.1 | Design for all | ARCH | 200pts |
+| C     | SOC 3.2 | Technical user comfort | MEP | 300pts |
+| D     | TEC 4.1 | Ease of recovery and recycling | MAT | 165pts |
+| C     | TEC 4.2 | Ease of cleaning building components | PM/ICT | 40pts |
+| C     | TEC 4.3 | Mobility infrastructure | ARCH | 60pts |
+| C     | TEC 4.4 | Quality of the building envelope | MEP | 50pts |
+| C     | TEC 4.5 | Use and integration of building technology | MEP | 35pts |
+| A     | PRO 5.1 | Comprehensive project brief (A) | PM/ICT | 45pts |
+| A-C   | PRO 5.2 | Transdisciplinary collaboration and co-design | PM/ICT | 120pts |
+| A-C   | PRO 5.3 | Sustainability aspects in tender phase  | MAT | 60pts |
+| B-C   | PRO 5.4 | End user considerations during design process | PM/ICT | 70pts |
+| C     | PRO 4.5 | Comprehensive project brief (C) | PM/ICT | 55pts |
 
 
-# DGNB-lite: 41936 Advanced Building Design 2024 - DTU Construct
+# DGNB-lite: 41936 Advanced Building Design 2025 - DTU Construct
 
 ## What is DGNB and DGNB-lite?
 *DGNB is a certification system regarding sustainable building produced by German Sustainable Building Council (Deutsche Gesellschaft für Nachhaltiges Bauen). It translates various factors that dictate sustainable planning and construction into practical application.*
 
 *The conceptual principles of DGNB revolve around a holistic understanding of sustainability, encompassing not only the environmental(ENV) impact that is usually quoted when referring to sustainability, but also other aspects such as socialcultural(SOC), economic(ECO), technical(TEC), project(PRO) and site (SITE). While SOC, ENV and ECO are weighted equally, sharing 22,5% each in the total points, TEC, PRO and SITE shares 15%, 12,5% and 5% respectively.*
 
-*In this DGNB-lite version custom-made for 41936, the DGNB System Version 2020 International is referred with slight adjustment regarding LCA requirement to fit with the Danish Building Regulation.The practice of DGNB-lite in the course is intended to give students an understanding of how the DGNB certification system works with the design process in reality and gives students the possibility to carry out the auditing work.*
+*In this DGNB-lite version custom-made for 41936, the DGNB System Version 2020 International is referred with slight adjustment regarding LCA requirement to fit with the Danish Building Regulation. The practice of DGNB-lite in the course is intended to give students an understanding of how the DGNB certification system works in a real design process and gives students the possibility to carry out the auditing work.*
 
 
 ## DGNB-lite scoring and levels
@@ -43,7 +43,7 @@ Gold: Scoring an overall 65% with each topic scoring at least 50%
 
 Si* Lver: Scoring an overall 50% with each topic scoring at least 35%
 
-The maximum possible point of DGNB-lite is 2200, which gives 1760, 1430, 1100 and 770 the threshold points respectively for each level. Students can arrange freely which DGNB criteria you acquire the points from. A final audit will be carried out on Week-13 to validate your claim and decide your DGNB-lite level.
+The maximum possible point of DGNB-lite is 2200, which gives 1760, 1430, 1100 and 770 threshold points respectively for each level. You can arrange freely which DGNB criteria you acquire the points from. A final audit will be carried out at the end of Part C to validate and decide your DGNB-lite level.
 
 Grading instruction
 If there is Levels in DGNB criteria, you can get the point of the highest level you achieve. If there is a ‘+’ sign in the possible point, you can get accumulated points when you achieve more than one criteria. Otherwise, everything in the criteria has to be completed in order to get the point for that criteria.
