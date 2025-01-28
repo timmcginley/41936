@@ -51,7 +51,7 @@ The maximum possible point of DGNB-lite is 2200, which gives 1760, 1430, 1100 an
 If there are levels in a DGNB criteria, you can get the point of the highest level you achieve. If there is a ‘+’ sign in the possible point, you can get accumulated points when you achieve more than one criteria. Otherwise, everything in the criteria has to be completed in order to get the point for that criteria.
 
 ## Documentation and references
-Documentation: All documentation provided should be clearly defined and labelled in reference to the criteria and the level that you wish to obtain points at. Where possible try to reference documentation produced by the team and only produce new documentation where unavoidable.
+All documentation provided should be clearly defined and labelled in reference to the criteria and the level that you wish to obtain points at. Where possible try to reference documentation produced by the team and only produce new documentation where unavoidable.
 
 Ensure to provide references for all your arguments and documentation. This also includes digital tools and models used as part of the documentation of a criterion, incl. materials provided by other subjects.
 
