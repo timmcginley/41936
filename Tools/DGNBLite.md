@@ -99,7 +99,7 @@ Degree of the building's energy need covered or supplied by renewable energy sou
 
 Despite the plentiful supply of water in Denmark, there is an increased need for drinking water of high quality. At the same time, treatment of waste water at the plant, is costly. Reduction and separation of gray and blue water is therefore perferred as well as innovations and solutions that recirculate or reduces the water used and wastewater (graywater) discharge of the building.
 
-* >40% reduction relative to reference building                                      50pts
+* Achieve > 40% reduction relative to reference building                                      50pts
 <hr>
 
 ## Economic Criteria
