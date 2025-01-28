@@ -7,15 +7,17 @@ Foster+Partners office, London, UK.
 
 However, a burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
 
-Therefore, Architectural consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
+Therefore, Architectural / Fire consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building, you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
 
-Chief Consultant: Tim McGinley and Anne Dederichs
+Chief Consultant: Tim McGinley (Arch) and Anne Dederichs (Fire)
 
 This document covers the following
 
 * [Skills and motivations](#skills-and-motivation)
 * [Assignments](#assignments)
 * [Requirements](#requirements)
+* [DGNB](#dgnb)
+* [Universal Design](#universal-design)
 * [Integration](#integration)
 
 ## Skills and motivation
@@ -59,7 +61,7 @@ This advice needs to be integrated into the overall requirements of each assignm
 * Support the analysis, design and construction of the physical model.
 * Use the model to explore the spatial capacity and requirements of your team's chosen building
 * Explore different options for facade design
-* Work with Geo consultants (if you haev them) to model the site that the building sits on.
+* Work with Geo consultants (if you have them) to model the site that the building sits on.
 
 #### A2 Project Plan
 * Analyse the documentation and previous projects to work out what you need to do when and provide this information to the PM.
