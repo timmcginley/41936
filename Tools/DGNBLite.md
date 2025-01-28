@@ -25,7 +25,13 @@
 ## What is DGNB and DGNB-lite?
 *DGNB is a certification system regarding sustainable building produced by German Sustainable Building Council (Deutsche Gesellschaft für Nachhaltiges Bauen). It translates various factors that dictate sustainable planning and construction into practical application.*
 
-*The conceptual principles of DGNB revolve around a holistic understanding of sustainability, encompassing not only the environmental(ENV) impact that is usually quoted when referring to sustainability, but also other aspects such as socialcultural(SOC), economic(ECO), technical(TEC), project(PRO) and site (SITE). While SOC, ENV and ECO are weighted equally, sharing 22,5% each in the total points, TEC, PRO and SITE shares 15%, 12,5% and 5% respectively.*
+*The conceptual principles of DGNB revolve around a holistic understanding of sustainability, encompassing not only the environmental(ENV) impact that is usually quoted when referring to sustainability, but also other aspects such as:
+* socialcultural(SOC), 
+* economic(ECO), 
+* technical(TEC), 
+* project(PRO)
+* site (SITE)
+While SOC, ENV and ECO are weighted equally, sharing 22,5% each in the total points, TEC, PRO and SITE shares 15%, 12,5% and 5% respectively.*
 
 *In this DGNB-lite version custom-made for 41936, the DGNB System Version 2020 International is referred with slight adjustment regarding LCA requirement to fit with the Danish Building Regulation. The practice of DGNB-lite in the course is intended to give students an understanding of how the DGNB certification system works in a real design process and gives students the possibility to carry out the auditing work.*
 
@@ -50,6 +56,7 @@ Documentation: All documentation provided should be clearly defined and labelled
 Ensure to provide references for all your arguments and documentation. This also includes digital tools and models used as part of the documentation of a criterion, incl. materials provided by other subjects.
 
 All models, diagrams, figures and drawings should be clearly labelled, with clear signature explanation of illustrations and what they convey. All visual elements should be of quality, meaning that text and figures are easily discerned. If in doubt, please include a full-size version as part of the appendix as well.
+<hr>
 
 ## Environment Criteria
 ### ENV1.1 - Building Life Cycle Assessment (B-C)              Points total: 350pts
@@ -93,6 +100,7 @@ Degree of the building's energy need covered or supplied by renewable energy sou
 Despite the plentiful supply of water in Denmark, there is an increased need for drinking water of high quality. At the same time, treatment of waste water at the plant, is costly. Reduction and separation of gray and blue water is therefore perferred as well as innovations and solutions that recirculate or reduces the water used and wastewater (graywater) discharge of the building.
 
 * >40% reduction relative to reference building                                      50pts
+<hr>
 
 ## Economic Criteria
 ### ECO2.1 – Flexibility and adaptability (C)              Points total: 150pts
@@ -142,7 +150,7 @@ Four access detail considerations:
 * Parking entrance considers delivery vehicles                                         +50pts
 * Building entrance and elevators enables commercial access                            +30pts
 * Drop-off and pick-up areas are provided                                              +30pts
-
+<hr>
 
 ## Social Criteria
 ### SOC3.1 - Design for all (C)              Points total: 200pts
@@ -207,7 +215,7 @@ Universal design following national guideline - BR18
 
 * Guide from Victor posted on ARCH teams channel :
 https://dtudk.sharepoint.com/sites/11080F22300-STRUCTURE/Delte%20dokumenter/STRUCTURE/Acoustic/SOC1.3%20Acoustic%20Comfort%20related%20to%20DGBNlite.mp4?csf=1&%3Bweb=1&%3Be=VBAerx&isSPOFile=1&cid=2d536177-774d-47f9-ac66-d6b6570cb68c
-
+<hr>
 
 ## Technical Criteria
 ### TEC4.1 – Ease of recovery and recycling (D)            Points total: 165pts
@@ -289,6 +297,7 @@ Planning and implementing passive building concepts in the building design to re
 * Passive cooling                                                                                       +5pts
 
 Explain your design concept in terms of the above aspects or others. Ensure to include estimated % of function (e.g. natural ventilation) of the total need covered by use of passive building concepts.
+<hr>
 
 ## Process Criteria
 ### PRO5.1 - Comprehensive project brief (A)                      Points total: 45pts
