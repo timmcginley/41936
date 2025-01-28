@@ -5,7 +5,7 @@ Foster+Partners office, London, UK.
 
 **Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this the focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
 
-However, a burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
+>However, a burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
 
 Therefore, Architectural / Fire consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building, you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
 
