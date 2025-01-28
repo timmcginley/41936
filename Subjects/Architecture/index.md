@@ -18,7 +18,7 @@ This document covers the following
 * [Requirements](#requirements)
 * [DGNB](#dgnb)
 * [Universal Design](#universal-design)
-* [Integration](#integration)
+* [Interdisciplinarity](#interdisciplinarity)
 
 ## Skills and motivation
 Architectural Consultants have the following skills and motivations:
