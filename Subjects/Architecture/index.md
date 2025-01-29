@@ -11,7 +11,7 @@ Therefore, Architectural / Fire consultants need to get their heads into the pro
 
 Chief Consultant: Tim McGinley (Arch) and Anne Dederichs (Fire)
 
-This document covers the following
+This document covers the following:
 
 * [Skills and motivations](#skills-and-motivation)
 * [Assignments](#assignments)
