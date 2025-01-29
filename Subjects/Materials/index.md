@@ -20,14 +20,14 @@ Chief Consultant: Navid Ranjbar.
 * Passionate about sustainability (essential)
 
 ## We can support you with
-* things to consider in material design
-* How to produce a basic EPD
+* Things to consider in material selection and design
+* How to evaluate and generate a basic EPD
 * An overview of LCA
 * An overview of DGNB (Lite)
 * Inspiration from some realworld examples
 
 ## You will need to independently
-* Get the material requirements from the team.
+* Get the material requirements from the team
 * Prvide each consultant with the LCA impact they are responsible for
 * Decide which elements of the design to focus
 * Review available materials
