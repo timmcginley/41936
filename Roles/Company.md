@@ -18,7 +18,7 @@ Your 'company' has the following responsibilities:
 
 Once you have chosen your subject. You can then create a company within the project. 
 
-All companies start with an operating budget of 100.000 DKK.
+All companies start with an operating budget of 100.000 DKK provided by the client with the aim to promote young innovative design and engineering consultancies.
 
 You must declare when you start your project if you will charge 700, 900 or 1.100 DKK per person per hour. You will be expected to fill in your hours each week and provide these to your PM so they can calculate the design cost of the project starting in week 2. Although from a 10 year maintenance view this is not a significant cost for the project.
 
