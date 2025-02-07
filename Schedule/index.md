@@ -103,7 +103,8 @@ _March 10 2025 13:00 - 17:00_
 Location: Building 306 - Auditorium 32
 
 _March 17 2025 13:00 - 17:00_
-* 13.00 - 14.00 External Lecture
+* 13.00 - 13.05 Grøn Dyst Challenge Intro
+* 14.00 - External Lecture TBC
 * 14.00 - 17.00 Team time to finalise drawings.
 
 ## Week 08 - Part B Presentation ****
