@@ -21,15 +21,14 @@ _Feb 3 2025 13:00 - 17:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 13:00 - 14:00 | 306/32 | **Introduction** <br> Course intro / brief / project / course requirements |
-| 14:00 -14:30  | 306/32 |  Break and fill Belbin <br>(Check DTU Learn to download the form) - you are trying to find your main type.|
-| 14:30 -14:45  | 306/32 |  **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
-| 14:45 - 15:00 | 306/32 |  **Create Companies**<br>Each subject subdivides into separate companies (2-3 people) use Belbin results and teachers and TAs to help |
-| 15:00 - 15:15 | 306/32 |  **Values** <br>PM define team values and other groups work out 30 second lift pitch - why pick them + hourly rate. |
-| 15:15 - 15:20 | 306/32 |  PM PRESENT VALUES<br>|
-| 15:20 - 15:50 | 306/32 |  TENDERING <br> PM try to get points based on Belbin etc. subjects approach in waves.|
-| 15:50 - 16:10 | 306/32 |  Break<br> |
-| 16:10 - 17:00 | 306/32 |  Analyse brief <br> Please see **Activity 1** below: Analyse Brief as a Team - also reassess the points that you will go for in the project|
+| 13:00 - 13:45 | 306/32 | **Course Introduction**|
+| 13:45 - 14:15 | 306/32 | **Subject Introduction**|
+| 14:15 - 14:25 | outside |  **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
+| 14:25 - 14:45 | outside |  **Create Companies**<br>Each subject subdivides into 16 separate companies (about 2 people) use teachers and TAs to help |
+| 14:45 - 15:00 | outside |  **Create Teams **<br>PMS present their team and then consultants apporach and choose in disciplinary waves |
+| 15:00 - 15:15 | 306/32 |  **Team KPIS** <br>Establish points for team and get it signed by a TA. |
+| 15:15 - 14:00 | 306/32 |  **Visit Buildings** <br>Define points for team and get it signed by a TA. |
+| 14:00 - 17:50 | 306/32 |  **Team building** <br> get to know your team|
 
 ### Questions
 * Which type of consultant do you want to be in this project?
