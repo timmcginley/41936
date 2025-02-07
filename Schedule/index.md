@@ -15,7 +15,7 @@ Make sure you have read the course guide before the first session
 ```
 
 ## Week 01 - Part A
-We will meet for the first session in **Auditorium 32 in building 306.**
+We will meet for the first session in **Auditorium 32 in building 306.** Follwoing the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
 
 _Feb 3 2025 13:00 - 17:00_
 
@@ -26,9 +26,9 @@ _Feb 3 2025 13:00 - 17:00_
 | 14:15 - 14:25 | outside |  **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
 | 14:25 - 14:45 | outside |  **Create Companies**<br>Each subject subdivides into 16 separate companies (about 2 people) use teachers and TAs to help |
 | 14:45 - 15:00 | outside |  **Create Teams **<br>PMS present their team and then consultants apporach and choose in disciplinary waves |
-| 15:00 - 15:15 | 306/32 |  **Team KPIS** <br>Establish points for team and get it signed by a TA. |
-| 15:15 - 14:00 | 306/32 |  **Visit Buildings** <br>Define points for team and get it signed by a TA. |
-| 14:00 - 17:50 | 306/32 |  **Team building** <br> get to know your team|
+| 15:00 - 15:15 | outside |  **Team KPIS** <br>Establish points for team and get it signed by a TA. |
+| 15:15 - 14:00 | outside |  **Visit Buildings** <br>Define points for team and get it signed by a TA. |
+| 14:00 - 17:50 | freechoice |  **Team building** <br> get to know your team|
 
 ### Questions
 * Which type of consultant do you want to be in this project?
