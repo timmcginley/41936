@@ -66,6 +66,7 @@ Please bring<br>
 Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.md#a1-physical-building-model) of the existing building.
 
 * Brief lecture on working in interdisiciplinary teams
+* PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
 * Model the existing building
 * Enroll on DTU Learn in your team subject and consultant groups.
 * Document the original model you will adapt it next week.
