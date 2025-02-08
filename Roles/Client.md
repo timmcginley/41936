@@ -1,6 +1,6 @@
 # Client
 
-The client is an annonymous benefactor who wants to fund the transformation of a buildinsg at DTU.
+The client is an annonymous benefactor who wants to fund the transformation of a buildings at DTU.
 In this scenario, DTU Cas have suggested buildings 115, 304 and 308. So the client wants your team to work out:
 * Which building should they transform?
 * How could the building be transformed?
