@@ -67,7 +67,7 @@ Having decided what building you will model in the previous session. This week f
 
 * Brief lecture on working in interdisiciplinary teams
 * Model the existing building
-* Enroll on DTU Learn in your subject, team and consultant groups.
+* Enroll on DTU Learn in your team subject and consultant groups.
 * Document the original model you will adapt it next week.
 
 ## Week 03 - Proposed Building
