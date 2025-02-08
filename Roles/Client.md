@@ -3,10 +3,11 @@
 The client is an annonymous benefactor who wants to fund the transformation of a buildinsg at DTU.
 In this scenario, DTU Cas have suggested buildings 115, 304 and 308. So the client wants your team to work out:
 * Which building should they transform?
-* Hwo should they transform it?
+* How could the building be transformed?
 * How much will it cost?
 * How can the additional accomodation be added to the existing at a minimal C02 Kg eq / user?
 * How long will it take to build?
+* How can all disciplines in the team demonstrate innovative and interdisciplinary solutions?
 
 ## DTU Fri
 The transformed building will house both the existing departmental accomodation of the bulding and the new programme for a new 'non' department at DTU called DTU Fri. DTU Fri is not really a department, it does not have any faculty, it doesn't even have any administration. All it has is an online booking service where project space can be booked both ad hoc and in advance.
