@@ -90,6 +90,8 @@ _Feb 24 2025 13:00 - 17:00_
 * Present best model and early integration awards
 * Submit the work required for [Part A](/Assignments/A.md) on DTU Learn.
 
+<hr>
+
 ## Week 05 - Part B *
 Location: Building 306 - Auditorium 32
 
@@ -122,6 +124,8 @@ Location: Building 116
 _March 24 2025 13:00 - 17:00_
 * 13.00 – 17.00 (interdisciplinary drawing feedback session)
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
+
+<hr>
 
 ## Week 09 - Part C **/
 Location: Building 406 Auditorium 32
@@ -163,6 +167,8 @@ Location: Building 116 - Check consultant guide for your subject room
 _May 12 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
+
+<hr>
 
 ## 3Week 1 - Part D Introduction
 ### Monday
