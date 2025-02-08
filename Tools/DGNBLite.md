@@ -23,6 +23,7 @@
 | C     | PRO 4.5 | Comprehensive project brief (C)        | PM/ICT | 55pts |
 
 ## What is DGNB and DGNB-lite?
+
 *DGNB is a certification system regarding sustainable building produced by German Sustainable Building Council (Deutsche Gesellschaft für Nachhaltiges Bauen). It translates various factors that dictate sustainable planning and construction into practical application.*
 
 *The conceptual principles of DGNB revolve around a holistic understanding of sustainability, encompassing not only the environmental(ENV) impact that is usually quoted when referring to sustainability, but also other aspects such as:
