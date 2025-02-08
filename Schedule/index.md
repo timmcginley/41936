@@ -67,7 +67,15 @@ Having decided what building you will model in the previous session. This week f
 
 * Brief lecture on working in interdisiciplinary teams
 * PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
+
+### Analyse the Existing Building
+* Analyse the BIM and drawing for the existing buildings.
+* What is the carrying capacity of the exisiting structure?
+
+### Model Existing Building
 * Model the existing building
+
+### 
 * Enroll on DTU Learn in your team subject and consultant groups.
 * Document the original model you will adapt it next week.
 
@@ -76,7 +84,13 @@ Location: Building 117 Room 024
 
 _Feb 17 2025 13:00 - 17:00_
 
+### Analyse the Previous ABD Projects
+* Analyse the BIM and drawing for the existing buildings.
+* How many desks could fit on a floor?
+* What systems did they use
+* Could the existing structure take more floors?
 
+* 
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
 
