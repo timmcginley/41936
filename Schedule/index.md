@@ -63,7 +63,7 @@ Please bring<br>
 * Scissors / scalpel etc. to cut card will help you model the existing buildings.
 * A ruler will help you model it to scale and measure it so you can analyse it.
 ```
-Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.html#a1-physical-building-model) of the existing building.
+Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/41936/Assignments/A.html#a1-physical-building-model) of the existing building.
 
 * Brief lecture on working in interdisiciplinary teams
 * Model the existing building
@@ -85,7 +85,8 @@ _Feb 24 2025 13:00 - 17:00_
 
 
 * Present your models in the Foyer of 127
-* Feedback on your models from the cheif consultants
+* Feedback on your models from the chief consultants
+* Present best model and early integration awards
 * Submit the work required for [Part A](/41936/Assignments/A) on DTU Learn.
 
 ## Week 05 - Part B *
