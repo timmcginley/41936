@@ -12,7 +12,7 @@ Advanced Building Design is an interdisciplinary innovation course that has been
 * Apply OpenBIM Technologies to support the OpenBIM Transition in the AEC.
 * Benchmark your performance against previous years and other teams to help you design 'better' buildings.
 * Track your design progress with project [BEATS](/Project/BEATS) and 4 [KPIs](/Project/KPIs)s (Key Performance Indicators)
-* Gain experience working with [DGNB 2025](/Tools/DGNB/README.md) (simplified version)
+* Gain experience working with [DGNB](/Tools/DGNB/README.md) (simplified version)
 * Selected Projects get to present their work in Mentor's office.
 
 ## When does it run?
