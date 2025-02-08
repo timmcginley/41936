@@ -56,8 +56,16 @@ Location: Building 117 Room 024
 
 _Feb 10 2025 13:00 - 17:00_
 
+```{hint}
+Please bring<br>
+* a computer so that you can reiew and analyse the BIM and drawings from
+* a pencil to sketch and help you communicate and explore ideas with your team.
+* something that can cut card will help you model the existing buildings.
+* something that can help youn measure your model will help you make it to scale.
+```
+Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.html#a1-physical-building-mode) of the existing building.
 
-* Lecture on Interdisiciplinarity
+* Brief lecture on working in interdisiciplinary teams
 * Model the existing building
 * Document the original model you will adapt it next week.
 
