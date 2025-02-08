@@ -52,18 +52,18 @@ This requires that you define the F2F height.
 * 
 
 ## Week 02 - Existing Building
-Location: Building 117 Room 024
+Location: Building 117 Room 024 / Building 127 / 014
 
 _Feb 10 2025 13:00 - 17:00_
 
 ```{hint}
 Please bring<br>
-* a computer so that you can reiew and analyse the BIM and drawings from
-* a pencil to sketch and help you communicate and explore ideas with your team.
-* something that can cut card will help you model the existing buildings.
-* something that can help youn measure your model will help you make it to scale.
+* A computer so that you can review and analyse the BIM and drawings for your chosen building.
+* A pencil / pen to sketch and help you communicate and explore ideas with your team.
+* Scissors / scalpel etc. to cut card will help you model the existing buildings.
+* A ruler will help you model it to scale and measure it so you can analyse it.
 ```
-Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.html#a1-physical-building-mode) of the existing building.
+Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.html#a1-physical-building-model) of the existing building.
 
 * Brief lecture on working in interdisiciplinary teams
 * Model the existing building
