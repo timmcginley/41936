@@ -23,7 +23,7 @@ The course is designed to give interdisciplinary design and analysis experience 
 
 ## How does it work?
 In 2025 the course has 175 students. 
-1. Participants choose a subject and form a consultancy within that subject (1-2 students per consultancy)
+1. Participants choose a subject and form a consultancy within that subject (roughly 2 students per consultancy)
 3. Consultancies submit a tender to become part of a team (6 consultancies per team)
 4. Consultancies collaborate in the teams over 4 stages to design a building.
 
