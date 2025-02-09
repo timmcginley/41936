@@ -65,6 +65,12 @@ Please bring<br>
 ```
 Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.md#a1-physical-building-model) of the existing building.
 
+| **Time**      | **Location** |**Activity**   |
+|---------------|--------------|------------|
+| 13:00 - 13:30 | Check below | **Team meeting**|
+| 13.30 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
+| 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model|
+
 * 13.00 - 13.30 Brief lecture on working in interdisiciplinary teams
 
 ### Locations:
