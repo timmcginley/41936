@@ -7,7 +7,7 @@
 * You will then use the building model to fill out an excel sheet that provides the **benchmark building model (A3)**.
 * This stage also includes the definition of the **Design Management Strategy (DMS) (A4)** all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS.
 * Finally **Part A invoices (A6)** should be submitted:
-* 
+
 <hr>
 
 ## A1 Physical Building Model
@@ -27,12 +27,12 @@ For this exercise you should focus on:
 * Learning from the previous projects
 * Satisfy the tests from the list of tests.
 
-### For delivery:
-Produce a document including photos of
-* existing building
-* proposed building
-* your model being tested
-with descriptions into a document and upload it to the learn site wiht the other documents for Part A.
+### Submission:
+Produce a breif report / document including photos of
+* Existing building
+* Proposed building
+* Testing of the model
+Provide descriptions fro teh photos compile into a single document and provide to your PM to upload to the DTU learn site with the other required documents for Part A.
 
 ### A1 Tests
 * The Structure test (wind test)
