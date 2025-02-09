@@ -67,8 +67,7 @@ Having decided what building you will model in the previous session. This week f
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 13:00 - 13:30 |T01-06 : 127/014 <br>T07-08 : Atrium <br>T09-16 : 117/024
-| **Team meeting**|
+| 13:00 - 13:30 |T01-06 : 127/014 <br>T07-08 : Atrium <br>T09-16 : 117/024 | **Team meeting**|
 | 13.30 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
 | 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model|
 
