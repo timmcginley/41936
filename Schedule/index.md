@@ -74,9 +74,9 @@ Having decided what building you will model in the previous session. This week f
 * 13.00 - 13.30 Brief lecture on working in interdisiciplinary teams
 
 ### Locations:
-Teams 1 - 6 : Building 127 /  Room 014
-Teams 7 - 8 : Foyer of 127
-Teams 9 - 16 : Building 117 / Room 024
+* Teams 1 - 6 : Building 127 /  Room 014
+* Teams 7 - 8 : Foyer of 127
+* Teams 9 - 16 : Building 117 / Room 024
 
 ### Team meeting 01
 * PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
