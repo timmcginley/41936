@@ -52,7 +52,7 @@ This requires that you define the F2F height.
 * 
 
 ## Week 02 - Existing Building
-Location: Building 117 Room 024 / Building 127 / 014
+Location: Building 117 Room 024 / Building 127 Room 014 / Atrium of 127
 
 _Feb 10 2025 13:00 - 17:00_
 
