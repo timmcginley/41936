@@ -15,7 +15,7 @@ Make sure you have read the course guide before the first session
 ```
 
 ## Week 01 - Part A
-We will meet for the first session in **Auditorium 32 in building 306.** Follwoing the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
+We will meet for the first session in **Auditorium 32 in building 306.** Following the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
 
 _Feb 3 2025 13:00 - 17:00_
 
@@ -32,13 +32,13 @@ _Feb 3 2025 13:00 - 17:00_
 
 ### Questions
 * Which type of consultant do you want to be in this project?
-* What is the identity of your subject group (company)? 
-* How does your subject contribute to the team?  
-* List one thing you need the most from each subject.  
-* What is special about your group and what can you offer the team? 
-* Which Team KPIs do you most align with? 
-* Is everyone in your group on the same page?  
-* PM: What values do you want your team to have? 
+* What is the identity of your subject group (company)?
+* How does your subject contribute to the team?
+* List one thing you need the most from each subject?
+* What is special about your group and what can you offer the team?
+* Which Team KPIs do you most align with?
+* Is everyone in your group on the same page?
+* PM: What values do you want your team to have?
 * Aspirations: How ambitious are you?
 
 ### Activity
@@ -66,6 +66,11 @@ Please bring<br>
 Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.md#a1-physical-building-model) of the existing building.
 
 * 13.00 - 13.30 Brief lecture on working in interdisiciplinary teams
+
+### Locations:
+Teams 1 - 6 : Building 127 /  Room 014
+Teams 7 - 8 : Foyer of 127
+Teams 9 - 16 : Building 117 / Room 024
 
 ### Team meeting 01
 * PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
