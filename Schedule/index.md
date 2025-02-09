@@ -67,16 +67,14 @@ Having decided what building you will model in the previous session. This week f
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 13:00 - 13:30 | Check below | **Team meeting**|
+| 13:00 - 13:30 |T01-06 : 127/014 <br>T07-08 : Atrium <br>T09-16 : 117/024
+| **Team meeting**|
 | 13.30 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
 | 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model|
 
 * 13.00 - 13.30 Brief lecture on working in interdisiciplinary teams
 
-### Locations:
-* Teams 1 - 6 : Building 127 /  Room 014
-* Teams 7 - 8 : Foyer of 127
-* Teams 9 - 16 : Building 117 / Room 024
+
 
 ### Team meeting 01
 * PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
