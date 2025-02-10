@@ -69,27 +69,27 @@ Having decided what building you will model in the previous session. This week f
 |---------------|--------------|------------|
 | 13:00 - 13:15 | 117/024 | **introduction** (Standing) |
 | 13:15 - 14:00 | T01-06 : 127/014 <br>T07-08 : Atrium <br>T09-16 : 117/024 | **Team meeting**|
-| 13.30 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
-| 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model|
-
-* 13.00 - 13.30 Brief lecture on working in interdisiciplinary teams
-
+| 14:00 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
+| 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model (photos) and share in MS Teams|
 
 
 ### Team meeting 01
 * PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
-* Decide on who will build the model today
+* Decide on who will build the model today and who will anlayse
+* How should the communicate throughout the day.
 
 ### Analyse the Existing Building
 * Analyse the BIM and drawing for the existing buildings.
 * What is the carrying capacity of the exisiting structure?
+* What are the existing building systems?
 
 ### Model Existing Building
-* Model the existing building
+* Physical model the existing building
+* Remember that we will need to edit it next week.
 
-### End of the session
+###  By the end of the session
 * Enroll on DTU Learn in your team subject and consultant groups.
-* Document the original model you will adapt it next week.
+* Document the original model you will adapt it next week - post on MS Teams
 
 ## Week 03 - Proposed Building
 Location: Building 117 Room 024
