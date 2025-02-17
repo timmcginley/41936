@@ -126,6 +126,25 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 * Provide basic guidance to the client on what you have found from your analysis.
 * You should explain to them the implications of different different further analysis that you could do.
 
+### Structures
+* Capacity of Existing structure (add more floors?)
+* Options for further analysis
+### MEP
+* Current HVAC systems
+* Current energy level / class
+### Materials
+* Current materials – what can be retained
+* Potential new ones where required
+### Geotech
+* Soil assumptions
+* Knowledge about foundations 
+### PM
+* Analyse previous projects 
+* Strategise how to acheive KPIs
+### Architecture
+* Do the existing spaces work? 
+* Where could additional spaces fit?
+
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
 or maybe this goes to agile? work it out in the circular repo.
