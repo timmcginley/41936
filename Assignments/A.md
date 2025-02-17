@@ -88,7 +88,7 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 PM to complete an ICT Contract for the team.
 <hr>
 
-## A6 IDS for consultant BIM
+## A6 IDS for consultant BIM (Optional)
 Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
 <hr>
 
