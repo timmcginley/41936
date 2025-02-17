@@ -140,7 +140,7 @@ One plan would be for traditional cellular office
 This needs to be carefully considered.
 
 ### F04: Underground floors
-If you have chosen building 304 and you are demolishing it then you must have a minimum of 2 floors of basement. This should support the underground building services requirements and storage.
+If you have chosen building 304 and you are demolishing it then you must have a minimum of 1 floor of basement. This should support the underground building services requirements and storage.
 
 ### F05: Public top floor 
 The building must have an accessible top floor including:
