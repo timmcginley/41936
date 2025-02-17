@@ -122,6 +122,10 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
 
+## A8 Client Report
+* Provide basic guidance to the client on what you have found from your analysis.
+* You should explain to them the implications of different different further analysis that you could do.
+
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
 or maybe this goes to agile? work it out in the circular repo.
