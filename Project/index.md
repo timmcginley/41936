@@ -156,7 +156,7 @@ The building must have a mostly public ground floor including reception area to 
 
 Your proposal must include the following spaces.
 
-### S01: Auditorium (100 people) 
+### S01: Auditorium (200 people) 
 
 The building must include an auditorium. The auditorium should be completely or partly located inside the building. This should be your 'perfect auditorium' what would that be like? Make sure that both the presenter and the audience are physically and acoustically confortable etc. Please pay special attention to make sure that no one needs to 'twist their nexk' to see the presenter or the screen. Can the room also be used for other functions - if so what?
 
