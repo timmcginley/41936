@@ -58,7 +58,7 @@ The construction cost level is decided by your PM. Refer to the [PM consultant i
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
 | DGNB Lite Level           | Platinum | Gold    | Silver  |
-| LCA/ user (CO2eq/m2/User) | 60       | 80      | 100     |
+| LCA / user (CO2eq/m2/User/Year) | 60       | 80      | 100     |
 | Construction Cost (dkk/m2)| 30.000   | 35.000  | 40.000  |
 
 
