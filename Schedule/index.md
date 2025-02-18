@@ -215,7 +215,13 @@ Location: Building 406 Auditorium 32
 ## 3Week 2 - Final Sprint
 
 ## 3Week 3 - Part D Presentation
-Final Presentations on 25th and 26th of June - N.B. Roskilde doesn't start until 28th June
+Final Presentations on:
+* June 25th (Team 1 - 8)
+* June 26th (Team 9 - 16) 
+
+```{hint}
+Roskilde Festival 2025 doesn't start until 28th June :)
+```
 
 <!--
 
