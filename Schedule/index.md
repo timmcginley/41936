@@ -217,7 +217,9 @@ Location: Building 406 Auditorium 32
 ## 3Week 3 - Part D Presentation
 Final Presentations on:
 * June 25th (Team 1 - 8)
-* June 26th (Team 9 - 16) 
+* June 26th (Team 9 - 16)
+
+It will be possible to swap these slots with other groups but you need to arrange that between you and tell us before the 20th June.
 
 ```{hint}
 Roskilde Festival 2025 doesn't start until 28th June :)
