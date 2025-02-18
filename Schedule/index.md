@@ -102,9 +102,18 @@ _Feb 17 2025 13:00 - 17:00_
 * What systems did they use
 * Could the existing structure take more floors?
 
-* 
+### Model the Proposed Building
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
+
+```{hint}
+Please bring<br>
+* A computer so that you can review and analyse the BIM and drawings for your chosen building.
+* A pencil / pen to sketch and help you communicate and explore ideas with your team.
+* Scissors / scalpel etc. to cut card will help you model the existing buildings.
+* A ruler will help you model it to scale and measure it so you can analyse it.
+* Bring additional upcycled cardboard etc. that you can use for modelling material.
+```
 
 ## Week 04 - Part A Presentation *
 Location: Building 117 Room 024
