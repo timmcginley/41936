@@ -141,6 +141,9 @@ This needs to be carefully considered.
 
 ### F04: Underground floors
 If you have chosen building 304 and you are demolishing it then you must have a minimum of 1 floor of basement. This should support the underground building services requirements and storage.
+* Existing basement function does not need to be retained and can be replaced, eg. MEP room, bicycle parking, etc. 
+* Existing connections to other DTU buildings must be retained.
+
 
 ### F05: Public top floor 
 The building must have an accessible top floor including:
