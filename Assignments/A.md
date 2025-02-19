@@ -53,7 +53,9 @@ The team that demonstrated the best interdisciplinary collaboration in the model
 ## A2 Project Plan
 **Primary responsible:** PM
 
-PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages of the project and provide these to the PM in a timely manner fro coordination. The project plan should describe the actual work which is expected for finishing each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
+PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages (A, B, C, D) of the project and provide these to the PM in a timely manner for coordination. The project plan should describe the actual work and projected hours that is expected is needed to finish each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
+
+
 
 <hr>
 
@@ -72,7 +74,8 @@ This is one of the first coordination tasks for the PM.
 <hr>  
 
 ## A4 Design Management Schema
-The Design Management Schema (DMS) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a general scheduled overview of activities.
+The Design Management Schema (DMS) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a DMS can be found on older projects, specifically: “2023_13W_Report_TeamXX_Sub6” and “CES_BLD_24_06_PM_Appendix”. These two projects can both be found on Learn.
+
 
 ### Non PM Consultant Responsibilities
 * Inform their PM about the tasks they and others need to do to complete their work.
