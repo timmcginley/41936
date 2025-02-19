@@ -157,7 +157,7 @@ or maybe this goes to agile? work it out in the circular repo.
 
 ## Part A Submission
 PM to gather all documents from the team and submit them under Assignment Part A in DTU Learn before the deadline.
-Please upload the following files (25 is important as it represents a year):
+Please upload the following files as PDFs (25 is important as it represents a year):
 1.	25-[TEAM NUMBER]-A-ProjectPlan
 2.	25-[TEAM NUMBER]-A-TeamContract
 3.	25-[TEAM NUMBER]-A-ICTContract
