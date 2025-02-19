@@ -93,7 +93,7 @@ Produce an IDS for each consultant to help them check their models. structure th
 <hr>
 
 ## A7 Benchmark Building Model
-Based on the construction of a physical model, fill in the supplied excel workbook documenting the basic properties of the btoh the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
+Based on the construction of a physical model, fill in the supplied excel workbook ('Teams.xlsx' on Microsoft Teams) documenting the basic properties of the both the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
 
 ### Existing Building
 * Floor area (ground and above)
