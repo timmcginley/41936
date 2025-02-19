@@ -119,8 +119,10 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 <hr>
 
 ## A7 Invoices
-* All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
-* The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
+* All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A.
+* A template invoice can be found on Learn under PM. 
+* The PM should then collect the invoices, total hours per consultancy and work tasks done into a single document that they submit with the rest of the documents. 
+* The hours are counted per person so if two consultants have worked for 4 hours on the same task, then that's 8 hours to invoice. 
 
 ## A8 Client Report
 * Provide basic guidance to the client on what you have found from your analysis.
