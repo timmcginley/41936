@@ -160,6 +160,11 @@ Your proposal must include the following spaces.
 
 The building must include an auditorium. The auditorium should be completely or partly located inside the building. This should be your 'perfect auditorium' what would that be like? Make sure that both the presenter and the audience are physically and acoustically confortable etc. Please pay special attention to make sure that no one needs to 'twist their nexk' to see the presenter or the screen. Can the room also be used for other functions - if so what?
 
+```{note}
+The existing auditorium can be converted to house the 200 capacity auditorium. Multi use space can replace an existing auditorium if that multi use space can also be an auditorium. In both cases it must not result in a total reduction of more than 20% of the existing capacity.
+
+```
+
 ### S02: Multipurpose space
 The building must include multipurpose space:
 * 250 m2 area
