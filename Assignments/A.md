@@ -159,6 +159,9 @@ Please upload the following files (25 is important as it represents a year):
 4.	25-[TEAM NUMBER]-A-DesignManagementSchema
 5.	25-[TEAM NUMBER]-A-BenchmarkBuildingModel
 6.	25-[TEAM NUMBER]-A-PhysicalBuildingModel
+7.	25-[TEAM NUMBER]-A-Invoices
+8.	25-[TEAM NUMBER]-A-ClientReport
+
 
 ```{note}
 We would like to be able to reuse your work (annonymised) in teaching and research to help us design better, more sustainable buldings, by making the work available to future students. You can opt out of this by including an optout.txt saying you do not give you permisssion for the work to be used in future research or teaching along with this submission.
