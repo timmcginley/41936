@@ -162,7 +162,7 @@ Please upload the following files as PDFs (25 is important as it represents a ye
 2.	25-[TEAM NUMBER]-A-TeamContract
 3.	25-[TEAM NUMBER]-A-ICTContract
 4.	25-[TEAM NUMBER]-A-DesignManagementSchema
-5.	25-[TEAM NUMBER]-A-BenchmarkBuildingModel
+5.	25-[TEAM NUMBER]-A-BenchmarkBuildingModel (included online as part of Teams.xlsx)
 6.	25-[TEAM NUMBER]-A-PhysicalBuildingModel
 7.	25-[TEAM NUMBER]-A-Invoices
 8.	25-[TEAM NUMBER]-A-ClientReport
