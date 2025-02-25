@@ -134,7 +134,7 @@ Location: Building 306 - Auditorium 32
 _March 3 2025 13:00 - 17:00_
 
 * 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
-* _13.00 - 14.00 Walk from building 306 to 116_
+* _13.30 - 14.00 Walk from building 306 to 116_
 * 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
 * 15.00 - 17.00 Continure work on drawings.
 
