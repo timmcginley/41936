@@ -58,7 +58,7 @@ The drawings should include:
 * Location and sizes of shafts in core
 
 #### 2 x alternatives office floor drawings:
-1:200 scale
+1:100 scale
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
@@ -109,9 +109,7 @@ Perspective view (A1)
 * STR: A structural detail dealing with some important connection
 * MEP: Schematics of ventilation, heating, cooling, hot and cold water, wastewater, and sprinkler if not possible to show in main section.
 * FIRE: What part of your building is performance based? What will follow the prescriptive codes? 
-
-#### PM / ICT 
-* Coordinated schedule of activities for the entire team in the 13-week period
+* PM / ICT: Coordinated schedule of activities for the entire team in the 13-week period
 <hr>
 
 
