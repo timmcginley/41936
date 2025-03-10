@@ -51,7 +51,7 @@ The drawings should include:
 * Fire egress
 
 #### 2 x alternative ground floor drawings:
-1:100 scale
+1:200 scale
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
