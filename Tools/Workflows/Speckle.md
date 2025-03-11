@@ -1,4 +1,4 @@
-# Speckle
+# Speckle based workflow
 This guide will help you understand how to integrate Speckle into your workflow, making your design and engineering processes more connected, flexible, and efficient. 
 
 ## Getting Started with Speckle
