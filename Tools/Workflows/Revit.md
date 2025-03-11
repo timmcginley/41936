@@ -1,4 +1,4 @@
-# Revit
+# Revit based collaboration
 
 The following is a step by step guide on how you can create a central file in Revit and use work sharing through OneDrive. 
 
