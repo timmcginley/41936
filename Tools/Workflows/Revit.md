@@ -1,6 +1,10 @@
 # Revit
 
-The following is a step by step guide on how you can create a central file in Revit and use work sharing through OneDrive. Ideally, collaboration is carried out using the BIM360 framework but as this option is currently unavailable, the below approach is proposed as an alternative.  
+The following is a step by step guide on how you can create a central file in Revit and use work sharing through OneDrive. 
+
+Collaboration in the AEC is normally supported in the AEC with a CDE. However these are frequently cloud based propritary platforms that lock your data into them. Whilst we understand the need to use propritory authoring tools in the course, we are keen to find alternatives to these cloud lock in platforms therefore the course will not promote platforms such as BIM360.
+
+An alternative Revit based approach is provided below, please also check out the [Speckle](Speckle.md) alternative.
 
 ## Option 1: Creating a central file 
 ### Step 1: Create a shared folder on OneDrive
