@@ -63,5 +63,31 @@ If your team cannot work with a Central File due to location constraints, follow
 ### Linking Discipline Files 
 Whether you use option 1 or 2 all disciplines should always link their files so changes are visible to all disciplines. 
 
-*Note: It is critical for all disciplines to follow the same zero coordinate before linking the files, so all models are aligned when they are linked. 
+```{note}
+It is critical for all disciplines to follow the same zero coordinate before linking the files, so all models are aligned when they are linked. 
+```
+**First do the following before linking**
+To ensure proper coordination among all disciplines, follow these steps:
+1.	Go to the Site View in Revit.
+2.	Select all the grids, but make sure to exclude the zero coordinate from your selection.
+3.	Choose an intersection of two grids as a reference point.
+4.	Move all the selected grids so that the chosen intersection aligns with the zero coordinate.
+5.	Ensure that all disciplines use the same zero coordinate for consistency.
+Look at the picture below :
+![image](https://github.com/user-attachments/assets/34301344-5f0c-4166-a40f-ed97fcc804fe)
+
+**Now follow these steps to link the files.**
+1.	Open your Revit file.
+2.	Go to Insert → Link Revit.
+3.	Select the latest version of the other discipline’s Revit files.
+4.	Choose Origin to Origin or Shared Coordinates for proper alignment.
+5.	Click Open → The file will be linked into the model.
+
+## Updating Links Regularly
+Whenever team members update their files:
+1.	Replace the old linked file with the updated one.
+2.	Ensure that all elements are coordinated correctly.
+3.	Communicate with the team to avoid inconsistencies.
+
+
 
