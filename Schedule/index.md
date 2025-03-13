@@ -151,9 +151,9 @@ Location: Building 306 - Auditorium 32
 
 _March 17 2025 13:00 - 17:00_
 * 13.00 - 13.05 **Grøn Dyst Challenge Intro**
-* 13.05 - 13.35 **Navigating Digital Practice** - Victor Wanderley Barbosa - Digital Practice Lead - Schmidt Hammer Laseen
+* 13.05 - 13.35 Kåre Stockholm Poulsgaard
+* 13.35 - 14.10 **Navigating Digital Practice** - Victor Wanderley Barbosa - Digital Practice Lead - Schmidt Hammer Laseen
 ![image](https://github.com/user-attachments/assets/844aeae4-6aa0-4776-9cd3-e529ee3e2801)
-* 13.35 - 14.10 Kåre Stockholm Poulsgaard
 * 14.10 - 14.30 Walk and talk back to 116
 * 14.30 - 17.00 Team time to finalise drawings.
 
