@@ -2,7 +2,7 @@
 
 > Design and analyse different options by defining evaluate different design tactics to satisfy your design strategy in BIM 
 
-Stage B starts by students 'pinning up' a specified set of drawings defined in their Design Management Schema based on informal feedback they develop design options which modelled, reported and sent to the client for feedback.
+Stage B starts by students 'pinning up' (Selotape etc.) a specified set of drawings defined in their Design Management Schema.
 
 At this point in the project you need feedback on 2 different design options so that you can advise the client on your recommended design.
 
