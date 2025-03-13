@@ -21,7 +21,12 @@ Define the overall concept for your building through multi-disciplinary drawings
 **PM coordinates these efforts into integrated drawings**
 ```
 
-* Please bring your printed and correctly scaled drawings with you on Monday, March 24th. Space to pin up the drawings will be allocated to each team in Building 116. Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
+* Please bring your printed and correctly scaled drawings with you on Monday, March 24th. Space to pin up the drawings will be allocated to each team in Building 116 as per the plan below:
+* Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
+
+
+![image](https://github.com/user-attachments/assets/25107921-674b-46ed-b368-6afb7ad6dc21)
+
 
 ### Required Drawings and Presentation layout
 
@@ -36,7 +41,7 @@ We would like to be able to reuse your work (annonymised) in teaching and resear
 
 * The aim is to get feedback from the Chief consultants, external mentors and TAs but also to learn from each others work. At the session you should also look at each others drawings and find ones that are similar to yours. In this way you should be able to establish buddy groups looking at similar issues. Feedback will be oral, so you will need to take notes - this can be done directly on the drawings where appropriate so they provide a record of your next steps. You will use this feedback to inform the decisions about the 
 
-* We are not providing an 'official template' as some drawings will be sketches, while others will be made on a computer. However, please ensure each of your drawings include the number of your team, The name of the drawing.
+* We are not providing an 'official template' as some drawings will be sketches, while others will be made on a computer. However, please ensure each of your drawings include the number of your team, The name of the drawing and who drew it.
 
 * We require that the drawings integrate input from all subjects. This ensures that the project and solutions are coherent and do not clash.
 
@@ -45,7 +50,7 @@ A first task of PM is to coordinate the drawings that are presented. PM should l
 The drawings should include:
 
 #### Minimum one site plan:
-1:500 scale
+1:500 scale @ A3 </mark>
 * Location of the building
 * Access for the fire brigades to the building
 * Placement of the building showing the access of the fire brigade 
@@ -55,14 +60,14 @@ The drawings should include:
 * Fire egress
 
 #### 2 x alternative ground floor drawings:
-1:200 scale
+</mark> 1:200 scale @ A3 </mark>
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
 * Location and sizes of shafts in core
 
 #### 2 x alternatives office floor drawings:
-1:100 scale
+<mark> 1:100 scale @ A1 </mark>
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
 * Location and sizes of potential technical rooms and shafts
@@ -70,7 +75,7 @@ The drawings should include:
 * Fire egress
 
 #### 2 x alternatives of vertical sections of an office floor:
-1:50 scale
+<mark>1:50 scale </mark>
 * ARCH: Indicate façades incl. windows, cores, slabs, ceilings, and partitioning walls
 * STR: Indication of horizontal stabilizing and vertical load-bearing elements
 * Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
@@ -78,7 +83,7 @@ The drawings should include:
 * Fire egress
 
 #### 2 x vertical section of the entire building including basement:
-1:100 scale (A1) - A and B on the same sheet
+<mark>1:100 scale (A1) - A and B should fit on the same sheet </mark>
 * ARCH: Coloured code functions (office, shaft, lift, fire egress etc.) in the building (by hand is okay)
 * STR: Indication of horizontal stabilizing and vertical load-bearing elements
 * MEP: Routing (indicative) of heating, cooling, ventilation, hot and cold water, waste water, and sprinkler if needed. Also include electricity/IT/cabling
@@ -87,7 +92,7 @@ The drawings should include:
 * GEO/STR: Show interactions between structure and geotechnical.
 
 #### 2 x Basement plan
-1:200 scale
+<mark>1:200 scale @ A3</mark>
 * GEO: Footprint, showing also the layout of structural components at foundation level
 * MEP: Plant / Technical Space
 * ARCH: Bike / stuff storage.
