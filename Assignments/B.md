@@ -50,7 +50,7 @@ A first task of PM is to coordinate the drawings that are presented. PM should l
 The drawings should include:
 
 #### Minimum one site plan:
-1:500 scale @ A3 </mark>
+<mark>1:500 scale @ A3 </mark>
 * Location of the building
 * Access for the fire brigades to the building
 * Placement of the building showing the access of the fire brigade 
@@ -60,7 +60,7 @@ The drawings should include:
 * Fire egress
 
 #### 2 x alternative ground floor drawings:
-</mark> 1:200 scale @ A3 </mark>
+<mark> 1:200 scale @ A3 </mark>
 * Indication of horizontal stabilizing and vertical load-bearing elements
 * Location and sizes of potential technical rooms and shafts
 * Fire egress
