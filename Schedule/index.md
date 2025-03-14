@@ -151,7 +151,8 @@ Location: Building 306 - Auditorium 32
 
 _March 17 2025 13:00 - 17:00_
 * 13.00 - 13.05 **Grøn Dyst Challenge Intro**
-* 13.05 - 13.35 **Kåre Stockholm Poulsgaard** Head of Innovation GXN / 3XN
+* 13.05 - 13.35 **Unloved Buildings: A Story of Second Chances** - Kåre Stockholm Poulsgaard - Head of Innovation GXN / 3XN
+![image](https://github.com/user-attachments/assets/5145d917-d27f-4348-a1a0-5c47574ac9c5)
 * 13.35 - 14.10 **Navigating Digital Practice** - Victor Wanderley Barbosa - Digital Practice Lead - Schmidt Hammer Laseen
 ![image](https://github.com/user-attachments/assets/844aeae4-6aa0-4776-9cd3-e529ee3e2801)
 * 14.10 - 14.30 Walk and talk back to 116
