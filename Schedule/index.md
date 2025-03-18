@@ -222,7 +222,9 @@ Location: Building 406 Auditorium 32
 ## 3Week 2 - Final Sprint
 
 ## 3Week 3 - Part D Presentation
-Final Presentations on:
+Final Presentations run over 2 days in Building 306 Auditorium 32.
+
+More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
 ### June 25th (Team 1 - 8)
 | Team |  Start | End |
