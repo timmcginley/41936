@@ -1,4 +1,4 @@
-# LCA Calculation for Renovated Buildings
+# LCA for Renovated Buildings
 This page provides a practical summary for a DGNB Compliant LCA Calculation for renovated buildings.
 
 ## 1. Define Your LCA Scope
