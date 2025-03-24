@@ -1,6 +1,9 @@
 # LCA for Renovated Buildings
 This page provides a practical summary for a DGNB Compliant LCA Calculation for renovated buildings.
 
+## 0. Collaboration support
+LCA is a collaborative tool that helps teams understand trade-offs across disciplines. By modeling environmental impacts early, students can use LCA to inform design decisions, justify material selections, and challenge assumptions about sustainability. Discussing LCA results across teams (e.g., architecture, engineering, sustainability) encourages shared priorities and supports transparent decision-making. It’s especially useful when evaluating renovation strategies where teams must balance heritage, performance, and embodied carbon. Encourage your group to use LCA results as a conversation starter, not just a final number.
+
 ## 1. Define Your LCA Scope
 *	Timeframe: 50 years (as per DGNB and EN 15978).
 *	Functional unit: 1 m² of gross floor area (GFA) over 50 years.
