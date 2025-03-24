@@ -1,4 +1,4 @@
-# LCA Calculation for Renovated Buildings (DGNB-Compliant)
+# LCA Calculation for Renovated Buildings
 This page provides a practical summary for a DGNB Compliant LCA Calculation for renovated buildings.
 
 ## 1. Define Your LCA Scope
@@ -30,7 +30,7 @@ This page provides a practical summary for a DGNB Compliant LCA Calculation for 
     * Use national values or DGNB defaults (e.g., kg CO₂e/kWh for electricity and heating).
 
 ## 3. Model in LCA Software (e.g., SimaPro)
-###	1. Start a New Project
+### 1. Start a New Project
 Name your project and define the functional unit (e.g., “1 m² renovated area / 50 years”).
 ### 2. Build the Life Cycle Inventory (LCI)
 For each material:
@@ -61,28 +61,28 @@ ________________________________________
 ## 4. Calculate Environmental Impacts
 *	Use EN 15804 or CML impact method.
 *	Focus on:
-o	GWP (Global Warming Potential) – in kg CO₂e/m²/year.
-o	Also include Acidification (AP), Eutrophication (EP), and other DGNB impact categories.
-•	Normalize total impacts to:
-o	kg CO₂e/m²/50 years
-o	or kg CO₂e/m²/year (for DGNB comparison)
+      * GWP (Global Warming Potential) – in kg CO₂e/m²/year.
+      * Also include Acidification (AP), Eutrophication (EP), and other DGNB impact categories.
+* Normalize total impacts to:
+      * kg CO₂e/m²/50 years
+      * or kg CO₂e/m²/year (for DGNB comparison)
 ________________________________________
 ## 5. Interpret the Results
-•	Identify carbon hotspots (e.g., insulation, HVAC, operational energy).
-•	Compare results with DGNB target:
-o	Aim for <9.4 kg CO₂e/m²/year for DGNB Gold level.
-•	Optional: Do sensitivity analysis (e.g., changing façade material, using greener energy).
+* Identify **carbon hotspots** (e.g., insulation, HVAC, operational energy).
+* Compare results with DGNB target:
+      * Aim for <9.4 kg CO₂e/m²/year for DGNB Gold level.
+* Optional: Do sensitivity analysis (e.g., changing façade material, using greener energy).
 ________________________________________
 ## 6. Document for DGNB and Reporting
-•	Include:
-o	Material list and quantities
-o	EPD references
-o	Energy use assumptions
-o	Life cycle stage breakdown (A, B, C, D)
-o	Final GWP result (kg CO₂e/m²/year)
-•	Use tables and graphs to present:
-o	Impact per life cycle phase
-o	Contribution by building element
+Include:
+* Material list and quantities
+* EPD references
+* Energy use assumptions
+* Life cycle stage breakdown (A, B, C, D)
+* Final GWP result (kg CO₂e/m²/year)
+Use tables and graphs to present:
+* Impact per life cycle phase
+* Contribution by building element
 ________________________________________
 ## Tips
 •	Follow DGNB rules for system boundaries and exclusions (ignore screws, nails, <1% rule).
