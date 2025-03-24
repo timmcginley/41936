@@ -83,8 +83,10 @@ Include:
 Use tables and graphs to present:
 * Impact per life cycle phase
 * Contribution by building element
-________________________________________
-## Tips
-•	Follow DGNB rules for system boundaries and exclusions (ignore screws, nails, <1% rule).
-•	Always document your assumptions.
-•	Keep LCA modular and simple—start with key materials, refine later.
+
+
+```{admonition} Tips
+* Follow DGNB rules for system boundaries and exclusions (ignore screws, nails, <1% rule).
+* Always document your assumptions.
+* Keep LCA modular and simple—start with key materials, refine later.
+```
