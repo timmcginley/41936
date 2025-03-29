@@ -38,10 +38,10 @@ Each consultancy delivers a report:
 
 Each consultant should review their subject documentation to see which additional requirements are required of them.
 
-* [Architecture Report](Subjects/Architecture/index.html)
-* [Structure Report](Subjects/Structure/index.md)
-* [MEP Report](/Subjects/MEP/index.md)
-* [Geotech Report](Subjects/Geotech/index.md)
+* [Architecture Report](/Subjects/Architecture/index.md#c-consultant-report)
+* [Structure Report](/Subjects/Structure/index.md#c-consultant-report)
+* [MEP Report](/Subjects/MEP/index.md#c-consultant-report)
+* [Geotech Report](Subjects/Geotech/index.md#c-consultant-report)
 * [Materials Report](/Subjects/Materials/index.md#c-consultant-report)
 * [PM-ICT Report](/Subjects/PM-ICT/index.md#c-consultant-report)
 
