@@ -102,8 +102,8 @@ PM to collect invoices from the consultants on their team and collate into a sin
 <hr>
 
 ## Part C Submission
-Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
-PM to gather all documents from the team and submit them under Assignment Part B in DTU Learn before the deadline. 
+Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartC_TeamXX
+PM to gather all documents from the team and submit them under Assignment Part C in DTU Learn before the deadline. 
 
 ```{note}
 We would like to be able to reuse your work (annonymised) in teaching and research to help us design better, more sustainable buldings, by making the work available to future students. You can opt out of this by including an optout.txt saying you do not give you permisssion for the work to be used in future research or teaching along with this submission.
