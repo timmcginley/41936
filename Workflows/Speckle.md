@@ -3,7 +3,7 @@ This guide will help you understand how to integrate Speckle into your workflow,
 
 ## Getting Started with Speckle
 ### 1. Create a Speckle Account
-* Go to [speckle.system](https://www.speckle.systems/) and sign up for a free account.
+* Go to [speckle.systems](https://www.speckle.systems/) and sign up for a free account.
 * Once registered, log in to the Speckle Web App (this is your online hub)
 
 ### 2. Install Speckle Connectors
