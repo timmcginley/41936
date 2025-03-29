@@ -49,7 +49,7 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 
 * Satisfy all the requirements stated in the [ICT Agreement](/Assignments/A.md#ict-agreement).
 * All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
-* For IFC be sure to save also save the quantities and make sure that IFCSpaces haev exported correctly.
+* For IFC be sure to save also save the quantities and make sure that IFCSpaces have exported correctly.
 * Try and incorporate tools from the Advanced BIM class in your processs
 * Preference OpenBIM models, standards and processes at all stages of the process
 * Validate your IFC files so they conform to the schema with a schema checking tool
