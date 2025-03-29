@@ -169,11 +169,11 @@ _March 24 2025 13:00 - 17:00_
 <hr>
 
 ## Week 09 - Part C **/
-Location: Building 406 Auditorium 32
+Location: Building 306 Auditorium 32
 
 _March 31 2025 13:00 - 17:00_
 * 13.00 - 13.05  Short presentation about intro week - looking for circle buddies etc.
-* 13.05 - 13.00  Part C Introduction (Building 406 Auditorium 32)
+* 13.05 - 13.00  Part C Introduction (Building 306 Auditorium 32)
 * _13.30 - 14.00 Walk from building 306 to 116_
 * 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
 
@@ -189,7 +189,7 @@ _April 7 2025 13:00 - 17:00_
 ```
 
 ## Week 11 - External Lecture *
-Location: Building 406 Auditorium 32
+Location: Building 306 Auditorium 32
 
 _April 28 2025 13:00 - 17:00_
 * 13.00 - 14.00 External lecture (TBC)
@@ -215,7 +215,7 @@ _May 12 2025 13:00 - 17:00_
 
 ## 3Week 1 - Part D Introduction
 ### Monday
-Location: Building 406 Auditorium 32
+Location: Building 306 Auditorium 32
 * 10.00 - 10.00  Part D Introduction (Building 406 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
 
