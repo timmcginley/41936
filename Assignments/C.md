@@ -38,10 +38,10 @@ Each consultancy delivers a report:
 
 Consultancy specific requirements.
 
-* [Architecture Report](/Subjects/Architecture/index.html#c-consultant-report)
-* [Structure Report](/Subjects/Structure/index.html#c-consultant-report)
-* [MEP Report](/Subjects/MEP/index.html#c-consultant-report)
-* [Geotech Report](/Subjects/Geotech/index.html#c-consultant-report)
+* [Architecture Report](../Subjects/Architecture/index.html#c-consultant-report)
+* [Structure Report](Subjects/Structure/index.html#c-consultant-report)
+* [MEP Report](/Subjects/MEP/index.html)
+* [Geotech Report](Subjects/Geotech/index.html)
 * [Materials Report](/Subjects/Materials/index.html#c-consultant-report)
 * [PM-ICT Report](/Subjects/PM-ICT/index.html#c-consultant-report)
 
