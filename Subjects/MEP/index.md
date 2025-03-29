@@ -79,7 +79,7 @@ Provide MEP input to integrated drawings. Remember to include:
 
 ### Part C
 [General Part C description](/Assignements/C.md#c-consultant-reports)**
-#### Consultant Report
+#### C Consultant Report
 The consultant report at the end of the 13 week period should be a status document, where you outline the building design with focus on the MEP subject. That is you should describe; daylight, thermal conditions, space management, energy frame. The coordination of your input should be clear.
 
 In total the MEP consultant report should document the status of the building design. That is, it should include energy demand in the building together with the energy supply and distribution system, define the energy concept of the building. It must be based on the optimization and included in a Be18 and IDA ICE calculation to document that the main requirements can be met.
