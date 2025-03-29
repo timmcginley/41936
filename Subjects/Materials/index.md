@@ -46,7 +46,7 @@ Chief Consultant: Navid Ranjbar.
 
 ### Part C
 
-#### Consultant Report
+#### C Consultant Report
 
 Part C report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there). The following aspects and issues should be addressed in the report (deliverables): 
 
