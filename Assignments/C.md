@@ -1,6 +1,6 @@
 # Part C
 
-Collaborate to integrate the building systems of different disciplines to satisfy technical and design requirements 
+Collaborate to integrate the building systems of different disciplines to satisfy technical and design requirements.
 
 Stage C starts by responding to the client feedback and integrating the chosen solution into an 'outline design'. This stage should also update the excel to check the building is on target and justify if not. This will help inform the required subject and client report assignments for stage C. 
 
