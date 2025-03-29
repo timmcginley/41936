@@ -78,7 +78,7 @@ Contribute towards the client recommendations for your subject, what options wou
 
 ### Part C  
 
-#### C Consulant Report 
+#### C Consultant Report 
 Your report should include:
 * Design basis (ground model, loads, load combinations, safety factors of safety, preliminary geotechnical design models)
 * Preliminary design for the ultimate limit states of the foundations, retaining structures (temporary) and basement wall.
