@@ -36,10 +36,10 @@ Each consultancy delivers a report:
 * A4: Maximum 20 pages + appendixes
 * A3: Maximum 13 pages + appendixes
 
-Consultancy specific requirements.
+Each consultant should review their subject documentation to see which additional requirements are required of them.
 
-* [Architecture Report](../Subjects/Architecture/index.md#c-consultant-report)
-* [Structure Report](Subjects/Structure/index.md#c-consultant-report)
+* [Architecture Report](Subjects/Architecture/index.html)
+* [Structure Report](Subjects/Structure/index.md)
 * [MEP Report](/Subjects/MEP/index.md)
 * [Geotech Report](Subjects/Geotech/index.md)
 * [Materials Report](/Subjects/Materials/index.md#c-consultant-report)
