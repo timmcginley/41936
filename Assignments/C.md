@@ -10,7 +10,7 @@ Stage C starts by responding to the client feedback and integrating the chosen s
 * C4 Invoice
 
 ```{hint}
-Part C is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊. Rememeber to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
+Part C is your main opportunity to get feedback on your current trajectory and approach before the final 3-week period in Part D, So, make the most of it 😊. Remember to include a list of questions for your chief consultant at the end of your reports to help them focus their feedback for you.
 ```
 <hr>
 
