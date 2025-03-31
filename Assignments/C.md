@@ -75,12 +75,12 @@ Renovations are challenging for renovation projects, this award shows thatyou ar
 ## C3 BIM 
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.
 
-* [Architecture BIM](/Subjects/Architecture.md#c-bim)
-* [Structure BIM](/Subjects/Structure.md#c-bim)
-* [MEP BIM](/Subjects/MEP.md#c-bim)
-* [Geotech BIM](/Subjects/Geotech.md#c-bim)
-* [Materials BIM](/Subjects/Materials.md#c-bim)
-* [PM-ICT BIM](/Subjects/PM-ICT.md#c-bim)
+* [Architecture BIM](/Subjects/Architecture#c-bim)
+* [Structure BIM](/Subjects/Structure#c-bim)
+* [MEP BIM](/Subjects/MEPd#c-bim)
+* [Geotech BIM](/Subjects/Geotech#c-bim)
+* [Materials BIM](/Subjects/Materials#c-bim)
+* [PM-ICT BIM](/Subjects/PM-ICT#c-bim)
 
 https://timmcginley.github.io/41936/Assignments/A.html#a5-ict-contract
 
