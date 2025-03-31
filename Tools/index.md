@@ -17,3 +17,6 @@ The design grid / Design Matrix
 
 ## [LCA](LCA.md)
 LCA guide for Advanced Building Design Course focused on transformation.
+
+## [Sigma](Sigma.md)
+Cost calculation guide for Advanced Building Design Course.
