@@ -13,6 +13,7 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * D4 Presentation
 * D5 VR Model
 * D6 Invoice
+* <mark>D7 Physical Model (Optional but encouraged)</mark>
 <hr>
 
 ## D1 Client Report
@@ -123,4 +124,12 @@ More information to follow.
 ```{note}
 We would like to be able to reuse your work (annonymised) in teaching and research to help us design better, more sustainable buldings, by making the work available to future students. You can opt out of this by including an optout.txt saying you do not give you permisssion for the work to be used in future research or teaching along with this submission.
 ```
+
+## D6 Invoice
+
+Final invoice for the project.
+
+## <mark>D7 Physical Model (Optional)</mark>
+
+The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. This is optional but highly encouraged. The scale of the model is up to you and the materails and production are also up to you. Ideally this would aid your final presentation and give the reviewers something to look at during the presentation. Furthermore we hope that we could keep these models and add them to a permanant exhibition of the work in Advanced Buidling Design which we are currently looking for a location for. Please discuss the models wiht the architecture chief consultant.
 
