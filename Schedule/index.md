@@ -175,7 +175,8 @@ _March 31 2025 13:00 - 17:00_
 * 13.00 - 13.05  Short presentation about intro week - looking for circle buddies etc.
 * 13.05 - 13.30  Part C Introduction (Building 306 Auditorium 32)
 * _13.30 - 14.00 Walk from building 306 to 116_
-* 14.00 – 17.00 Chief Consultant Session (Consultant rooms in Building 116).
+* 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
+* 15.00 – 15.00 Team time.
 
 ## Week 10 - Consultant Session **
 Location: Building 116 - Check consultant guide for your subjects
