@@ -75,12 +75,28 @@ Renovations are challenging for renovation projects, this award shows thatyou ar
 ## C3 BIM 
 The building Information models and processes for this project are essential both for the team to progress, analyse and develop the design and future students to learn from the work you have done.
 
-* [Architecture BIM](/Subjects/Architecture#c-bim)
-* [Structure BIM](/Subjects/Structure#c-bim)
-* [MEP BIM](/Subjects/MEP#c-bim)
-* [Geotech BIM](/Subjects/Geotech#c-bim)
-* [Materials BIM](/Subjects/Materials#c-bim)
-* [PM-ICT BIM](/Subjects/PM-ICT#c-bim)
+* [Architecture BIM](/Subjects/Architecture.md#c-bim)
+* [Structure BIM](/Subjects/Structure.md#c-bim)
+* [MEP BIM](/Subjects/MEP.md#c-bim)
+* [Geotech BIM](/Subjects/Geotech.md#c-bim)
+* [Materials BIM](/Subjects/Materials.md#c-bim)
+* [PM-ICT BIM](/Subjects/PM-ICT.md#c-bim)
+
+https://timmcginley.github.io/41936/Assignments/A.html#a5-ict-contract
+
+* Satisfy all the requirements stated in the [ICT Agreement](/Assignments/A.md##a5-ict-contract).
+* All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
+* For IFC be sure to save also save the quantities and make sure that IFCSpaces have exported correctly.
+* Try and incorporate tools from the Advanced BIM class in your processs
+* Preference OpenBIM models, standards and processes at all stages of the process
+* Validate your IFC files so they conform to the schema with a schema checking tool
+* Check your IFC file conforms to the disciplinary needs using the relevant IDS
+
+```{important}
+File naming: [YR]-[TEAM]-[PART]-[SUB].file (TBC)
+
+Example for the architects in team 10 in 2025 : 25-10-C-ARCH.ifc
+```
 
 ### Awards
 ```{admonition} OpenBIM Award - Early Design Guidance
