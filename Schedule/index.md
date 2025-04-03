@@ -215,7 +215,9 @@ _May 12 2025 13:00 - 17:00_
 <hr>
 
 ## 3Week 1 - Part D Introduction
-### Monday
+
+_June 04 2025 10.00_
+
 Location: Building 306 Auditorium 32
 * 10.00 - 10.00  Part D Introduction (Building 306 Auditorium 32)
 * _13.00 - 14.00 Walk from building 306 to 116_
