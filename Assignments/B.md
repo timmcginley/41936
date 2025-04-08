@@ -131,7 +131,7 @@ The purpose of the report is to document the decisions made by both you and the 
 
 The representation of choices to the client is not predefined in this task; it's up to you, just as it would be in a real project. PM will coordinate these efforts and present recommendations to the client.
 
-* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
+* File name: [YEAR]-[TEAM]-[PART]-Client.file
 * Example for part b client report in team 10: _25-10-B-Client.pdf_
 
 ```{info}
@@ -144,7 +144,10 @@ Client will select their preferred options based on the guidance that you provid
 ## B3 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A. 
 * The PM should then collate the invoices, hours and work done into a single document that they submit with the rest of the documents.
-* Should inlcude documented performance against KPIs / Beats to demonstrate on track.
+* Should include documented performance against KPIs / Beats to demonstrate on track.
+* File name: [YEAR]-[TEAM]-[PART]-Invoice.file
+* Example for part b invoice in team 10: _25-10-B-Invoice.pdf_
+
 <hr>
 
 ## Part B Submission
