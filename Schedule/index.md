@@ -193,7 +193,7 @@ _April 7 2025 13:00 - 17:00_
 Location: Building 306 Auditorium 32
 
 _April 28 2025 13:00 - 17:00_
-* 13.00 - 14.00 External lecture (TBC)
+* <mark>13.00 - 14.00 **(Experience of interdisciplinary collaboration on real building projects at DTU)** Beth Wiberg - Design Lead - Christensen & Co</mark>
 * _14.00 - 14.30 Return to Building 116_
 * 14.30 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 * 15.00 - 17.00 Team time
