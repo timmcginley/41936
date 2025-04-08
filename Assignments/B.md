@@ -131,6 +131,9 @@ The purpose of the report is to document the decisions made by both you and the 
 
 The representation of choices to the client is not predefined in this task; it's up to you, just as it would be in a real project. PM will coordinate these efforts and present recommendations to the client.
 
+* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
+* Example for part b client report in team 10: _25-10-B-Client.pdf_
+
 ```{info}
 Client will select their preferred options based on the guidance that you provide.
 ```
