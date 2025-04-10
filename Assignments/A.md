@@ -7,7 +7,6 @@
 * You will then use the building model to fill out an excel sheet that provides the **benchmark building model (A3)**.
 * This stage also includes the definition of the **Design Management Strategy (DMS) (A4)** all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS.
 * Finally **Part A invoices (A6)** should be submitted:
-
 <hr>
 
 ## A1 Physical Building Model
