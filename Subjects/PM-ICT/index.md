@@ -140,7 +140,7 @@ Contents:
     * Cleaning of the building and site for 50 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
     * Supply (water, electricity, heat, cooling, gas)
     * Waste (‘solid waste’, sewage)
-Should not be included in the estimate:
+* Should not be included in the estimate:
     * Furniture
     * Cost of site
     * Building permit
