@@ -55,7 +55,7 @@ Part C report for Material should be organised with respect to the topics / elem
 * Emphasis should be on value creation of the criteria to the buildings design and end user experience.
 * LCA documentation including:
     * Goal and scope
-    * Life cycle inventory
+    * Life cycle inventory (eg. (foreground table))
     * Visual representation/overview over Life Cycle inventory in reference to the building design
     * Sensitivity analysis
     * Life cycle impact analysis
