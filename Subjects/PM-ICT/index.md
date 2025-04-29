@@ -49,7 +49,7 @@ Teams should make use of digital tools and create a BIM Building Information Mod
 
 ## Integration
 
-### PM/ICT -> Architecture
+### PM/ICT -> Architecture/Fire
 The integration between the ICT/PM and architecture group is really important. A symbiotic relationship between the two subjects can help improve the quality, communication and timely design decisions. Both subjects have shared role in space planning - Architecture with the visible and ICT/PM with the hidden spaces in the building.
 - Create the BIM Model template together with the Architect and share it for the entire team to use the same for all subject models
 - Continuously exchange BIM models
