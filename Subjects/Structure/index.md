@@ -143,8 +143,8 @@ horizontal modeshapes . Is the wind dynamic critical, and how can you then reduc
 * Concept design for structural integration of special structures (inclined
 columns, cantilever parts, atrium, auditorium, double height columns etc )).
 * Description of BIM model
-* Description of construction methods .
-* Initial Structural fire design of critical beam, colum and slab only for concrete
+* Description of construction methods
+* Initial Structural fire design of critical beam, column and slab only for concrete
 * Geotechnical concept description
 
 #### Optional work
