@@ -133,10 +133,10 @@ Contents:
     * Excavation
     * All materials related to the building
     * All services related to erecting the building
-    * Cost of design
+    * Cost of design. There’s been a bit of confusion about whether to include design costs in the total building cost. For this case, it’s optional — so you can decide whether to include them or leave them out.
     * Rent or lease of equipment used during construction
     * Overhead related to managing the erection of the building
-    * Maintenance for 50 years
+* Maintenance for 50 years should be calculated but should not be included in the allowed budget limit.
     * Cleaning of the building and site for 50 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
     * Supply (water, electricity, heat, cooling, gas)
     * Waste (‘solid waste’, sewage)
