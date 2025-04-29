@@ -80,15 +80,6 @@ The integration between the ICT/PM and architecture group is really important. A
 - Continuously exchange BIM models
 - Quantities
 
-### PM/ICT -> Fire Safety
-- Location and size of stair and lifts for firefighters
-- Spatial coordination of egress routes
-- Stimulate coordination with Architecture, Structural, and MEP
-- Stimulate sustainable considerations
-- Continuously exchange BIM models
-- Quantities for passive and active fire protection systems
-- Maintenance and operation costs for fire protections systems 
-
 ### PM/ICT -> Materials 
 - Assist “Materials” in quantity take-off
 - Continuously make access to Quantities/BIM models
@@ -163,8 +154,8 @@ The Part D reports are a development of the previous reports. This is true for a
 Contains the final:
 * Final cost estimates.
 * DGNB light score.
-* Explain how the building is used during operation.
-* Explain how access to key elements for operation and maintenance tasks elements.
+* Explain how the building is used during its operation—for example, how goods are delivered and how waste is removed.
+* Describe how access is provided to key elements required for operation and maintenance tasks, such as window cleaning or changing filters in the ventilation system.
 
 #### D Subject Report
 Document the general spatial coordination and detailed coordination on two different storeys.
