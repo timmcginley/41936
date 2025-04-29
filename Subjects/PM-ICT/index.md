@@ -175,7 +175,7 @@ As a general rule for all subjects: The entire building has to be design at info
 ```{hint}
 Check the subject pages to see what each consultant in your team is responsible and / or you have defined in the teams ICT contract.
 ```
-* [Architecture BIM](/Subjects/Architecture#d-bim)
+<!-- * [Architecture BIM](/Subjects/Architecture#d-bim) -->
 * [Structure BIM](/Subjects/Structure#d-bim)
 * [MEP BIM](/Subjects/MEP#d-bim)
 * [Geotech BIM](/Subjects/Geotech#d-bim)
