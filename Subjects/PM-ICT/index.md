@@ -154,11 +154,11 @@ The Part D reports are a development of the previous reports. This is true for a
 Contains the final:
 * Final cost estimates.
 * DGNB light score.
-* Explain how the building is used during its operation—for example, how goods are delivered and how waste is removed.
+* Explain how the building is used during its operation—for example, how waste is removed and how goods are delivered, including equipment brought into multipurpose spaces.
 * Describe how access is provided to key elements required for operation and maintenance tasks, such as window cleaning or changing filters in the ventilation system.
 
 #### D Subject Report
-Document the general spatial coordination and detailed coordination on two different storeys.
+* Document the general spatial coordination and detailed coordination on two different storeys.
 * Include the revised ICT contract.
 * Include reports from the ICT tool used to identify clashes and explain why they have not been solved.
 * Include the original and revised project schedules and explain any differences between them.
