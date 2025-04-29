@@ -144,13 +144,13 @@ Document how the interfaces between the subjects were coordinated (BCF can be us
 * Suggest improvements to BIM process in the Part D period.
 * Explain how the project will be managed in the Part D period.
 
-### C BIM
+#### C BIM
 The BIM Model must include spaces and should in general aim to be at Dikon LOD 300. Your responsibility is to coordinate the BIM models to benefit your building team. The submission at this stage may not be entirely clash-free or undergo full quality assurance, but it should represent progress towards quantity take-off for cost calculations. However, your ultimate goal should be to deliver a coordinated model by the end of the course. The BIM Model information must comply with the ICT Contract rules.
 
-## Part D
+### Part D
 The Part D reports are a development of the previous reports. This is true for all subjects.
 
-### D Client report
+#### D Client report
 Contains the final:
 * Final cost estimates.
 * DGNB light score.
