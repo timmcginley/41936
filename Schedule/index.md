@@ -205,12 +205,14 @@ _May 5 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
-## Week 13 - Submit Part C *
+## Week 13 - Final Consultant Session Part C *
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 12 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
+
+<mark>Check DTU Learn for the part C hand in date.</mark>
 
 <hr>
 
