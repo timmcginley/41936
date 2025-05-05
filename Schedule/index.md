@@ -218,11 +218,11 @@ _May 12 2025 13:00 - 17:00_
 
 ## 3Week 1 - Part D Introduction
 
-_June 04 2025 10.00_
+_June 04 2025 11.00_
 
 Location: Building 306 Auditorium 32
-* 10.00 - 10.00  Part D Introduction (Building 306 Auditorium 32)
-* _13.00 - 14.00 Walk from building 306 to 116_
+* 10.00 - 11.00  Part D Introduction (Building 306 Auditorium 32)
+* 11.00 - 11.30 Team time
 
 ## 3Week 2 - Final Sprint
 
