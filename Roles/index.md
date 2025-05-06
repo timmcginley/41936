@@ -13,7 +13,7 @@ These are the guides to help everyone involved in the course clarify their roles
 The most important role in the course :)
 Check out the [Student Advanced Building Design Guide](Student.md)
 
-## Teachers
+## Teachers (Cheif Consultants)
 Our Subject matter experts. Whilst the Mentors can advise and suggest solutions, ultimately the subject teacher is the one who decides on subject specific issues.
 Check out the [Teacher Advanced Building Design Guide](Teacher.md)
 
