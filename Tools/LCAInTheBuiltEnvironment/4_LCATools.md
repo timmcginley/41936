@@ -38,9 +38,7 @@ To get a clear overview of which elements contribute most to the climate impacts
 ![image](https://github.com/user-attachments/assets/2efcbf6e-594b-48fc-8298-524d56e85a6e)
 *Figur 4.6: The analyse and report section in LCAbyg displaying the hotspot groups in both graph and a table, helping to identify which elements have the biggest impact*
 
-This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see Workflows/LCAbyg.md
-
-[One Click LCA](https://oneclicklca.com/software/design-construction/lca-for-construction)
+This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see [LCAbyg Example](https://github.com/timmcginley/41936/blob/e8beaec052bd4bf33c9dd6b141ce6cbb9c323711/Workflows/LCAbyg.md)
 
 ## 4.2 Other LCA Tools Available
 For a broader understanding of the different LCA software options available, here’s a quick overview with brief descriptions of some of the most well-known LCA tools, highlighting their unique features, strengths, and areas of application to help guide the choice of software depending on project needs.
