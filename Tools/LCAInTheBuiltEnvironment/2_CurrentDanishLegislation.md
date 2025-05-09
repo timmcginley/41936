@@ -29,7 +29,7 @@ Material carbon footprint is calculated either using the generic data basis desc
 
 The BR18 generic data basis also describes a set of default values for technical installations within the building, which can be used as an alternative to save time, instead of calculating the carbon footprint of the specific materials and products used in the installation. The default values can be found in [BR18 Appendix 2, table 7 – Generic data basis](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef). The default values state a climate impact per m² of heated floor area plus heated basement area.
 
-The service life of products and materials are stated in BUILD REPORT 2021:32, which can be found [here](https://vbn.aau.dk/da/publications/build-levetidstabel-version-2021) (only available in Danish). If the service life of a product or materials is shorter than the consideration period of 50 years, it is assumed to be replaced within the consideration period and, therefore, the climate impact of the replacement must also be included in the BR18 LCA as part of module B4. Module B4 is effectively the sum of climate impact of modules A1-3, C3, and C4 from the replacement product. Figure 2.1 shows an example of how module B4 is calculated for a product with a service life of 20 years.
+The service life of products and materials are stated in [BUILD REPORT 2021:32](https://vbn.aau.dk/da/publications/build-levetidstabel-version-2021). If the service life of a product or materials is shorter than the consideration period of 50 years, it is assumed to be replaced within the consideration period and, therefore, the climate impact of the replacement must also be included in the BR18 LCA as part of module B4. Module B4 is effectively the sum of climate impact of modules A1-3, C3, and C4 from the replacement product. Figure 2.1 shows an example of how module B4 is calculated for a product with a service life of 20 years.
 
 ![image](https://github.com/user-attachments/assets/6b3f89c9-ee55-4f13-ba3e-0095c2f6b3fe)  
 *Figure 2.1: Illustration showing how climate impact from module B4 is calculated for a product with a service life of 20 years*
@@ -37,7 +37,7 @@ The service life of products and materials are stated in BUILD REPORT 2021:32, w
 As of January 1st, 2024, the climate impact of directly reused building materials is considered to be 0 throughout the entire consideration period in a BR18 LCA. This also means that replacement is also considered to have a climate impact of 0 in the BR18 LCA when using reused materials. Directly reused materials must be included in the BR18 LCA, so it is visible that the materials have been used, but the climate impact is calculated as 0.
 
 ## 2.2.3 Operational energy use
-The energy framework calculation’s result is needed to calculate the climate impact of the building’s operational energy use (module B6).  To calculate the climate impact of module B6 in a BR18 LCA, the energy requirements from the energy framework calculation without primary energy factors must be used. Emission factors for operational energy use are described in BR18 Appendix 2, table 8 – Emission factors for electricity, district heating and gas, which can be found [here](https://www.bygningsreglementet.dk/bilag/b2/bilag_2/tabel_8/#c93d7bfe-6c32-4182-b858-cf113ba2a371) (only available in Danish). 
+The energy framework calculation’s result is needed to calculate the climate impact of the building’s operational energy use (module B6).  To calculate the climate impact of module B6 in a BR18 LCA, the energy requirements from the energy framework calculation without primary energy factors must be used. Emission factors for operational energy use are described in [BR18 Appendix 2, table 8 – Emission factors for electricity, district heating and gas](https://www.bygningsreglementet.dk/bilag/b2/bilag_2/tabel_8/#c93d7bfe-6c32-4182-b858-cf113ba2a371). 
 
 ## 2.2.4 Special building conditions
 For some buildings, special conditions regarding the function of the building can lead to a significantly higher climate impact. For example, if the soil conditions are unfavorable, the foundations might need to be much bigger, leading to a higher climate impact than other buildings. In such cases the climate impact of the building is allowed to exceed the limit value by a certain amount. Please note that this only applies to the individual constructions affected by the special conditions. Keep in mind that only conditions important to the function of the building are granted this bonus, where conditions caused by aesthetic choices are not. It is recommended that any special conditions are clarified with the local municipality to ensure that the building is granted the expected allowable exceedance.
@@ -57,7 +57,7 @@ where
 
 ***a*** is the reference area of the LCA calculation (m²)
 
-The reference values used to calculate the allowable exceedance can be found in BR18 Appendix 2, table 9 – Reference values for the calculation of climate impact, which are not included in the calculation according to § 298, paragraph 1, which can be found here (only available in Danish). 
+The reference values used to calculate the allowable exceedance can be found in [BR18 Appendix 2, table 9 – Reference values for the calculation of climate impact](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_9#f00f6d89-6367-439e-baff-981c21725ab7), which are not included in the calculation according to § 298, paragraph 1, which can be found here (only available in Danish). 
 
 ### 2.2.4.2 Foundations
 To calculate the allowable exceedance for foundations (except for slab foundations), the following formula is used:
@@ -94,7 +94,7 @@ where
 
 ***i*** is the climate impact of the actual installations over the 50 year consideration period (kg CO₂e)
 
-***s*** is the reference default value for installations in “Other buildings” defined in BR18 Appendix 2, table 7 (kg CO₂e/m²/yr)
+***s*** is the reference default value for installations in “Other buildings” defined in [BR18 Appendix 2, table 7](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_9#f00f6d89-6367-439e-baff-981c21725ab7) (kg CO₂e/m²/yr)
 
 ***eopv*** is the sum of the total heated floor area and the heated basement area (m²)
 
