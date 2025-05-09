@@ -275,4 +275,59 @@ Once all variants have been modelled, you can then go to the ‘**Results**’ t
 In this example, we see that the gypsum partition wall with a wooden frame has the lowest climate impact of the three variants. It is, however, important to not only make decisions based on climate impact as there are plenty of other factors of significance to consider, e.g. acoustic performance or cost.
 
 ## LCAbyg tips
+This section covers a non-exhaustive list of helpful tips for modelling an LCA in LCAbyg.
 
+### Read descriptions
+A general recommendation when using LCAbyg is to read the descriptions of the constructions used in the LCA. This will help you understand how the construction is put together and why it is modelled in this way, which is especially helpful should you want to edit the generic constructions to fit your project.
+
+### Save frequently
+LCAbyg is not a perfectly optimized software and will sometimes run into issues. To avoid losing hours of work, it is always a good idea to frequently save the project by pressing the save icon at the top of the screen (see Figure 47).
+
+![billede](https://github.com/user-attachments/assets/d95a62de-29ef-4715-80cd-326e80d9fdc5)  
+*Figure 47: Save a project in LCAbyg*
+
+### Change language
+LCAbyg is available both in Danish and English. To change the language of the program, press the cog icon in the top right of the window and then choose ‘**Open settings**’ (see Figure 48). 
+
+![billede](https://github.com/user-attachments/assets/91440c28-2be1-4b9c-b834-38f2cfc18d5a)  
+*Figure 48: Open settings in LCAbyg*
+
+You can then choose a language from the drop-down menu (see Figure 49).
+
+![billede](https://github.com/user-attachments/assets/96888deb-2714-4ae5-9cdd-506014a30f7b)  
+*Figure 49: Choose language in LCAbyg*
+
+### Elevator
+There is no pre-made elevator construction in LCAbyg, which means you will have to model it yourself if elevators are included in your project. Elevators are modelled in a way that is unique compared to the other constructions in LCAbyg. To do this, add an element in ‘**Electrical installations**’ and choose the subgroup ‘**Transportation**’ (see Figure 50).
+
+![billede](https://github.com/user-attachments/assets/9b4bbf73-cb8b-41ef-8014-472cc0af4997)  
+*Figure 50: Add element for elevators*
+
+Within this element, create a new construction with the unit ‘**pcs.**’ (see Figure 51).
+
+![billede](https://github.com/user-attachments/assets/1c367b0f-37c5-494b-8f1f-a485ee085adb)  
+*Figure 51: Create construction for elevators*
+
+You will want to add the two products named ‘**Elevator basic component**’ (see Figure 52) to the construction.
+
+![billede](https://github.com/user-attachments/assets/adca2d15-6ee3-40cf-bf08-6143d8d12491)  
+*Figure 52: Add these products to the elevator construction*
+
+For the product labeled ‘**dependent of floor**’ you will need to enter the number of floors covered by the elevator as the amount and a service life of 25 years.
+
+For the product labeled ‘**independent of floor**’ you will need to enter the number elevators in the shaft (ie. 1) as the amount and a service life of 25 years.
+
+### Window EPDs
+According to *BUILD REPORT 2021:32* a window frame will typically have a service life of 50 or 60 years where the window glass has a service life of 25 years. A window EPD will usually state the climate impact of the entire window, which means that it is not possible to enter the glass and frame separately.
+
+Assuming that the glass can be replaced without destroying the frame, BR18 provides a way around this issue. Set the service life of the EPD to 50 years, and then in the same construction, add the generic data representing the window glass (see Figure 53).
+
+![billede](https://github.com/user-attachments/assets/79fd77c7-3f5c-4d66-9890-85f04c897419)  
+*Figure 53: A window construction in LCAbyg with an EPD*
+
+Set the service life of the glass to 25 years and then enter 25 years into the text box labeled ‘**Delayed start**’ (see Figure 54).
+
+![billede](https://github.com/user-attachments/assets/11a83248-a715-416f-abcd-d29e8dfe3d40)  
+*Figure 54: Delay start of window glass in LCAbyg*
+
+This way LCAbyg calculates an additional pane of window glass 25 years into the consideration period. This does, however, result in a minor discrepancy in the timeline of the climate impact, as the replacement will be included in modules A1-A3, C3, and C4 instead of module B4. This is an accepted uncertainty, as the total result is what matters.
