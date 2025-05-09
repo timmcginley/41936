@@ -1,4 +1,4 @@
-# Architect and Fire (ARCH)
+# 3 Architect and Fire (ARCH)
 Architects and Fire Engineers play a crucial role in shaping a building’s environmental footprint. The choices made by ARCH regarding geometry, materials, and fire safety solutions directly impact the building’s embodied carbon and energy demand.
 One of the most effective ways ARCH can improve an LCA through close collaboration with MAT to integrate low-emission materials into their design from the outset. Rather than designing the building first and selecting materials afterwards, consider working with MAT in material comparison to identify low-emission material options and make it a part of the design. Figure 3.1 and 3.2 shows a simple material comparison using generic environmental values for different floor types, with associated emissions pr. m2 flooring. The comparison reveals that wood and linoleum floors perform the best. Unless other project criteria or DGNB requirements specify otherwise, one of these options would be ideal for improving the LCA outcome.
 
