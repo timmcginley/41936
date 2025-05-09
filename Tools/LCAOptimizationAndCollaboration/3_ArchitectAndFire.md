@@ -3,10 +3,10 @@ Architects and Fire Engineers play a crucial role in shaping a building’s envi
 One of the most effective ways ARCH can improve an LCA through close collaboration with MAT to integrate low-emission materials into their design from the outset. Rather than designing the building first and selecting materials afterwards, consider working with MAT in material comparison to identify low-emission material options and make it a part of the design. Figure 3.1 and 3.2 shows a simple material comparison using generic environmental values for different floor types, with associated emissions pr. m2 flooring. The comparison reveals that wood and linoleum floors perform the best. Unless other project criteria or DGNB requirements specify otherwise, one of these options would be ideal for improving the LCA outcome.
 
 ![image](https://github.com/user-attachments/assets/f81a4db4-39e4-4c69-a084-07c86cd3a593)  
-*Figure 3.1: Variant study comparing the environmental impact of five different floor type pr.m2 flooring. Generic environmental values and default LCAByg constructions have been used.*
+*Figure 3.1 Variant study comparing the environmental impact of five different floor type pr.m2 flooring. Generic environmental values and default LCAByg constructions have been used.*
 
 ![image](https://github.com/user-attachments/assets/9f68a091-a67d-44f6-9668-00e9dc4bd9d7)  
-*Figure 3.2: Choosing wood or linoleum flooring instead of carpets or vinyl can significantly reduce emissions.*
+*Figure 3.2 Choosing wood or linoleum flooring instead of carpets or vinyl can significantly reduce emissions.*
 
 Another effective way to improve the LCA result is by collaborating with STR early in the concept and design process to identify solutions that minimize material usage and explore low-emission material options. For example, variant studies could be conducted to evaluate structural systems using CLT, low-emission concrete, or hybrid wood-concrete.
 
