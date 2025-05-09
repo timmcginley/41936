@@ -250,3 +250,29 @@ A ‘**Hotspot analysis**' provides an overview of the impact distribution in th
 The four buttons at the top of the window will provide documentation for the model inputs and results, each in a different format. ‘**Export report**’ and ‘**Export BR**’ are recommended for documentation, whereas '**Export Excel**’ is suitable for further analysis. ‘**Export json**’ provides the model in a json-file, which may be useful for advanced analysis.
 
 ## Simple variation study
+Variation studies provide helpful information when choosing the composition of various building elements. There are multiple different ways to do variation studies with LCAbyg depending on what is being analyzed. This section provides one example of how to model a simple variation study in LCAbyg.
+
+For this example, we will be comparing the climate impact of three different partition walls:
+  •	Aerated concrete with 125 mm thickness
+  •	2x gypsum on a 100 mm wooden frame
+  •	2x gypsum on a 100 mm steel frame
+
+First, create an empty project and set both the heated floor area and gross floor area to 1 m². Then go to the ‘**Building model**’ tab and create an element for each variant (see Figure 44).
+
+![billede](https://github.com/user-attachments/assets/40c10702-2ae3-407a-b433-246e03fe03ac)  
+*Figure 44: An element for each variant*
+
+In each element, model the required materials for 1 m² of partition wall. In this example, that means 1 m² of middle construction and 2 m² of wall surface (1 m² on each side of the wall) (see Figure 45). 
+
+![billede](https://github.com/user-attachments/assets/d82877cb-8458-4764-a486-2b541f718394)  
+*Figure 45: The three variants modelled in LCAbyg*
+
+Once all variants have been modelled, you can then go to the ‘**Results**’ tab and pull the numbers directly. Alternatively, go to the ‘**Analyse and report**’ tab, choose ‘**Hotspot analysis**’, and then pick ‘**Elements**’ from the ‘**Level**’ drop-down menu. You will then be presented with a bar chart showing the climate impact of each variant (see Figure 46).
+
+![billede](https://github.com/user-attachments/assets/e3f33a9f-7c9f-4e62-acdf-f821babdcfc3)  
+*Figure 46: The climate impact of the variants shown in a hotspot graph*
+
+In this example, we see that the gypsum partition wall with a wooden frame has the lowest climate impact of the three variants. It is, however, important to not only make decisions based on climate impact as there are plenty of other factors of significance to consider, e.g. acoustic performance or cost.
+
+## LCAbyg tips
+
