@@ -62,7 +62,8 @@ Figure 3.4 LCA calculation of a case using BR18 (2023) and BR18 (2025) emission 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d77d4aa1-e59e-40f7-8cb9-93465f7cce9a">
-</p> 
+</p>  
+
 *Figure 3.5 shows the cover of the 2021 paper published by the Danish Ministry of Interior and Housing. Liberty has been taken to adjust the title from “National strategy for sustainable construction” to “National strategy for more sustainable construction” to prevent unintentional greenwashing.*
 
 However, further tightening of these limit values before 2030 remains likely, as the current building industry practices still exceed planetary boundaries. Figure 3.6 illustrates the projected limit values up to 2030, highlighting that even these stricter limits surpass the Planetary Boundaries identified in Reduction Roadmap v2, with a 50% likelihood scenario.
