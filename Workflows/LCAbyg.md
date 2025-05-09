@@ -23,10 +23,12 @@ The ‘**Project**’ and ‘**Building**’ fields (see Figure 4) are only for 
 ![billede](https://github.com/user-attachments/assets/6ba09fb2-18e9-49e0-834c-ff61aa2c2558)  
 *Figure 4: The 'Project' and 'Building' fields in LCAbyg*
 
-Under ‘**Operational consumption and supply**’ you will want to fill in the key numbers from the energy framework calculation. Specifically, it requires the three highlighted results in Figure 5.
+**MANGLER ET STYKKE HER**
+
+Under ‘**Operational consumption and supply**’ you will want to fill in the key numbers from the energy framework calculation. Specifically, it requires the three highlighted results in Figure 6.
 
 ![billede](https://github.com/user-attachments/assets/d246bb07-732f-4f0c-b34c-0da8c6ba8f7f)  
-*Figure 5: Energy framework key numbers*
+*Figure 6: Energy framework key numbers*
 
 In the ’**Operational heat use**’ box, fill in the result for **‘Heat’ (1)**.
 In the ‘**Operational electricity use**’ box, fill in the result for **‘El. for operation of building’ (2)**.
@@ -34,6 +36,28 @@ If the result for **‘Solar cells’ (3)** exceeds 13.2 kWh/m² year, enter onl
 Choose the relevant energy supply from the two drop-down menus.
 
 ![billede](https://github.com/user-attachments/assets/f99950f4-5c2c-4e8f-bb02-76714bf97348)  
-*Figure 6: The 'Operational consumption and supply' field in LCAbyg*
+*Figure 7: The 'Operational consumption and supply' field in LCAbyg*
+
+## Building model
+The ‘**Building model**’ tab (see Figure 8) is where all the materials in the LCA will be modelled.
+
+![billede](https://github.com/user-attachments/assets/994614b9-f300-4c3f-97a4-0e935ec0ba37)  
+*Figure 8: The 'Building model' tab in LCAbyg*
+
+To start modelling the building elements, first right-click the element group that you wish to model, and then press ‘**Create and add element…**’ as shown in Figure 9.
+
+![billede](https://github.com/user-attachments/assets/162ec70d-101d-4374-854b-f86a4fccb2df)  
+*Figure 9: Create and add and element in LCAbyg*
+
+You will then be prompted to give your element a name and pick a subgroup (see Figure 10).
+
+![billede](https://github.com/user-attachments/assets/183a0711-02a3-4a0d-ac96-0d37e0899557)  
+*Figure 10: Naming an element*
+
+Repeat this process for each element of the building you are modelling. Your ‘**Elements**’ column may look something like Figure 11. Note that technical installations are missing. These will be modelled using default values, which are described in their own subsection.
+
+![billede](https://github.com/user-attachments/assets/659f21ce-b684-425e-add7-82732a3c9439)  
+*Figure 11: Filled out 'Elements' column*
+
 
 
