@@ -69,3 +69,14 @@ However, further tightening of these limit values before 2030 remains likely, as
 *Figure 3.6 Graph over projected limit values over time according to BR18 (2023), BR18 (2025) and Reduction Roadmap V2 with 50% likelihood that we will not see a temperature increase at the end of the century (e.g., 1.5°C or 2°C above pre-industrial levels).*
 
 To summarize, based on previous trends and the fact that we are yet to be within the planetary boundaries the Danish legislation beyond 2025 will likely get stricter criteria until we reach carbon neutrality in Denmark by 2050.
+
+## References
+- Social- og Boligstyrelsen lancerer strategi for et nyt og helhedsorienteret bygningsreglement. (2024, June 24th).https://www.sbst.dk/nyheder/2024/social-og-boligstyrelsen-lancerer-strategi-for-et-nyt-og-helhedsorienteret-bygningsreglement
+- Social- og Boligstyrelsen – Ny aftale stiller ambitiøse klimakrav til nyt byggeri. (2024, May 30th). https://www.sm.dk/nyheder/nyhedsarkiv/2024/maj/ny-aftale-stiller-ambitioese-klimakrav-til-nyt-byggeri 
+- European Council – Council of the European Union. Fit for 55. (2025, February 24th). https://www.consilium.europa.eu/en/policies/fit-for-55/#:~:text=The%20European%20climate%20law%20makes,EU%20climate%2Dneutral%20by%202050.
+- Videncenter om Bygningers Klimapåvirkning – Guide til grænseværdien for byggeprocessen i bygningsreglementets skærpede klimakrav fra 1. juli 2025. (2024, December). https://www.sbst.dk/Media/638731490173267243/VCBK_Guide_Byggeprocessen_fra_1._juli_2025-a[1].pdf
+- Aalborg Universitet - Ressourceforbrug på byggepladsen: Klimapåvirkning af bygningers udførelsesfase. (2025, November). https://vbn.aau.dk/da/publications/ressourceforbrug-p%C3%A5-byggepladsen-klimap%C3%A5virkning-af-bygningers-ud 
+- Aalborg Universitet – Klimapåvirkning fra nybyggeri: Analytisk grundlag til fastlæggelse af ny LCA baseret grænseværdi for bygningers klimapåvirkning fra 2025. (2025, November). https://vbn.aau.dk/da/publications/klimap%C3%A5virkning-fra-nybyggeri-analytisk-grundlag-til-fastl%C3%A6ggelse 
+- BR18 – Bilag 2: Tabel 8. (2020). https://www.bygningsreglementet.dk/bilag/b2/bilag_2/tabel_8/
+- Rambøll LCA Whitepaper – 2025 LCA requirements. (2024, November). 
+https://brandcentral.ramboll.com/share/yPsLnjPunevMUrNL5fA5?_gl=1*1jr2fxm*_gcl_au*MjAxNTE1NTk0Ni4xNzQyOTAyMTAw 
