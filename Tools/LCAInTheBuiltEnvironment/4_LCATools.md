@@ -67,7 +67,8 @@ For a broader understanding of the different LCA software options available, her
 ## 4.3 Summary
 
 Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA.
-![image](https://github.com/user-attachments/assets/6ebb96c8-9894-47ec-876e-cbfa51b727e1)
+![image](https://github.com/user-attachments/assets/b9d7b65d-037b-467c-b5cb-7d056d9a1915)
+
 
 ## References
 - BR18. (n.d.-f). https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef
