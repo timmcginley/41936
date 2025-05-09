@@ -1,4 +1,4 @@
-# Material (MAT)
+# 2 Material (MAT)
 The MAT team is responsible for performing all necessary LCA calculations and guiding the project in a more sustainable direction. This, in essence, means that the MAT team has two primary responsibilities being:
 
 1)	Ensuring that other subject teams understand the information required for LCA calculations.
