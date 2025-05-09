@@ -12,18 +12,15 @@ The upcoming changes include the introduction of stricter limit values for multi
 - Transportation of materials from factories to construction sites, and transportation of equipment to and from the sites.
 - Energy consumption on construction sites (electricity, heating, and fuel).
 - Management and the processing of construction waste. 
-- Removal and transportation of soil and waste. 
+- Removal and transportation of soil and waste.
 
-**INSERT Figur 3.1**
-
+![image](https://github.com/user-attachments/assets/79fc56a2-a851-46cf-8fdc-de946ff151bf)  
 *Figure 3.1 Median of emissions for A4 + A5 based on the Build Report 2023:14 for 52 projects.*
 
-Consequently, contractors and subcontractors will need to actively document energy and fuel consumption, as well as quantify waste generated during individual construction projects to adhere to the required limit value of 1,5 Kg CO2e / m2 / yr for A4 + A5. 
+Consequently, contractors and subcontractors will need to actively document energy and fuel consumption, as well as quantify waste generated during individual construction projects to adhere to the required limit value of 1,5 Kg CO2e / m2 / yr for A4 + A5.
 
-*Table 3.1 Overview of [upcoming CO2e limit value](https://www.sm.dk/nyheder/nyhedsarkiv/2024/maj/ny-aftale-stiller-ambitioese-klimakrav-til-nyt-byggeri) for new construction*
-
-**INSERT Table 3.1**
-
+*Table 3.1 Overview of [upcoming CO2e limit value](https://www.sm.dk/nyheder/nyhedsarkiv/2024/maj/ny-aftale-stiller-ambitioese-klimakrav-til-nyt-byggeri) for new construction*  
+![image](https://github.com/user-attachments/assets/361a92ac-c2bc-46b9-9d7a-27cb970bf0d4)  
 ***The limit value today (prior to July 1st, 2025) is set to 12 kgCO2e / m2 / yr for a building with a heated floor area over 1000 m2**
 
 Documentation of compliance with the requirements listed in Table 2 is mandatory upon project completion. Although Table 2 encompasses various building typologies, certain structures with specialized functions or specific requirements are exempt from adhering to these prescribed limits. The exemptions fall into the following two categories
