@@ -12,7 +12,7 @@ The life cycle carbon footprint calculation must be performed with a considerati
 
 *Table 2.1: Overview of life cycle modules according to EN15804. Modules colored blue are included in BR18 § 297 life cycle carbon footprint calculation.*
 
-TABEL HER
+![image](https://github.com/user-attachments/assets/455dcc85-ecc2-40e9-8698-aa944804e708)
 
 ## 2.2.2 The building model
 The carbon footprint of materials is calculated per m² of floor area with the following special modifications:
@@ -31,7 +31,7 @@ The BR18 generic data basis also describes a set of default values for technical
 
 The service life of products and materials are stated in BUILD REPORT 2021:32, which can be found [here](https://vbn.aau.dk/da/publications/build-levetidstabel-version-2021) (only available in Danish). If the service life of a product or materials is shorter than the consideration period of 50 years, it is assumed to be replaced within the consideration period and, therefore, the climate impact of the replacement must also be included in the BR18 LCA as part of module B4. Module B4 is effectively the sum of climate impact of modules A1-3, C3, and C4 from the replacement product. The figure shows an example of how module B4 is calculated for a product with a service life of 20 years.
 
-BILLEDE HER
+![image](https://github.com/user-attachments/assets/6b3f89c9-ee55-4f13-ba3e-0095c2f6b3fe)
 
 *Figure 2.1: Illustration showing how climate impact from module B4 is calculated for a product with a service life of 20 years*
 
@@ -46,7 +46,7 @@ For some buildings, special conditions regarding the function of the building ca
 ### 2.2.4.1 Constructions
 To calculate the allowable exceedance for most constructions, the following formula is used:
 
-LIGNING HER
+![image](https://github.com/user-attachments/assets/bf040906-375d-4c2a-a454-8dfb108fe51d)
 
 where
 
@@ -63,7 +63,7 @@ The reference values used to calculate the allowable exceedance can be found in 
 ### 2.2.4.2 Foundations
 To calculate the allowable exceedance for foundations (except for slab foundations), the following formula is used:
 
-LIGNING HER
+![image](https://github.com/user-attachments/assets/824c330e-3f69-4c44-8a9c-fa11445e1da5)
 
 where
 
@@ -76,7 +76,7 @@ where
 ### 2.2.4.3 Columns and beams
 To calculate the allowable exceedance for columns and beams, the following formula is used:
 
-LIGNING HER
+![image](https://github.com/user-attachments/assets/cf130e4d-7698-442b-ace2-947689d6c787)
 
 where
 
@@ -89,7 +89,7 @@ where
 ### 2.2.4.4 Technical installations
 To calculate the allowable exceedance for technical installations, the following formula is used:
 
-LIGNING HER
+![image](https://github.com/user-attachments/assets/700d5eb4-fc26-426c-9ca7-554896c3dd26)
 
 where
 
