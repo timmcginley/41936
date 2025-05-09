@@ -69,10 +69,15 @@ For a broader understanding of the different LCA software options available, her
 Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA  
 ![image](https://github.com/user-attachments/assets/6ebb96c8-9894-47ec-876e-cbfa51b727e1)
 
-## References:
-- 
-
-
+## References
+- BR18. (n.d.-f). https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef
+- #1 Global LCA construction software — reliable, secure & compliant. (n.d.). https://oneclicklca.com/software/design-construction/lca-for-construction
+- Real-Time LCA — Forstå, forbedr og dokumentér byggeriets klimaaftryk — spar tid, ressourcer og CO2e | Real-Time LCA. (n.d.). https://realtimelca.dk/da-dk/
+- General 4 — DesignLCA. (n.d.). DesignLCA. https://www.designlca.com/about
+- Husum, K. (2025, March 6 th). Oplev digitale værktøjer, der gør en forskel - Mød EG på BYGGERI ’25. EG a/S. https://eg.dk/it/kalkulation-og-opmaaling/eg-sigma/?utm_source=google&utm_medium=cpc&utm_term=&utm_campaign=&utm_adgroup=&gad_source=1&gclid=CjwKCAjwp8--BhBREiwAj7og1yTXrJ2t66DdRyWQtSdvmgUs57CMz450ebgSlcOMFkzBf4Rx57zBiRoCyZIQAvD_BwE
+- Why OpenLCA? | OpenLCA.org. (n.d.). https://www.openlca.org/why-openlca/
+- SimaPro Craft - LCA insights that drive positive change. (2025, February 24 th). SimaPro. https://simapro.com/craft/
+- Home. (n.d.). https://lcalive.dk/
 
 
 
