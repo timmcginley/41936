@@ -2,7 +2,9 @@
 
 Circular economy principles are becoming increasingly important in the building sector, especially with the growing pressure to reduce environmental impacts and resource consumption. When a building is assessed through LCA, circular strategies such as reuse, recycle, and rethink present both opportunities and challenges due to the limitations of current regulatory frameworks and available data.
 
-**Insert SHIT**
+<p align="center">
+  <img width="500" height="200" src="https://github.com/user-attachments/assets/d3928030-13bd-4427-8534-5e539ac57461">
+</p>
 
 **Reuse** of materials is an effective way to reduce the climate impact of a building. Danish LCA legislation encourages reuse by allowing directly reused materials to be calculated with a climate impact of 0 through the entire consideration period of the building. However, this presumes proper documentation and traceability, which can potentially be a barrier in practice.
 
