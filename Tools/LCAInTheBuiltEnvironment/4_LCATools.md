@@ -5,39 +5,38 @@ To conduct an LCA of a building, dedicated LCA tools are essential. This section
 LCAbyg is a free and widely used Danish LCA software designed by BUILD at Aalborg University to assess the environmental impact of buildings throughout the life cycle.  However, not all modules are included in the impact assessment.
 In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use phase), and C3 and C4 (end-of-life phase) are included when documenting a building’s climate impact. Additionally, A4 and A5 (construction process phase) will become mandatory under the new regulations, for details about the addition of the two modules, see 3 New Climate Legislation for more information. HYPERLINK TIL AFSNIT
 
-Table 4.1: Phases that are included in the BR18 LCA using LCAbyg for a building
-
-TABEL HER
+*Table 4.1: Phases that are included in the BR18 LCA using LCAbyg for a building*  
+![image](https://github.com/user-attachments/assets/fa90fd96-93ab-4717-96a3-6a6765605257)
 
 The software follows the European standard EN 15978 and is aligned with BR18 goals for climate impact limits. LCAbyg works by allowing users to model a building’s life cycle and calculate its environmental impact based on material choices, energy consumption and end-of-life scenarios.
 Users input building components, including material quantities and energy usage, either manually from drawings and energy calculations or by importing building data from Json- and csv-files. 
 The software then calculates the environmental impact using predefined datasets, including the generic data described in BR18 Appendix 2, table 7 – Generic data basis, which can be downloaded [here](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef) (only available in Danish), or data from specific EPDs. Multiple examples are already available in LCAbyg for inspiration, including a “Single-family house, example”. See Figure 4.1 on how to find the example.
 
-FIGURE HERE
-Figure 4.1: Examples of different types in the LCAbyg software
+![image](https://github.com/user-attachments/assets/40d704d5-08aa-4765-b615-0af4954a5ed3)  
+*Figure 4.1: Examples of different types in the LCAbyg software*
 
 Each project includes specific building data, such as gross floor area, heated floor area, operational energy use and supply, and other key information about the building. These are filled out in the “Building and operation” section shown at Figure 4.2.
 
-FIGUR HERE
-Figur 4.2: The building and operation section in LCAbyg with information from the single-family house example
+![image](https://github.com/user-attachments/assets/fa3808ed-1b24-42de-824c-71c140b4a4c1)  
+*Figur 4.2: The building and operation section in LCAbyg with information from the single-family house example*
 
 Each building element (e.g. Roof) consists of one or more constructions, which are made up of specific products (e.g. Roof tiles). These products include data from all relevant life cycle stages required for the BR18 LCA either by the Generic Data Basis, or data from specific EPDs. The construction quantities are based on values extracted directly from the building model and are used as input for the constructions. See Figure 4.3 and Figure 4.4 for an example.
 
-FIGURE HERE
-Figure 4.3: The building model section in LCAbyg marking the quantity input of roof tiles
+![image](https://github.com/user-attachments/assets/5c15f0da-ebd1-4a82-b546-52c309295715)  
+*Figure 4.3: The building model section in LCAbyg marking the quantity input of roof tiles*
 
-FIGURE HERE
-Figur 4.4: An example of data input for the roof tiles (A1-A3)
+![image](https://github.com/user-attachments/assets/0278f063-9f63-467c-b920-148865ac17f0)  
+*Figur 4.4: An example of data input for the roof tiles (A1-A3)*
 
 With the element inputs, the results are presented in detailed reports, showing impact such as carbon footprint and resource use over the building’s lifetime. See Figure 4.5 for a cut-out of the example results.
 
-FIGURE HERE
-Figur 4.5: The results section in LCAbyg displaying the GWP for each input, the total climate impact and compliance with BR18
+![image](https://github.com/user-attachments/assets/dd365217-22e8-4612-8be4-51b1b5020a79)
+*Figur 4.5: The results section in LCAbyg displaying the GWP for each input, the total climate impact and compliance with BR18*
 
 To get a clear overview of which elements contribute most to the climate impacts, the “Analysis and Report” section can be used for a hotspot analysis, providing both a table and a graph that show the impact of each element. See Figure 4.6 for a hotspot analysis example.
 
-FIGURE HERE
-Figur 4.6: The analyse and report section in LCAbyg displaying the hotspot groups in both graph and a table, helping to identify which elements have the biggest impact
+![image](https://github.com/user-attachments/assets/2efcbf6e-594b-48fc-8298-524d56e85a6e)
+*Figur 4.6: The analyse and report section in LCAbyg displaying the hotspot groups in both graph and a table, helping to identify which elements have the biggest impact*
 
 This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see (LINK TIL EKSEMPEL)
 
