@@ -100,7 +100,7 @@ where
 
 ***a*** is the reference area of the LCA calculation (m²)
 
-Sources:
+## References
 
 - National strategi for bæredygtigt byggeri. (n.d.). https://www.sbst.dk/byggeri/baeredygtigt-byggeri/national-strategi-for-baeredygtigt-byggeri
 
