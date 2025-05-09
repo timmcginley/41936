@@ -1,4 +1,11 @@
 # LCA Optimzation and Collaboration
+```{toctree}
+:hidden:
+:glob:
+*
+*/index
+```
+
 This page is part of the teaching material for the DTU course 41936: Advanced Building Design. It emphasizes the essential role of interdisciplinary collaboration and project optimization in reducing the environmental impact of building projects.
 Specifically, the page examines how each major discipline on a project team contributes to a more sustainable project design from the earliest conceptual phase (Phase A) through to the final tender design stage (Phase D). The disciplines considered include:
 
