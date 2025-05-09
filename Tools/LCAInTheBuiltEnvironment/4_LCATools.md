@@ -3,7 +3,7 @@ To conduct an LCA of a building, dedicated LCA tools are essential. This section
 
 ## 4.1 Introduction to LCAbyg
 LCAbyg is a free and widely used Danish LCA software designed by BUILD at Aalborg University to assess the environmental impact of buildings throughout the life cycle.  However, not all modules are included in the impact assessment.
-In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use phase), and C3 and C4 (end-of-life phase) are included when documenting a building’s climate impact. Additionally, A4 and A5 (construction process phase) will become mandatory under the new regulations, for details about the addition of the two modules, see 3 New Climate Legislation for more information. HYPERLINK TIL AFSNIT
+In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use phase), and C3 and C4 (end-of-life phase) are included when documenting a building’s climate impact. Additionally, A4 and A5 (construction process phase) will become mandatory under the new regulations, for details about the addition of the two modules, see 3 New Climate Legislation for more information. [3 New Climate Legislation](https://github.com/timmcginley/41936/blob/151ce26091e0ac09e660d38e0d5b9daede1c892e/Tools/LCAInTheBuiltEnvironment/3_NewClimateLegislation.md)
 
 *Table 4.1: Phases that are included in the BR18 LCA using LCAbyg for a building*  
 ![image](https://github.com/user-attachments/assets/fa90fd96-93ab-4717-96a3-6a6765605257)
