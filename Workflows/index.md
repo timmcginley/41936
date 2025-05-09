@@ -14,6 +14,7 @@ This document offers comprehensive guides and walkthroughs on effectively collab
 * [SimaPro](SimaPro.md)
 * [IDA ICE](IDAICE.md)
 * [IFC 4x3 Export](IFC4X3Export.md)
+* [LCAbyg](LCAbyg.md)
 
 
 
