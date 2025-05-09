@@ -1,5 +1,5 @@
 # LCAbyg
-The following guide aims to provide a comprehensive example of how to model an LCA calculation in LCAbyg. For this specific example LCAbyg 2023.2 (5.4.0.5) has been used. The focus of the calculation example is to serve as a guide through the steps to modelling and interpreting a building LCA. LCAbyg has its own guide which provides detailed descriptions of the software’s functions, which can be downloaded from [here](https://www.lcabyg.dk/en/usermanual/user-manual-lcabyg/).
+The following guide aims to provide a comprehensive example of how to model an LCA calculation in LCAbyg. For this specific example LCAbyg 2023.3 (5.4.0.5) has been used. The focus of the calculation example is to serve as a guide through the steps to modelling and interpreting a building LCA. LCAbyg has its own guide which provides detailed descriptions of the software’s functions, which can be downloaded from [here](https://www.lcabyg.dk/en/usermanual/user-manual-lcabyg/).
 
 Please note that there is more than one way to model a building LCA, and this guide only serves as a suggested method. What matters most is that the LCA is modelled in a way that is transparent and that the result is correct.
 
@@ -124,7 +124,7 @@ In this case it is 0.25 m³ of XPS per m² of wall and 1 m² concrete wall eleme
 ![billede](https://github.com/user-attachments/assets/0aa34d47-0fcc-43cf-8720-538ce3670942)  
 *Figure 24: Product information in LCAbyg*
 
-## Default values for installations
+### Default values for installations
 To model the technical installations using default values, first right-click the relevant element group and then press ‘**Create and add element…**’ as shown in Figure 25. Do this for the element groups ‘**Drainage**’, ‘**Ventilation and cooling**’, and ‘**Water systems**’.
 
 ![billede](https://github.com/user-attachments/assets/9314f0da-fa21-4021-bfd1-cbd4ec98c64d)  
@@ -150,5 +150,62 @@ When entering the quantities for each default value, the amount should be equal 
 ![billede](https://github.com/user-attachments/assets/53864ee6-c028-40d1-9cef-4316be471e4c)  
 *Figure 29: Enter area for default value*
 
-## EPDs
+### EPDs
+To use an EPD in your project, first identify the construction where you want to use the EPD. For this example, we will be applying an EPD for concrete in the ground slab. The specific EPD used in the example is for [UNI-GREEN C25/30 concrete](https://www.epd-norge.no/epder/byggevarer/ferdig-betong/uni-green-beton-c25-30-lava-concrete-in-passive-environmental-exposure-class).
+
+Right-click the construction and choose ‘**Create and add product…**’ (see Figure 30). If it is a generic LCAbyg construction, you will have to create a copy of it first. Make sure to also remove the product that is being replaced.
+
+![billede](https://github.com/user-attachments/assets/a884321e-d0a7-4a61-8bda-d4f66403c248)  
+*Figure 30: Create and add a new product*
+
+Right-click on the newly created product and press ‘**Create and add stage…**’ (see Figure 31).
+
+![billede](https://github.com/user-attachments/assets/eb3db0d0-4038-4bc5-9a83-b5863a3ea970)  
+*Figure 31: Add new stage to a product*
+
+Give the stage a name and choose the appropriate primary, secondary, and tertiary category. The EPD used in this example is a product specific EPD, and we will begin by modelling the A1-A3 stage (see Figure 32).
+
+![billede](https://github.com/user-attachments/assets/dbfc0e21-ccf5-45ea-81ce-be4931e78b6f)  
+*Figure 32: Fill in category of the product*
+
+‘**Stage unit**’ is the unit you will use to quantify the amount of product. This will usually be the same as the ‘**Indicator unit**’, which should be equivalent to the declared unit in the EPD. The declared unit is usually found on one of the first pages of an EPD. 
+
+‘**Standard**’ refers to the standard used to develop the EPD, which will either be *EN15804+A1* or *EN15804+A2*. This information is usually found on one of the first pages of an EPD. 
+
+‘**Indicator factor**’ should almost always be 1, except if the declared unit is different from the indicator unit. For example, if the indicator unit is kg and the declared unit is 1 metric ton, then ‘**Indicator factor**’ should be 1000 as there are 1000 kg per metric ton.
+
+Some EPDs cover multiple products of the same category and provide scaling factors to apply to the impacts to represent the various products’ impact. In this case, the EPD only covers one product, thus ‘**Scaling factor**’ should be 1.
+
+‘**Mass factor**’ refers to the weight per indicator unit. This is typically found on one of the earlier pages of an EPD.
+
+If stage unit and indicator unit are the same, then ‘**Unit factor**’ should be 1. Otherwise, it should be the number of indicator unit per stage unit.
+
+‘**Expiration date**’ refers to the final day the EPD is considered valid. This is typically stated on the front page of an EPD. Enter it in the format ‘yyyy-mm-dd’.
+
+![billede](https://github.com/user-attachments/assets/3e7642a8-db2c-45ef-ba0e-77cfbfc6b679)  
+*Figure 33: Enter information from EPD*
+
+Next enter the external information (see Figure 34). This is necessary for documentation but does not affect the results. In this example, the EPD is from EPD Norway so that is entered in ‘**External source**’.
+
+‘**External id**’ refers to declaration/registration number used for the EPD by the program operator, which is usually declared on the front page of an EPD.
+
+‘**External version**’ is only relevant in case the EPD has been revised/updated, which will also be stated on the front page if it has.
+
+In ‘**External URL**’ enter the URL to where the EPD can be downloaded from.
+
+![billede](https://github.com/user-attachments/assets/b676635c-5b47-4eee-841b-dfb97e7fbcd7)  
+*Figure 34: External EPD information in LCAbyg*
+
+Then enter the GWP of the stage (see Figure 35). This can be found in the results of the EPD. Specifically, look for the indicator named GWP-total. If the EPD adheres to the *EN15804+A1* standard, you will need to also enter a bunch of other indicators.
+
+![billede](https://github.com/user-attachments/assets/df47a5c1-a9d7-440c-8e3a-7eea4099cf78)  
+*Figure 35: GWP value from EPD*
+
+Once this is done, press ‘**Create**’. Repeat this process for stages C3, C4, and D. The EPD will then be modelled in the project, and it will be available from the list of products in LCAbyg, should you need it somewhere else. Then, like when adding any other product, enter quantity and service life of the product.
+
+### Reuse
+To label a product as reused, such that its impact is calculated as 0, simply change the service life of the product to 0 years (see Figure 36).
+
+![billede](https://github.com/user-attachments/assets/6ba474f1-7858-4df6-98b0-e9b5480e2d6a)  
+*Figure 36: Mark product as reuse*
 
