@@ -1,4 +1,4 @@
-# LCA Tools
+# 4 LCA Tools
 To conduct an LCA of a building, dedicated LCA tools are essential. This section provides a brief introduction to various LCA tools used in the building industry, with a particular focus on LCAbyg – one of the most applied tools in Denmark.
 
 ## 4.1 Introduction to LCAbyg
