@@ -209,3 +209,44 @@ To label a product as reused, such that its impact is calculated as 0, simply ch
 ![billede](https://github.com/user-attachments/assets/6ba474f1-7858-4df6-98b0-e9b5480e2d6a)  
 *Figure 36: Mark product as reuse*
 
+### Special building conditions
+To add a special condition to your model, go to the ‘**Building and operation**’ tab, scroll down to the section labeled ‘**Special building conditions**’, and press ‘**Add / edit special conditions**’ (see Figure 37).
+
+![billede](https://github.com/user-attachments/assets/db45716a-558d-4337-a15a-adbe9d6b85f0)  
+*Figure 37: The 'Special conditions' field in LCAbyg*
+
+Then choose the relevant group and subgroup from the drop-down menu and fill in the quantity affected by the special condition (see Figure 38). In the ‘**Documentation**’ box, fill in the reason for the special condition. In this example, the soil conditions are bad, which means that a stronger ground slab is required to compensate. Once everything is filled in, press ‘**Add condition**’. If you wish to edit or update an existing special condition, the process is the same.
+
+![billede](https://github.com/user-attachments/assets/1f9c62e8-9100-4c56-a73b-5e8ced85eaa2)  
+*Figure 38: Fill out special condition*
+
+Next, go to the ‘**Building model**’ tab and find the construction(s) affected by the special building condition. Select the relevant construction(s) and tick the box labeled ‘**Special condition**’ (see Figure 39).
+
+![billede](https://github.com/user-attachments/assets/d4258adf-34e7-46ab-b81d-6dd76c3e4623)  
+*Figure 39: Enable the special condition*
+
+If a special condition applies to the foundation system, except for slab foundations, the quantity is automatically filled out as the reference area of the LCA. You also will not have to tick a ‘*Special condition*’ box.
+
+## Results
+The ‘**Results**’ tab provides a list of all the materials in the model (see Figure 40). By choosing a different option from the drop-down menu at the top, it can also list the impact of every material in project or provide key numbers for the building regulation (pictured in Figure 41).
+
+![billede](https://github.com/user-attachments/assets/61a17e42-d94d-48a6-88e8-62f5fa17194d)  
+*Figure 40: The 'Results' tab in LCAbyg*
+
+![billede](https://github.com/user-attachments/assets/1c3716c3-8c20-40db-b4ce-a3553d87b645)  
+*Figure 41: Key numbers for BR18*
+
+## Analyse and report
+The ‘**Analyse and report**' tab provides different graph options to analyze the impact distribution in the project (see Figure 42). This section will only show the ‘**Hotspot analysis**' option, but experimentation with the different graphs is encouraged.
+
+![billede](https://github.com/user-attachments/assets/2f9b64a8-9fab-49ea-b86e-26303accfb26)
+*Figure 42: The 'Analyse and report' tab in LCAbyg*
+
+A ‘**Hotspot analysis**' provides an overview of the impact distribution in the project (see Figure 43). This is especially useful when trying to identify possibilities for reducing impact, as the highest impact groups are typically also those with the largest reduction potential. You can also change the hotspot graph to show the impact distribution per element, construction etc. by choosing a different option from the ‘**Level**’ drop-down menu.
+
+![billede](https://github.com/user-attachments/assets/a4320d3c-c4bf-4427-85cc-884c7cb0e22a)  
+*Figure 43: A hotspot graph from LCAbyg*
+
+The four buttons at the top of the window will provide documentation for the model inputs and results, each in a different format. ‘**Export report**’ and ‘**Export BR**’ are recommended for documentation, whereas '**Export Excel**’ is suitable for further analysis. ‘**Export json**’ provides the model in a json-file, which may be useful for advanced analysis.
+
+## Simple variation study
