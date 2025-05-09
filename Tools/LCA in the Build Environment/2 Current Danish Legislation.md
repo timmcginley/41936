@@ -31,8 +31,7 @@ The BR18 generic data basis also describes a set of default values for technical
 
 The service life of products and materials are stated in BUILD REPORT 2021:32, which can be found [here](https://vbn.aau.dk/da/publications/build-levetidstabel-version-2021) (only available in Danish). If the service life of a product or materials is shorter than the consideration period of 50 years, it is assumed to be replaced within the consideration period and, therefore, the climate impact of the replacement must also be included in the BR18 LCA as part of module B4. Module B4 is effectively the sum of climate impact of modules A1-3, C3, and C4 from the replacement product. The figure shows an example of how module B4 is calculated for a product with a service life of 20 years.
 
-![image](https://github.com/user-attachments/assets/6b3f89c9-ee55-4f13-ba3e-0095c2f6b3fe)
-  *Figure 2.1: Illustration showing how climate impact from module B4 is calculated for a product with a service life of 20 years*
+![image](https://github.com/user-attachments/assets/6b3f89c9-ee55-4f13-ba3e-0095c2f6b3fe)  *Figure 2.1: Illustration showing how climate impact from module B4 is calculated for a product with a service life of 20 years*
 
 As of January 1st, 2024, the climate impact of directly reused building materials is considered to be 0 throughout the entire consideration period in a BR18 LCA. This also means that replacement is also considered to have a climate impact of 0 in the BR18 LCA when using reused materials. Directly reused materials must be included in the BR18 LCA, so it is visible that the materials have been used, but the climate impact is calculated as 0.
 
