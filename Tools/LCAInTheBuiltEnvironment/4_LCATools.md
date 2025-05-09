@@ -10,7 +10,7 @@ In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use pha
 
 The software follows the European standard EN 15978 and is aligned with BR18 goals for climate impact limits. LCAbyg works by allowing users to model a building’s life cycle and calculate its environmental impact based on material choices, energy consumption and end-of-life scenarios.
 Users input building components, including material quantities and energy usage, either manually from drawings and energy calculations or by importing building data from Json- and csv-files. 
-The software then calculates the environmental impact using predefined datasets, including the generic data described in BR18 Appendix 2, table 7 – Generic data basis, which can be downloaded [here](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef) (only available in Danish), or data from specific EPDs. Multiple examples are already available in LCAbyg for inspiration, including a “Single-family house, example”. See Figure 4.1 on how to find the example.
+The software then calculates the environmental impact using predefined datasets, including the generic data described in [BR18 Appendix 2, table 7 – Generic data basis](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef), or data from specific EPDs. Multiple examples are already available in LCAbyg for inspiration, including a “Single-family house, example”. See Figure 4.1 on how to find the example.
 
 ![image](https://github.com/user-attachments/assets/40d704d5-08aa-4765-b615-0af4954a5ed3)  
 *Figure 4.1: Examples of different types in the LCAbyg software*
@@ -38,7 +38,7 @@ To get a clear overview of which elements contribute most to the climate impacts
 ![image](https://github.com/user-attachments/assets/2efcbf6e-594b-48fc-8298-524d56e85a6e)
 *Figur 4.6: The analyse and report section in LCAbyg displaying the hotspot groups in both graph and a table, helping to identify which elements have the biggest impact*
 
-This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see [LCAbyg Example](https://github.com/timmcginley/41936/blob/e8beaec052bd4bf33c9dd6b141ce6cbb9c323711/Workflows/LCAbyg.md)
+This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see [LCAbyg Example](https://github.com/timmcginley/41936/blob/e8beaec052bd4bf33c9dd6b141ce6cbb9c323711/Workflows/LCAbyg.md).
 
 ### 4.2 Other LCA Tools Available
 For a broader understanding of the different LCA software options available, here’s a quick overview with brief descriptions of some of the most well-known LCA tools, highlighting their unique features, strengths, and areas of application to help guide the choice of software depending on project needs.
@@ -66,7 +66,7 @@ For a broader understanding of the different LCA software options available, her
 
 ## 4.3 Summary
 
-Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA  
+Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA.
 ![image](https://github.com/user-attachments/assets/6ebb96c8-9894-47ec-876e-cbfa51b727e1)
 
 ## References
