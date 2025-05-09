@@ -1,3 +1,4 @@
+(Outdated as of 2025)
 # LCA for Renovated Buildings
 This page provides a practical summary for a DGNB Compliant LCA Calculation for renovated buildings. LCA is a collaborative tool that helps teams understand trade-offs across disciplines. By modeling environmental impacts early, you can use LCA to inform your team's design decisions, justify material selections, and challenge assumptions about sustainability. Discussing LCA results across teams (e.g., architecture, engineering, sustainability) encourages shared priorities and supports transparent decision-making. It’s especially useful when evaluating renovation strategies where teams must balance heritage, performance, and embodied carbon. Encourage your group to use LCA results as a conversation starter, not just a final number.
 
