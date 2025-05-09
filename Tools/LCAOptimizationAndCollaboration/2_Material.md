@@ -15,3 +15,7 @@ The importance and effort required in collaboration with MEP may vary depending 
 
 It is important for MAT to frequently update PM on the climate impact of the project as well as providing knowledge about causes of concern regarding LCA calculations. This allows PM to keep an eye on decisions made by other subjects that might increase climate impact and either prevent them or let the relevant subject team know to discuss with MAT first.
 
+
+## References
+- BR18. (n.d.). https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_6#e53ebfa8-1dea-4737-aa53-69c8a848b30c
+
