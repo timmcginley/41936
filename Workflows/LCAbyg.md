@@ -134,3 +134,21 @@ For each group of technical installations, choose the subgroup highlighted in Fi
 
 ![billede](https://github.com/user-attachments/assets/0a256605-f6d7-438d-9a9c-42bb66bf5df4)  
 *Figure 26: Subgroups for each default value*
+
+For each of the three elements, you will want to add a construction (see Figure 27).
+
+![billede](https://github.com/user-attachments/assets/2fc89de3-44a6-4050-9ea4-a2bdb22891b4)  
+*Figure 27: Add construction in LCAbyg*
+
+From the list, choose the default value that matches your building type and then add it to the element by pressing the checkmark (see Figure 28).
+
+![billede](https://github.com/user-attachments/assets/5bc280a7-f089-4333-9cca-7b400ea2f980)  
+*Figure 28: Default values in the LCAbyg construction library*
+
+When entering the quantities for each default value, the amount should be equal to sum of the heated floor area and the heated basement area. For reference, these are the same floor areas used in the energy framework calculation, but counting the full heated basement area as opposed to 50% like in the energy framework.
+
+![billede](https://github.com/user-attachments/assets/53864ee6-c028-40d1-9cef-4316be471e4c)  
+*Figure 29: Enter area for default value*
+
+## EPDs
+
