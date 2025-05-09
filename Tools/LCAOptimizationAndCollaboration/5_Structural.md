@@ -5,13 +5,13 @@ The climate impact of the structural system should be a constant consideration f
 
 Table 5.1, Table 5.2 and Table 5.3 describe the information needed to model beams, columns, in-situ and pre-cast elements. What’s important is that the total quantities are recorded, with beams and columns measured in meters and walls and slabs in square meters. Naturally, all the required information will not be available for LCA calculations in the early design stages, in which case educated assumptions are fine.
 
-*Table 5.1: Overview of necessary information to model beams and columns in an LCA (suggestion).*  
+*Table 5.1 Overview of necessary information to model beams and columns in an LCA (suggestion).*  
 ![image](https://github.com/user-attachments/assets/32da5994-4f5c-4ef7-8314-2047a726df3a)
 
-*Table 5.2: Overview of necessary information to model Wall elements and hollow core slabs in an LCA (suggestion). Generic datasets and EPDs typically express quantities pr m or m2 of each element.*    
+*Table 5.2 Overview of necessary information to model Wall elements and hollow core slabs in an LCA (suggestion). Generic datasets and EPDs typically express quantities pr m or m2 of each element.*    
 ![image](https://github.com/user-attachments/assets/2e172643-33e8-49d0-8b92-a7d1c2e648a4)
 
-*Table 5.3: Overview of necessary information to model Cast-in-place walls and slabs in an LCA (suggestion).*  
+*Table 5.3 Overview of necessary information to model Cast-in-place walls and slabs in an LCA (suggestion).*  
 ![image](https://github.com/user-attachments/assets/2a9d470f-e9d4-4297-b089-aabecd108a9d)
 
 
