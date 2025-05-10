@@ -5,7 +5,7 @@ A successful project is not merely the sum of each discipline’s individual con
 <b>“Painting over the cracks won’t strengthen the wall"</b>
 </p>
 
-No amount of late-stage refinement can correct a fundamentally flawed design. Therefore, strong collaboration and early consideration of LCA are essential to achieve a more sustainable outcome. Figure 1 depicts the Influence Curve, illustrating the relationship between one's ability to influence a project's success and the cost of making changes. As the project progresses, the ability to implement changes decreases, while the cost of it increases.
+No amount of late-stage refinement can correct a fundamentally flawed design. Therefore, strong collaboration and early consideration of LCA are essential to achieve a more sustainable outcome. Figure 1.1 depicts the Influence Curve, illustrating the relationship between one's ability to influence a project's success and the cost of making changes. As the project progresses, the ability to implement changes decreases, while the cost of it increases.
 
 ![image](https://github.com/user-attachments/assets/c3960d61-ffdb-49a5-956f-c11ab7b64c68)  
 *Figure 1.1 The Influence Curve. Illustration from [Celoxis - A Quick Introduction to Project Planning](https://www.celoxis.com/project-management/chapter/project-planning).*
