@@ -57,7 +57,7 @@ where
 
 ***a*** is the reference area of the LCA calculation (m²)
 
-The reference values used to calculate the allowable exceedance can be found in [BR18 Appendix 2, table 9 – Reference values for the calculation of climate impact](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_9#f00f6d89-6367-439e-baff-981c21725ab7), which are not included in the calculation according to § 298, paragraph 1, which can be found here (only available in Danish). 
+The reference values used to calculate the allowable exceedance can be found in [BR18 Appendix 2, table 9 – Reference values for the calculation of climate impact](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_9#f00f6d89-6367-439e-baff-981c21725ab7) (only available in Danish). 
 
 ### 2.2.4.2 Foundations
 To calculate the allowable exceedance for foundations (except for slab foundations), the following formula is used:
@@ -96,7 +96,7 @@ where
 
 ***s*** is the reference default value for installations in “Other buildings” defined in [BR18 Appendix 2, table 7](https://www.bygningsreglementet.dk/Bilag/B2/Bilag_2/Tabel_9#f00f6d89-6367-439e-baff-981c21725ab7) (kg CO₂e/m²/yr)
 
-***eopv*** is the sum of the total heated floor area and the heated basement area (m²)
+***e<sub>opv</sub>*** is the sum of the total heated floor area and the heated basement area (m²)
 
 ***a*** is the reference area of the LCA calculation (m²)
 
