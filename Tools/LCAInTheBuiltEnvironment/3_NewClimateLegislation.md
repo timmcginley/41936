@@ -4,9 +4,9 @@ To accelerate the [green transition](https://www.sbst.dk/nyheder/2024/social-og-
 
 ## 3.1 New revision to BR18 in 2025
 
-Taking effect on July 1st, 2025, the Danish Building Regulations will introduce revised requirements under §§ 297–298, applicable to all new buildings and extensions for which building permits are sought from this date and onward. Building permits granted prior to July 1st will continue to comply with the current Danish legislation as outlined in **2 Current Danish Legislation**.
+Taking effect on July 1st, 2025, the Danish Building Regulations will introduce revised requirements under §§ 297–298, applicable to all new buildings and extensions for which building permits are sought from this date and onward. Building permits granted prior to July 1st will continue to comply with the current Danish legislation as outlined in [**2 Current Danish Legislation**](2_CurrentDanishLegislation.md).
 
-The upcoming changes include the introduction of stricter limit values for multiple building typologies, each defined according to the specific construction type. Additionally, a new requirement has been established addressing the environmental impacts specifically related to the construction phase itself. [Life cycle modules A4 and A5](https://www.sbst.dk/Media/638731490173267243/VCBK_Guide_Byggeprocessen_fra_1._juli_2025-a%5b1%5d.pdf) are now included in the building LCA with its own separate required limit value. Compliance with both the building-specific limit value and the construction-phase limit value will be required. Figure 3.1 illustrates the median of emissions for A4 + A5, based on data from 52 projects in the [Build Report 2023:14](https://vbn.aau.dk/da/publications/ressourceforbrug-p%C3%A5-byggepladsen-klimap%C3%A5virkning-af-bygningers-ud), showing how the emissions can be distributed for an average project. The limit value of 1,5 Kg CO2e / m2 / yr is also derived from this median.
+The upcoming changes include the introduction of stricter limit values for multiple building typologies, each defined according to the specific construction type. Additionally, a new requirement has been established addressing the environmental impacts specifically related to the construction phase itself. [Life cycle modules A4 and A5](https://www.sbst.dk/Media/638731490173267243/VCBK_Guide_Byggeprocessen_fra_1._juli_2025-a%5b1%5d.pdf) are now included in the building LCA with its own separate required limit value. Compliance with both the building-specific limit value and the construction-phase limit value will be required. Figure 3.1 illustrates the median of emissions for A4 + A5, based on data from 52 projects in the [Build Report 2023:14](https://vbn.aau.dk/da/publications/ressourceforbrug-p%C3%A5-byggepladsen-klimap%C3%A5virkning-af-bygningers-ud), showing how the emissions can be distributed for an average project. The limit value of 1.5 kg CO₂e / m² / yr is also derived from this median.
 
  Modules A4 and A5 cover the following activities: 
 - Transportation of materials from factories to construction sites, and transportation of equipment to and from the sites.
@@ -17,11 +17,11 @@ The upcoming changes include the introduction of stricter limit values for multi
 ![image](https://github.com/user-attachments/assets/79fc56a2-a851-46cf-8fdc-de946ff151bf)  
 *Figure 3.1 Median of emissions for A4 + A5 based on the Build Report 2023:14 for 52 projects.*
 
-Consequently, contractors and subcontractors will need to actively document energy and fuel consumption, as well as quantify waste generated during individual construction projects to adhere to the required limit value of 1,5 Kg CO2e / m² / yr for A4 + A5.
+Consequently, contractors and subcontractors will need to actively document energy and fuel consumption, as well as quantify waste generated during individual construction projects to adhere to the required limit value of 1.5 kg CO₂e / m² / yr for A4 + A5.
 
 *Table 3.1 Overview of [upcoming CO2e limit value](https://www.sm.dk/nyheder/nyhedsarkiv/2024/maj/ny-aftale-stiller-ambitioese-klimakrav-til-nyt-byggeri) for new construction*  
-![image](https://github.com/user-attachments/assets/361a92ac-c2bc-46b9-9d7a-27cb970bf0d4)  
-***The limit value today (prior to July 1st, 2025) is set to 12 kgCO2e / m2 / yr for a building with a heated floor area over 1000 m².**
+![billede](https://github.com/user-attachments/assets/f9300596-b948-4027-bd2d-035ca3404751)  
+***The limit value today (prior to July 1st, 2025) is set to 12 kg CO₂e / m² / yr for a building with a heated floor area over 1000 m².**
 
 Documentation of compliance with the requirements listed in Table 3.1 is mandatory upon project completion. Although the table encompasses various building typologies, certain structures with specialized functions or specific requirements are exempt from adhering to these prescribed limits. The exemptions fall into the following two categories shown in Table 3.2.
 
@@ -58,7 +58,7 @@ Figure 3.4 LCA calculation of a case using BR18 (2023) and BR18 (2025) emission 
 
 ## 3.3 Danish Legislation Beyond 2025
 
-**Section 3.1 and 3.2** describe upcoming legislation effective from July 1, 2025. To anticipate how Danish building legislation may evolve beyond 2025, one can examine recent legislative trends. In 2021, the Danish Ministry of Interior and Housing published a paper outlining the national strategy for sustainable construction, introducing LCA requirements and corresponding limit values, as detailed in Section 2. Since this publication, newer, more stringent environmental impact standards for buildings have been implemented, and additional building typologies have been included.
+**Section 3.1 and 3.2** describe upcoming legislation effective from July 1, 2025. To anticipate how Danish building legislation may evolve beyond 2025, one can examine recent legislative trends. In 2021, the Danish Ministry of Interior and Housing published a paper outlining the national strategy for sustainable construction, introducing LCA requirements and corresponding limit values, as detailed in [Section 2](2_CurrentDanishLegislation.md). Since this publication, newer, more stringent environmental impact standards for buildings have been implemented, and additional building typologies have been included.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d77d4aa1-e59e-40f7-8cb9-93465f7cce9a">
