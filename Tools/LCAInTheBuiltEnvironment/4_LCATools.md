@@ -3,7 +3,7 @@ To conduct an LCA of a building, dedicated LCA tools are essential. This section
 
 ## 4.1 Introduction to LCAbyg
 LCAbyg is a free and widely used Danish LCA software designed by BUILD at Aalborg University to assess the environmental impact of buildings throughout the life cycle.  However, not all modules are included in the impact assessment.
-In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use phase), and C3 and C4 (end-of-life phase) are included when documenting a building’s climate impact. Additionally, A4 and A5 (construction process phase) will become mandatory under the new regulations, for details about the addition of the two modules, see 3 New Climate Legislation for more information. [3 New Climate Legislation](https://github.com/timmcginley/41936/blob/151ce26091e0ac09e660d38e0d5b9daede1c892e/Tools/LCAInTheBuiltEnvironment/3_NewClimateLegislation.md)
+In LCAbyg, as shown in Table 4.1, only A1-A3 (product phase), B4 and B6 (use phase), and C3 and C4 (end-of-life phase) are included when documenting a building’s climate impact. Additionally, A4 and A5 (construction process phase) will become mandatory under the new regulations, for details about the addition of the two modules, see [3 New Climate Legislation](https://github.com/timmcginley/41936/blob/151ce26091e0ac09e660d38e0d5b9daede1c892e/Tools/LCAInTheBuiltEnvironment/3_NewClimateLegislation.md) for more information. 
 
 *Table 4.1: Phases that are included in the BR18 LCA using LCAbyg for a building*  
 ![image](https://github.com/user-attachments/assets/fa90fd96-93ab-4717-96a3-6a6765605257)
@@ -38,7 +38,7 @@ To get a clear overview of which elements contribute most to the climate impacts
 ![image](https://github.com/user-attachments/assets/2efcbf6e-594b-48fc-8298-524d56e85a6e)
 *Figur 4.6: The analyse and report section in LCAbyg displaying the hotspot groups in both graph and a table, helping to identify which elements have the biggest impact*
 
-This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see [LCAbyg Example](https://github.com/timmcginley/41936/blob/e8beaec052bd4bf33c9dd6b141ce6cbb9c323711/Workflows/LCAbyg.md).
+This section has provided a brief overview of LCAbyg. For a detailed example of how LCAbyg is applied to a specific building step by step, see [LCAbyg Workflow](https://github.com/timmcginley/41936/blob/e8beaec052bd4bf33c9dd6b141ce6cbb9c323711/Workflows/LCAbyg.md).
 
 ### 4.2 Other LCA Tools Available
 For a broader understanding of the different LCA software options available, here’s a quick overview with brief descriptions of some of the most well-known LCA tools, highlighting their unique features, strengths, and areas of application to help guide the choice of software depending on project needs.
@@ -66,7 +66,7 @@ For a broader understanding of the different LCA software options available, her
 
 ## 4.3 Summary
 
-Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA.
+Table 4.2: Overview of all mentioned LCA tools, areas of application, strengths, cost and if its applicable for BR18 LCA.  
 ![image](https://github.com/user-attachments/assets/b9d7b65d-037b-467c-b5cb-7d056d9a1915)
 
 
