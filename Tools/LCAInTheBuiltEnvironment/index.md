@@ -9,7 +9,7 @@ These are the topics covered in LCA in the built environment.
 ## [1 Introduction](1_Introduction.md)
 Short introduction to LCA in the built environment, covering current and future legislation and circular economy.
 
-## [2_Current Danish Legislation](2_CurrentDanishLegislation.md)
+## [2 Current Danish Legislation](2_CurrentDanishLegislation.md)
 Danish building legislation prior to July 1st, 2025.
 
 ## [3 New Climate Legislation](3_NewClimateLegislation)
