@@ -3,13 +3,13 @@ This guide will help you understand how to integrate Speckle into your workflow,
 
 ## Getting Started with Speckle
 ### 1. Create a Speckle Account
-* Go to [speckle.systems](https://www.speckle.systems/) and sign up for a free account.
-* Once registered, log in to the Speckle Web App (this is your online hub)
+* visit [https://app.speckle.systems](https://app.speckle.systems)
+* Sign up using your @dtu.dk or @student.dtu.dk email address. 
+* You’ve been automatically invited to join the DTU Workspace. Check your email and accept the invitation to collaborate with classmates and access shared content. 
 
-### 2. Install Speckle Connectors
-Speckle works by connecting your software (like Revit, Rhino, AutoCAD) to a cloud-based system. You need to install the right "Connector" for your tool
-* Download Speckle Manager from Speckle’s website.
-* Open Speckle Manager and install the connectors for your software (e.g., Revit, Rhino, Grasshopper)
+### 2. Install a Connector
+* After signing in, go to the Connectors tab in the Speckle Web App. 
+* Download and install the connector for your software (e.g., Revit, Rhino, Grasshopper, etc.) 
 
 ### 3. Set Up a Speckle Stream
 A "Stream" in Speckle is like a shared project where you send and receive data.
