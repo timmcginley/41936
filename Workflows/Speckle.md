@@ -7,46 +7,46 @@ For DTU Students – 2025 Edition
 ### 1. Create a Speckle Account
 * visit [https://app.speckle.systems](https://app.speckle.systems)
 * Sign up using your @dtu.dk or @student.dtu.dk email address. 
-* You’ve been automatically invited to join the DTU Workspace. Check your email and accept the invitation to collaborate with classmates and access shared content. 
+* You’ve been automatically invited to join the **DTU Workspace**. Check your email and accept the invitation to collaborate with classmates and access shared content. 
 
 ### 2. Install a Connector
-* After signing in, go to the Connectors tab in the Speckle Web App. 
-* Download and install the connector for your software (e.g., Revit, Rhino, Grasshopper, etc.)
+* After signing in, go to the **Connectors** tab in the Speckle Web App. 
+* Download and install the connector for your software (e.g.,** Revit, Rhino, Grasshopper**, etc.)
 
 ```{info}
 Speckle Manager is deprecated. All connectors are now installed directly from the web app
 ```
 ### 3. Create a Project and Model 
-* From your Speckle Web App dashboard, click "New Project" 
+* From your Speckle Web App dashboard, click **New Project** 
 * Name your project ABD-[YEAR]-[TEAM]-[STAGE](e.g., "ABD-25-10-C")
-* Within your project, create one or more Models. For example: 
+* Within your project, create one or more **Models**. For example: 
      * "Arch" 
      * "Str" 
      * "MEP"
   
 ### 4. How Multi-Disciplinary Teams Work on One Project in Speckle: 
 * Invite team members by email and assign them roles: 
-     * Owner – Full control over the project 
-     * Editor – Can publish data and manage models. 
-     * Viewer – Can view models and leave comments.
+     * **Owner** – Full control over the project 
+     * **Editor** – Can publish data and manage models. 
+     * **Viewer** – Can view models and leave comments.
        
-💡 In the DTU Workspace, all students can view each other’s projects by default; this is useful for peer review and collaborative learning. 
+💡 In the **DTU Workspace**, all students can view each other’s projects by default; this is useful for peer review and collaborative learning. 
 
 ### 5. Publish from Design Tools 
 #### Example: Publish from Revit 
 1.	Open Revit and launch the Speckle connector (found in the Add-ins tab) 
-2.	Choose the correct Project and Model from the list. 
+2.	Choose the correct **Project** and **Model** from the list. 
 3.	Select the elements you want to include 
-4.	Click Publish – this creates a new version in your model 
+4.	Click **Publish** – this creates a new **version** in your model 
 ##### Example: Load into Rhino 
 1.	Open Rhino and launch the Speckle connector 
 2.	Choose the same Project and Model. 
 3.	Select the version you wish to load 
-4.	Click Load – your model will appear in Rhino.
+4.	Click **Load** – your model will appear in Rhino.
    
 You’ve now successfully sent and received data between two tools using Speckle. 
 ### 6. Viewing the Combined Model in Speckle Web 
-* Open your Project and select a Model in the Web App.
+* Open your **Project** and select a **Model** in the Web App.
 * Use tools in the 3D viewer to: 
      * Toggle visibility of multiple models 
      * Compare versions and track design development. 
