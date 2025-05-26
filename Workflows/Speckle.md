@@ -1,6 +1,18 @@
 # Speckle based workflow
 This guide will help you understand how to integrate Speckle into your workflow, making your design and engineering processes more connected, flexible, and efficient. 
 
+## 🚀 Why Use Speckle? 
+Speckle helps you: 
+* Collaborate across disciplines – Work with others using Revit, Rhino, 
+Grasshopper, Archicad, and more 
+* Visualise your designs in the browser – No installs needed to explore geometry and data 
+* Track design changes – See how your models evolve and compare versions visually 
+* Enable real-time design feedback – Comment and review directly inside your project’s 3D space 
+* Simplify coordination – Combine models from multiple disciplines in one unified viewer 
+* Prepare for industry workflows – Learn modern, open-source, cloud-based practices used by leading AEC firms 
+ 
+All inside your DTU Workspace at app.speckle.systems 
+
 ## Getting Started with Speckle
 For DTU Students – 2025 Edition
 
@@ -52,19 +64,6 @@ You’ve now successfully sent and received data between two tools using Speckle
      * Compare versions and track design development. 
      * Add comments or feedback in context. 
  
-### 🚀 Why Use Speckle? 
-Speckle helps you: 
-* Collaborate across disciplines – Work with others using Revit, Rhino, 
-Grasshopper, Archicad, and more 
-* Visualise your designs in the browser – No installs needed to explore geometry and data 
-* Track design changes – See how your models evolve and compare versions visually 
-* Enable real-time design feedback – Comment and review directly inside your project’s 3D space 
-* Simplify coordination – Combine models from multiple disciplines in one unified viewer 
-* Prepare for industry workflows – Learn modern, open-source, cloud-based practices used by leading AEC firms 
- 
-All inside your DTU Workspace at app.speckle.systems 
-
-
 <!-- ### 3. Set Up a Speckle Stream
 A "Stream" in Speckle is like a shared project where you send and receive data.
 * Open your Speckle Web App and create a new stream.
