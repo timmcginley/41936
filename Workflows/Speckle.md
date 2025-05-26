@@ -9,7 +9,11 @@ This guide will help you understand how to integrate Speckle into your workflow,
 
 ### 2. Install a Connector
 * After signing in, go to the Connectors tab in the Speckle Web App. 
-* Download and install the connector for your software (e.g., Revit, Rhino, Grasshopper, etc.) 
+* Download and install the connector for your software (e.g., Revit, Rhino, Grasshopper, etc.)
+
+```{info} Best Model Award
+The model that passes all the tests and get the most sticker votes.
+```
 
 ### 3. Set Up a Speckle Stream
 A "Stream" in Speckle is like a shared project where you send and receive data.
