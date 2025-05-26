@@ -18,7 +18,7 @@ Speckle Manager is deprecated. All connectors are now installed directly from th
 ```
 ### 3. Create a Project and Model 
 * From your Speckle Web App dashboard, click **New Project** 
-* Name your project ABD-[YEAR]-[TEAM]-[STAGE](e.g., "ABD-25-10-C")
+* Name your project ABD-[YEAR]-[TEAM]-[STAGE] (e.g., "ABD-25-10-C")
 * Within your project, create one or more **Models**. For example: 
      * "Arch" 
      * "Str" 
