@@ -193,7 +193,9 @@ _April 7 2025 13:00 - 17:00_
 Location: Building 306 Auditorium 32
 
 _April 28 2025 13:00 - 17:00_
-* <mark>13.00 - 14.00 **(Experience of interdisciplinary collaboration on real building projects at DTU)** Beth Wiberg - Design Lead - Christensen & Co</mark>
+* 13.00 - 14.00 **VARIANTSTUDIE - Comparative Study of Design Alternatives: Experience of interdisciplinary collaboration on real building projects at DTU** Beth Wiberg - Design Lead - Christensen & Co
+![COMPARATIVE STUDY OF DESIGN ALTERNATIVES](https://github.com/user-attachments/assets/cb36d27a-d622-4ed7-a66b-7fe7e579f774)
+
 * _14.00 - 14.30 Return to Building 116_
 * 14.30 – 15.00 Chief consultant session (Consultant rooms in Building 116).
 * 15.00 - 17.00 Team time
