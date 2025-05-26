@@ -13,25 +13,59 @@ For DTU Students – 2025 Edition
 * After signing in, go to the Connectors tab in the Speckle Web App. 
 * Download and install the connector for your software (e.g., Revit, Rhino, Grasshopper, etc.)
 
-```{info} Best Model Award
-The model that passes all the tests and get the most sticker votes.
+```{info}
+Speckle Manager is deprecated. All connectors are now installed directly from the web app
 ```
 ### 3. Create a Project and Model 
 * From your Speckle Web App dashboard, click "New Project" 
-* Name your project ABD-[year]-[team]-[stage](e.g., "ABD-25-10-C-ARCH") ● Within your project, create one or more Models. For example: 
-      * "ARCH" 
-      * "Structural Core" 
-      * "Services Layout"
+* Name your project ABD-[YEAR]-[TEAM]-[STAGE](e.g., "ABD-25-10-C")
+* Within your project, create one or more Models. For example: 
+     * "Arch" 
+     * "Str" 
+     * "MEP"
   
 ### 4. How Multi-Disciplinary Teams Work on One Project in Speckle: 
-● Invite team members by email and assign them roles: 
- 
-○ Owner – Full control over the project 
-○ Editor – Can publish data and manage models. 
-○ Viewer – Can view models and leave comments. 
+* Invite team members by email and assign them roles: 
+     * Owner – Full control over the project 
+     * Editor – Can publish data and manage models. 
+     * Viewer – Can view models and leave comments.
+       
 💡 In the DTU Workspace, all students can view each other’s projects by default; this is useful for peer review and collaborative learning. 
 
-### 3. Set Up a Speckle Stream
+### 5. Publish from Design Tools 
+#### Example: Publish from Revit 
+1.	Open Revit and launch the Speckle connector (found in the Add-ins tab) 
+2.	Choose the correct Project and Model from the list. 
+3.	Select the elements you want to include 
+4.	Click Publish – this creates a new version in your model 
+##### Example: Load into Rhino 
+1.	Open Rhino and launch the Speckle connector 
+2.	Choose the same Project and Model. 
+3.	Select the version you wish to load 
+4.	Click Load – your model will appear in Rhino.
+   
+You’ve now successfully sent and received data between two tools using Speckle. 
+### 6. Viewing the Combined Model in Speckle Web 
+* Open your Project and select a Model in the Web App.
+* Use tools in the 3D viewer to: 
+     * Toggle visibility of multiple models 
+     * Compare versions and track design development. 
+     * Add comments or feedback in context. 
+ 
+### 🚀 Why Use Speckle? 
+Speckle helps you: 
+* Collaborate across disciplines – Work with others using Revit, Rhino, 
+Grasshopper, Archicad, and more 
+* Visualise your designs in the browser – No installs needed to explore geometry and data 
+* Track design changes – See how your models evolve and compare versions visually 
+* Enable real-time design feedback – Comment and review directly inside your project’s 3D space 
+* Simplify coordination – Combine models from multiple disciplines in one unified viewer 
+* Prepare for industry workflows – Learn modern, open-source, cloud-based practices used by leading AEC firms 
+ 
+All inside your DTU Workspace at app.speckle.systems 
+
+
+<!-- ### 3. Set Up a Speckle Stream
 A "Stream" in Speckle is like a shared project where you send and receive data.
 * Open your Speckle Web App and create a new stream.
 * Name it (e.g., “My Revit to Rhino Project”) and save it.
@@ -69,3 +103,4 @@ Now, all models are stored separately but visible together in the Speckle web vi
        3) Use the **"Compare Versions"** tool to track updates from each discipline.
        4) Add **comments** for feedback directly in the 3D viewer.
 This allows all teams to see the entire project without needing Revit, Rhino, or Tekla.
+-->
