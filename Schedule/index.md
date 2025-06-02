@@ -218,7 +218,7 @@ _May 12 2025 13:00 - 17:00_
 
 <hr>
 
-## 3Week 1 - Part D Introduction
+## 3Week 1 - (04/06 - 06/06)
 
 
 ### Day 1
@@ -231,11 +231,13 @@ Location: Building 306 Auditorium 32
 ### Day 2
 _June 06 2025
 
+Peer review due at 17:00.
+
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Friday   | 06/06 |                                      |                | Consult 9-12 (Christian)                   |           |     | Consult 9-12 & 13-16                                 |
+| Friday    | 06/06 |                                     |               | Consult 9-12 (Christian)                     |               |     | Consult 9-12 & 13-16                                 |
 
-## 3Week 2 - Final Sprint
+## 3Week 2 - (10/06 - 13/06)
 
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
@@ -244,6 +246,16 @@ _June 06 2025
 | Thurs     | 12/06 |                                     |               |                                              |               |     | VR Session <br>(Other subjects and<br> location TBC) |
 | Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     | Consult 9-12 & 13-16                                 |
 
+## 3Week 3 - Final Sprint (16/06 - 20/06)
+
+<mark>[update below]</mark>
+
+|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
+|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
+| Tuesday   | 10/06 | Arch Detail 11-12 <br>Consult 13-16 | Consult 13-16 | Consult 13-16 (Peter)                        | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
+| Wednesday | 11/06 |                                     |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
+| Thurs     | 12/06 |                                     |               |                                              |               |     | VR Session <br>(Other subjects and<br> location TBC) |
+| Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     | Consult 9-12 & 13-16                                 |
 
 
 ## 3Week 3 - Part D Presentation
