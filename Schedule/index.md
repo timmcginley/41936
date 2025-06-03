@@ -251,7 +251,7 @@ Peer review due at 17:00.
 
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian)                    | Consult 13-16 |     | VR Session <br>(Other subjects and<br> location TBC) |
+| Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian)                    | Consult 9-12  |     | VR Session <br>(Other subjects and<br> location TBC) |
 | Tuesday   | 17/06 | Consult 9-12 & 13-14 Online General Questions |     | Consult 13-16 (Peter)                        | Consult 13-16 |     |                                                      |
 | Wednesday | 18/06 |                                     |               |                                              |               |     | Consult 9-12                                         |
 | Thursday  | 19/06 | Consult 9-12                        |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
