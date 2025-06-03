@@ -260,11 +260,13 @@ Peer review due at 17:00.
 
 ## 3Week  - Part D Presentation
 
+### Day 13
 _June 24 2025 9.00_
 
 
 Reports & BIM Due
 
+### Day 14 & 15 
 
 Final Presentations run over 2 days in Building 306 Auditorium 32.
 
