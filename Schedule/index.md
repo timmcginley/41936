@@ -229,7 +229,7 @@ Location: Building 306 Auditorium 32
 * 11.00 -          Team time
 
 ### Day 2
-_June 06 2025
+_June 06 2025_
 
 Peer review due at 17:00.
 
@@ -243,22 +243,27 @@ Peer review due at 17:00.
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
 | Tuesday   | 10/06 | Arch Detail 11-12 <br>Consult 13-16 | Consult 13-16 | Consult 13-16 (Peter)                        | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
 | Wednesday | 11/06 |                                     |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Thurs     | 12/06 |                                     |               |                                              |               |     | VR Session <br>(Other subjects and<br> location TBC) |
+| Thurs     | 12/06 |                                     |               |                                              | Consult 13-16 |     | VR Session <br>(Other subjects and<br> location TBC) |
 | Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     | Consult 9-12 & 13-16                                 |
 
 ## 3Week 3 - Final Sprint (16/06 - 20/06)
 
-<mark>[update below]</mark>
 
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Tuesday   | 10/06 | Arch Detail 11-12 <br>Consult 13-16 | Consult 13-16 | Consult 13-16 (Peter)                        | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Wednesday | 11/06 |                                     |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Thurs     | 12/06 |                                     |               |                                              |               |     | VR Session <br>(Other subjects and<br> location TBC) |
-| Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     | Consult 9-12 & 13-16                                 |
+| Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian)                    | Consult 13-16 |     | VR Session <br>(Other subjects and<br> location TBC) |
+| Tuesday   | 17/06 | Consult 9-12 & 13-14 Online General Questions |     | Consult 13-16 (Peter)                        | Consult 13-16 |     |                                                      |
+| Wednesday | 18/06 |                                     |               |                                              |               |     | Consult 9-12                                         |
+| Thursday  | 19/06 | Consult 9-12                        |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
+| Friday    | 20/06 |                                     |               |                                              |      |   Consult 15-17   | Consult 9-12 & 13-16                            |
+| Monday    | 23/06 |                                     | Consult 13-16 |                                              |               |     | Consult 9-12 & 13-16                                 |
+
+## 3Week  - Part D Presentation
+
+_June 24 2025 9.00_
+Reports & BIM Due
 
 
-## 3Week 3 - Part D Presentation
 Final Presentations run over 2 days in Building 306 Auditorium 32.
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
