@@ -72,3 +72,5 @@ Please provide information about the modellers. It's essential to specify if ind
 ## For Client and Subject Reports: 
 Pages without author(s) will not be considered. This requirement aligns with DTU's regulations. If one subject assists another in tasks and contributes sections to their report, those individuals should be identified as authors. If assistance is provided by someone from a different subject group (e.g., Subject 1 assisting Subject 2), it should be mentioned in Subject 1's report that assistance was given to Subject 2 to ensure proper credit is given.
 
+## Circular Education system
+This course is part of the circular education system wherein we are trying to reuse the awesome work that you do to help other students learn and improve the overall learning experience. If you do not want your work to be made available to students in other courses to analyse (your data is anonymized) you can opt out by placing a permissions.txt file in your submission and stating that in that file that you do not give permission for your work to be analysed in future courses.
