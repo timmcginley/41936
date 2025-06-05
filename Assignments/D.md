@@ -17,20 +17,109 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 <hr>
 
 ## D1 Client Report
+```{versionadded}
+More detail of the requiremetns for the client report added here 06-06-25
+```
 The final client report should include:
 
-* Project & KPIs
-* Team
-* Advanced Building Design, what it is to you
-* Beats
-* Site
-* Building Design
-* Floors
-* Spaces, entrance, auditorium, multipupose and cafe
-* Structural system inc. floor plan, loads, components, Geotechnical, Fire Safety
-* MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
-* Facade
-* Reflection
+### 00: Front Cover
+*	An aspiring image of the building
+*	Try and keep this from a human perspective from the ground looking up.
+*	Name of team and members and student numbers.
+### 01: Project & KPIs
+* Do not just repeat what is in the brief here - take the opportunity to describe your teams take on the project 
+* KPIs – do not repeat from the brief. What was your aim? was this difficult? – did you achieve it? – the detail will come later in the report or in the technical reports, but we need the facts here, to help us know what to look for in your report.
+* This should focus on what you intended to do - your vision for the project.
+* How do you make sure the project is interdisciplinary and not just 'the sum of the disciplines’.
+* Here you need to clearly describe the problem – how has your analysis of the clients requirements and your KPI decisions set the problem for your project, tell us briefly for each of the KPIs, also tell us how.
+
+### 02:Team
+* Introduce your team to the client
+  
+### 03: Advanced Building Design, what it is to you
+* Your Team’s definition of Advanced Building Design
+* A couple of sentences to define what it is to you.
+  
+### 04: Beats
+* Could also include an overview axo of the building to help locate the beats.
+* These should be repeated through the document in relevant places but provided here in total to help us understand your building.
+* Show how combinations of the Beats with other data can offer a quick overview of the performance of your building.
+* Consider how these can help us make sense of the interdisciplinary issues in your project.
+  
+### 05: Site
+* What were the issues in terms of the site - this includes that it is a university campus, its links to transport etc.
+* This should also include material flows to the site.
+* Include the factors that have influenced your placing of the building, i.e. fire trucks, thoughts about construction, how to ener the building, waste disposal etc.
+* The daylight implications for each facade of the building.
+* This should include the positioning of your building and the justification for the orientation, from an interdisciplinary perspective but especially daylight.
+* There are lots of interdisciplinary considerations to include here. For instance, you could include the orientation of the building in relation to the sun and prevailing wind? The connection to the other buildings? What else?
+
+### 06: Existing Building <mark>new</mark>
+* plans and drawings of the existing building
+
+### 07: Proposed Building
+* This is a summary of the interdsiciplinary design of your building.
+* It should include the architectural concept.
+* It should show what is new and what is existing in your building, how did you make the decision to keep, remove and add parts of the building.
+* A diagrammatic section of the building with color coded floors for the spaces provides a good overview of the building here.
+* Also include information about the diferent floor types - i.e. a certain office floor - which would then be explained more in the floors section.
+* Height of the building, number of occupants etc.
+* You need to tell us about each stage and analyse the progression. We would like to see reflection on the requirements and analysis of each step. The thing we need to get across here is the interdisciplinary decisions that drove the changes. How did you know to change it, why did you change it, what did this show you about ‘advanced’ building design? This needs to be linked explicitly to the design development stages.
+
+### 08: Floors
+•	The offices take up whole floors and can be presented here.
+•	Summarise the office desks per office floor and where the student spaces are located here.
+•	Also the floor build up can be included here - perhaps a section showing how the floor to floor is calculated?
+•	Student areas? – tell us about it – facts and experience – how is it supported? What is the relationship to the ‘office spaces’?
+•	Brief summary of subject flexibility (based on results from week 3 lecture) and the integration performance of the team – strengths and weaknesses for this element.
+•	This chapter should also include the page(s) about the office floors.
+
+### 09: Spaces
+* Provide visulisations, plans and concise text descriptions of the following spaces from n interdisciplinary perspective :
+    * Graphical overview of the spaces. Here you can provide an interdisciplinary perspective on the main spaces:
+    * offices
+    * auditorium
+    * entrance / atrium
+
+### 10: Structure
+* This should include floor plan, loads, components, Geotechnical, Fire Safety.
+* Total loads for the building.
+* Structural concept for the building.
+* Highlights of the structural disciplinary report.
+* Provide a brief summary of subject flexibility for structure, provide an example o how the structure was adapted to balance the needs o the team and the proect requirements.
+* The structure chapter should also represent structure from the needs of the other disciplines. It is not just a summary of the structural subject but literally how structure supports the rest of the building. An example of a link is to Geo and how you resolved this, but there are many issues across the team to demonstrate structural interdisciplinary integration. This should really tell the story of the project and include the for helen element and how you have tried to integrate the design solution.
+
+### 11: MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
+* MEP this is mostly you.
+* Should include indoor comfort , daylight and temperature - it can invite the reader to look at the subject report for more information.
+* Should include a sectional diagram that includes the technical room, tech floor and air handling unit for the building flow systems.
+* Focus on Ventilation, shafts and hydronics.
+* Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
+* Evidence of a study conducted by MEP to assess the validity of an element of the building i.e. facade.
+
+### 12: Facade
+* This explores different facade options - have you made a decision? why did you make this decision?
+* Here would be a good chance to outline different options if needed.
+* How does your facade change across the building - is it different on the base, body and top?
+* If you have made lots of progress in this perhaps you could show an 'exploded axo' of the facade components - this shows you have started to think about construction - but most don't reach this stage until Part D.
+* Envelope glazing ratio and U values etc.
+* Is your facade made of different types – can these be reconfigured in relevant ways?
+* How is the façade fixed to the slab?
+* Can you show an ‘exploded axonometric view, to give us an idea of how it would be installed? This doesn’t need to be perfect but it helps us understand your thinking.
+* Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
+  
+### 13: Evacuation / Fire safety
+•	Fire safety
+•	Include evacuation times from the spaces mentioned in the spaces section.
+
+### 14: Materials / DGNB / Sustainability
+* We want to see this integrated throughout the report, but you can have an overview here, then we can dive into the report for more detail.
+* We want to see this broken into the dierent contribubtions of the consultants. 
+
+### 15: Reflection
+* You will conclude the report with a reflection on the extent to which you have achieved the vision of advanced building design outlined in chapter 3. 
+* This is not in the form, we did it, we are great, but provide evidence by referencing points in this report that demonstrate how each subject has supported your vision of advanced building design.
+
 <hr>
 
 ## D2 Consultant Reports
