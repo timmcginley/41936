@@ -132,7 +132,7 @@ Balconies are permitted and they are not included in the GFA (gross floor area).
 
 The office floor should feature maximum flexibility to support multi-tenant occupation. The designs should support both open plan offices and cellular offices for up to six persons, not necessarily at the same time. Each office floor shall have minimum three small meeting rooms. These rooms blur that you could book for a week rather than just an hour or so like a meeting room, they are a space for people to come together from different disciplines to solve specific.
 
-One plan would be for traditional cellular office 
+One plan would be for traditional cellular office.
 
 **The offices needs to provide the desks promised in your user KPI**
 
