@@ -172,6 +172,7 @@ Please upload the following files as PDFs (25 is important as it represents a ye
 7.	25-[TEAM NUMBER]-A-Invoices
 8.	25-[TEAM NUMBER]-A-ClientReport
 
+<!-- double check the need and success of the DMS.. also remove from Learning objectives -->
 
 ```{note}
 We would like to be able to reuse your work (annonymised) in teaching and research to help us design better, more sustainable buldings, by making the work available to future students. You can opt out of this by including an optout.txt saying you do not give you permisssion for the work to be used in future research or teaching along with this submission.
