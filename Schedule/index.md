@@ -41,6 +41,11 @@ _Feb 3 2025 13:00 - 17:00_
 * PM: What values do you want your team to have?
 * Aspirations: How ambitious are you?
 
+<! --- 2025 WISHLIST
+AIM improve student independence etc. (Question 10)
+Special session of invitied speakers to workshop how the students could bid their own time - maybe this could be week 1 instead?
+-->
+
 ### Activity
 * Team formation
     * find subject
@@ -90,6 +95,7 @@ Having decided what building you will model in the previous session. This week f
 ###  By the end of the session
 * Enroll on DTU Learn in your team subject and consultant groups.
 * Document the original model you will adapt it next week - post on MS Teams
+
 
 ## Week 03 - Proposed Building
 Location: Building 117 Room 024
