@@ -108,6 +108,14 @@ _Feb 17 2025 13:00 - 17:00_
 * What systems did they use
 * Could the existing structure take more floors?
 
+<!--- 2026
+### Analyse client requirements
+* produce a document based on this
+* aim is to improve the positivity in Question 9.
+
+
+-->
+
 ### Model the Proposed Building
 * Adapt existing building model to you proposal
 * Calculate the improvement you have made in the new model
