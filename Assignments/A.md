@@ -129,6 +129,13 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 * Provide basic guidance to the client on what you have found from your analysis.
 * You should explain to them the implications of different different further analysis that you could do.
 
+<!-- 2026
+add to client report
+The importance of the client analysis needs to be emphasised.,
+* input on how to analyse the requirements
+* asked to collate and submit these reframed requirements
+-->
+
 ### Structures
 * Capacity of Existing structure (add more floors?)
 * Options for further analysis
