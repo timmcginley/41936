@@ -16,11 +16,39 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * <mark>D7 Physical Model (Optional but encouraged)</mark>
 <hr>
 
+
+
+
+Client Report
+A4: Maximum 50 pages
+A3: Maximum 40 pages
+
+Targeted towards client
+
+The client report will have the following sections that are an enhancement of the Part C Client Report. Specifically please also re read the client communications and make sure that all of their requirements are included in the report. If not then describe how you have responded to their requests in their letters. These are super precious documents for you as they give an insight into the ‘mind of the client’.
+
+
 ## D1 Client Report
 ```{versionadded}
 More detail of the requiremetns for the client report added here 06-06-25
 ```
-The final client report should include:
+
+A4: Maximum 50 pages
+A3: Maximum 40 pages
+
+Targeted towards client
+
+The client report will have the following sections that are an enhancement of the Part C Client Report. Specifically please also re read the client communications and make sure that all of their requirements are included in the report. If not then describe how you have responded to their requests in their letters. These are super precious documents for you as they give an insight into the ‘mind of the client’.
+
+### General comments
+* Please consider the fastest and clearest way to guide the reader – this is rarely lots of text. Try and avoid long blocks of text, we are happier when we read text that has been divided into columns  – this guide is not a good example of that 
+* Student contributor numbers on each page, even better you can do it for each heading. If the work on the page has not been 
+* If you are presenting an image, plan, drawing or diagram you can annotate it with points to help us understand why it is there. If including images of a building – these should be referenced, this is like referencing any other source – it is ok to put just the name of it, or the type or the address or whatever you have – the danger is that in some cases it is not clear if it is the building / space that you are proposing – so be careful. Also, as a client I am interested to look up the buildings and the systems you talk about to learn more about them for myself.
+* It takes waaaaaaaay tooooo llooooonnnnngg to check these reports. We need to be super explicit about how we are performing against the KPIS, how this was calculated using the beats as much as possible and where to find more info about an issue, for instance reference to a calculation in a subject report. That calculation should then be made super easy to find. Please include the equations that you used to get you KPIs for cost and users and reference the specific beats that you used – this helps to reduce uncertainty for us.
+* Client reports and presentations can be similar, so it might be worth thinking about making the client report more visual and less texty in places as this will help you generate the presentation more easily.
+* Label all diagrams, images and drawings with figure numbers to help us refer to them in our questions.
+
+Your final client report should include:
 
 ### 00: Front Cover
 *	An aspiring image of the building
@@ -132,7 +160,14 @@ The final client report should include:
 <hr>
 
 ## D2 Consultant Reports
-These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work. Links to the requirements for each consultant can be foudn below
+
+A4: Maximum 30 pages + appendixes
+A3: Maximum 20 pages + appendixes
+
+File name: D_Report_TeamXX_SubY
+Please check the subjects for information on the required contents for the subject reports.
+
+These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work. Links to the requirements for each consultant can be found below
 
 * [Architecture Report](/Subjects/Architecture#d-consultant-report)
 * [Strcuture Report](/Subjects/Architecture#d-consultant-report)
