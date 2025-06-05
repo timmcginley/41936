@@ -89,7 +89,16 @@ The final client report should include:
 * Provide a brief summary of subject flexibility for structure, provide an example o how the structure was adapted to balance the needs o the team and the proect requirements.
 * The structure chapter should also represent structure from the needs of the other disciplines. It is not just a summary of the structural subject but literally how structure supports the rest of the building. An example of a link is to Geo and how you resolved this, but there are many issues across the team to demonstrate structural interdisciplinary integration. This should really tell the story of the project and include the for helen element and how you have tried to integrate the design solution.
 
-### 11: MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
+### 11: Core
+•	The core is fascinating, because it is important to all disciplines so tell us about the core and how it satisfies the requirements of all your subjects.
+•	How many lifts do you have?
+•	Please PM remember to talk about space planning here and also how you coordinated holes in the core to make sure there were not too many.
+•	How does the core fit within the structural grid, where is it in terms of the floor plate.
+•	how have you organised your stairs - do they work -  does it conform to building regulations?
+•	Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
+•	Overview of the vertical hydronics and ventilation system diagrams. – these are a sub system of the core…
+
+### 12: MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
 * MEP this is mostly you.
 * Should include indoor comfort , daylight and temperature - it can invite the reader to look at the subject report for more information.
 * Should include a sectional diagram that includes the technical room, tech floor and air handling unit for the building flow systems.
@@ -97,7 +106,7 @@ The final client report should include:
 * Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
 * Evidence of a study conducted by MEP to assess the validity of an element of the building i.e. facade.
 
-### 12: Facade
+### 13: Facade
 * This explores different facade options - have you made a decision? why did you make this decision?
 * Here would be a good chance to outline different options if needed.
 * How does your facade change across the building - is it different on the base, body and top?
@@ -108,15 +117,15 @@ The final client report should include:
 * Can you show an ‘exploded axonometric view, to give us an idea of how it would be installed? This doesn’t need to be perfect but it helps us understand your thinking.
 * Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
   
-### 13: Evacuation / Fire safety
+### 14: Evacuation / Fire safety
 •	Fire safety
 •	Include evacuation times from the spaces mentioned in the spaces section.
 
-### 14: Materials / DGNB / Sustainability
+### 15: Materials / DGNB / Sustainability
 * We want to see this integrated throughout the report, but you can have an overview here, then we can dive into the report for more detail.
 * We want to see this broken into the dierent contribubtions of the consultants. 
 
-### 15: Reflection
+### 16: Reflection
 * You will conclude the report with a reflection on the extent to which you have achieved the vision of advanced building design outlined in chapter 3. 
 * This is not in the form, we did it, we are great, but provide evidence by referencing points in this report that demonstrate how each subject has supported your vision of advanced building design.
 
