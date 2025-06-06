@@ -113,6 +113,7 @@ Your final client report should include:
     * entrance / atrium
 
 ### 10: Structure
+* Tell us about the existing system.
 * This should include floor plan, loads, components, Geotechnical, Fire Safety.
 * Total loads for the building.
 * Structural concept for the building.
@@ -130,8 +131,11 @@ Your final client report should include:
 •	Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
 •	Overview of the vertical hydronics and ventilation system diagrams. – these are a sub system of the core…
 
-### 12: MEP, Building Systems, Hydronic Systems, basement and tech floor, confort etc.
-* MEP this is mostly you.
+### 12: MEP
+* Tell us about the existing system(s)
+* Building Systems, Hydronic Systems, basement and tech floor, comfort etc.
+* What is the additional capacity you require
+* What will you add / replace to acheive this?
 * Should include indoor comfort , daylight and temperature - it can invite the reader to look at the subject report for more information.
 * Should include a sectional diagram that includes the technical room, tech floor and air handling unit for the building flow systems.
 * Focus on Ventilation, shafts and hydronics.
