@@ -81,9 +81,11 @@ Your final client report should include:
 * The daylight implications for each facade of the building.
 * This should include the positioning of your building and the justification for the orientation, from an interdisciplinary perspective but especially daylight.
 * There are lots of interdisciplinary considerations to include here. For instance, you could include the orientation of the building in relation to the sun and prevailing wind? The connection to the other buildings? What else?
+* Should also include soil conditions.
 
 ### 06: Existing Building <mark>new</mark>
 * plans and drawings of the existing building
+* existing foundations
 
 ### 07: Proposed Building
 * This is a summary of the interdsiciplinary design of your building.
@@ -116,6 +118,7 @@ Your final client report should include:
 * Highlights of the structural disciplinary report.
 * Provide a brief summary of subject flexibility for structure, provide an example o how the structure was adapted to balance the needs o the team and the proect requirements.
 * The structure chapter should also represent structure from the needs of the other disciplines. It is not just a summary of the structural subject but literally how structure supports the rest of the building. An example of a link is to Geo and how you resolved this, but there are many issues across the team to demonstrate structural interdisciplinary integration. This should really tell the story of the project and include the for helen element and how you have tried to integrate the design solution.
+* Include the design / remidiation of the foundations.
 
 ### 11: Core
 •	The core is fascinating, because it is important to all disciplines so tell us about the core and how it satisfies the requirements of all your subjects.
