@@ -60,6 +60,7 @@ Your final client report should include:
 * This should focus on what you intended to do - your vision for the project.
 * How do you make sure the project is interdisciplinary and not just 'the sum of the disciplines’.
 * Here you need to clearly describe the problem – how has your analysis of the clients requirements and your KPI decisions set the problem for your project, tell us briefly for each of the KPIs, also tell us how.
+* Remember to say how you are performing against the KPIs - donøt leave us guessing to the end. This way you make us curious to read the report and see how you did it. it can also help us to understand if you are really 'pushing your limits' or just cruising.
 
 ### 02:Team
 * Introduce your team to the client
