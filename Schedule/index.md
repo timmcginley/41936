@@ -268,7 +268,7 @@ Peer review due at 17:00.
 | Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian & Peter)            | Consult 9-12  |     | VR Session 10-13:30 |
 | Tuesday   | 17/06 | Consult 9-12 & 13-14 Online General Questions |     |                                              | Consult 13-16 |     | VR Session 10-13:30        |
 | Wednesday | 18/06 |                                     |               |                                              |               |     |                                          |
-| Thursday  | 19/06 | Consult 9-12                        |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
+| Thursday  | 19/06 | Consult 9-12                        |               |                                              | Consult 13-16 |     | Consult  13-16                                 |
 | Friday    | 20/06 |                                     |               |                                              |      |   Consult 15-17   | Consult 9-12 & 13-16                            |
 | Monday    | 23/06 |                                     | Consult 13-16 |                                              |               |     | Consult 9-12 & 13-16                                 |
 
