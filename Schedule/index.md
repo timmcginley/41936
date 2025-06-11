@@ -257,8 +257,8 @@ Peer review due at 17:00.
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
 | Tuesday   | 10/06 | Arch Detail 11-12 <br>Consult 13-16 | Consult 13-16 | Consult 13-16 (Peter)                        | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
 | Wednesday | 11/06 |                                     |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Thurs     | 12/06 |                                     |               | Consult 10:30 -12:30 ( Christian) B116 R018  | Consult 13-16 |     |                                |
-| Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     | Consult 9-12 & 13-16                                 |
+| Thurs     | 12/06 |                                     |               | Consult 10:30 -12:30 ( Christian) B116 R018  | Consult 13-16 |     | Consult 9-12 & 13-16                               |
+| Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     |  Consult 9-12 & 13-16                                |
 
 ## 3Week 3 - Final Sprint (16/06 - 20/06)
 
@@ -267,7 +267,7 @@ Peer review due at 17:00.
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
 | Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian & Peter)            | Consult 9-12  |     | VR Session 10-13:30 |
 | Tuesday   | 17/06 | Consult 9-12 & 13-14 Online General Questions |     |                                              | Consult 13-16 |     | VR Session 10-13:30        |
-| Wednesday | 18/06 |                                     |               |                                              |               |     | Consult 9-12                                         |
+| Wednesday | 18/06 |                                     |               |                                              |               |     |                                          |
 | Thursday  | 19/06 | Consult 9-12                        |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
 | Friday    | 20/06 |                                     |               |                                              |      |   Consult 15-17   | Consult 9-12 & 13-16                            |
 | Monday    | 23/06 |                                     | Consult 13-16 |                                              |               |     | Consult 9-12 & 13-16                                 |
