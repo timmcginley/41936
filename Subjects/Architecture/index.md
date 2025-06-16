@@ -117,15 +117,14 @@ Facade, entrance, ground floor and reception area with furniture and all the pie
 
 ### Part D 
 #### D Consultant Report
-This is a continuation on the Part C report but with more detail on the themes discussed in the course. It will contain the following additional content
-
-* 6 details (introduced in Part D Architecture lecture)
+This is a continuation on the Part C report but with more detail on the themes discussed in the course. It will contain the following additional content:
+* 3 or 4 really good details (introduced in Part D Architecture lecture)
   
 #### D BIM
 Check IFCSpaces have exported successfully.
 Ceilings present and correctly classified.
 
-Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), copy room, toilets, lockers, auditoriums, roof, cafeteria, restaurant, bike parkingc(not all of them), the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
+Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor plans), toilets, auditoriums, roof, cafeteria, bike parking (not all of them), the elevator shaft on top of the building, stair access to the building roof.
 
 ## Requirements
 Advanced Building Design requires the collaborative design, modelling, analysis, communication and iteration of interdisciplinary solutions to each building system at every stage of the design process. specifically this means the responsibilities and dependencies for architecture are:
