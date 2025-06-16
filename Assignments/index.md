@@ -5,7 +5,6 @@
 :glob:
 *
 */index
-Non Credit/HTML-IFC
 ```
 
 This page includes the assignments for each stage and the course grading criteria. These should be read alongside the course [learning objectives](/LearningObjectives).
