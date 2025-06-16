@@ -177,12 +177,12 @@ Please check the subjects for information on the required contents for the subje
 
 These will be submitted some days before the final presentation to give the review panel the opportunity to review your proposals and ask deeper questions based on your work. Links to the requirements for each consultant can be found below
 
-* [Architecture Report](/Subjects/Architecture#d-consultant-report)
-* [Strcuture Report](/Subjects/Architecture#d-consultant-report)
-* [MEP Report](/Subjects/Architecture#d-consultant-report)
-* [Geotech Report](/Subjects/Geotech#d-consultant-report)
-* [Materials Report](/Subjects/Materials#d-consultant-report)
-* [PM-ICT Report](/Subjects/PM-ICT#d-consultant-report)
+* [Architecture Report](/Subjects/Architecture/index.md#d-consultant-report)
+* [Structure Report](/Subjects/Structure/index.md#d-consultant-report)
+* [MEP Report](/Subjects/MEP/index.md#d-consultant-report)
+* [Geotech Report](/Subjects/Geotech/index.md#d-consultant-report)
+* [Materials Report](/Subjects/Materials/index.md#d-consultant-report)
+* [PM-ICT Report](/Subjects/PM-ICT/index.md#d-consultant-report)
 
 <hr>
 
@@ -205,12 +205,12 @@ Example for the architects in team 10 in 2025 : 25-10-D-ARCH.ifc
 
 You can find consultant specific requirements below:
 
-* [Architecture BIM](/Subjects/Architecture)
-* [Structure BIM](/Subjects/Structure)
-* [MEP BIM](/Subjects/MEP)
-* [Geotech BIM](/Subjects/Geotech)
-* [Materials BIM](/Subjects/Materials)
-* [PM-ICT BIM](/Subjects/PM-ICT#d-bim)
+* [Architecture BIM](/Subjects/Architecture/index.html#d-bim)
+* [Structure BIM](/Subjects/Structure/index.html#d-bim)
+* [MEP BIM](/Subjects/MEP/index.html#d-bim)
+* [Geotech BIM](/Subjects/Geotech/index.html#d-bim)
+* [Materials BIM](/Subjects/Materials/index.html#d-bim)
+* [PM-ICT BIM](/Subjects/PM-ICT/index.html#d-bim)
 
 <hr>
 
