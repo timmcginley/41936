@@ -214,8 +214,7 @@ Universal design following national guideline - BR18
 * Lv1: 0.8 < T < 1.0                30pts
 * Lv2: T <= 0.8                     40pts
 
-* Guide from Victor posted on ARCH teams channel :
-https://dtudk.sharepoint.com/sites/11080F22300-STRUCTURE/Delte%20dokumenter/STRUCTURE/Acoustic/SOC1.3%20Acoustic%20Comfort%20related%20to%20DGBNlite.mp4?csf=1&%3Bweb=1&%3Be=VBAerx&isSPOFile=1&cid=2d536177-774d-47f9-ac66-d6b6570cb68c
+* Guide on [acoustic comfort related to DGNB-Lite](https://learn.inside.dtu.dk/d2l/le/lessons/245955/topics/1010091)
 <hr>
 
 ## Technical Criteria
