@@ -22,7 +22,7 @@ The course runs over the spring 13 week period on monday afternoons continuing t
 The course is designed to give interdisciplinary design and analysis experience to MSc Architectural Engineering and Civil Engineering students at the Technical University of Denmark. However other relevant disciplines are welcome to apply, please see the available [roles] for a better idea.
 
 ## How does it work?
-In 2025 the course has 175 students. 
+In 2025 the course has 200 students. 
 1. Participants choose a subject and form a consultancy within that subject (roughly 2 students per consultancy)
 3. Consultancies submit a tender to become part of a team (6 consultancies per team)
 4. Consultancies collaborate in the teams over 4 stages to design a building.
