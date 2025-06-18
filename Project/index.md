@@ -48,7 +48,13 @@ The total number of permanant desks in your building.
 DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM:
 
 #### 03: LCA / user
-It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for.
+It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. 
+
+* User = The number of permanant desks in the offices
+* GFA = m2 of the building (above ground level).
+* The CO2 equivalent per meter square of the GFA per year.
+
+Based on this you can calculate - CO2kgeq/m2/User/Year
 
 #### 04: Construction cost
 The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
@@ -58,7 +64,7 @@ The construction cost level is decided by your PM. Refer to the [PM consultant i
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
 | DGNB Lite Level           | Platinum | Gold    | Silver  |
-| LCA / user (CO2eq/m2/User/Year) | 60       | 80      | 100     |
+| LCA / user (CO2kgeq/m2/User/Year) | 60       | 80      | 100     |
 | Construction Cost (dkk/m2)| 30.000   | 35.000  | 40.000  |
 
 
