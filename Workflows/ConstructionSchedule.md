@@ -34,11 +34,13 @@ Construction Phase:
 <hr>
 
 ## 2. Determine Task Dependencies
-Identify the sequence of tasks by noting dependencies—tasks that must be completed before others can begin. For example:
-Design and planning must be finalized before construction starts.
-Foundation work precedes structural renovations.
-MEP installations follow structural completion but precede architectural finishes.
-Theory: This step aligns with the Critical Path Method (CPM), a widely-used technique in construction management that identifies the longest sequence of dependent tasks to determine the project’s minimum duration.
+Identify the sequence of tasks by noting dependencies; tasks that must be completed before others can begin. 
+For example:
+* Design and planning must be finalized before construction starts.
+8 Foundation work precedes structural renovations.
+* MEP installations follow structural completion but precede architectural finishes.
+> Theory: This step aligns with the Critical Path Method (CPM), a widely-used technique in construction management that identifies the longest sequence of dependent tasks to determine the project’s minimum duration.
+
 <hr>
 
 ## 3. Estimate Time for Each Task
