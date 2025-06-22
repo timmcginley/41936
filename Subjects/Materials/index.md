@@ -81,6 +81,8 @@ Are the materials correct?
 
 #### D Consultant Report
 
+Part D is finalisation of part C with an important component that all the information should be well integrated at the "big team" level. 
+
 Part D report for Material should be organised with respect to the topics / elements of the DGNB lite used in the course (LCA documentation is part of the Environmental Theme and should be accounted for there). The following aspects and issues should be addressed in the report (deliverables): 
 
 * Goals for DGNB certification and discussion on decision process and value of the criteria chosen to reach the intended certification level.
@@ -101,11 +103,12 @@ Furthermore, it should clearly explain the different available options, your bui
 Use visuals and diagrams to underline and communicate your design choices and decision making process.
 
 ```{hint}
-Make sure to integrate what you are saying in your materials consultancy reports with the other consultants.
+Make sure to integrate the materials consultancy report with the other consultants. Please make the main report very pertinent and clear; focus only on essential and major information, your arguments and assumptions. Place all the details in the different appendices and refer to them in the main report.
 ```
 
 * Seek 'regulatory approval' for the new material / product.
-* Produce EPD either for the new material / component
+* Produce EPD either for the new material / component - It is highly valuable if your project introduces a novel material, as this can justify the development of a new EPD. If applicable, please highlight the new material. Note: since making EPD for a new material is not the major scope of this course, we will just evaluate this part based on your assumptions and justification. If for any reseaon your project doesnt include any new material, it is fine. Just please highlight it as well.
+* If you have questions or needs a meeting, please contact us by email: naran@dtu.dk (Navid) and  areya@dtu.dk (Ali Reza)
 
 ## Requirements 
 
