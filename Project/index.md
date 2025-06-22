@@ -54,7 +54,9 @@ It is essential that all consultants keep a close eye on the LCA for the element
 * GFA = m2 of the building (above ground level).
 * The CO2 equivalent per meter square of the GFA per year.
 
-Based on this you can calculate - CO2kgeq/m2/User/Year
+Based on this you can calculate:
+
+((CO2*kg/m2/year) * Total office area (m2)) / Permanent desks 
 
 #### 04: Construction cost
 The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
