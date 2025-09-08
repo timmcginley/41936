@@ -1,5 +1,9 @@
 # Part D
 
+```{versionadded}
+2026: Submit anonymous versions of reports alongside the regular reports
+```
+
 ```{attention}
 The final presentation will take place in Building 306, Auditorium 32.
 ```
