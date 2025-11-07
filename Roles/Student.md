@@ -11,7 +11,7 @@ In the scenario of the course you are not 'playing a student' but instead you ar
 
 It is up to you to balance these requirements.
 
-1. [Project requirements](/Project/Index.md)
+1. [Project Requirements](/Project/index.md)
 3. [Subject Requirements](/Roles/Subject.md)
 
 ## Your progress through the course
