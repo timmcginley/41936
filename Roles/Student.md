@@ -11,8 +11,8 @@ In the scenario of the course you are not 'playing a student' but instead you ar
 
 It is up to you to balance these requirements.
 
-1. [Project requirements](/Project/Reqs.md)
-3. [Subject Requirements](/Roles.md)
+1. [Project requirements](/Project/Index.md)
+3. [Subject Requirements](/Roles/Subject.md)
 
 ## Your progress through the course
 The course progresses in 4 stages.
