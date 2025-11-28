@@ -7,7 +7,7 @@
 ```
 To design the best building in the world we need to learn how to support each other in the design process. To support this, the ABD course has been designed to give participants a professional interdisciplinary design experience. 
 
-These are the guides to help everyone involved in the course clarify their roles and know where to find information.
+These are the guides to help everyone involved in the course to clarify their roles and know where to find information.
 
 ## Students
 The most important role in the course :)
