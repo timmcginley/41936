@@ -163,14 +163,14 @@ or maybe this goes to agile? work it out in the circular repo.
 ## Part A Submission
 PM to gather all documents from the team and submit them under Assignment Part A in DTU Learn before the deadline.
 Please upload the following files as PDFs (25 is important as it represents a year):
-1.	25-[TEAM NUMBER]-A-ProjectPlan
-2.	25-[TEAM NUMBER]-A-TeamContract
-3.	25-[TEAM NUMBER]-A-ICTContract
-4.	25-[TEAM NUMBER]-A-DesignManagementSchema
-5.	25-[TEAM NUMBER]-A-BenchmarkBuildingModel (included online as part of Teams.xlsx)
-6.	25-[TEAM NUMBER]-A-PhysicalBuildingModel
-7.	25-[TEAM NUMBER]-A-Invoices
-8.	25-[TEAM NUMBER]-A-ClientReport
+1.	26-[TEAM NUMBER]-A-ProjectPlan
+2.	26-[TEAM NUMBER]-A-TeamContract
+3.	26-[TEAM NUMBER]-A-ICTContract
+4.	26-[TEAM NUMBER]-A-DesignManagementSchema
+5.	26-[TEAM NUMBER]-A-BenchmarkBuildingModel (included online as part of Teams.xlsx)
+6.	26-[TEAM NUMBER]-A-PhysicalBuildingModel
+7.	26-[TEAM NUMBER]-A-Invoices
+8.	26-[TEAM NUMBER]-A-ClientReport
 
 <!-- double check the need and success of the DMS.. also remove from Learning objectives -->
 
