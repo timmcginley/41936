@@ -9,6 +9,7 @@ At this point in the project you need feedback on 2 different design options so 
 * B1 Drawings (inc. 2 options)
 * B2 Client Report (Your team's integrated design recommendations)
 * B3 Part B Invoice
+* B4 Part B BIM (inc. 2 options) (IFC only)
 
 Documentation of 2 Different design options. 
 
