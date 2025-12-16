@@ -10,9 +10,8 @@
 
 ## notes from Jan
 
- * We need to add ifcGrid lines to PART A (PM/ICT responsible)
+* We need to add ifcGrid lines to PART A (PM/ICT responsible)
 * DESIGN STRUCTURE MATRIX?
-
   
 <hr>
 
