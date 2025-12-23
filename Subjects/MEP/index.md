@@ -241,7 +241,7 @@ Optimal access to technical installations in plant rooms and along ducts and pip
 
 ## DGNB
 
-- [ENV1.1](/41936/Tools/DGNBLite.md#env11---building-life-cycle-assessment-b-c--------------points-total-350pts)
+- [ENV1.1](/41936/41936/Tools/DGNBLite.md#env11---building-life-cycle-assessment-b-c--------------points-total-350pts)
 - [ENV1.2](41936/Tools/DGNBLite#env12---sustainable-ressource-use-c--------------points-total-50pts)
 - [ENV1.3](41936/Tools/DGNBLite#env13---primary-energy-need-and-degree-covered-by-renewable-energy-c------------points-total-50pts)
 - [ENV1.4](41936/Tools/DGNBLite#env14--water-use-and-wastewater-reduction-c------------points-total-50pts)
