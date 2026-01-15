@@ -43,22 +43,22 @@ Architectural Consultants have the following skills and motivations:
 ## Your chief consultant can support you with
 In the project you will be supported by the chief consutlant with the following:
 
-* Understanding the role of the architect
+* Understanding the role of the architect in a multidisiplinary design team
 * Space planning and zoning
-* Fire safety and evacuation
+* Guidance on who to talk to for fire safety design and evacuation support
 * Facade design
 * Design tutorials and crits
 * Advice on interdisciplinary design
 * Introduction to Universal Design Principles
 * Detail drawings (Part D)
-* Inspiration from some real world examples
+* Real building inspiration
 
 ## You will need to independently learn
 
 * Work in BIM / Design software to develop your designs
-* Develop the interfaces between the disciplines in your team.
-* Work out the questions you need to ask in consultancy sessions.
-* Work out how to keep the team moving so that they are not sitting around waiting for you.
+* Develop supportive, productive and respectful interfaces between the disciplines in your team.
+* Determine the questions you need to ask in consultancy sessions.
+* How to keep the team moving so that they are not sitting around waiting for you.
 
 ## Assignments
 This advice needs to be integrated into the overall requirements of each assignment.
@@ -83,21 +83,26 @@ This advice needs to be integrated into the overall requirements of each assignm
 #### A7 Benchmark Building Model
 * Support the team to define the required information for the existing and proposed building.
 
+#### A8 Client Report
+* Document your findings from modelling the exisiting building and integrating the solutions from teh different subjects into a single soultion. What can you advise the client based on this?
+
 ### Part B
 
-#### Drawings
-You should include the following drawings:
-- (1) Section(s),
-- (2) 3D view(s),
-- (3) Ground floor plan(s),
-- (4) Office plan(s).
+#### B1 Drawings
+Check the drawings for Part B and agree wiht your PMs which draweings your are responsible for.
 
-These should describe the different elements in the design including those from the other subjects.
+https://timmcginley.github.io/41936/Assignments/B.html#b1-drawings
+
+#### B2 Client Report
+Provide your architectural guidance for the client on the proposed options. It should clearly explain the different options and guide the client to help their decision. Remember to empathise with them in terms of them wanting some autonomy in the project but also being very busy. Present your guidance in a way that is easy for them to make a meaningful decision.
+
+#### B3 Invoices
+Provide your hours to PM to enable them to collate them for Part B.
 
 ### Part C 
 
 #### C Consultant Report
-The Part C subject report for architecture will be organised in the themes / elements of the project, furthermore, it will clearly explain the different available options and discuss the decision process and trade offs. Examples of how the Team KPIs and project beats have been used to inform the deign are also important. This is your main opportunity for written formative (in progress feedback from both your teacher and peers, so make the most of it 😊 
+Your report must be organised as described below. Remember to describe how your Team KPIs and project beats have been used to inform the design. This is your main opportunity for written formative (in progress feedback from both your teacher and peers) so make the most of it 😊 
 
 Report Structure:
 * **Front Page,** view of building from eye level looking up.
