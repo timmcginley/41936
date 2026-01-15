@@ -117,16 +117,30 @@ Report Structure:
     *  Cafe
 * **Structure**, Core, column placements and design
 * **Facade**, Design principles and materials
-* **Building Flows / MEP**, integration
-* **Basement** / Substructure, bike prking and storage.
+* **Building Flows / MEP**, integration of MEP into Architecture - include an example of how you worked together.
+* **Basement** / Substructure, bike parking and storage.
 * **Evacuation & Safety** Specific Evacuation
-* **Summary** and questions
+* **Innovation** Specific architectural innovation in your project.
+* **Summary** and questions - this will help to guide our feedback.
 * **Copy of invoice sent to PM**
 * **Appendix** / Fire evacuation calculations
 
 ### C BIM
-LOD to be defined by PM in the ICT Agreement. This model should include all the spaces. 
-Facade, entrance, ground floor and reception area with furniture and all the pieces, representative floors fully modelled (everything on those floor levels), copy room, toilets, gym, lockers, auditoriums, sky bar, observatory, cafeteria, restaurant, bike parking, car parking (represented by adding only some elements (car, bikes) not all of them) the elevator shaft on top of the building, stair access to the building roof, façade cleaning system crane.
+Check the general Part C BIM requirements. LOD to be defined by PM in the ICT Agreement.
+
+https://timmcginley.github.io/41936/Assignments/C.html#c3-bim
+
+* Model should include
+* all the spaces,
+* facade,
+* entrance,
+* ground floor and reception area including furniture
+* offices inlduing furniture (especially desks / chairs)
+* service spaces i.e. toilets with furniture.
+* auditoriums including seats and screens
+* cafeteria, bike parking,
+* stair access to the building roof,
+* façade cleaning system.
 
 ### Part D 
 #### D Consultant Report
