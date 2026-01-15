@@ -35,7 +35,7 @@ Architectural Consultants have the following skills and motivations:
 * BIM modelling and analysis skills
 
 ### Desirable
-* Taken a design studio
+* Previously taken a design studio
 * Experience with computational design
 * Material design / engineering experience
 * Fire safety design knowledge
