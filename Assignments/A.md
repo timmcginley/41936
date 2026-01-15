@@ -92,6 +92,8 @@ The Design Management Schema (DMS) defines the responsibilities for all project 
 
 ## A5 ICT Contract
 PM to complete an ICT Contract for the team. A template can be found on Learn.
+This is a living document that should be updated throughout the project. Particular care should be taken to define:
+* LOD for each stage in the project and the responsible consultant.
 <hr>
 
 ## A6 IDS for consultant BIM (Optional)
