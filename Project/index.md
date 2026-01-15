@@ -12,7 +12,13 @@
 
 ## Project Requirements 2026
 
-This course has run since 2007 and we have now run the same 6 times with the same project, resulting in 59 buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understnad and improve our interdisciplinary design experiences. However from 2025 you will be able to choose from different buildings and their briefs will be set by emerging societal needs. 
+Th ABD course has run since 2007 and since 2019 has mostly repeated the same project resulting in:
+Building 313 - 59 buildings
+Building 308 - 7 buildings
+Building 115 - 6 buildings
+Building 304 - 3 buildings
+
+59 comparable buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understand and improve our interdisciplinary design experiences. Since 2025 we have choose from different projects and their briefs will be set by emerging societal needs. 
 
 [little bit about last year]
 
