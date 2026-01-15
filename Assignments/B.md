@@ -9,6 +9,7 @@ At this point in the project you need feedback on 2 different design options so 
 * B1 Drawings (inc. 2 options)
 * B2 Client Report (Your team's integrated design recommendations)
 * B3 Part B Invoice
+* B4 Part B BIM (inc. 2 options) (IFC only)
 
 Documentation of 2 Different design options. 
 
@@ -147,6 +148,16 @@ Client will select their preferred options based on the guidance that you provid
 * Should include documented performance against KPIs / Beats to demonstrate on track.
 * File name: [YEAR]-[TEAM]-[PART]-Invoice.file
 * Example for part b invoice in team 10: _25-10-B-Invoice.pdf_
+
+<hr>
+
+## B4 BIM
+* 2 x IFC models representing the different options. These models will be used for information extraction.
+* Please pay particular attention to:
+    * Make sure models are located in the same position
+    * All Required IfcSpaces are included as required from your selected project breif
+* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
+* Example for part B invoice in team 10: _25-10-B-ARCH.pdf_
 
 <hr>
 

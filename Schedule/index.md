@@ -41,7 +41,7 @@ _Feb 3 2025 13:00 - 17:00_
 * PM: What values do you want your team to have?
 * Aspirations: How ambitious are you?
 
-<! --- 2025 WISHLIST
+<!--- 2025 WISHLIST
 AIM improve student independence etc. (Question 10)
 Special session of invitied speakers to workshop how the students could bid their own time - maybe this could be week 1 instead?
 -->
@@ -365,6 +365,7 @@ Roskilde Festival 2025 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
