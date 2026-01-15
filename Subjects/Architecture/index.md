@@ -3,13 +3,16 @@
 ![image](https://github.com/user-attachments/assets/5fa8748b-4925-42ed-8948-29abcc847de5)
 Foster+Partners office, London, UK.
 
-**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this Architect's focus on the design of the [spaces], [facades] and [finishes] and communication of the design.** 
+**Building design requires respectful collaboration between different design and engineering disciplines. Architectural Consultants need to design a building that provides the function required by the client, that is greater than the sum of its parts. To do this Architect's focus on the design of the [spaces], [facades], [finishes], detailing and communication of the design.** 
 
->However, a burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
+Architectural consultants need to quickly exploring potential form (3D shape) and spatial arrangement options for the building considering:
 
-Therefore, Architectural / Fire consultants need to get their heads into the project quickly and start exploring the potential form (3D shape) and spatial arrangement of the building to support the investigations of the other subjects. If this initial work is done well, it will provide you with a valuable perspective on the building design process. Whilst you may have your 'own' ideas for the building, you will find that you will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
+* A burning or collapsing building is **not** a beautiful building. We need to design SAFE buildings.
+* Whilst you may have your 'own' ideas for the building, a truely great building is the product of many minds.
 
-Chief Consultant: Tim McGinley (Arch) and Anne Dederichs (Fire)
+You will need to be explore many alternative design solutions to synthesise the needs of all the consultants of the team. Check the integration notes below for more information.
+
+Chief Consultant: Tim McGinley and Niklas Elsgaard
 
 This document covers the following:
 
@@ -23,14 +26,19 @@ This document covers the following:
 ## Skills and motivation
 Architectural Consultants have the following skills and motivations:
 
-* Experience with Architectural design (essential - at least one member)
-* Taken a design studio (Desirable)
-* Experience with computational design (Desirable)
-* Material design / engineering experience (Desirable)
-* Ability to listen and grow from feedback (essential)
+### Essential (at least one member)
+* Experience with Architectural design
+* Ability to listen and grow from feedback
 * Willingness to explore different options
-* Enthusiasm to find solutions that work for the whole team.
-* A consultancy that covers interest in resolving both the conceptual and detail challenges
+* Enthusiasm to find solutions that work for the whole team
+* Interest in resolving both the conceptual and detail challenges
+* BIM modelling and analysis skills
+
+### Desirable
+* Taken a design studio
+* Experience with computational design
+* Material design / engineering experience
+* Fire safety design knowledge
 
 ## Your chief consultant can support you with
 In the project you will be supported by the chief consutlant with the following:
