@@ -1,4 +1,4 @@
-# Generate Graph from BIM Model
+# Generate Graph from BIM Model(ARCH)
 The following contains a step by step guide and a list of requirements to gerenrate a graph from a basic BIM model: 
 ## Basic BIM Requirements
 ### 1.The following elements must be modeled in the BIM model:
@@ -29,16 +29,7 @@ Each room must include the following attributes:
 - Volume
 - Occupancy
 
-#### Pharma Projects (ISO Grade)
-- If a room has an ISO grade, write it **after the room name**, separated by a hyphen.
 
-**Example:**
-
- `Weighing Room - ISO 7`
-
- `Clean Corridor - ISO 8`
-
-- If a room is **unclassified**, do **not** add anything after the room name.
 
 ---
 
@@ -105,6 +96,8 @@ Edges represent:
 ### Graph Visulaization
 To see the graph in the graph viewer, clone the GitHub repository [ABDGraph GitHub repository](https://github.com/rominabarouti/ABDGraph)
  to your computer and follow the instructions in the README to run it locally.
+
+
 
 
 
