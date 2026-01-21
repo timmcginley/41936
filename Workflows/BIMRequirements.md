@@ -50,9 +50,11 @@ Each room must include the following attributes:
 
 - Follow the instructions below to ensure the IFC export and room attributes are set up correctly.
 
-![IFC export settings](ifc%201.png)
 
-![IFC property mapping](ifc%202.png)
+<img width="980" height="613" alt="ifc 1" src="https://github.com/user-attachments/assets/4af93649-6811-4070-8fb6-8eb1a14e45b5" />
+
+
+<img width="980" height="617" alt="ifc 2" src="https://github.com/user-attachments/assets/46bceb01-e206-4e9e-97a5-41fe4ead3b43" />
 
 
 ---
@@ -103,5 +105,6 @@ Edges represent:
 ### Graph Visulaization
 To see the graph in the graph viewer, clone the GitHub repository [ABDGraph GitHub repository](https://github.com/rominabarouti/ABDGraph)
  to your computer and follow the instructions in the README to run it locally.
+
 
 
