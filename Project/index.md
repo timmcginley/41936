@@ -13,10 +13,10 @@
 ## Project Requirements 2026
 
 Th ABD course has run since 2007 and since 2019 has mostly repeated the same project resulting in:
-Building 313 - 59 buildings
-Building 308 - 7 buildings
-Building 115 - 6 buildings
-Building 304 - 3 buildings
+* Building 313 - 59 buildings
+* Building 308 - 7 buildings
+* Building 115 - 6 buildings
+* Building 304 - 3 buildings
 
 59 comparable buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understand and improve our interdisciplinary design experiences. Since 2025 we have choose from different projects and their briefs will be set by emerging societal needs. 
 
@@ -24,22 +24,23 @@ Building 304 - 3 buildings
 
 This year's brief responds in part to recommendations from previous students that the course should focus on:
 * Renovation and reuse of existing buildings
-* Reuse / circularity of materials.
-* Support exploration of emerging and biobased materials and components
+* Reuse / circularity of materials
+* Benchmarking sustainability 
+<!--  2025 Support exploration of emerging and biobased materials and components -->
 
 Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. The design of your building should satisfy the following requirements. Remember that Project requirements in this course justify 1/3 of your grade for the course. This includes the list below AND and any additional requirments introduced by the client through the process.
 
 ## The Project
 
-DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one of three existing buildings 115, 304 or 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
+DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one existing building on campus, Building 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
 ### The Client
 
-Buildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. the client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people wiht different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
+Buildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. The client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people with different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
 
 >  We need to take an ordinary DTU building and 'undiscipline' it, we need to make it department free, a place where students or reserachers could book space to work together on specific projects and meet for weeks not hours. **This building will be called DTU Fri**.
 
-The client intends to make a donation to DTU to enable this project, however they have lots of other projects and are aware that they can easily become distracted. Therefore it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
+The client intends to make a donation to DTU to enable this project, however they have lots of other projects and are aware that they can easily become distracted. Therefore, it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
 
 ### 4 Project KPIs (Key Performance Indicators)
 
@@ -53,7 +54,7 @@ In week 1 of the project, the PMs set their KPIs to describe the values of the t
 The total number of permanant desks in your building.
 
 #### 02: DGNB Lite Level
-DTU wants B313 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM:
+DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM
 
 #### 03: LCA / user
 It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. 
@@ -74,8 +75,8 @@ The construction cost level is decided by your PM. Refer to the [PM consultant i
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
 | DGNB Lite Level           | Platinum | Gold    | Silver  |
-| LCA / user (CO2kgeq/m2/User/Year) | 60       | 80      | 100     |
-| Construction Cost (dkk/m2)| 30.000   | 35.000  | 40.000  |
+| LCA / user (CO2kgeq/m2/User/Year) | 40       | 60      | 80     |
+| Construction & Facility Management Cost(dkk/m2)| 25.000   | 30.000  | 35.000  |
 
 
 In the [first session](/Schedule/index.md#week-01---part-a) (PM Only): If you are in PM decide on the KPI values and make a describe these in the provided form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
@@ -111,24 +112,6 @@ You should choose one of the following buildings to renovate.
 
 Current GFA Gross (4.684 m2) Net (4.320 m2)
 * More complex renovation (space plan) but less floors requied on top.
-
-### Building 304
-![image](https://github.com/user-attachments/assets/a56be984-a5a6-49b0-b181-c7a2454215b0)
-
-Current GFA Gross (1.810 m2) Net (1.623 m2)
-* Some cellular offices but mainly computers
-* The computers will be moved to another location
-* Building could be demolished but materails should be retained.
-* Most suitable project for rebuild
-
-### Building 115
-![image](https://github.com/user-attachments/assets/e1e2e378-0c30-4f28-91c8-9a5a6741ad4d)
-Current GFA Gross (5.736 m2) Net (5.188 m2)
-* Currently used as offices only
-* Needs to be Modernised
-* Improve collaboration
-* Interaction between students and staff
-* Most simple renovation case, but would require more floors on top
 
 ### R1: Height limit 27 m
 
@@ -208,8 +191,9 @@ The building must include a café for minimum 50 persons. Consider what faciliti
 
 ### S05: Meeting rooms
 
-* 2 x 25 people <mark>[adjust to new brief]</mark>
-* 10 x 15 people <mark>[adjust to new brief]</mark>
+* 1 x 25 people
+* 5 x 15 people
+* 6 x 6 people
 
 ### S06: Soundproof Office Booth
 5 booth per office and student floors for 1-2 person.
@@ -242,5 +226,27 @@ Fire requirements for all teams:
 * Space for sprinkler, sprinkler needed 
 * Raising pipes 
 * Rescue elevator 
-* No combustible surfaces 
-* R120 rating for all structural elements
+* No combustible surfaces
+
+  
+<!--  2025 Fire Safety: R120 rating for all structural elements -->
+
+<!-- 2025 
+### Building 304
+![image](https://github.com/user-attachments/assets/a56be984-a5a6-49b0-b181-c7a2454215b0)
+
+Current GFA Gross (1.810 m2) Net (1.623 m2)
+* Some cellular offices but mainly computers
+* The computers will be moved to another location
+* Building could be demolished but materails should be retained.
+* Most suitable project for rebuild
+
+### Building 115
+![image](https://github.com/user-attachments/assets/e1e2e378-0c30-4f28-91c8-9a5a6741ad4d)
+Current GFA Gross (5.736 m2) Net (5.188 m2)
+* Currently used as offices only
+* Needs to be Modernised
+* Improve collaboration
+* Interaction between students and staff
+* Most simple renovation case, but would require more floors on top
+-->
