@@ -28,4 +28,4 @@ In 2025 the course has 200 students.
 4. Consultancies collaborate in the teams over 4 stages to design a building.
 
 ## What is the Building?
-In 2025 we focus on three renovation / reuse options on DTU Campus that comply with DTU Campus plan and the municipalities plan. Check this year's [project](/Project) for more information.
+In 2026 we focus on the renovation / reuse options for DTU Campus that comply with DTU Campus plan and the municipalities plan. Check this year's [project](/Project) for more information.
