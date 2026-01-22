@@ -1,11 +1,11 @@
 # Materials / LCA
 ![image](https://github.com/user-attachments/assets/c305534c-ac06-4972-9f27-dccbdb2e6e44)
 
-*The role of Materials consulant in Adnvavced Building Design is essential to explore the emerging potential of an materials designer / engineer as an integral part of the building design team.*
+*The role of Materials consulant in Advanced Building Design is essential to explore the emerging potential of an materials designer / engineer as an integral part of the building design team.*
 
-Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportubnity to deisgn and analyse new materials that satisfy your project team's needs.
+Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportunity to deisgn and analyse new materials that satisfy your project team's needs.
 
-Chief Consultant: Navid Ranjbar.
+The materials subject puposefully does not have an assigned chief consultant as it is a highly independent role. However you will have access to an LCA consultant.
 
 * Skills and learning
 * Assignments
