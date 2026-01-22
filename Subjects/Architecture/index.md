@@ -1,4 +1,4 @@
-# Architecture / Fire
+# Architecture
 
 ![image](https://github.com/user-attachments/assets/5fa8748b-4925-42ed-8948-29abcc847de5)
 Foster+Partners office, London, UK.
