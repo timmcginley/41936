@@ -12,21 +12,21 @@
 
 ## Project Requirements 2026
 
-Th ABD course has run since 2007 and since 2019 has mostly repeated the same project resulting in:
+The ABD course has run since 2007 and since 2019 has mostly repeated the same project resulting in:
+
 * Building 313 - 59 buildings
 * Building 308 - 7 buildings
 * Building 115 - 6 buildings
 * Building 304 - 3 buildings
 
-59 comparable buildings with (roughly) the same brief - the main difference is changes in height limits. This has been great for developing a unique data set of common comparable buildings, that we can use to better understand and improve our interdisciplinary design experiences. Since 2025 we have choose from different projects and their briefs will be set by emerging societal needs. 
+* Total = 75 Comparable Buildings
 
-[little bit about last year]
-
-This year's brief responds in part to recommendations from previous students that the course should focus on:
-* Renovation and reuse of existing buildings
+This has been great for developing a unique data set of common comparable buildings, that we can use to better understand and improve our interdisciplinary design experiences. Since 2025 we have choose from different projects and their briefs will be set by emerging societal needs. This year's brief responds in part to recommendations from previous students that the course should focus on:
+* The realtionship between architecture and MEP
+* Transformation of existing structures
+* Shifting mindset from students to consultants.
 * Reuse / circularity of materials
 * Benchmarking sustainability 
-<!--  2025 Support exploration of emerging and biobased materials and components -->
 
 Your building and your design process should be agile and prepared for change - neither should be surprised by it. Neither should be too precious, the best results are rarely obtained first time. The design of your building should satisfy the following requirements. Remember that Project requirements in this course justify 1/3 of your grade for the course. This includes the list below AND and any additional requirments introduced by the client through the process.
 
