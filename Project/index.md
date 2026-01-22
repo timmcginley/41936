@@ -54,7 +54,7 @@ In week 1 of the project, the PMs set their KPIs to describe the values of the t
 The total number of permanant desks in your building.
 
 #### 02: DGNB Lite Level
-DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM
+DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools) for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM
 
 #### 03: LCA / user
 It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. 
