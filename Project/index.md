@@ -86,15 +86,15 @@ In the [first session](/Schedule/index.md#week-01---part-a) (PM Only): If you ar
 
 ## The Site
 ![image](https://github.com/user-attachments/assets/b4940d8a-18dc-45a0-a71b-71547deae4f2)
-Overview of the different available sites available on DTU Lyngby Campus
+Overview of the current and previous building sites on DTU Lyngby Campus.
 
-The site of the project is DTU Lyngby Campus. You will be able to choose from three different sites including:
+The site of the project is DTU Lyngby Campus. 
 
 ### Site Boundary 
 The site boundary should be the same as the existing building.
 
 ## The Building
-Your team should develop a design to renovate building 115, 304 or 308. It should be:
+Your team should develop a design to renovate building 308. It should be:
 * inviting, encourage inclusion and follow Universal Design Principles.
 * designed for multiple users who will share arrival areas and a number of facilities.
 * 'non' disciplinary / undisciplined, supporting interdisciplinarity, creativity, discovery and collaboration.
