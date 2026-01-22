@@ -1,20 +1,20 @@
 # PM/ICT
 
 ![image](https://github.com/user-attachments/assets/6dcc98ea-5000-4d5d-a29d-cc650d66972c)
+Chief Consultant: Jan Karlshøj
 
-**The project manager in 2025 is management with a small m. The aim of the course is to support the whole design team to collaborate and gain confidence in innovating,  design decisions. The role of PM is therfore to:**
+**The aim of the course is to support the whole design team to collaborate and gain confidence in innovating, design decisions. The role of PM is therfore to:**
 * Define their professional values and build a team that reflects these
-* Remove barriers to collaboration and
+* Remove barriers to collaboration
+* Ensure communication and compromise amongst disciplines as 1/3 of the assessment is integration
 * Align information processes in the team and support OpenBIM tools processes and standards
 * Ensure project deliverables are created and submitted on time
 * Apply and reflect on different strategies to support their team
-* Track the KPIs and Design Management Scheme to guide and encourage their team
+* Track the KPIs to guide and encourage their team
 * Clearly communicate and adapt their style of management to balance the needs of the team and the project.
 * Respond to requests and any changes communicated to them in writing by the client at any point in the project.
 
-According to “Description of Services for Building and Landscape 2018”: 2.2 ICT management -  In respect of agreed digital design work, the ICT manager is responsible for coordinating any digital cooperation between the consultants, design contractors, the client and any authorities together with the design manager. The digital design cooperation is organized based on the ICT specification of the consultancy agreement. If no ICT specification has been prepared, the ICT manager will organize the digital cooperation together with the consultants.
-
-Chief Consultant: Jan Karlshøj
+According to “Description of Services for Building and Landscape 2018”: *2.2 ICT management -  In respect of agreed digital design work, the ICT manager is responsible for coordinating any digital cooperation between the consultants, design contractors, the client and any authorities together with the design manager. The digital design cooperation is organized based on the ICT specification of the consultancy agreement. If no ICT specification has been prepared, the ICT manager will organize the digital cooperation together with the consultants.*
 
 ## Requirements 
 
@@ -25,7 +25,7 @@ The PM consultants need to check that work has been done and is properly submitt
 The proposed scheme must be within the budgetary framework including all parts of the building + operational cost + design cost.
 
 ### On time
-The proposed scheme must be within the time frame.
+The proposed design scheme must be within the time frame.
 
 ### Sustainable
 The proposed scheme must meet the target DGNB class.
@@ -37,26 +37,20 @@ The design project must be well managed.
 Teams should make use of digital tools and create a BIM Building Information Model.
 
 ### DGNB
-- [ECO2.2](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#eco22---lcc-and-continues-cost-estimation-c--------------points-total-200pts)
-- [TEC4.1](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#tec41--ease-of-recovery-and-recycling-d------------points-total-165pts)
-- [TEC4.2](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#tec42--ease-of-cleaning-building-components-c------------points-total-40pts)
-- [PRO5.1](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#pro51---comprehensive-project-brief-a----------------------points-total-45pts)
-- [PRO5.2](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#pro52---transdisciplinary-collaboration-and-co-design-a-c--------------points-total-120pts)
-- [PRO5.3](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#pro53-sustainability-aspects-in-tender-phase-a-c-----------------------points-total-60pts)
-- [PRO5.4](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#pro54--end-user-considerations-during-design-process-b-c---------------points-total-70pts)
-- [PRO5.5](https://github.com/timmcginley/41936/blob/main/Tools/DGNBLite.md#pro55-comprehensive-project-brief-c------------points-total-55pts)
+
+Teams should ensure that the DGNB criteria's are satisfied based on their chosen KPI.
 
 ## Integration
 
 ### PM/ICT -> Architecture/Fire
 The integration between the ICT/PM and architecture group is really important. A symbiotic relationship between the two subjects can help improve the quality, communication and timely design decisions. Both subjects have shared role in space planning - Architecture with the visible and ICT/PM with the hidden spaces in the building.
 - Create the BIM Model template together with the Architect and share it for the entire team to use the same for all subject models
+- Spatial Cooridination
 - Continuously exchange BIM models
-- Coordinate waste management system applied in the building
+- Quantities
 
 ### PM/ICT -> Structures
-- Spatial coordination and choice of structural system
-- Location of stiffening system
+- Spatial coordination of the structural system
 - Stimulate coordination with Architecture,MEP, Geotech, and Fire
 - Stimulate sustainable considerations
 - Continuously exchange BIM models
@@ -81,6 +75,7 @@ The integration between the ICT/PM and architecture group is really important. A
 
 ### PM/ICT -> Materials 
 - Assist “Materials” in quantity take-off
+- Assist in satifsying the DGNB criteria
 - Continuously make access to Quantities/BIM models
 - Classification/types of materials
 
@@ -92,15 +87,25 @@ The integration between the ICT/PM and architecture group is really important. A
 Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and a as for the team for the Part A and Part D period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
 
 #### Design management Schema
-The design management scheme (DMS) (e.g. an activities-Gantt chart) has to be created to define your strategy for accomplishing the requirements set for the 13-week and the 3 week period for the whole team. To satisfy learning objectives 03 and 02. Note that these are general learning objectives that apply to all subjects and whilst it is your ‘responsibility’ in PM to deliver and submit the DMS, you should encourage the other subjects to support you in this. The design management scheme (DMS) should:
+The design management plsn has to be created to define your strategy for accomplishing the requirements set for the 13-week and the 3 week period for the whole team. To satisfy learning objectives 03 and 02. Note that these are general learning objectives that apply to all subjects and whilst it is your ‘responsibility’ in PM to deliver and submit the design management plan, you should encourage the other subjects to support you in this. The design management plan should:
 
-* Identify milestones and main tasks in the design of the project, their order and mutual dependencies (e.g., Design Structure Matrix), according to the course-specific view on System Engineering
-* Define the methods used to ensure spatial coordination, vertically and horizontally in the design of the building, inside and outside of the building.
-* Identify major components that should be coordinated
-* Describe the methods for selecting the ICT tools to be used e.g. why you choose one tools instead of another, when you use it, how you use it, who is involved, how do you ensure projects development tracking using these tools and processes. The team contract must be coordinated and created by the PM, as a formal document to which all team members bind to. It has to be signed by all team members and uploaded as a separate PDF file but together with the 4 week plan in the same zip file.
+1. Identify milestones and main tasks in the design of the project, their order and mutual dependencies
+2.	Define the methods used to ensure spatial coordination, vertically and horizontally in the design of the building, inside and outside of the building.
+3.	Identify major components that should be coordinated
+4.	Describe the methods for selecting the ICT tools to be used e.g. why you choose one tools instead of another, when you use it, how you use it, who is involved, how do you ensure projects development tracking using these tools and processes. 
+5.	The team contract must be coordinated and created by the PM, as a formal document to which all team members bind to. It has to be signed by all team members and uploaded as a separate PDF file but together with the 4 week plan in the same zip file.
+
 
 ### Part B
 Make sure that the team develops integrated drawings, including alternative solutions. Capture input from teachers' comments and decide, together with the team, on your recommendation for the solution that your team is suggesting.
+
+#### Subject Drawings
+In Part B, present the following drawings:
+1.	Selected IT tools for simulation/analysis and BIM-modelling
+2.	How and when information are exchanged inside the team
+3.	Coordinated schedule of activities for the entire team in the 13-week period
+How the team will meet client requirements
+
 
 ### Part C
 #### C Client report
@@ -126,11 +131,11 @@ Contents:
     * Cost of design. There’s been a bit of confusion about whether to include design costs in the total building cost. For this case, it’s optional — so you can decide whether to include them or leave them out.
     * Rent or lease of equipment used during construction
     * Overhead related to managing the erection of the building
-* Maintenance for 50 years should be calculated but should not be included in the allowed budget limit.
-    * Cleaning of the building and site for 50 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
+* Maintenance for 10 years (without inflation) should be calculated but should not be included in the allowed budget limit.
+    * Cleaning of the building and site for 10 years (site: lawn, façade: windows, inside: core, office space, meetings room, bar etc.)
     * Supply (water, electricity, heat, cooling, gas)
     * Waste (‘solid waste’, sewage)
-* Should not be included in the estimate:
+* Should NOT be included in the estimate:
     * Furniture
     * Cost of site
     * Building permit
