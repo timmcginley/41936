@@ -152,7 +152,7 @@ Document how the interfaces between the subjects were coordinated (BCF can be us
 The BIM Model must include spaces and should in general aim to be at Dikon LOD 300. Your responsibility is to coordinate the BIM models to benefit your building team. The submission at this stage may not be entirely clash-free or undergo full quality assurance, but it should represent progress towards quantity take-off for cost calculations. However, your ultimate goal should be to deliver a coordinated model by the end of the course. The BIM Model information must comply with the ICT Contract rules.
 
 ### Part D
-The Part D reports are a development of the previous reports. This is true for all subjects.
+The Part D reports are a development of the previous reports. This is true for all subjects. This is a continuation on the 13 week report but with more detail on the themes discussed in the course. This report describes the work done to develop a preliminary design (LO9). collaborate with the other specialists (LO1) integrate the different requirements into your architectural design (LO5) explore alternatives (LO6) justify and defend your design decisions (LO8)
 
 #### D Client report
 Contains the final:
@@ -173,7 +173,7 @@ Contains the final:
 * Explain how the review and quality assurance processes were performed.
 
 #### D BIM
-Your responsibility is to coordinate the BIM models to the benefit of your building team. This includes clash detection and quality assurance and cost calculations. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues (e.g., clashes, misplaced objects, duplicated objects etc.). Use the VR session as a team, to ensure you find these issues, and together with the clash detection analysis you will conduct, will result in a good overall BIM Management. The BIM Model information must correspond entirely to the ICT Contract rules. For this assignment an overall increase in the quality and coordination has to be seen from the 13-week period. Your Model has to be a in a ready to build stage. Moreover, this will be analysed during the final presentation and assessment of the teamwork.
+Your responsibility is to coordinate the BIM models to the benefit of your building team. This includes clash detection and quality assurance and cost calculations. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues (e.g., clashes, misplaced objects, duplicated objects etc.). Use the VR session as a team, to ensure you find these issues, and together with the clash detection analysis you will conduct, will result in a good overall BIM Management. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues. The BIM Model information must correspond entirely to the ICT Contract rules. For this assignment an overall increase in the quality and coordination has to be seen from the 13-week period. Your Model has to be a in a ready to build stage. Moreover, this will be analysed during the final presentation and assessment of the teamwork.
 
 As a general rule for all subjects: The entire building has to be design at information Dikon LOD 300 and one floor (suggested to detail all subject elements on that specific floor) has to be LOD 325. 
 ```{hint}
