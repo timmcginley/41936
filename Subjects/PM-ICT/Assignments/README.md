@@ -1,3 +1,5 @@
+<!-- 2025
+
 # PM/ICT Assignments
 ## Part A
 Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and a as for the team for the **Part A** and **Part D** period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
@@ -109,3 +111,5 @@ What to include:
   
 Note	All subjects are required to model having interoperability/coordination as a first rule
 If other subjects need help, help your team members.
+
+-->
