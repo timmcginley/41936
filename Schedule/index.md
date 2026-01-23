@@ -6,7 +6,7 @@
 *
 */index
 ```
-Welcome to Advanced Building Design 2025!
+Welcome to Advanced Building Design 2026!
 
 Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
 
@@ -17,7 +17,7 @@ Make sure you have read the course guide before the first session
 ## Week 01 - Part A
 We will meet for the first session in **Auditorium 32 in building 306.** Following the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
 
-_Feb 3 2025 13:00 - 17:00_
+_Feb 2 2026 13:00 - 17:00_
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
@@ -365,6 +365,7 @@ Roskilde Festival 2025 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
