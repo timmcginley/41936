@@ -86,7 +86,7 @@ The integration between the ICT/PM and architecture group is really important. A
 ### Part A
 Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves and a as for the team for the Part A and Part D period and provide these to the PM in a timely manner to be collectively coordinated by your PM group.
 
-#### Design management Schema
+#### Design Management Plan
 The design management plsn has to be created to define your strategy for accomplishing the requirements set for the 13-week and the 3 week period for the whole team. To satisfy learning objectives 03 and 02. Note that these are general learning objectives that apply to all subjects and whilst it is your ‘responsibility’ in PM to deliver and submit the design management plan, you should encourage the other subjects to support you in this. The design management plan should:
 
 1. Identify milestones and main tasks in the design of the project, their order and mutual dependencies
