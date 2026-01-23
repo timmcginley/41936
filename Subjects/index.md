@@ -6,7 +6,7 @@
 *
 */index
 ```
-## Consultant subjects in 2025
+## Consultant subjects in 2026
 
 * All subjects need to have an innovation in the system they are designing.
 * All subjects need to make a clear scientific claim about an advanced element in their design.
