@@ -1,3 +1,4 @@
+<!-- 2025 
 # Interdisciplinary PM/ICT
 
 ## PM/ICT -> Architecture
@@ -22,3 +23,4 @@ The integration between the ICT/PM and architecture group is really important. A
 - Stimulate sustainable considerations
 - Continuously exchange BIM models
 - Quantities
+-->
