@@ -1,8 +1,8 @@
 # Advanced Building Design
 
-**Designing better, more sustainable buildings requires interdisciplinary analysis and improvement from *all* members of the design team *throughout* the design process, is not enough, we are engineers, we need to prove it!**
+**Designing better, more sustainable buildings requires interdisciplinary analysis and improvement from *all* members of the design team *throughout* the design process. But this is not enough, we are engineers, we need to prove it!**
    
-Advanced Building Design is an interdisciplinary innovation course that has been runnning at DTU for 18 years and provides a collaborative, analysis based, professional design experience. We do not just wish to replicate real world design processes. We want to define new ways of working that ultimately, through the integration into the [circular education system] demonstrate how we can design better, more sustainable buildings.
+Advanced Building Design (ABD) is an interdisciplinary innovation course that has been runnning at DTU for 18 years and provides a collaborative, analysis based, professional design experience. We replicate real world design processes to test, improve and define new tools, processes and appraoches to design better, more sustainable buildings. Course participants leanr through the seamless integration  of research, teaching and innovation supported by the [circular education system] concept.
 
 ## Course Features
 * Collaboration experience with peers to produce a 'real' design in one of 6 possible roles.
@@ -13,7 +13,7 @@ Advanced Building Design is an interdisciplinary innovation course that has been
 * Benchmark your performance against previous years and other teams to help you design 'better' buildings.
 * Track your design progress with project [BEATS](/Project/BEATS) and 4 [KPIs](/Project/KPIs)s (Key Performance Indicators)
 * Gain experience working with [DGNB](/Tools/DGNB/README.md) (simplified version)
-* Selected Projects get to present their work in Mentor's office.
+* Selected Projects considered for a series of awards and experiences.
 
 ## When does it run?
 The course runs over the spring 13 week period on monday afternoons continuing throughout the June 3 week period. 
@@ -22,7 +22,7 @@ The course runs over the spring 13 week period on monday afternoons continuing t
 The course is designed to give interdisciplinary design and analysis experience to MSc Architectural Engineering and Civil Engineering students at the Technical University of Denmark. However other relevant disciplines are welcome to apply, please see the available [roles] for a better idea.
 
 ## How does it work?
-In 2025 the course has 200 students. 
+In 2026 the course has 150 students. 
 1. Participants choose a subject and form a consultancy within that subject (roughly 2 students per consultancy)
 3. Consultancies submit a tender to become part of a team (6 consultancies per team)
 4. Consultancies collaborate in the teams over 4 stages to design a building.
