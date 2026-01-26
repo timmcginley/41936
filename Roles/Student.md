@@ -16,10 +16,10 @@ It is up to you to balance these requirements.
 
 ## Your progress through the course
 The course progresses in 4 stages.
-* [Stage A: Analysis](https://github.com/timmcginley/41936/blob/main/Schedule/index.md#stage-a)
-* [Stage B: Options](https://github.com/timmcginley/41936/blob/main/Schedule/index.md#stage-b)
-* [Stage C: Client](https://github.com/timmcginley/41936/blob/main/Schedule/index.md#stage-c)
-* [Stage D: Details](https://github.com/timmcginley/41936/blob/main/Schedule/index.md#stage-d) in June
+* Stage A: Analysis
+* Stage B: Options
+* Stage C: Client
+* Stage D: Details ( in June)
 
 ## Learning Objectives
 The course covers the following [learning objectives](/LearningObjectives.md)
