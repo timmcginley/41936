@@ -10,7 +10,7 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## Stage A
 ### [Gross Floor Area (Total Above Ground)](GrossFloorArea.md)
-### [Total Height of Building](TotalHeightOfBuilding.md)
+<!-- 2025 ### [Total Height of Building](TotalHeightOfBuilding.md) -->
 ### [F2F Height](F2FHeight.md)
 
 ## Stage B
