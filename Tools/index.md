@@ -6,6 +6,10 @@
 */index
 ```
 These are some of the tools we use in this course.
+
+## [BEATS](Beats.md)
+These are the metrics alongside your KPIs that are to be tracked.
+
 ## [DGNB Lite](DGNBLite.md)
 We have used a simplified version of the DGNB schema we call DGNB lite for the last 3 years, this year we will update this to align with DGNB 2025.
 
