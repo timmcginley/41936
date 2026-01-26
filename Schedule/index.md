@@ -13,6 +13,7 @@ Our course runs on Monday Afternoons in the Spring semester and the 3 week perio
 ```{hint}
 Make sure you have read the student guide before the first session
 ```
+# Stage A
 
 ## Week 01 - Part A
 We will meet for the first session in **Auditorium 32 in building 306.** Following the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
@@ -162,7 +163,7 @@ Please bring<br>
 * Submit the work required for [Part A](/Assignments/A.md) on DTU Learn.
 
 <hr>
-
+# Stage B
 ## Week 05 - Part B *
 Location: Building 306 - Auditorium 32
 
@@ -202,6 +203,8 @@ _March 24 2025 13:00 - 17:00_
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 <hr>
+
+# Stage C
 
 ## Week 09 - Part C **/
 Location: Building 306 Auditorium 32
@@ -252,6 +255,7 @@ _May 12 2025 13:00 - 17:00_
 <mark>Check DTU Learn for the part C hand in date.</mark>
 
 <hr>
+# Stage D
 
 ## 3Week 1 - (04/06 - 06/06)
 
@@ -386,6 +390,7 @@ Roskilde Festival 2025 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
