@@ -16,9 +16,9 @@ It is up to you to balance these requirements.
 
 ## Your progress through the course
 The course progresses in 4 stages.
-* Stage A
+* Stage A 
 * Stage B
-* Stage C
+* [Stage C](https://github.com/timmcginley/41936/blob/main/Schedule/index.md#stage-c)
 * Stage D (in the June 3 week period)
 
 ## Learning Objectives
