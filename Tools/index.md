@@ -16,7 +16,7 @@ We have used a simplified version of the DGNB schema we call DGNB lite for the l
 ## [DesignGrid](DesignGrid.md)
 The design grid / Design Matrix
 
-## [LCA](LCAInTheBuiltEnvironment/index.md)
+## [LCA Guide](LCAInTheBuiltEnvironment/index.md)
 LCA in the built environment guide for Advanced Building Design Course focused on transformation. 
 
 ## [LCA Optimization and Collaboration](LCAOptimizationAndCollaboration/index.md)
