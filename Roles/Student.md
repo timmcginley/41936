@@ -18,6 +18,13 @@ It is up to you to balance these requirements.
 Students often forget that there is an equal weighting between integration, project, and subject requirements
 ```
 
+## Your progress through the course
+The course progresses in 4 stages.
+* Stage A: Analysis - A deep dive process to looking at the existing building, exisitng proposed solutions, and modeling your own proposed building.
+* Stage B: Options - The stage to start setting up the softwares needed, centralising your model, developing options, and obtaining preliminary feedback.
+* Stage C: Client - The stage to start developing and satisfyinf project and client requirements. It is expected that at this stage, it is still unfinished.
+* Stage D: Details (in June) - The stage to start detailing, finalizing your project requirements, ensuring integration and collaboration is possible, and presenting your awesome solutions.
+
 ## Where to find everything
 * Learn Course Content: any files that need to be uploaded will be on Learn. That includes Lectures, Literature, and software instalation guides.
 * Github Course Website: All information on the project, subject and assignment requirements can be found here. Use it as your single source of truth.
@@ -25,25 +32,20 @@ Students often forget that there is an equal weighting between integration, proj
  ```{hint}
 Tip: You can search through all github files in the search bar
 ```
-For Announcements:
+### For Announcements:
 * Learn for weekly/ larger announcements usually before class.
 * Teams for quick announcements during class (eg from TAs)
+
+## Softwares used in this course
+* There are a lot of softwares used in this course, check out both [Tools](/Tools.md) and [Workflows](/Workflows.md) to find more information about set up, installation, and use cases.
   
 ## Tips from previous students
 * Take your team contract seriously and regularly check in. 
 * Start modeling and sharing early. Bind early decisions
-* Ask other teams for quick comparisons
 * Clarify what matters for the grading before the 3 weeks in June.
 * Collaboration both in the teams and on models is very important.
 * Try and not to get bottlenecked in your progress by waiting for other disciplines.
 
-
-## Your progress through the course
-The course progresses in 4 stages.
-* Stage A: Analysis
-* Stage B: Options
-* Stage C: Client
-* Stage D: Details ( in June)
 
 ## Learning Objectives
 The course covers the following [learning objectives](/LearningObjectives.md)
