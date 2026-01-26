@@ -37,7 +37,7 @@ Tip: You can search through all github files in the search bar
 * Teams for quick announcements during class (eg from TAs)
 
 ## Softwares used in this course
-* There are a lot of softwares used in this course, check out both [Tools](/Tools.md) and [Workflows](/Workflows.md) to find more information about set up, installation, and use cases.
+* There are a lot of softwares used in this course, check out both [Tools](Tools/index.md) and [Workflows](Workflows/index.md) to find more information about set up, installation, and use cases.
   
 ## Tips from previous students
 * Take your team contract seriously and regularly check in. 
