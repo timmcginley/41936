@@ -11,7 +11,7 @@ Welcome to Advanced Building Design 2026!
 Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
 
 ```{hint}
-Make sure you have read the course guide before the first session
+Make sure you have read the student guide before the first session
 ```
 
 ## Week 01 - Part A
@@ -19,16 +19,18 @@ We will meet for the first session in **Auditorium 32 in building 306.** Followi
 
 _Feb 2 2026 13:00 - 17:00_
 
-| **Time**      | **Location** |**Activity**   |
-|---------------|--------------|------------|
-| 13:00 - 13:45 | 306/32 | **Course Introduction**|
-| 13:45 - 14:15 | 306/32 | **Subject Introduction**|
-| 14:15 - 14:25 | outside |  **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
-| 14:25 - 14:45 | outside |  **Create Companies**<br>Each subject subdivides into 16 separate companies (about 2 people) use teachers and TAs to help |
-| 14:45 - 15:00 | outside |  **Create Teams **<br>PMS present their team and then consultants apporach and choose in disciplinary waves |
-| 15:00 - 15:15 | outside |  **Team KPIS** <br>Establish points for team and get it signed by a TA. |
-| 15:15 - 14:00 | outside |  **Visit Buildings** <br>Define points for team and get it signed by a TA. |
-| 14:00 - 17:50 | freechoice |  **Team building** <br> get to know your team|
+| **Time**   | **Location** |**Activity**   |
+|------------|--------------|------------|
+| 13:00 - 13:30| B306/32  | **Course Introduction**|
+| 13:30 - 14:00| B306/32  | **Subject Introduction**|
+| 14:00 - 14:15| B306/32  | **Break**|
+| 14:15 - 14:30| B306/32  | **Introduction to Practicilaites, Workflows, and Stage A Plan**|
+| 14:30 - 14:40| outside  |   **Choose Subject**<br>Whole class divide into subjects Teachers and TAs will help where numbers are not even |
+| 14:40 - 15:00| outside |  **Create Companies**<br>Each subject subdivides into 12 separate companies (about 2 people) use teachers and TAs to help |
+| 15:00 - 15:15| outside |  **Create Teams **<br>PMS present their team and then consultants apporach and choose in disciplinary waves |
+| 15:15 - 15:45| outside  |  **Visit Buildings** |
+| 16:00 - 16:30| freechoice   |  **Team KPIS** <br>Establish points for team, get it signed by a TA, sign research consent form & sign up to groups on Learn. |
+| 16:00 - 17:00| freechoice   |  **Team building** <br> get to know your team|
 
 ### Questions
 * Which type of consultant do you want to be in this project?
@@ -48,40 +50,31 @@ Special session of invitied speakers to workshop how the students could bid thei
 
 ### Activity
 * Team formation
-    * find subject
+* Find subject
 In this first activity you will be asked to make a 'guesstimate' of the GFA for your building.
 * What **GFA** are you aiming at for your building?
 This requires that you define the F2F height.
 * Will you have a greater ceiling height on the ground floor?
 * Will you have different types of floors for different parts of the building?
-* 
+
 
 ## Week 02 - Existing Building
 Location: Building 117 Room 024 / Building 127 Room 014 / Atrium of 127
 
-_Feb 10 2025 13:00 - 17:00_
+_Feb 09 2025 13:00 - 17:00_
 
 ```{hint}
 Please bring<br>
 * A computer so that you can review and analyse the BIM and drawings for your chosen building.
-* A pencil / pen to sketch and help you communicate and explore ideas with your team.
-* Scissors / scalpel etc. to cut card will help you model the existing buildings.
-* A ruler will help you model it to scale and measure it so you can analyse it.
 ```
 Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will build a [physical model](/Assignments/A.md#a1-physical-building-model) of the existing building.
 
 | **Time**      | **Location** |**Activity**   |
 |---------------|--------------|------------|
-| 13:00 - 13:15 | 117/024 | **introduction** (Standing) |
-| 13:15 - 14:00 | T01-06 : 127/014 <br>T07-08 : Atrium <br>T09-16 : 117/024 | **Team meeting**|
-| 14:00 - 16:30 | Check below | **Analysis and Modelling** PMs subdivide team into analysis and build groups |
-| 16:30 - 17:00 | Check below |  **Documentation**<br> Document your existing model (photos) and share in MS Teams|
-
-
-### Team meeting 01
-* PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
-* Decide on who will build the model today and who will anlayse
-* How should the communicate throughout the day.
+| 13:00 - 13:15 | 117/024 | **Introduction to Part A** (Standing) |
+| 13:15 - 14:30 | subject rooms | **Disciplinary Masterclass on Building Transformation**|
+| 14:45 - 16:30 | Check below | **Analysis** Existing building analysis from a disciplinary perspective |
+| 16:30 - 17:00 | Check below |  **Documentation**<br> Document your analysis on existing model findings and upload to the Week 2 folder n MS Teams|
 
 ### Analyse the Existing Building
 * Analyse the BIM and drawing for the existing buildings.
@@ -108,6 +101,11 @@ _Feb 17 2025 13:00 - 17:00_
 * What systems did they use
 * Could the existing structure take more floors?
 
+### Team meeting 01
+* PMs add information to the [Teams.xls](https://dtudk.sharepoint.com/:x:/r/sites/course245955/Delte%20dokumenter/General/Teams.xlsx?d=w67e8ee0b5f9347e3bf9a967ab7ad2236&csf=1&web=1&e=RDGk6S) file in our MS Teams group
+* Decide on who will build the model today and who will anlayse
+* How should the communicate throughout the day.
+* 
 <!--- 2026
 ### Analyse client requirements
 * produce a document based on this
@@ -134,6 +132,13 @@ Location: Building 117 Room 024
 
 _Feb 24 2025 13:00 - 17:00_
 
+```{hint}
+Please bring<br>
+* A computer so that you can review and analyse the BIM and drawings for your chosen building.
+* A pencil / pen to sketch and help you communicate and explore ideas with your team.
+* Scissors / scalpel etc. to cut card will help you model the existing buildings.
+* A ruler will help you model it to scale and measure it so you can analyse it.
+```
 
 * Present your models in the Foyer of 127
 * Feedback on your models from the chief consultants
@@ -365,6 +370,7 @@ Roskilde Festival 2025 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
