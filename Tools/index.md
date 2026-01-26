@@ -7,7 +7,7 @@
 ```
 These are some of the tools we use in this course.
 
-## [BEATS](Beats.md)
+## [BEATS](Tools/BEATS/index.md)
 These are the metrics alongside your KPIs that are to be tracked.
 
 ## [DGNB Lite](DGNBLite.md)
