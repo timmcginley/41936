@@ -80,7 +80,7 @@ Arranged on DesignGrid
 
 ***
 -->
-## Retired in 2024
+<!-- ## Retired in 2024
 
 ### Building Volume 
 What is the volume of your building? We like this value because it means you have at least calculated the footprint and height and if you have complex shape(s) maybe you have calculated it more accurately? 
@@ -98,5 +98,5 @@ How many floors do you have below ground?
 This may be different from the other floors. 
 ### # of car park spaces 
 
-### # of permanent workspaces in student areas
+### # of permanent workspaces in student areas -->
 
