@@ -17,7 +17,7 @@ This course supports the construction of your knowledge and skills in the collab
 * [5](05.md) Analyse Benchmark Building Model
 * [6](06.md) Communicate design and analysis
 * [7](07.md) Guide the design team
-* [8](08.md) Justify and defend design decisions
+* [8](08.md) Explore alternative designs
 * [9](09.md) Learn from OpenBIM
 * [10](10.md) Justify design decisions
 
