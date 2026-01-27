@@ -13,7 +13,11 @@ Our course runs on Monday Afternoons in the Spring semester and the 3 week perio
 
 **_Make sure you have read the [student guide](/Roles/Student.md) before the first session_**
 
+<hr>
+
 # Stage A
+
+<hr>
 
 ## Week 01 - Part A
 We will meet for the first session in **Auditorium 32 in building 306.** Following the lecture we will meet outside to form the teams and visit the buildings so dress warm :)
@@ -125,7 +129,7 @@ _Feb 16 2025 13:00 - 17:00_
 -->
 
 
-## Week 04 - Physical Model & Part A Presentation *
+## Week 04 - Physical Model & Part A Presentation
 Location: Building 117 Room 024
 
 _Feb 23 2025 13:00 - 17:00_
@@ -166,7 +170,9 @@ Please bring<br>
 
 # Stage B
 
-## Week 05 - Part B *
+<hr>
+
+## Week 05 - Part B 
 Location: Building 306 - Auditorium 32
 
 _March 2 2025 13:00 - 17:00_
@@ -176,7 +182,7 @@ _March 2 2025 13:00 - 17:00_
 * 14:00 – 14:45 **Subject Introductions: Integrated Design** ( with a focus on options for Part B)
 * 15.00 - 17.00 Teams to start work on drawings.
 
-## Week 06 - External & Guest Lectures **
+## Week 06 - External & Guest Lectures
 Location: Building 306 - Auditorium 32
 
 _March 09 2025 13:00 - 17:00_
@@ -203,7 +209,7 @@ _March 16 2025 13:00 - 17:00_
 * 14:00 - 17:00 Team time to finalise drawings
 
 
-## Week 08 - Part B Presentation ****
+## Week 08 - Part B Presentation
 Location: Building 116 Atrium
 
 _March 23 2025 13:00 - 17:00_
@@ -214,15 +220,18 @@ _March 23 2025 13:00 - 17:00_
 * Pin up drawings in your allocted spot before 13 in the order described in the assignment.
 * Chief consultants, external lectures and TAs will walk around and give feedback. 
 * Submit the assignment for [Part B](/Assignments/B.md) on DTU Learn.
-<hr>
+
 
 ```{information}
 Easter break March 30th - 6th April
 ```
+<hr>
 
 # Stage C
 
-## Week 09 - Part C **/
+<hr>
+
+## Week 09 - Part C 
 Location: Building 306 Auditorium 32
 
 _April 13 2025 13:00 - 17:00_
@@ -231,7 +240,7 @@ _April 13 2025 13:00 - 17:00_
 * 14.00 – 15.00 **Chief Consultant Lectures** (Consultant rooms in Building 116).
 * 15.00 – 17.00 Team time.
 
-## Week 10 - Disicipline Innovation Session **
+## Week 10 - Disiciplinary Innovation Session
 Location: Building 116 - Check consultant guide for your subjects
 
 _April 20 2025 13:00 - 17:00_
@@ -239,21 +248,21 @@ _April 20 2025 13:00 - 17:00_
 * 14.00 - 17.00 Team time
 
 
-## Week 11 - Chief Consultation Sessions **
+## Week 11 - Chief Consultation Sessions 
 Location: Building 306 Auditorium 32
 
 _April 27 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
 * 15.00 - 17.00 Team time
 
-## Week 12 - Chief Consultation Sessions  **
+## Week 12 - Chief Consultation Sessions  
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 4 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
 * 15.00 - 17.00 Team time
 
-## Week 13 - Final Consultant Session Part C **
+## Week 13 - Final Consultant Session Part C 
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 11 2025 13:00 - 17:00_
@@ -266,6 +275,9 @@ _May 11 2025 13:00 - 17:00_
 
 # Stage D
 
+<hr>
+
+
 ## 3Week 1 - (04/06 - 05/06)
 
 
@@ -276,7 +288,7 @@ _June 04 2025 11.00_
 Location: Building 306 Auditorium 32
 * 10.00 - 11.00     Part D Introduction (Building 306 Auditorium 32)
 * 11.00 -           Team time
-* 23.59   Peer review due June 4th.
+* 23.59             Peer review due June 4th.
 
 The three week period will primarily consist of team work to work on your projects. There will be scheduled times to book short 1:1 meeting with your chief consultant. The availabilites of the chief consultants will be posted soon. 
 
@@ -319,7 +331,7 @@ _June 24 2025 9.00_
 
 Final Presentations run over 2 days in Building 306 Auditorium 32.
 
-### Day 14 Final Presentation Day 1
+### Day 15 Final Presentation Day 1
 _June 24 2025 9.00_
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
@@ -352,7 +364,7 @@ More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 |Team 16 |14:15	|14:45|
 
 -->
-It will be possible to swap these slots with other groups if you can agree between you and tell us before the 20th June.
+It will be possible to swap these presentation slots with other groups if you can agree between you and tell us before the 20th June.
 
 ```{hint}
 Roskilde Festival 2026 doesn't start until 28th June :)
@@ -405,6 +417,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
