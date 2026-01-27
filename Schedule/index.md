@@ -239,29 +239,26 @@ _April 20 2025 13:00 - 17:00_
 * 14.00 - 17.00 Team time
 
 
-## Week 11 - External Lecture *
+## Week 11 - Chief Consultation Sessions **
 Location: Building 306 Auditorium 32
 
 _April 27 2025 13:00 - 17:00_
-* 13.00 - 14.00 
-
-* _14.00 - 14.30 Return to Building 116_
-* 14.30 – 15.00 Chief consultant session (Consultant rooms in Building 116).
+* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
 * 15.00 - 17.00 Team time
 
-## Week 12 - Consultant Session *
+## Week 12 - Chief Consultation Sessions  **
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 4 2025 13:00 - 17:00_
-* 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
-* 14.00 - 17.00 Team time
+* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
+* 15.00 - 17.00 Team time
 
-## Week 13 - Final Consultant Session Part C *
+## Week 13 - Final Consultant Session Part C **
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 11 2025 13:00 - 17:00_
-* 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
-* 14.00 - 17.00 Team time
+* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
+* 15.00 - 17.00 Team time
 
 <mark>Check DTU Learn for the part C hand in date.</mark>
 
@@ -272,52 +269,58 @@ _May 11 2025 13:00 - 17:00_
 ## 3Week 1 - (04/06 - 05/06)
 
 
+
 ### Day 1
 _June 04 2025 11.00_
 
 Location: Building 306 Auditorium 32
 * 10.00 - 11.00     Part D Introduction (Building 306 Auditorium 32)
-* 11.00 -          Team time
+* 11.00 -           Team time
+* 23.59   Peer review due June 4th.
 
-### Day 2
-_June 05 2025_
-
-Peer review due at 17:00.
-
-|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
-|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Friday    | 06/06 |                                     |               | Consult 9-12 (Christian)                     |               |     | Consult 9-12 & 13-16                                 |
-
-## 3Week 2 - (08/06 - 12/06)
-
-|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
-|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Tuesday   | 10/06 | Arch Detail 11-12 <br>Consult 13-16 | Consult 13-16 | Consult 13-16 (Peter)                        | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Wednesday | 11/06 |                                     |               |                                              | Consult 13-16 |     | Consult 9-12 & 13-16                                 |
-| Thurs     | 12/06 |                                     |               | Consult 10:30 -12:30 ( Christian) B116 R018  | Consult 13-16 |     | Consult 9-12 & 13-16                               |
-| Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     |  Consult 9-12 & 13-16                                |
-
-## 3Week 3 - Final Sprint (15/06 - 19/06)
+The three week period will primarily consist of team work to work on your projects. There will be scheduled times to book short 1:1 meeting with your chief consultant. The availabilites of the chief consultants will be posted soon. 
 
 
-|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
-|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
-| Monday    | 16/06 |                                     | Consult 13-16 | Consult 13-16 (Christian)| Consult 9-12  |     | VR Session 10-14:30 |
-| Tuesday   | 17/06 | Consult 9-12 & 13-14 Online General Questions |     |                                              | Consult 13-16 |     | VR Session 10-13:30        |
-| Wednesday | 18/06 |                                     |               |                                              |               |     |                                          |
-| Thursday  | 19/06 | Consult 9-12                        |               |  Consult 13-16 (Peter)  | Consult 13-16 |     | Consult  13-16                                 |
-| Friday    | 20/06 |                                     |               |                                              |      |   Consult 15-17   | Consult 9-12 & 13-16                            |
-| Monday    | 23/06 |                                     | Consult 13-16 |                                              |               |     | Consult 9-12 & 13-16                                 |
 
-## 3Week  - Part D Presentation
 
+## Week 1 - (08/06 - 12/06)
+
+|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat               | PM                                     |
+|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-------------------|----------------------------------------|
+| Monday    | 08/06 |                                     |               |                                              |               |                   |                                        |
+| Tuesday   | 09/06 |                                     |               |                                              |               |                   |                                        |
+| Wednesday | 10/06 |                                     |               |                                              |               |                   |                                        |
+| Thursday  | 11/06 |                                     |               |                                              |               |                   |                                        |
+| Friday    | 12/06 |                                     |               |                                              |               |                   |                                        |
+
+## Week 2 - (15/06 - 19/06)
+
+
+|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat               | PM                                     |
+|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-------------------|----------------------------------------|
+| Monday    | 15/06 |                                     |               |                                              |               |                   |                                        |
+| Tuesday   | 16/06 |                                     |               |                                              |               |                   |                                        |
+| Wednesday | 17/06 |                                     |               |                                              |               |                   |                                        |
+| Thursday  | 18/06 |                                     |               |                                              |               |                   |                                        |
+| Friday    | 19/06 |                                     |               |                                              |               |                   |                                        |
+
+## Week 3 - Final Sprint and Part D Presentation (22/06 - 25/06)
+
+### Day 12
+_June 22 2025 
+
+### Day 13
 _June 23 2025 9.00_
 
 Reports & BIM Due
 
-
+### Day 14 Final Presentation Day 1
+_June 24 2025 9.00_
 
 Final Presentations run over 2 days in Building 306 Auditorium 32.
+
+### Day 14 Final Presentation Day 1
+_June 24 2025 9.00_
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
@@ -402,6 +405,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
