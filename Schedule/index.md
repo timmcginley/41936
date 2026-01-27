@@ -35,7 +35,7 @@ _Feb 2 2026 13:00 - 17:00_
 |15:00 - 15:15| outside |  **Create Teams **<br>PMS present their team and then consultants apporach and choose in disciplinary waves |
 |15:15 - 15:45| outside  |  **Visit Buildings** |
 |16:00 - 16:30| freechoice   |  **Team KPIS** <br>Establish points for team, get it signed by a TA, sign research consent form & sign up to groups on Learn. |
-|16:00 - 17:00| freechoice   |  **Team building** <br> get to know your team|
+|16:00 - 17:00| freechoice   |  **Team building** <br> get to know your team and you can also start downloading and setting up the relevant softwares|
 
 ### Questions
 * Which type of consultant do you want to be in this project?
@@ -417,6 +417,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
