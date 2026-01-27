@@ -20,9 +20,9 @@ Students often forget that there is an equal weighting between integration, proj
 
 ## Your progress through the course
 The course progresses in 4 stages.
-* Stage A: Analysis - A deep dive process to looking at the existing building, exisitng proposed solutions, and modeling your own proposed building.
-* Stage B: Options - The stage to start setting up the softwares needed, centralising your model, developing options, and obtaining preliminary feedback.
-* Stage C: Client - The stage to start developing and satisfyinf project and client requirements. It is expected that at this stage, it is still unfinished.
+* Stage A: Analysis - A deep dive process to performing a forensice analysis of the existing building, exisitng proposed solutions, and modeling your own proposed building. It is also when you start setting up the softwares needed and centralising your model.
+* Stage B: Options - The stage to have your models set up and centralized. It is about developing options, and obtaining preliminary feedback on your design.
+* Stage C: Client - The stage to start developing and satisfying project and client requirements. It is expected that at this stage, it is still unfinished.
 * Stage D: Details (in June) - The stage to start detailing, finalizing your project requirements, ensuring integration and collaboration is possible, and presenting your awesome solutions.
 
 ## Where to find everything
