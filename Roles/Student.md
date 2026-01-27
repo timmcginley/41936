@@ -43,7 +43,7 @@ Tip: You can search through all github files in the search bar
 * Take your team contract seriously and regularly check in. 
 * Start modeling and sharing early. Bind early decisions
 * Clarify what matters for the grading before the 3 weeks in June.
-* Collaboration both in the teams and on models is very important.
+* Early collaboration both within your teams and on models is very important.
 * Try and not to get bottlenecked in your progress by waiting for other disciplines.
 
 
