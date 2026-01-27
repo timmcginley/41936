@@ -8,7 +8,7 @@ In the scenario of the course you are not 'playing a student' but instead you ar
 * You are part of a [subject](/Subject.md).
 * Within your subject you are a member of a consulting [company](Company.md).
 
-It is up to you to balance these requirements.
+It is up to you to balance these requirements. 
 
 1. [Integration](/Assignments/index.md)
 2. [Project Requirements](/Project/index.md)
@@ -17,6 +17,7 @@ It is up to you to balance these requirements.
 ```{hint}
 Students often forget that there is an equal weighting between integration, project, and subject requirements
 ```
+See [rubric](Assignments/Rubric.md) for more information on grading.
 
 ## Your progress through the course
 The course progresses in 4 stages.
