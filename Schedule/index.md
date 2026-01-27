@@ -6,6 +6,7 @@
 *
 */index
 ```
+
 Welcome to Advanced Building Design 2026!
 
 Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
@@ -417,6 +418,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
