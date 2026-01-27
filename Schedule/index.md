@@ -11,7 +11,7 @@ Welcome to Advanced Building Design 2026!
 Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
 
 ```{hint}
-Make sure you have read the student guide before the first session
+Make sure you have read the [student guide](Roles/Student.md) before the first session
 ```
 # Stage A
 
@@ -93,7 +93,7 @@ Having decided what building you will model in the previous session. This week f
 * **ARCH & MEP**: Network Analysis of the exsisting building
 * **STR & GEO**: Forensice Analysis of the existing building
 * **MAT** : Investigative Analysis on the existing materials and state of the building
-* **PM** : Process Management of other disciplines and familiraizing with the Course content ( both GitHub and Learn)
+* **PM** : Process Management of other disciplines and familiraizing with the course content ( both GitHub and Learn)
 
 ###  By the end of the session
 * Document the analsysis of original model from your disciplinary perspectives - upload on MS Teams
@@ -160,79 +160,90 @@ Please bring<br>
 * Present your models in the Foyer of 127
 * Feedback on your models from the chief consultants
 * Present best model and early integration awards
-* Submit the work required for [Part A](/Assignments/A.md) on DTU Learn.
+* Submit the report and BIM for [Part A](/Assignments/A.md) on DTU Learn.
 
 <hr>
+
 # Stage B
+
 ## Week 05 - Part B *
 Location: Building 306 - Auditorium 32
 
-_March 3 2025 13:00 - 17:00_
+_March 2 2025 13:00 - 17:00_
 
-* 13.00 - 13.30 Part B Introduction (Building 306 - Auditorium 32)
-* _13.30 - 14.00 Walk from building 306 to 116_
-* 14:00 – 15:00 (introduction to the subject – focus on options for Part B)
-* 15.00 - 17.00 Continure work on drawings.
+* 13.00 - 13.30 **Part B Introduction** (Building 306 - Auditorium 32)
+* _13.30 - 14.00 Walk from building 306 to 116
+* 14:00 – 14:45 **Subject Introductions: Integrated Design** ( with a focus on options for Part B)
+* 15.00 - 17.00 Teams to start work on drawings.
 
-## Week 06 - Subject Lectures **
-Location: Building 116 - Check consultant guide for your subjects
-
-_March 10 2025 13:00 - 17:00_
-
-* 13.00 – 15.00 (focus on the drawings they need to produce)
-* 15.00 - 17.00 Continure work on drawings.
-
-## Week 07 - External Lecture
+## Week 06 - External & Guest Lectures **
 Location: Building 306 - Auditorium 32
 
-_March 17 2025 13:00 - 17:00_
-* 13.00 - 13.05 **Grøn Dyst Challenge Intro**
+_March 09 2025 13:00 - 17:00_
+
+* 13.00 – 14.00 **Interdisciplinary Lectures** from CCO & CAS & Ramboll
+* _14.00 - 14.30 Walk from building 306 to 116
+* 14.30 - 15.15 **Guest Lectures** within Disciplines
+* 15.15 - 17.00 Teams to continure work on drawings.
+
+<!-- 2025 Guest Lectures
 * 13.05 - 13.35 **Unloved Buildings: A Story of Second Chances** - Kåre Stockholm Poulsgaard - Head of Innovation GXN / 3XN
 ![image](https://github.com/user-attachments/assets/5145d917-d27f-4348-a1a0-5c47574ac9c5)
 * 13.35 - 14.10 **Navigating Digital Practice** - Victor Wanderley Barbosa & Zuzanna Czapla - Schmidt Hammer Laseen
 ![image](https://github.com/user-attachments/assets/e3e47432-d424-4e2f-a881-bb3ed83cfac0)
+**VARIANTSTUDIE - Comparative Study of Design Alternatives: Experience of interdisciplinary collaboration on real building projects at DTU** Beth Wiberg - Design Lead - Christensen & Co
+![COMPARATIVE STUDY OF DESIGN ALTERNATIVES](https://github.com/user-attachments/assets/cb36d27a-d622-4ed7-a66b-7fe7e579f774)
+-->
 
-* 14.10 - 14.30 Walk and talk back to 116
-* 14.30 - 17.00 Team time to finalise drawings.
+## Week 07 - Chief Consultant Subject Lectures
+Location: Building 116 - Subject rooms 
+_March 16 2025 13:00 - 17:00_
+
+* 13.00 - 14.00 **Chief Consultant Lectures**
+* 14:00 - 17:00 Team time to finalise drawings
+
 
 ## Week 08 - Part B Presentation ****
-Location: Building 116
+Location: Building 116 Atrium
 
-_March 24 2025 13:00 - 17:00_
-* 13.00 – 17.00 (interdisciplinary drawing feedback session)
+_March 23 2025 13:00 - 17:00_
+* 13.00 – 17.00 **Interdisciplinary drawing feedback session
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
+### Presentation of Drawings
+* Pin up drawings in your allocted spot before 13 in the order described in the assignment.
+* Chief consultants, external lectures and TAs will walk around and give feedback. 
+* Submit the assignment for [Part B](/Assignments/B.md) on DTU Learn.
 <hr>
+
+```{information}
+Easter break March 30th - 6th April
+```
 
 # Stage C
 
 ## Week 09 - Part C **/
 Location: Building 306 Auditorium 32
 
-_March 31 2025 13:00 - 17:00_
-* 13.00 - 13.05  Short presentation about intro week - looking for circle buddies etc.
-* 13.05 - 13.30  Part C Introduction (Building 306 Auditorium 32)
+_April 13 2025 13:00 - 17:00_
+* 13.00 - 13.30  **Part C Introduction** (Building 306 Auditorium 32)
 * _13.30 - 14.00 Walk from building 306 to 116_
-* 14.00 – 15.00 Chief Consultant Session (Consultant rooms in Building 116).
+* 14.00 – 15.00 **Chief Consultant Lectures** (Consultant rooms in Building 116).
 * 15.00 – 17.00 Team time.
 
-## Week 10 - Consultant Session **
+## Week 10 - Disicipline Innovation Session **
 Location: Building 116 - Check consultant guide for your subjects
 
-_April 7 2025 13:00 - 17:00_
-* 13.00 – 15.00 Chief consultant Session (Consultant rooms in Building 116).
-* 15.00 - 17.00 Team time
+_April 20 2025 13:00 - 17:00_
+* 13.00 – 14.00 Innovation guest lectures for each discipline (Consultant rooms in Building 116).
+* 14.00 - 17.00 Team time
 
-```{information}
-**Easter break 21st - 28th April**
-```
 
 ## Week 11 - External Lecture *
 Location: Building 306 Auditorium 32
 
-_April 28 2025 13:00 - 17:00_
-* 13.00 - 14.00 **VARIANTSTUDIE - Comparative Study of Design Alternatives: Experience of interdisciplinary collaboration on real building projects at DTU** Beth Wiberg - Design Lead - Christensen & Co
-![COMPARATIVE STUDY OF DESIGN ALTERNATIVES](https://github.com/user-attachments/assets/cb36d27a-d622-4ed7-a66b-7fe7e579f774)
+_April 27 2025 13:00 - 17:00_
+* 13.00 - 14.00 
 
 * _14.00 - 14.30 Return to Building 116_
 * 14.30 – 15.00 Chief consultant session (Consultant rooms in Building 116).
@@ -241,14 +252,14 @@ _April 28 2025 13:00 - 17:00_
 ## Week 12 - Consultant Session *
 Location: Building 116 - Check consultant guide for your subject room
 
-_May 5 2025 13:00 - 17:00_
+_May 4 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
 ## Week 13 - Final Consultant Session Part C *
 Location: Building 116 - Check consultant guide for your subject room
 
-_May 12 2025 13:00 - 17:00_
+_May 11 2025 13:00 - 17:00_
 * 13.00 – 14.00 Chief consultant session (Consultant rooms in Building 116).
 * 14.00 - 17.00 Team time
 
@@ -257,7 +268,7 @@ _May 12 2025 13:00 - 17:00_
 <hr>
 # Stage D
 
-## 3Week 1 - (04/06 - 06/06)
+## 3Week 1 - (04/06 - 05/06)
 
 
 ### Day 1
@@ -268,7 +279,7 @@ Location: Building 306 Auditorium 32
 * 11.00 -          Team time
 
 ### Day 2
-_June 06 2025_
+_June 05 2025_
 
 Peer review due at 17:00.
 
@@ -276,7 +287,7 @@ Peer review due at 17:00.
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
 | Friday    | 06/06 |                                     |               | Consult 9-12 (Christian)                     |               |     | Consult 9-12 & 13-16                                 |
 
-## 3Week 2 - (10/06 - 13/06)
+## 3Week 2 - (08/06 - 12/06)
 
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
 |-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-----|------------------------------------------------------|
@@ -285,7 +296,7 @@ Peer review due at 17:00.
 | Thurs     | 12/06 |                                     |               | Consult 10:30 -12:30 ( Christian) B116 R018  | Consult 13-16 |     | Consult 9-12 & 13-16                               |
 | Friday    | 13/06 | Consult 9-12                        |               | Consult 9-12 (Christian) <br>& 13-16 (Peter) |               |     |  Consult 9-12 & 13-16                                |
 
-## 3Week 3 - Final Sprint (16/06 - 20/06)
+## 3Week 3 - Final Sprint (15/06 - 19/06)
 
 
 |           |       | Arch                                | Str           | MEP                                          | Geo           | Mat | PM                                                   |
@@ -299,8 +310,7 @@ Peer review due at 17:00.
 
 ## 3Week  - Part D Presentation
 
-_June 24 2025 9.00_
-
+_June 23 2025 9.00_
 
 Reports & BIM Due
 
@@ -310,7 +320,8 @@ Final Presentations run over 2 days in Building 306 Auditorium 32.
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
-### June 25th (Team 1 - 8)
+<!-- TO UPDATE FOR 2026
+### June 24th (Team 1 - 8)
 | Team |  Start | End |
 |------|--------|-----|
 |Team 1 |9:00	 |9:30 |
@@ -323,7 +334,7 @@ More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 |Team 7 |13:40	|14:10|
 |Team 8 |14:15	|14:45|
 
-### June 26th (Team 9 - 16)
+### June 25th (Team 9 - 16)
 | Team |  Start | End |
 |------|--------|-----|
 |Team 9 |9:00	 |9:30 |
@@ -336,11 +347,11 @@ More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 |Team 15 |13:40	|14:10|
 |Team 16 |14:15	|14:45|
 
-
+-->
 It will be possible to swap these slots with other groups if you can agree between you and tell us before the 20th June.
 
 ```{hint}
-Roskilde Festival 2025 doesn't start until 28th June :)
+Roskilde Festival 2026 doesn't start until 28th June :)
 ```
 
 <!--
@@ -390,6 +401,7 @@ Roskilde Festival 2025 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
