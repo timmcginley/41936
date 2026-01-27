@@ -10,9 +10,9 @@ Welcome to Advanced Building Design 2026!
 
 Our course runs on Monday Afternoons in the Spring semester and the 3 week period in June.
 
-```{hint}
-Make sure you have read the [student guide](Roles/Student.md) before the first session
-```
+
+**_Make sure you have read the [student guide](Roles/Student.md) before the first session_**
+
 # Stage A
 
 ## Week 01 - Part A
@@ -266,6 +266,7 @@ _May 11 2025 13:00 - 17:00_
 <mark>Check DTU Learn for the part C hand in date.</mark>
 
 <hr>
+
 # Stage D
 
 ## 3Week 1 - (04/06 - 05/06)
@@ -401,6 +402,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
