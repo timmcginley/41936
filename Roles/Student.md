@@ -29,6 +29,7 @@ The course progresses in 4 stages.
 ## Where to find everything
 * Learn Course Content: any files that need to be uploaded will be on Learn. That includes Lectures, Literature, and software instalation guides.
 * Github Course Website: All information on the project, subject and assignment requirements can be found here. Use it as your single source of truth.
+  * The assignment descriptions can be found under [Assignments](Assignments/index.md), and the detailed assignment descriptions for each subject can be found under  the respective [subjectS](/Subject.md)
 * Teams Files:  Uploading weekly files, tracking KPIs, and BEATs
  ```{hint}
 Tip: You can search through all github files in the search bar
