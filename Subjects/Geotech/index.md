@@ -4,11 +4,11 @@
 
 **The role of geotechnical engineering is to ensure that an acceptable state of equilibrium is achieved after constructions, at or under the ground surface. As such, the Geotech consultants work comprises of the geotechnical design of the required temporary and permanent structures (referred to as 'underground works') for the Advanced Building Design project.**
 
-The geotechnical engineer in this project should first ensure a safe and robust load transfer from the building to the supporting ground without compromising the global stability of the structure. In addition to the bearing capacity of the foundation system, the induced soil deformations need to be limited to avoid additional distress to the structural elements (beams, columns, and slabs). Furthermore, the building is embedded in the ground because of the multi–storey underground space, located beneath the building. In doing so, a ground model needs to be established based on the geotechnical interpretation of experimental and field soil investigation data. The geotechnical engineer will be responsible for proposing and designing feasible solutions providing: 
+The geotechnical engineer in this project should first ensure a safe and robust load transfer from the building to the supporting ground without compromising the global stability of the structure. In addition to the bearing capacity of the foundation system, the induced soil deformations need to be limited to avoid additional distress to the structural elements (beams, columns, and slabs). In doing so, a ground model needs to be established based on the geotechnical interpretation of experimental and field soil investigation data. The geotechnical engineer will be responsible for proposing and designing feasible solutions providing: 
 
-* safe excavation pit for the construction area of the building including parking area (temporary structure) 
+* safe construction process for the renovations of the foundations of the building (temporary structure) and
 * safe and robust design of the foundation system (permanent structure) and 
-* watertight and durable basement wall (permanent structure). 
+* sustainable performance of the foundation system
 
 Chief Consultant: Varvara Zania 
 
@@ -23,17 +23,17 @@ This document covers the following
 Geoechnical Consultants have the following skills and motivations:
 
 * Experience with geotechnical design (desirable- at least one member)
-* interest to explore different materials and techniques
-* Analsyse existing drawings, model and building to establish current carrying capacity.
+* interest in exploring different materials and techniques
+* Analyse existing drawings, models, and buildings to establish the current carrying capacity.
 * Ability to listen and grow from feedback (essential)
 * Willingness to explore different options
 * Enthusiasm to find solutions that work for the whole team.
 
 ## Your chief consultant can support you with
-In the project you will be supported by the chief consutlant with the following:
+In the project you will be supported by the chief consultant with the following:
 
 * Understanding the role of the Geotechnical consultant
-* Assessing the current carrying capactiy of the existing foundations
+* Assessing the current carrying capacity of the existing foundations
 
 ## You will need to independently learn
 
@@ -51,17 +51,33 @@ Identify the parts of the project and the associated deadlines and collaborative
 * Evaluation of the available geotechnical information including:
     * Soil conditions,
     * Laboratory and field test data
-* Overview of foundation principles and retaining system layouts.
-* Overview of limit states for the design of the retaining and foundation systems according to EN 1997. 
+* Overview of existing foundation principles and retaining system layouts.
+* Overview of limit states for the design of the foundation systems according to EN 1997. 
+
+### Part A Report 
+
+
+The report should include a forensic analysis of the existing foundation systems. The following points should be outlined:
+* Geotechnical profile used in the design of the foundations
+* Strength and stiffness of soil layers beneath the foundations
+* Description of the type of foundations
+* Dimensions of foundations and load-transfer mechanism with the structural components
+* Directions and magnitudes of the design loads
+* Overview of the reported verification limit states
+* List of the actions that could be taken to verify the current state of the foundations.
+* Compare the existing design with the current design procedure according to EN 1997.
+
 
 ### Part B  
-**@Varvara please check against [general Part B description](/Assignements/B.md#b1-drawings)**
+
 #### B Drawings 
 
 At this stage of the project you should have developed preliminary geotechnical design models for the underground works. These will be depicted in four drawings that contain:  
 * Presentation of the ground model. Soil stratigraphy and soil parameters for each layer
-* Overview of the foundation(s) layout of superstructure, presented in plan view along with the footprint of the building and showing relevant structural components
-* Overview of the retaining system to support the excavation, presented in two cross sections in two orthogonal directions of the building. Include interactions with the new building and if relevant interactions with the neighbouring buildings.
+* Overview of the foundation(s) layout of superstructure, presented in
+   * plan view along with the footprint of the building and showing relevant structural components
+   * vertical section at the most representative part of the foundation layout
+* Include interactions with the new building and if relevant interactions with the neighbouring buildings.
 
 Moreover the following milestones should be met that will help you to create the required drawings:
 * Identification of major geotechnical challenges – focus areas in the project
@@ -81,27 +97,26 @@ Contribute towards the client recommendations for your subject, what options wou
 #### C Consultant Report 
 Your report should include:
 * Design basis (ground model, loads, load combinations, safety factors of safety, preliminary geotechnical design models)
-* Preliminary design for the ultimate limit states of the foundations, retaining structures (temporary) and basement wall.
-* Definition of the interactions at the basement area between the permanent retaining wall, and the structural components in the parking area in coordination with the structural engineer.
-* Construction plan incl. interface to adjacent structures and groundwater control
+* Preliminary design for the ultimate limit states of the foundations and basement wall.
+* Definition of the interactions at the basement area between the structural components in coordination with the structural engineer.
+* Construction plan incl. interface to adjacent structures
 * Drawings: Plan (1:100) and cross sections (1:100)
 * Plan for the final design calculations to be carried out in the 3 weeks period. This should include the final geotechnical design models. 
 
 #### C BIM 
 Provide the team with a BIM model to support coordination with the other subjects. The BIM Model should contain the following elements: 
-* Retaining system (sheet piles, diaphragm wall, anchors, struts, foundation system) 
+* Foundation system (Optional: a retaining system if you plan to excavate near the building envelope) 
 
 ### Part D  
 
 #### D Consultant Report 
 * Design basis (final version). This includes final geotechnical design models in addition to the 13 week report content. 
-* Final design including both the ultimate and the serviceability limit states (ULS and SLS) of the foundations, retaining structures (temporary) and basement wall. 
+* Final design including both the ultimate and the serviceability limit states (ULS and SLS) of the foundations and basement wall. 
 * Assessment of soil-structure-interaction effects in collaboration with the structural engineer. The soil foundation stiffness is first estimated for static and dynamic load conditions, thereafter the effects of compliance on the structural performance is assessed. 
 * Plan for additional soil investigation and monitoring during construction. 
 
 #### D BIM 
 The BIM Model must contain the following elements:
-* Retaining system (sheet piles, diaphragm wall, anchors, struts etc.),
 * foundation system (raft foundation, piles etc.)
 * Your BIM should be created as per your agreement with PM so they can take off the quantities they need and so can the materials consultants
 
@@ -110,7 +125,6 @@ The BIM Model must contain the following elements:
 ### Basement area boundary 
 The basement should not extend beyond the site boundary. 
 
-### Parking (ommitted 2025)
 
 ### Geotechnical structures 
 Design of geotechnical structures shall comply with the basic requirements for resistance, serviceability and durability of structures. EN 1997 principles should be followed. 
@@ -125,10 +139,7 @@ Processed information from ground investigation and other available data shall b
 A Geotechnical Design Model shall be developed for each geotechnical design situation and associated limit states, as expected for each underground structure (foundation and excavation support systems) for ULS and SLS. 
 
 ### Construction concept 
-The factors that influence the selection of the excavation support method and the foundation type (thereafter also the construction materials) should be carefully assessed. A concept for the foundation layout, the excavation pit, and the basement system should be developed. 
-
-### Excavation support 
-Define after appropriate design verifications the materials and dimensions of the support system. 
+The factors that influence the selection of the construction method and the foundation type (thereafter also the construction materials) should be carefully assessed. A concept for the foundation layout, and the basement system should be developed. 
 
 ### Foundation type 
 Define after appropriate design verifications the materials and dimensions of the foundation system. 
