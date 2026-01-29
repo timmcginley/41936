@@ -1,17 +1,12 @@
 # Part A
 
-> Develop strategies to address analysed client needs in a 'real' project that could be solved with detailed technical solutions in later stages. 
+> Analyse the existing building and eevelop strategies to address analysed client needs in a 'real' project that could be solved with detailed technical solutions in later stages. 
 
 * Stage A starts the course by students collaborating on the construction of a **physical scale model (A1)**, that will act as a 'baseline building' for your team to improve on. 
 * In parallel the PMs will define the work that the whole team needs to do in the **project plan (A2)**. 
 * You will then use the building model to fill out an excel sheet that provides the **benchmark building model (A3)**.
-* This stage also includes the definition of the **Design Management Strategy (DMS) (A4)** all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMS.
+* This stage also includes the definition of the **Design Management Plan (DMP) (A4)** all subjects need to contribute to this to help PM to know what they need to do, but PM will coordinate and submit both the baseline building data and the DMP.
 * Finally **Part A invoices (A6)** should be submitted:
-
-## notes from Jan
-
-* We need to add ifcGrid lines to PART A (PM/ICT responsible)
-* DESIGN STRUCTURE MATRIX?
   
 <hr>
 
@@ -76,8 +71,8 @@ This is one of the first coordination tasks for the PM.
 * Upload of the contract online on DTU Learn.
 <hr>  
 
-## A4 Design Management Schema
-The Design Management Schema (DMS) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a DMS can be found on older projects, specifically: “2023_13W_Report_TeamXX_Sub6” and “CES_BLD_24_06_PM_Appendix”. These two projects can both be found on Learn.
+## A4 Design Management Plan
+The Design Management Plan (DMP) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a plan can be found on older projects, specifically: “CES_BLD_24_06_PM_Appendix” cab be found on Learn.
 
 
 ### Non PM Consultant Responsibilities
@@ -136,6 +131,10 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 * Provide basic guidance to the client on what you have found from your analysis.
 * You should explain to them the implications of different different further analysis that you could do.
 
+## A9 BIM Model
+
+* A simple BIM model with ifcGrid lines (PM/ICT responsible and to cooridinate)
+
 <!-- 2026
 add to client report
 The importance of the client analysis needs to be emphasised.,
@@ -169,7 +168,7 @@ or maybe this goes to agile? work it out in the circular repo.
 
 ## Part A Submission
 PM to gather all documents from the team and submit them under Assignment Part A in DTU Learn before the deadline.
-Please upload the following files as PDFs (25 is important as it represents a year):
+Please upload the following files as PDFs (26 is important as it represents a year):
 1.	26-[TEAM NUMBER]-A-ProjectPlan
 2.	26-[TEAM NUMBER]-A-TeamContract
 3.	26-[TEAM NUMBER]-A-ICTContract
@@ -178,6 +177,7 @@ Please upload the following files as PDFs (25 is important as it represents a ye
 6.	26-[TEAM NUMBER]-A-PhysicalBuildingModel
 7.	26-[TEAM NUMBER]-A-Invoices
 8.	26-[TEAM NUMBER]-A-ClientReport
+9.	26-[TEAM NUMBER]-A-BIM
 
 <!-- double check the need and success of the DMS.. also remove from Learning objectives -->
 
