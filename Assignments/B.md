@@ -149,6 +149,7 @@ Client will select their preferred options based on the guidance that you provid
 * File name: [YEAR]-[TEAM]-[PART]-Invoice.file
 * Example for part b invoice in team 10: _25-10-B-Invoice.pdf_
 
+_For more details and requirements of the assignment from your respective discipline, check the [Subject Requirements](/Subjects/index.md)_
 <hr>
 
 ## B4 BIM
