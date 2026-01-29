@@ -156,14 +156,15 @@ Client will select their preferred options based on the guidance that you provid
 * Please pay particular attention to:
     * Make sure models are located in the same position
     * All Required IfcSpaces are included as required from your selected project breif
-* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
-* Example for part B invoice in team 10: _25-10-B-ARCH.pdf_
+
 
 <hr>
 
 ## Part B Submission
-Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartB_TeamXX
+Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. 
 PM to gather all documents from the team and submit them under Assignment Part B in DTU Learn before the deadline. 
+* File name: [YEAR]-[TEAM]-[PART]-[SUB].file
+* Example for part B in team 10: _25-10-B-ARCH.pdf_
 
 Enter your BEATS in MS Teams:
 B1: Number of Permanent Workspaces in the Building
