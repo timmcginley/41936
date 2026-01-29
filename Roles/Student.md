@@ -40,8 +40,10 @@ Tip: You can search through all github files in the search bar
 
 ## Softwares used in this course
 * There are a lot of softwares used in this course, check out both [Tools](/Tools/index.md) and [Workflows](/Workflows/index.md) to find more information about set up, installation, and use cases.
-* Please note: this course isn't requiring that you use all the tools listed below or that you use Revit. If you're familiar with a different modelling software and are in agreement among your group, then its possible to use any. It's most important that all models can be exported into IFC.
-* Below is a brief overview of some of the tools used by all the different disciplines. 
+```{Note}
+This course isn't requiring that you use all the tools listed below or that you use Revit. If you're familiar with a different modelling software and are in agreement among your group, then its possible to use any. It's most important that all models uploaded to Speckle and can be exported into IFC.
+``` 
+* A brief overview of some of the tools used by all the different disciplines. 
      * BIM Modeling Softwares: Revit, Autocad, Archicad, Speckle, NavisWorks, Revizto, Enscape
      * Simulation/ Analysis Softwares: LCAByg, IDA ICE, BE18, Sigma Molio, Simapro, MS Project, Autodesk, Python
   
