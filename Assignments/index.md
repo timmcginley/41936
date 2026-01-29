@@ -27,9 +27,9 @@ Integrate the building systems of different disciplines to satisfy technical and
 
 Detail and communicate your team's final design to a variety of stakeholders in technical reports and a presentation including VR.
 
-# Assessment Rubric
+# Assessment [Rubric](Rubric.md)
 
-Assesment is divided into 3 equal parts, Integration, Project and Subject (Discipline), see [Rubric](Rubric.md) for more details.
+Assesment is divided into 3 equal parts, Integration, Project and Subject (Discipline).
 
 ## Integration 
 ### 1/3 Integrated design solutions and BIM models
