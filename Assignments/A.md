@@ -130,10 +130,7 @@ It would not be possible to produce a full shared BIM model at this stage, we ar
 ## A8 Client Report
 * Provide basic guidance to the client on what you have found from your analysis.
 * You should explain to them the implications of different different further analysis that you could do.
-
-## A9 BIM Model
-
-* A simple BIM model with ifcGrid lines (PM/ICT responsible and to cooridinate)
+* Provide input on how you analysed and plan to proceed with the client requirements.
 
 <!-- 2026
 add to client report
@@ -161,6 +158,10 @@ The importance of the client analysis needs to be emphasised.,
 * Do the existing spaces work? 
 * Where could additional spaces fit?
 
+## A9 BIM Model
+
+* A simple BIM model with ifcGrid lines (PM/ICT responsible and to cooridinate)
+
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
 or maybe this goes to agile? work it out in the circular repo.
@@ -172,7 +173,7 @@ Please upload the following files as PDFs (26 is important as it represents a ye
 1.	26-[TEAM NUMBER]-A-ProjectPlan
 2.	26-[TEAM NUMBER]-A-TeamContract
 3.	26-[TEAM NUMBER]-A-ICTContract
-4.	26-[TEAM NUMBER]-A-DesignManagementSchema
+4.	26-[TEAM NUMBER]-A-DesignManagementPlan
 5.	26-[TEAM NUMBER]-A-BenchmarkBuildingModel (included online as part of Teams.xlsx)
 6.	26-[TEAM NUMBER]-A-PhysicalBuildingModel
 7.	26-[TEAM NUMBER]-A-Invoices
