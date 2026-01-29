@@ -139,7 +139,7 @@ The importance of the client analysis needs to be emphasised.,
 * asked to collate and submit these reframed requirements
 -->
 
-### For more details and requirements of the Client Report from your respective subject, check the [Subject Requirements](/Subjects/index.md). 
+### For more details and requirements of the assignment from your respective discipline, check the [Subject Requirements](/Subjects/index.md). 
 
 Below is a brief overview of the subject requirements
 ### Structures
