@@ -31,7 +31,7 @@ Chief Consultants: Christian Anker Hviid and Peter Weitzmann
 * BIM modelling of technical equipment
 * Thermal simulations using IDA ICE including parameter variations
 * Using BIM tools and ensure input o space planning
-* Energy calculations using Be18
+* Energy calculations and peak loads estimation using whole-building IDAICE simulation
   
 ## Chief Consultants can support...
 * The design process is complex and often you need to understand the needs of the other consultants in the team. The chief consultants can help you prepare better for the coordination task.
@@ -59,7 +59,7 @@ In the initial phase you will establish the main design parameters. That is; ini
 
 Consider the following points to help you in making the project plan.
 * Detail the success criteria (energy class, daylight factors, indoor climate category (I, II or III))
-* What are the expected analyses you need to perform? Which tools? Most likely IDA ICE and Be18, but you need to describe what parameter variations you want to be part of the overall design. Examples are room height, ventilation concept, need for solar shading and similar. But the actual work depends on your project and focus area.
+* What are the expected analyses you need to perform? Which tools? Most likely IDA ICE or similar, but you need to describe what parameter variations you want to be part of the overall design. Examples are room height, ventilation concept, need for solar shading and similar. But the actual work depends on your project and focus area.
 * Outline expected interfaces with the work from the other subjects?
 * Describe alternative solutions (preferably in a sketch) so you are ready for design changes.
 * How do you plan to ventilate the building? The space needed is important for other subjects in their work and planning.
@@ -82,24 +82,23 @@ Provide MEP input to integrated drawings. Remember to include:
 #### C Consultant Report
 The consultant report at the end of the 13 week period should be a status document, where you outline the building design with focus on the MEP subject. That is you should describe; daylight, thermal conditions, space management, energy frame. The coordination of your input should be clear.
 
-In total the MEP consultant report should document the status of the building design. That is, it should include energy demand in the building together with the energy supply and distribution system, define the energy concept of the building. It must be based on the optimization and included in a Be18 and IDA ICE calculation to document that the main requirements can be met.
+In total the MEP consultant report should document the status of the building design. That is, it should include energy demand in the building together with the energy supply and distribution system, define the energy concept of the building. It must be based on the optimization and included in an IDA ICE simulation to document that the main requirements can be met.
 
 We do know that this is work in progress, which will be changed in the 3-week period (Part D), but the more you have done at this time, the better off you are to start the sprint.
 
-##### BE18 Calculation
-A Be18 calculation showing the energy frame with the chosen building and energy concept should be included. All important input should be commented in the documentation report. Typically, the most important input is:
+##### Energy and Indoor Climate
+A whole-building IDA ICE simulation showing the energy use (heating, cooling, electricity and primary energy) with the chosen building, including the energy concept. All important input should be commented in the documentation report. Typically, the most important input is:
 
 1. Areas
 1. U-values of building envelope
 1. the window U- and g-value and light transmittance
 1. solar shading
 1. ventilation data (all of them)
-1. daylight factor
+1. climate-based daylight (spatial daylight autonomy)
 1. heat pump units (if used)
 1. PV-panels (if used)
 1. solar thermal (if used)
 
-##### Energy and Indoor Climate
 Describe the energy concept and indoor climate in the consultant report. 
 
 The energy concept must include a description of how you plan to ventilate, heat and cool the building in the form of a sketch of the supply of all technical installations (heating, cooling, hot water, circulation, cold water, sprinkling, sewage). It should include the preferred solution, but also mention alternatives.
@@ -121,7 +120,7 @@ A final description of the chosen concepts for:
 
 1. Final technical systems layout
 2. Documented indoor climate (mostly concerning IAQ - indoor air quality - and thermal environment - hours above 26 °C and 27 °C for a number of exposed rooms and day-light in workspaces)
-3.Final Be18-calculation.
+3. Energy use intensity (primary energy).
 4. Thermal environment and energy consumption must show compliance with design targets.
 
 Further the reporting should contain detailed requirements or actual products for:
@@ -130,6 +129,7 @@ Further the reporting should contain detailed requirements or actual products fo
 2. Windows (U- and g-values)
 3. Ventilation system (if mechanical: dimensions and lay-out. At least one floor and the vertical ducting must be shown. If natural: openings and airflow patterns). In both cases this must be shown in drawings using e.g. Revit MEP.
 4. other systems (heat pumps, solar thermal, PV, district heating, boreholes and so on and so forth)
+
 ##### Ventilation ducts
 3D drawings of ventilation ducts could be made using Revit MEP or similar on one floor in the building. At least two critical sections should be shown in the scale relevant for showing the sections, to document that there is sufficient room for the ducts. Typically 1:50 or higher. Normally the critical sections are found where supply and return ducts intersect or right after exiting/entering the shaft. Further you should show the main ducts for ventilation in the building (not including the distribution ducts on the floors), including ventilation units and intakes/outlets.
 
@@ -153,8 +153,8 @@ Design the facade focusing on:
 
 ### Tech floor basement
 Initially use rule of thumb to establish the need for space for technical installations in the basement. This must be communicated to the other subjects. An initial layout of the functions should be included in the drawings. Do consider how to get from technical room to shaft (e.g. ventilation ducts take up a lot of room)
-### Energy frame
-The energy requirements to be fulfilled in the project is equal to those put forward in the Building Code preferably including energy frame requirements from the low energy class.
+### Primary energy
+The energy requirements to be fulfilled in the project is equal to those put forward in the Building Code preferably including energy frame requirements of the low energy class (primary energy).
 ### Indoor climate
 The thermal and atmospheric indoor climate must correspond to at least Category II in EN 15251.
 ### Daylight
@@ -188,23 +188,25 @@ The data from the following table must be used in setting up the thermal simulat
 | Landscape office               | 8              | 90           | 90                    | 5              | 3                      | Note 3,5   |
 | Single office                  | 10             | 90           | 90                    | 7              | 3                      |   |
 | Print and copying room         |                |              |                       | 100            | 100                    | Note 6   |
-| Reception                      | 20             |              |                       | 8              | 3                      |   |
-| Canteen                        | 1.5            | 90           |                       | 5              | 3                      | Note 1   |
-| Kitchen incl. secondary spaces |                |              |                       |                | 3                      | Note 2   |
+| Reception, if any              | 20             |              |                       | 8              | 3                      |   |
+| Canteen/eating area, if any    | 1.5            | 90           |                       | 5              | 3                      | Note 1   |
+| Kitchen, if any                |                |              |                       |                | 3                      | Note 2   |
 | Meeting rooms                  | 2              | 90           | 25                    | 8              | 20                     | Note 4   |
+| Auditoriums                    | 2              | 90           | 25                    | 8              | 20                     | Note 4   |
+
 
 ```{Note}
 Note 1: Area calculated excluding buffet area.
 
 Note 2: Heat gain determined after kitchen design.
 
-Note 3: The following occupancy load is used:
+Note 3: The following occupancy load is used (as % of total number of seats/workstations:
 - Kl. 8-11 80 %
 - Kl. 11-13 25 % (lunch break)
 - Kl. 13-16 80 %
 - Kl. 16-17 25 %
 
-Note 4: The following occupancy load is used in meeting rooms:
+Note 4: The following occupancy load is used in meeting/aud rooms (as % of total number of seats):
 - Kl. 8-12 100 %
 - Kl. 12-13 0 % (lunch break)
 - Kl. 13-15 100 %
@@ -235,7 +237,7 @@ The space required in the shafts should be considered and included in the design
 ### Space management on floors
 On the floors the input from MEP is to make sure that the design ensures acceptable indoor climate fulfilling the requirements. As part of this, the space required for technical installations (mainly due to ventilation) must be sufficiently included in the design. This is the case in both a vertical and horizontal direction.
 ### Space management in basement 
-Make sure that there is sufficient space for the technical installations in the basement. There should be allocated areas for heating, cooling, fire station, ventilation (if applicable), sewage, electrical switchboards. The layout should enable seamless integration with the shafts. 
+Make sure that there is sufficient space for the technical installations in the basement. There should be allocated areas for heating, cooling, fire station, ventilation (if applicable), sewage, electrical switchboards. The layout should enable seamless integration with the shafts and routing pathways. 
 ### Maintenance access
 Optimal access to technical installations in plant rooms and along ducts and pipes.
 
