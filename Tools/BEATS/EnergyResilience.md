@@ -1,3 +1,3 @@
-# B2: Energy resilience
+# B2: Energy peak loads
 
-The building must be energy resilient in the sense that thermal comfort does not suffer too much, if heating and cooling systems are shut down during peak periods. The beat should document how fast the indoor temperature reaches the threshold on a warm day (setpoint - 2C) and on a cold day (setpoint + 2C).
+The building cannot be viewed as a stand-alone unit, it integrates with thermal and electrical networks. To be grid-supportive, it is crucial to focus on peak loads and potentially to flatten those peaks. The beat should document whole-building peak heat load and peak cooling load [kW/m2].
