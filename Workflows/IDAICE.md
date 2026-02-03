@@ -9,7 +9,6 @@ Four key points about the software:
 * **Advanced BIM Integration:** The software supports IFC import, allowing for efficient workflow from design to simulation.
 * **Equation-Based Flexibility:** Built on the Neutral Model Format (NMF, similar to Modelica language), it enables expert users to create and customize their own component models for specialized research.
 
-Do parametric studies on individual thermal zones.
-For whole-building simulation:
-- Use provided resources on IFC import to IDA ICE
-- Simplify multi-zone simulations: merge similar zones, merge windows, avoid openings between zones, separate floors into separate IDA files, use templates to define basic input across similar zones  
+
+- Do parametric studies on individual thermal zones. The aim is to design the facade transparency to ensure low solar heat gain, yet with sufficient daylight, preferably in a modular way, so transparency can easily be changed if orientation and shading surroundings demands it
+- For whole-building simulation: Use provided resources on IFC import to IDA ICE, and simplify multi-zone simulations: merge similar zones, merge windows, avoid openings between zones, separate floors into separate IDA files, make use of templates to define basic input across similar zones. Keep it simple, check simulation outcome and quality on short selected periods (winter and summer). Only then should you complicate your model and do full-year simulations.
