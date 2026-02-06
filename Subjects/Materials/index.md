@@ -40,7 +40,6 @@ The materials subject purposefully does not have an assigned chief consultant as
 * Help set CO2 eq / m2 / person target
 * Analyse the existing materials in the building
 * Analyse the previous projects
-* 
 * Investigate what sustainability means in this case. There’s no concrete way to measure the sustainability in renovation/ transformation within Danish regulation, and so this is your opportunity to figure out the best way. 
 
 ### Part B
@@ -50,7 +49,11 @@ The materials subject purposefully does not have an assigned chief consultant as
 * Deteremine how to benchmark sustainability among comparable projects ( include assumptions needed)
 * How best to facilitate sustainability requirements among disciplines (DGNB)
 * Analyse the implications of the DGNBLite scehma for the team
+* Materials choices need to be made early on and integrated among disciplines
 * Deliver two options on sustainable renovation and materials ( for example, new materials and why, or will you be parially reusing)
+
+#### Part B Report
+* Produce a sustainability assessment framework on benchmarking sustainability and LCA, discuss assumptions, results, and criteira. ( This will be used in the next stage to develop a common consesus among material groups)
 
 ### Part C
 
@@ -68,20 +71,23 @@ Part C report for Material should be organised with respect to the topics / elem
     * Sensitivity analysis
     * Life cycle impact analysis
     * Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
+* Explain how does the frameowrk you co-developed with other material groups contribute to your sustainability and LCA analysis?
+* Discuss and Reflect on the limitations, assumptions, and advantages within your sustainability assessment. 
 * Discussion on the Sustainability of your teams building design.
 * How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
 * How does the building design show sustainability and sustainable material choices.
 Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
 
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
 
 ```{hint}
 This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
 ```
 
+<!-- 2025
 * Seek 'regulatory approval' for the new material / product.
 * Produce EPD either for the new material / component and
-* 
+-->
+
 ## Part D
 
 ### D BIM
@@ -104,6 +110,8 @@ Part D report for Material should be organised with respect to the topics / elem
     * Life cycle impact analysis
     * Highlight of hotspots and suggested alternatives / design strategies, to reduce impact.
 * Discussion on the Sustainability of your teams building design.
+* Explain how does the frameowrk you co-developed with other material groups contribute to your sustainability and LCA analysis?
+* Discuss and Reflect on the limitations, assumptions, and advantages within your sustainability assessment. 
 * How can the client and your team argue for the “goodness/value” of the building for present and future generations (based on your DGNB and LCA work).
 * How does the building design show sustainability and sustainable material choices.
 Furthermore, it should clearly explain the different available options, your building design approach and discuss the decision process and trade-offs from a multi-disciplinary standpoint. Examples of how the DGNB lite requirements and LCA analysis has informed your design process are also important.
@@ -113,15 +121,15 @@ Use visuals and diagrams to underline and communicate your design choices and de
 ```{hint}
 Make sure to integrate the materials consultancy report with the other consultants. Please make the main report very pertinent and clear; focus only on essential and major information, your arguments and assumptions. Place all the details in the different appendices and refer to them in the main report.
 ```
-
+<!-- 2025
 * Seek 'regulatory approval' for the new material / product.
 * Produce EPD either for the new material / component - It is highly valuable if your project introduces a novel material, as this can justify the development of a new EPD. If applicable, please highlight the new material. Note: since making EPD for a new material is not the major scope of this course, we will just evaluate this part based on your assumptions and justification. If for any reseaon your project doesnt include any new material, it is fine. Just please highlight it as well.
 * If you have questions or needs a meeting, please contact us by email: naran@dtu.dk (Navid) and  areya@dtu.dk (Ali Reza)
-
+-->
 ## Requirements 
 
 ### Role
-Advanced Building Design Materials Consultants need to be able to analyse current approaches to materials and iff appropriate suggest new materials and components where current solutions do not meet the needs of the team. The materials subject for 2025 combines a number of roles:
+Advanced Building Design Materials Consultants need to be able to analyse current approaches to materials and if appropriate suggest new methods to current solutions when they do not meet the needs of the prject. The materials subject for 2025 combines a number of roles:
 
 * Design
 * Analysis
@@ -129,19 +137,24 @@ Advanced Building Design Materials Consultants need to be able to analyse curren
 * Guidance
 
 ### Design
-* Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.
+* Design a framework to present to industry partners on best practices when considering and calculating sustainabilty within building rennovations. 
+
+<!-- 2025 Design a new material / component to TRL (4)? The idea would be that it be ready to include in the design when it is built in 5 - 10 years time.-->
 
 ### Analysis
-* Identify a new materail / product to develop that satisfies a unique problem in the design.
+* Identify a new approach to benchmarking sustainability and avoiding 'spaceflation')
 * Define functional units
-* 
+* Identify sustainable material choices.
+
+<!-- 2025 Identify new materail / product to develop that satisfies a unique problem in the design. -->
 
 ### Documentation
-* Produce EPD for the new material / product
+* Produce an official Materials sustainability assesment framework for building transformation and rennovation. 
+<!-- 2025 Produce EPD for the new material / product -->
 
 ### Guidance
 * Peer review of the other groups
-* Supporting the design team to 
+* Supporting the design team to make sustainable decicisions.
 
 ### DGNB
 A central criterion for the sustainability of buildings is the DGNB lite certification. A simplified version of the GBRS, DGNB, that is the most common used in Denmark. A green building rating system functions both as a tool to documentation but should also be considered as a set of criteria's that can help support or define parts of the building design process. Understanding these criteria, where and how they affect your teams process and what measures you can plan out to accommodate the needed information at the right time to the right people. DGNB screening and initial process plotting for knowledge sharing or interventions.
@@ -150,7 +163,7 @@ A central criterion for the sustainability of buildings is the DGNB lite certifi
 Identify, analyse and delegate DGNB lite requirements to the different subject groups. Inform and plan with PMs to align with DMS continually through the process. Develop and performco-design processes across the building team to develop solutions. Balancing the needs of different disciplines and the DGNB lite requirements through development of metrics and decision support tools.
 
 ### Circularity in the build environment and life circle assessment
-Principles of circular economy has increasingly become a part of how the future is envisioned also within the build environment. This means that we need to both understand the current linear life cycle of a building, as well as how we can begin to reimagine and design buildings from a more circular perspective. Part of this is being able to account on the impact of different actions such as mining for iron, casting foundation or heating the building. It is however also to put a value on these effects and their impact on both the global and local environment. Her we use Life cycle assessment both as a tool for documenting the expected effects of the building, but also to inform and guide the design process, by highlighting problematic material uses or enabling us to create scenarios of different designs and compare them.
+Principles of circular economy has increasingly become a part of how the future is envisioned also within the build environment. This means that we need to both understand the current linear life cycle of a building, as well as how we can begin to reimagine and design buildings from a more circular perspective. Part of this is being able to account on the impact of different actions such as mining for iron, casting foundation or heating the building. It is however also to put a value on these effects and their impact on both the global and local environment. Here we use Life cycle assessment both as a tool for documenting the expected effects of the building, but also to inform and guide the design process, by highlighting problematic material uses or enabling us to create scenarios of different designs and compare them.
 
 ### Understand and balance the needs of the different disciplines.
 The building project can be viewed is an arena of development. Consisting of different actors with different values, strengths, and shortcomings. There are global rules of what you can do within this arena but also local rules of thumb within the different disciplines, that sometimes blind them from seeing alternatives to business as usual. You can almost se them as different cultures with different values that they worship and put above all else in their priorities, going into this project arena: Aesthetics, resilience, strength, ease of maintenance, safety, agile process…
@@ -164,7 +177,7 @@ Aligning The different subject groups values and priorities and strategically na
 During this project initial faces, you will need to Create an initial baseline model that can support early identification of hotspots in the design of the building sketch and support prioritised decision making, in later scenario development. The scenarios you develop should be to a degree that enables informed decision making with clear evaluations on information shortcomings, advantages, and drawback from an environmental performance standpoint. The hope is to support a transdisciplinary process of knowledge sharing and prioritisation and decision making. Lastly you will need to create a complete LCA of the building including all the regulation required life cycle stages. Pay attention and document all insecurities or shortcomings in your model as well as a discussion and perspectivation of the final LCA analysis and results. It is expected that you manage to keep a information link to the LCA calculation tools (including your Life cycle inventory) and the interface to the BIM models, so there is a clear project model alignment through the process.
 
 ```{hint}
-Coordinate with the PM on how to achieve this and make sure this is included in the DMS.
+Coordinate with the PM on how to achieve this and make sure this is included in the Design Management Plan.
 ```
 
 ### Material knowledge, search and strategies for sustainable building design
@@ -174,9 +187,10 @@ To design and build more sustainable buildings now and in the future, we need to
 
 Here the material subject people have a critical role in identifying problematic materials or building designs. Using an array of design tools and methods to both map out and communicate the issues as well as enabling collaborative processes with the relevant subject groups involved, to develop alternative material or design proposals.
 
+<!-- 2025
 ### Design new materials
 @Navid :)
-
+-->
 ## Material Integration
 
 ### Material -> Architecture 
@@ -196,9 +210,13 @@ A core role of the subject group is to help the team to explore the important re
 
 Introducing new or lesser used materials in a building can in some cases be a fire safety concern, therefore it is central that you collaborate around material selection criteria’s and limitations, as well as being able to communicate/translate these to the other subject teams.
 
-Ultimately you are responsible for the materials and can ‘override’ other groups, but this would not be a good option if you have not considered their needs – it should be a compromise.
+
 
 ### Material -> PM/ICT 
 This collaboration should be clearly defined in the DMS.
 
-Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects.Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
+Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects. Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
+
+```{hint}
+Ultimately you are responsible for the materials and can ‘override’ other groups, but this would not be a good option if you have not considered their needs – it should be a compromise.
+```
