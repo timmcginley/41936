@@ -50,52 +50,8 @@ The team that demonstrated the best interdisciplinary collaboration in the model
 ```
 <hr>
 
-## A2 Project Plan
-**Primary responsible:** PM
 
-PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages (A, B, C, D) of the project and provide these to the PM in a timely manner for coordination. The project plan should describe the actual work and projected hours that is expected is needed to finish each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
-
-<hr>
-
-## A3 Team Contract
-This is one of the first coordination tasks for the PM.
-
-### All subjects responsibilities
-* The contract applies to all subjects
-* All subjects are involved into comprehending the contracts, its rules, and team decision.
-* Agree on the form of the teams
-
-### Additional PM responsibilities
-* Submit one signed team contract per team.
-* The contract is created by the team's PM through discussion with the members of the team
-* Upload of the contract online on DTU Learn.
-<hr>  
-
-## A4 Design Management Plan
-The Design Management Plan (DMP) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a plan can be found on older projects, specifically: “CES_BLD_24_06_PM_Appendix” cab be found on Learn.
-
-
-### Non PM Consultant Responsibilities
-* Inform their PM about the tasks they and others need to do to complete their work.
-* Document their real hours spent on the project and invoice these to PM every week.
-* Inform PM on the hours they will spend each week on the subject, based on the tasks, to help PM predict the project budget (it includes design costs)
-
-### PM Responsibilities
-* Coordinate the tasks of the subjects and produce the design management schema.
-* Collate the weekly predicted design cost include this in the design management schema and track and document this throughout the project.
-<hr>
-
-## A5 ICT Contract
-PM to complete an ICT Contract for the team. A template can be found on Learn.
-This is a living document that should be updated throughout the project. Particular care should be taken to define:
-* LOD for each stage in the project and the responsible consultant.
-<hr>
-
-## A6 IDS for consultant BIM (Optional)
-Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
-<hr>
-
-## A7 Benchmark Building Model
+## A2 Benchmark Building Model
 Based on the construction of a physical model, fill in the supplied excel workbook ('Teams.xlsx' on Microsoft Teams) documenting the basic properties of the both the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
 
 ### Existing Building
@@ -121,27 +77,61 @@ You should think of this in 2 ways:
 It would not be possible to produce a full shared BIM model at this stage, we are more interested in the information than the geometry in the early days, if you do not have a 3d model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? 
 <hr>
 
-## A7 Invoices
-* All non PM subjects need to submit invoices to their PM documenting the work they have done for Part A.
-* A template invoice can be found on Learn under PM. 
-* The PM should then collect the invoices, total hours per consultancy and work tasks done into a single document that they submit with the rest of the documents. 
-* The hours are counted per person so if two consultants have worked for 4 hours on the same task, then that's 8 hours to invoice. 
+## A3 Project Plan and Design Management Plan
+**Primary responsible:** PM
 
-## A8 Client Report
+PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages (A, B, C, D) of the project and provide these to the PM in a timely manner for coordination. The project plan should describe the actual work and projected hours that is expected is needed to finish each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
+
+The Design Management Plan (DMP) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a plan can be found on older projects, specifically: “CES_BLD_24_06_PM_Appendix” cab be found on Learn.
+
+
+#### Non PM Consultant Responsibilities
+* Inform their PM about the tasks they and others need to do to complete their work.
+* Document their real hours spent on the project and invoice these to PM every week.
+* Inform PM on the hours they will spend each week on the subject, based on the tasks, to help PM predict the project budget (it includes design costs)
+
+#### PM Responsibilities
+* Coordinate the tasks of the subjects and produce the design management schema.
+* Collate the weekly predicted design cost include this in the design management schema and track and document this throughout the project.
+<hr>
+
+## A4 Team Contract and ICT Contract
+This is one of the first coordination tasks for the PM.
+
+#### All subjects responsibilities
+* The contract applies to all subjects
+* All subjects are involved into comprehending the contracts, its rules, and team decision.
+* Agree on the form of the teams
+
+#### Additional PM responsibilities
+* Submit one signed team contract per team.
+* The contract is created by the team's PM through discussion with the members of the team
+* Upload of the contract online on DTU Learn.
+<hr>  
+
+####PM to complete an ICT Contract for the team. 
+* A template can be found on Learn.
+* This is a living document that should be updated throughout the project. Particular care should be taken to define:
+* LOD for each stage in the project and the responsible consultant.
+<hr>
+
+
+## A5 Invoices
+* All non PM subjects need to submit invoices to their PM documenting the  hours work they have done for Part A.
+* All hours worked on the project such as team meetings, individual time should be included. The only hours NOT included are the lecture hours, every other hour should be counted and recorded.
+* The PM should then collect the invoices, total hours per consultancy and work tasks done into a single document that they submit with the rest of the documents. Make sure to include include your hourly rates, and any calculations on how you have perfromed the invoice
+* You can use your own templates but it has to include the same necessary infroamtion as the found template on learn under PM. 
+* Note: The hours are counted per person so if two consultants have worked for 4 hours on the same task, then that's 8 hours to invoice. 
+
+## A6 Client Report
+This report is to be cooridinated among all disicplines as there are also disciplinary requirements to be included. 
 * Provide basic guidance to the client on what you have found from your analysis.
 * You should explain to them the implications of different different further analysis that you could do.
 * Provide input on how you analysed and plan to proceed with the client requirements.
 
-<!-- 2026
-add to client report
-The importance of the client analysis needs to be emphasised.,
-* input on how to analyse the requirements
-* asked to collate and submit these reframed requirements
--->
-
 _For more details and requirements of the assignment from your respective discipline, check the [Subject Requirements](/Subjects/index.md)_
 
-Below is a brief overview of the subject requirements
+Below is a brief overview of the [subject requirements](/Subjects/index.md)_
 ### Structures
 * Capacity of Existing structure (add more floors?)
 * Options for further analysis
@@ -155,15 +145,21 @@ Below is a brief overview of the subject requirements
 * Soil assumptions
 * Knowledge about foundations 
 ### PM
-* Analyse previous projects 
 * Strategise how to acheive KPIs
+* Simple BIM Model
 ### Architecture
 * Do the existing spaces work? 
 * Where could additional spaces fit?
 
-## A9 BIM Model
+## A7 BIM Model
 
 * A simple BIM model with ifcGrid lines (PM/ICT responsible and to cooridinate)
+* Ensure all team members have set up necessary softwares and as in the beginning of the stage you will need to set up a central model. Hence the need for the simple bim model now. See [Revit Collaboration](/Workflows/Revit.md) if you choose to use Revit as your modelling software. 
+
+## A8 IDS for consultant BIM (Optional)
+Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
+<hr>
+
 
 <!-- 2025 
 This will also include user studies based on current thesis work - they will produce the model but also reports for 4 users . inlcuding fire safety 
@@ -183,6 +179,12 @@ Please upload the following files as PDFs (26 is important as it represents a ye
 8.	26-[TEAM NUMBER]-A-ClientReport
 9.	26-[TEAM NUMBER]-A-BIM
 
+<!-- 2026
+add to client report
+The importance of the client analysis needs to be emphasised.,
+* input on how to analyse the requirements
+* asked to collate and submit these reframed requirements
+-->
 <!-- double check the need and success of the DMS.. also remove from Learning objectives -->
 
 ```{note}
