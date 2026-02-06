@@ -221,6 +221,6 @@ This collaboration should be clearly defined in the DMS.
 Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects. Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
 
 ```{hint}
-Ultimately you are responsible for the materials and can ‘override’ other groups, 
+Ultimately you are responsible for the materials and can ‘override’ other groups,
 but this would not be a good option if you have not considered their needs – it should be a compromise.
 ```
