@@ -3,9 +3,9 @@
 
 *The role of Materials consulant in Advanced Building Design is essential to explore the emerging potential of an materials designer / engineer as an integral part of the building design team.*
 
-Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materails. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as an opportunity to deisgn and analyse new materials that satisfy your project team's needs.
+Material selection decisions in project are very complex, require the involvement of many stakeholders, have a massive impact on the design and in traditonal projects can be difficult to change later in a project. Therefore a Materials Consultancy can offer value to the client by supporting the project team to make better decisions about materials. Your consultancy has identified this gap in the market and is keen to get experience in real projects. Material consultants support the team through the invesitgation and anlaysis of the sustainability of existing materials as well as investigating what sustainability means in renovation/ transformation.
 
-The materials subject puposefully does not have an assigned chief consultant as it is a highly independent role. However you will have access to an LCA consultant.
+The materials subject purposefully does not have an assigned chief consultant as it is a highly independent role. However you will have access to an LCA consultant.
 
 * Skills and learning
 * Assignments
@@ -25,24 +25,32 @@ The materials subject puposefully does not have an assigned chief consultant as 
 * An overview of LCA
 * An overview of DGNB (Lite)
 * Inspiration from some realworld examples
+* Workflows on LCA ( see Github folder on workflows)
 
 ## You will need to independently
 * Get the material requirements from the team
-* Prvide each consultant with the LCA impact they are responsible for
+* Provide each consultant with the LCA impact they are responsible for
 * Decide which elements of the design to focus
 * Review available materials
+* Decide how to measure sustainability, what assumptions to make, and how to benchmark among other groups
 
 ## Assignments
 
 ### Part A
 * Help set CO2 eq / m2 / person target
+* Analyse the existing materials in the building
 * Analyse the previous projects
-* Analyse the implications of the DGNBLite scehma for the team.
+* 
+* Investigate what sustainability means in this case. There’s no concrete way to measure the sustainability in renovation/ transformation within Danish regulation, and so this is your opportunity to figure out the best way. 
 
 ### Part B
 
 #### Drawings
 * Produce the different material options
+* Deteremine how to benchmark sustainability among comparable projects ( include assumptions needed)
+* How best to facilitate sustainability requirements among disciplines (DGNB)
+* Analyse the implications of the DGNBLite scehma for the team
+* Deliver two options on sustainable renovation and materials ( for example, new materials and why, or will you be parially reusing)
 
 ### Part C
 
