@@ -222,6 +222,5 @@ Clear communication and planning between PM and MAT is central for the intended 
 
 ```{hint}
 Ultimately you are responsible for the materials and can ‘override’ other groups, 
-but this would not be a good option if you have not considered their needs – 
-it should be a compromise.
+but this would not be a good option if you have not considered their needs – it should be a compromise.
 ```
