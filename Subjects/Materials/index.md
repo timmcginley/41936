@@ -80,7 +80,8 @@ Furthermore, it should clearly explain the different available options, your bui
 
 
 ```{hint}
-This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 Use visuals and diagrams to underline and communicate your design choices and decision making process.
+This should be seen as your main opportunity to get feedback on your current trajectory and approach before the 3-week period. So, make the most of it😊 
+Use visuals and diagrams to underline and communicate your design choices and decision making process.
 ```
 
 <!-- 2025
@@ -119,7 +120,9 @@ Furthermore, it should clearly explain the different available options, your bui
 Use visuals and diagrams to underline and communicate your design choices and decision making process.
 
 ```{hint}
-Make sure to integrate the materials consultancy report with the other consultants. Please make the main report very pertinent and clear; focus only on essential and major information, your arguments and assumptions. Place all the details in the different appendices and refer to them in the main report.
+Make sure to integrate the materials consultancy report with the other consultants. 
+Please make the main report very pertinent and clear; focus only on essential and major information, your arguments and assumptions. 
+Place all the details in the different appendices and refer to them in the main report.
 ```
 <!-- 2025
 * Seek 'regulatory approval' for the new material / product.
@@ -218,5 +221,7 @@ This collaboration should be clearly defined in the DMS.
 Clear communication and planning between PM and MAT is central for the intended collaboration and co -design process as well as managing expectations and prioritising in the planning of the project and the goals set for different subjects. Material should also continuously communicate and collaborate on achieving the DGNB lite goal and documenting it appropriately.
 
 ```{hint}
-Ultimately you are responsible for the materials and can ‘override’ other groups, but this would not be a good option if you have not considered their needs – it should be a compromise.
+Ultimately you are responsible for the materials and can ‘override’ other groups, 
+but this would not be a good option if you have not considered their needs – 
+it should be a compromise.
 ```
