@@ -110,8 +110,8 @@ Having decided what building you will model in the previous session. This week f
 * **MAT** : Investigative Analysis on the existing materials and state of the building
 * **PM** : Process Management of other disciplines and familiraizing with the course content ( both GitHub and Learn)
 
-###  By the end of the session ( MEP & ARCH)
-* Document the analsysis of original model from your disciplinary perspectives - upload on MS Teams
+###  By the end of the session 
+* Document the analsysis of original model from your disciplinary perspectives ( MEP & ARCH) - upload on MS Teams
 
 ## Week 03 - Proposed Building
 Location: Building 117 Room 024
@@ -428,6 +428,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
