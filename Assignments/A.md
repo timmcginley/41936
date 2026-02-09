@@ -30,11 +30,11 @@ For this exercise you should focus on:
 * Satisfy the tests from the list of tests.
 
 ### Submission:
-Produce a breif report / document including photos of
+Produce a brief report / document including photos of
 * Existing building
 * Proposed building
 * Testing of the model
-Provide descriptions fro teh photos compile into a single document and provide to your PM to upload to the DTU learn site with the other required documents for Part A.
+Provide descriptions for the photos compile into a single document and provide to your PM to upload to the DTU learn site with the other required documents for Part A.
 
 ### A1 Tests
 * The Structure test (wind test)
