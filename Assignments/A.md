@@ -111,7 +111,7 @@ This is one of the first coordination tasks for the PM.
 * Upload of the contract online on DTU Learn.
 <hr>  
 
-####PM to complete an ICT Contract for the team. 
+#### PM to complete an ICT Contract for the team. 
 * A template can be found on Learn.
 * This is a living document that should be updated throughout the project. Particular care should be taken to define:
 * LOD for each stage in the project and the responsible consultant.
