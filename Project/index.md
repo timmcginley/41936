@@ -122,8 +122,6 @@ Current GFA Gross (4.684 m2) Net (4.320 m2)
 ### F01: GFA
 The total building should not exceed 10000m2.
 * No floor in building 308 can have a GFA greater than 2500m2.
-* No floor in building 304 can have a GFA greater than 2000m2.
-* No floor in building 115 can have a GFA greater than 1500m2.
 
 Balconies are permitted and they are not included in the GFA (gross floor area).
 
@@ -240,6 +238,8 @@ Current GFA Gross (1.810 m2) Net (1.623 m2)
 * The computers will be moved to another location
 * Building could be demolished but materails should be retained.
 * Most suitable project for rebuild
+Requirement: * No floor in building 304 can have a GFA greater than 2000m2.
+
 
 ### Building 115
 ![image](https://github.com/user-attachments/assets/e1e2e378-0c30-4f28-91c8-9a5a6741ad4d)
@@ -249,4 +249,5 @@ Current GFA Gross (5.736 m2) Net (5.188 m2)
 * Improve collaboration
 * Interaction between students and staff
 * Most simple renovation case, but would require more floors on top
+Requirement: * No floor in building 115 can have a GFA greater than 1500m2.
 -->
