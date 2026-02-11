@@ -1,6 +1,6 @@
 # Part A
 
-> Analyse the existing building and eevelop strategies to address analysed client needs in a 'real' project that could be solved with detailed technical solutions in later stages.
+> Analyse the existing building and develop strategies to address analysed client needs in a 'real' project that could be solved with detailed technical solutions in later stages.
 
 <!-- 2025
 * Stage A starts the course by students collaborating on the construction of a **physical scale model (A1)**, that will act as a 'baseline building' for your team to improve on. 
@@ -13,7 +13,7 @@
 <hr>
 
 ## A1 Physical Building Model
-Make a model of the existing building document it with photos and then adpat it into a proposed building working in your team. We will provide limited new modelling material and encourage you to reuse the material used in the previous years.
+Make a model of the existing building document it with photos and then adapt it into a proposed building working in your team. We will provide limited new modelling material and encourage you to reuse the material used in the previous years.
 
 The model should be:
 
@@ -44,7 +44,7 @@ Provide descriptions for the photos compile into a single document and provide t
 <!-- award admonitions - work in Sphyinx -->
 
 ```{admonition} Best Model Award
-The model that passes all the tests and get the most sticker votes.
+The model that passes all the tests and gets the most sticker votes.
 ```
 
 ```{admonition} Early Design Integration Award
@@ -54,7 +54,7 @@ The team that demonstrated the best interdisciplinary collaboration in the model
 
 
 ## A2 Benchmark Building Model
-Based on the construction of a physical model, fill in the supplied excel workbook ('Teams.xlsx' on Microsoft Teams) documenting the basic properties of the both the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try and be as accurate as possible.
+Based on the construction of a physical model, fill in the supplied Excel workbook ('Teams.xlsx' on Microsoft Teams) documenting the basic properties of both the **existing building **and your **proposed design**. This is one of the first documents that the client will see so try to be as accurate as possible.
 
 ### Existing Building
 * Floor area (ground and above)
@@ -76,15 +76,15 @@ You should think of this in 2 ways:
 1. the most basic BIM you could imagine - no geometry - just the basic information for your design
 2. This gives you an idea of a design that you can use as a benchmark / baseline - can you do better? what affect would this building have on your KPIs?
 
-It would not be possible to produce a full shared BIM model at this stage, we are more interested in the information than the geometry in the early days, if you do not have a 3d model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? 
+It would not be possible to produce a full shared BIM model at this stage, we are more interested in the information than the geometry in the early days, if you do not have a 3D model, could you share an excel with all the features and requirements of all the stories in the building and start to think about what they might contain? 
 <hr>
 
 ## A3 Project Plan and Design Management Plan
 **Primary responsible:** PM
 
-PM is primarly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages (A, B, C, D) of the project and provide these to the PM in a timely manner for coordination. The project plan should describe the actual work and projected hours that is expected is needed to finish each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
+PM is primarIly responsible for establishing project plan for the entire team. Each subject group has to identify the parts of the project, the associated deadlines and collaborative requirements for themselves as well as for the team across all stages (A, B, C, D) of the project and provide these to the PM in a timely manner for coordination. The project plan should describe the actual work and projected hours that is expected is needed to finish each stage of the Project. This is how you make sure that the work will be done to avoid any delays in payment from the client due to work not being done by the correct stage.
 
-The Design Management Plan (DMP) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMS should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a plan can be found on older projects, specifically: “CES_BLD_24_06_PM_Appendix” cab be found on Learn.
+The Design Management Plan (DMP) defines the responsibilities for all project deliverables. This should define what work you need to do. The DMP should describe the actual work which is expected for finishing the outline proposal at the end of the 13 week period. It should include a scheduled overview of activities. Examples of a plan can be found on older projects, specifically: “CES_BLD_24_06_PM_Appendix” can be found on Learn.
 
 
 #### Non PM Consultant Responsibilities
@@ -102,7 +102,7 @@ This is one of the first coordination tasks for the PM.
 
 #### All subjects responsibilities
 * The contract applies to all subjects
-* All subjects are involved into comprehending the contracts, its rules, and team decision.
+* All subjects are involved in comprehending the contracts, its rules, and team decision.
 * Agree on the form of the teams
 
 #### Additional PM responsibilities
@@ -121,14 +121,14 @@ This is one of the first coordination tasks for the PM.
 ## A5 Invoices
 * All non PM subjects need to submit invoices to their PM documenting the  hours work they have done for Part A.
 * All hours worked on the project such as team meetings, individual time should be included. The only hours NOT included are the lecture hours, every other hour should be counted and recorded.
-* The PM should then collect the invoices, total hours per consultancy and work tasks done into a single document that they submit with the rest of the documents. Make sure to include include your hourly rates, and any calculations on how you have perfromed the invoice
-* You can use your own templates but it has to include the same necessary infroamtion as the found template on learn under PM. 
+* The PM should then collect the invoices, total hours per consultancy and work tasks done into a single document that they submit with the rest of the documents. Make sure to include your hourly rates, and any calculations on how you have performed the invoice
+* You can use your own templates but it has to include the same necessary information as the found template on learn under PM. 
 * Note: The hours are counted per person so if two consultants have worked for 4 hours on the same task, then that's 8 hours to invoice. 
 
 ## A6 Client Report
-This report is to be cooridinated among all disicplines as there are also disciplinary requirements to be included. 
+This report is to be coordinated among all disciplines as there are also disciplinary requirements to be included. 
 * Provide basic guidance to the client on what you have found from your analysis.
-* You should explain to them the implications of different different further analysis that you could do.
+* You should explain to them the implications of different further analysis that you could do.
 * Provide input on how you analysed and plan to proceed with the client requirements.
 
 _For more details and requirements of the assignment from your respective discipline, check the [Subject Requirements](/Subjects/index.md)_
@@ -147,7 +147,7 @@ Below is a brief overview of the [subject requirements](/Subjects/index.md)_
 * Soil assumptions
 * Knowledge about foundations 
 ### PM
-* Strategise how to acheive KPIs
+* Strategise how to achieve KPIs
 * Simple BIM Model
 ### Architecture
 * Do the existing spaces work? 
@@ -155,11 +155,11 @@ Below is a brief overview of the [subject requirements](/Subjects/index.md)_
 
 ## A7 BIM Model
 
-* A simple BIM model with ifcGrid lines (PM/ICT responsible and to cooridinate)
-* Ensure all team members have set up necessary softwares and as in the beginning of the stage you will need to set up a central model. Hence the need for the simple bim model now. See [Revit Collaboration](/Workflows/Revit.md) if you choose to use Revit as your modelling software. 
+* A simple BIM model with ifcGrid lines (PM/ICT responsible and to coordinate)
+* Ensure all team members have set up necessary software and as in the beginning of the stage you will need to set up a central model. Hence the need for the simple BIM model now. See [Revit Collaboration](/Workflows/Revit.md) if you choose to use Revit as your modelling software. 
 
 ## A8 IDS for consultant BIM (Optional)
-Produce an IDS for each consultant to help them check their models. structure the requirements so that they are in project order.
+Produce an IDS for each consultant to help them check their models. Structure the requirements so that they are in project order.
 <hr>
 
 
