@@ -84,7 +84,7 @@ Location: Building 117 Room 024 / Building 127 Room 014 / Atrium of 127
 _Feb 09 2025 13:00 - 17:00_
 
 ```{hint}
-Please bring<br>
+Please bring <br>
 * A computer so that you can review and analyse the BIM and drawings for your chosen building.
 ```
 Having decided what building you will model in the previous session. This week following a brief introduction to working in interdisciplinary teams you will analyse and build a [physical model](/Assignments/A.md#a1-physical-building-model) of the existing building.
@@ -429,6 +429,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
