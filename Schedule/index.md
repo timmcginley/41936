@@ -121,12 +121,11 @@ _Feb 16 2025 13:00 - 17:00_
 
 | **Time**      | **Location** |**Activity**    |
 |---------------|--------------|---------------|
-| 13:00 - 13:15 | 117/024 | **Introduction to Analysis of Previous Proposed ABD Projects** (Standing) |
-| 13:15 - 14:15 | allocated spaces | **Analysis of the Previous ABD Project Proposal from Disciplinary Perspective**|
-| 14:15 - 14:30 | allocated spaces | **Break**|
-| 14:30 - 14:45 | 117/024| **Reflection on Analysis and Introduction to Proposed Building from Interdisciplinary Perspective**|
-| 14:45 - 16:15 | allocated spaces| **Proposal**  A new proposed building from interdisciplinary perspective (document your disciplinary needs)|
-| 16:15 - 17:00 | allocated spaces |  **Design**<br> Design the new proposed building that satisifies all your requirememts by working together ( PM facilitates and documents this process)|
+| 13:00 - 13:20 | 117/024 | **Introduction to Analysis of Previous Proposed ABD Projects** (Standing) |
+| 13:20 - 14:20 | allocated spaces | **Analysis of the Previous ABD Project Proposal from Disciplinary Perspective (document your disciplinary needs)**|
+| 14:20 - 14:35 | - | **Break**|
+| 14:35 - 14:45 | 117/024| **Reflection on Analysis and Introduction to Proposed Building from Interdisciplinary Perspective**|
+| 14:45 - 17:00| allocated spaces| **Interdisciplinary Design**  A new proposed building from interdisciplinary perspective that satisifies all your requirememts by working together ( PM facilitates and documents this process)|
 
 ### Analyse the Previous ABD Projects
 * Analyse the BIM and drawing for the existing buildings.
@@ -429,6 +428,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
