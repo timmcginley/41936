@@ -20,10 +20,11 @@ Our course runs on Monday Afternoons in the Spring semester and the 3 week perio
 |Team spaces    |B116/ east and west |
 |PM/ICT         |B117/ room 24 |
 |Architecture   |B127/ room 14 |
+|Structure      |B127/ room 13 |
+|Materials      |B127/ room 12 |
 |MEP            |B116/ room 13 |
-|Structure      |B116/ room 14 |
 |Geotech        |B116/ room 11 |
-|Materials      |B116/ room 19 |
+
 <hr>
 
 # Stage A
@@ -428,6 +429,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
