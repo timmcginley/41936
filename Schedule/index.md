@@ -125,7 +125,7 @@ _Feb 16 2025 13:00 - 17:00_
 | 13:15 - 14:15 | allocated spaces | **Analysis of the Previous ABD Project Proposal from Disciplinary Perspective**|
 | 14:15 - 14:30 | allocated spaces | **Break**|
 | 14:30 - 14:45 | 117/024| **Reflection on Analysis and Introduction to Proposed Building from Interdisciplinary Perspective**|
-| 14:45 - 16:15 | allocated spaces| **Analysis**  A new proposed building from disciplinary perspective (document your disciplinary needs)|
+| 14:45 - 16:15 | allocated spaces| **Proposal**  A new proposed building from interdisciplinary perspective (document your disciplinary needs)|
 | 16:15 - 17:00 | allocated spaces |  **Design**<br> Design the new proposed building that satisifies all your requirememts by working together ( PM facilitates and documents this process)|
 
 ### Analyse the Previous ABD Projects
@@ -429,6 +429,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
