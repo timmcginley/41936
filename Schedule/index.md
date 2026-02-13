@@ -17,7 +17,7 @@ Our course runs on Monday Afternoons in the Spring semester and the 3 week perio
 | **Allocated Space** |**Location**|
 |-------------- |------------|
 |Main Auditorium|B306/ aud. 32 |
-|Team spaces    |B116/ east and west |
+|Team spaces    |B116/ east and west, room 19 and room 14 |
 |PM/ICT         |B117/ room 24 |
 |Architecture   |B127/ room 14 |
 |Structure      |B127/ room 13 |
@@ -429,6 +429,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
