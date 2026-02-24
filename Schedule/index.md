@@ -188,9 +188,9 @@ Location: Building 306 - Auditorium 32
 
 _March 2 2025 13:00 - 17:00_
 
-* 13.00 - 13.30 **Part B Introduction** (Building 306 - Auditorium 32)
-* _13.30 - 14.00 Walk from building 306 to 116
-* 14:00 – 14:45 **Subject Introductions: Integrated Design** ( with a focus on options for Part B)
+* 13.00 - 13.45 **Part B Introduction and CAS Introduction** (Building 306 - Auditorium 32)
+* _13.45 - 14.15 Walk from building 306 to 116
+* 14:15 – 15:00 **Subject Introductions: Integrated Design** ( with a focus on options for Part B)
 * 15.00 - 17.00 Teams to start work on drawings.
 
 ## Week 06 - External & Guest Lectures
@@ -198,7 +198,7 @@ Location: Building 306 - Auditorium 32
 
 _March 09 2025 13:00 - 17:00_
 
-* 13.00 – 14.00 **Interdisciplinary Lectures** from Speckle, CCO, CAS & Ramboll
+* 13.00 – 14.00 **Interdisciplinary Lectures** from Speckle, GXN & Ramboll
 * _14.00 - 14.30 Walk from building 306 to 116
 * 14.30 - 15.15 **Guest Lectures** within Disciplines
 * 15.15 - 17.00 Teams to continure work on drawings.
@@ -428,6 +428,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
