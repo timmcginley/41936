@@ -189,7 +189,7 @@ Location: Building 306 - Auditorium 32
 _March 2 2025 13:00 - 17:00_
 
 * 13.00 - 13.45 **Part B Introduction and Client (DTU CAS) Introduction** (Building 306 - Auditorium 32)
-* _13.45 - 14.15 Walk from building 306 to 116
+* _13.45 - 14.15 Walk from building 306 to 116_
 * 14:15 – 15:00 **Subject Introductions: Integrated Design** ( with a focus on options for Part B)
 * 15.00 - 17.00 Teams to start work on drawings.
 
@@ -428,6 +428,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
