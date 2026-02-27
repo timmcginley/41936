@@ -255,12 +255,13 @@ _April 13 2025 13:00 - 17:00_
 Location: Building 116 - Check consultant guide for your subjects
 
 _April 20 2025 13:00 - 17:00_
-* 13.00 – 14.00 Innovation guest lectures for each discipline (Consultant rooms in Building 116).
+Location: Building 306 Auditorium 32
+* 13.00 – 14.00 Innovation in Industry guest lectures ( CCO)
 * 14.00 - 17.00 Team time
 
 
 ## Week 11 - Chief Consultation Sessions 
-Location: Building 306 Auditorium 32
+
 
 _April 27 2025 13:00 - 17:00_
 * 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
@@ -428,6 +429,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
