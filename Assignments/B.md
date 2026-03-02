@@ -22,7 +22,7 @@ Define the overall concept for your building through multi-disciplinary drawings
 **PM coordinates these efforts into integrated drawings**
 ```
 
-* Please bring your printed and correctly scaled drawings with you on Monday, March 24th. Space to pin up the drawings will be allocated to each team in Building 116 as per the plan below:
+* Please bring your printed and correctly scaled drawings with you on Monday, March 23rd. Space to pin up the drawings will be allocated to each team in Building 116 as per the plan below:
 * Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
 
 
