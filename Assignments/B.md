@@ -130,6 +130,8 @@ Present your recommendation in this first client report.
 The report will analyzing different options to assist the client in making decisions and providing feedback on the designs in Week 8. 
 The purpose of the report is to document the decisions made by both you and the client (teachers) regarding the initial design of the buildings. We encourage you to develop your own way of presenting this report based on your impression of the client from the communication you have had with them so far. For example, consider whether they would prefer a detailed report with extensive calculations or summaries presented in a 'one-pager'. Would they appreciate an executive summary?
 
+The materials subject will also produce a sustainability assessment framework on benchmarking sustainability and LCA and include it in the client report. 
+
 The representation of choices to the client is not predefined in this task; it's up to you, just as it would be in a real project. PM will coordinate these efforts and present recommendations to the client.
 
 * File name: [YEAR]-[TEAM]-[PART]-Client.file
