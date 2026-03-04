@@ -14,7 +14,7 @@ Grasshopper, Archicad, and more
 All inside your DTU Workspace at app.speckle.systems 
 
 ## Getting Started with Speckle
-For DTU Students – 2025 Edition
+For DTU Students – 2026 Edition
 
 ### 1. Create a Speckle Account
 * visit [https://app.speckle.systems](https://app.speckle.systems)
