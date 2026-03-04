@@ -17,4 +17,3 @@ All inside your DTU Workspace at https://hub.catenda.com/signin
 For DTU Students – 2026 Edition
 PMs will have access to Catenda and are expected to add the rest of the team. 
 A guide on [how to add members to the project](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Guidde+videos+article&track_link_id=deVMEn6ZDQXHxhw5RzAhtc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
-[Rhino.inside.revit page](https://www.rhino3d.com/inside/revit/1.0/)
