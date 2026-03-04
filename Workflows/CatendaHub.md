@@ -17,4 +17,4 @@ For DTU Students – 2026 Edition
 
 PMs should have received an email to join their reams workspace from Catenda and are expected to add the rest of the team. Here's a guide on [how to add members to the project](https://eu.guidde.com/share/playbooks/32n43rhyPM5WkmCNZZ3Smf?track_link_name=Guidde+videos+article&track_link_id=deVMEn6ZDQXHxhw5RzAhtc&origin=7PqdD6oPp9QLchKHNkCwDH3opRS2)
 <hr>
-If you'd like to see [more tutorials and guidance](https://support.catenda.com/en/collections/2657212-tutorials-and-guides) 
+If you'd like to see [more tutorials and guidance](https://support.catenda.com/en/collections/2657212-tutorials-and-guides)
