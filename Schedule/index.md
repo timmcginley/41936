@@ -198,9 +198,14 @@ Location: Building 306 - Auditorium 32
 
 _March 09 2025 13:00 - 17:00_
 
-* 13.00 – 14.00 **Interdisciplinary Lectures** from Speckle, GXN & Ramboll
+* 13.00 – 14.00 **Interdisciplinary Lectures** from GXN, Speckle, Catenda Hub & Ramboll
 * _14.00 - 14.30 Walk from building 306 to 116
 * 14.30 - 15.15 **Guest Lectures** within Disciplines
+
+| Architecture   | Structures    | MEP            | Geotechnical    | Materials         | PM              |
+|----------------|---------------|----------------|-----------------|-------------------|-----------------|
+|Walwala Mazarwal from Artelia on Fire considerations and requirements|Serkan Karatosun from DTU Sustain on structural reuse of concrete and timber| Peter Weitzmann from Hofor on MEP in Industry| Morten Christophersen, Michael Roed, and Clara Koch from COWI to discuss their projects on renovation and geotechnical foundations|Andreas Sørensen from Ramboll discussing LCA in rennovations and industry frameworks|TBD|
+                  
 * 15.15 - 17.00 Teams to continure work on drawings.
 
 <!-- 2025 Guest Lectures
@@ -429,6 +434,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
