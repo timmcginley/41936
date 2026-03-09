@@ -204,7 +204,7 @@ _March 09 2025 13:00 - 17:00_
 
 | Architecture   | Structures    | MEP            | Geotechnical    | Materials         | PM              |
 |----------------|---------------|----------------|-----------------|-------------------|-----------------|
-|Walwala Mazarwal from Artelia on Fire considerations and requirements|Serkan Karatosun from DTU Sustain on structural reuse of concrete and timber| Peter Weitzmann from Hofor on MEP in Industry| Morten Christophersen, Michael Roed, and Clara Koch from COWI to discuss their projects on renovation and geotechnical foundations|Andreas Sørensen from Ramboll discussing LCA in rennovations and industry frameworks|TBD|
+|Walwala Mazarwal from Artelia on Fire considerations and requirements|Serkan Karatosun from DTU Sustain on structural reuse of concrete and timber| Peter Weitzmann from Hofor on MEP in Industry| Morten Christophersen, Michael Roed, and Clara Koch from COWI to discuss their projects on renovation and geotechnical foundations|Andreas Sørensen from Ramboll discussing LCA in rennovations and industry frameworks| Christian Carlos from BakerHicks|
                   
 * 15.15 - 17.00 Teams to continure work on drawings.
 
@@ -434,6 +434,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
