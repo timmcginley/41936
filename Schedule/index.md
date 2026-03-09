@@ -199,11 +199,6 @@ Location: Building 306 - Auditorium 32
 _March 09 2025 13:00 - 17:00_
 
 * 13.00 – 14.00 **Interdisciplinary Lectures** from GXN, Speckle, Catenda Hub & Ramboll
-* 13:00-13:20 - GXN
-* 13:20 - 13:35 Speckle
-* 13:35-13:40 Break
-* 13:40- 13:50 Catenda Hub
-* 13:50-14:10 Ramboll
 * _14.00 - 14.30 Walk from building 306 to 116
 * 14.30 - 15.15 **Guest Lectures** within Disciplines
 
@@ -439,6 +434,7 @@ Roskilde Festival 2026 doesn't start until 28th June :)
 | 13   | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       | Q+A       |
 
 -->
+
 
 
 
