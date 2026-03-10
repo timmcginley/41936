@@ -6,7 +6,7 @@ Collaboration in the AEC is normally supported in the AEC with a CDE. However, t
 
 In this document, two possible approaches are provided. To keep the workflow as simple and clear as possible, it is recommended that you follow Option 1 in order to minimize complexity. please also check out the [Speckle](Speckle.md) or [Catenda Hub](catendahub.md) as alternatives.
 
-## Option 2: Alternative Collaboration Without a Central File
+## Option 1: Alternative Collaboration Without a Central File
 If your team cannot work with a Central File due to location constraints, follow these steps instead:
 ### Share Updated Files
 1.	Each user works on their own separate Revit file.
