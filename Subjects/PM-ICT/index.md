@@ -103,8 +103,7 @@ Make sure that the team develops integrated drawings, including alternative solu
 In Part B, present the following drawings:
 1.	Selected IT tools for simulation/analysis and BIM-modelling
 2.	How and when information are exchanged inside the team
-3.	Coordinated schedule of activities for the entire team in the 13-week period
-How the team will meet client requirements
+3.	Coordinated schedule of activities for the entire team in the 13-week period how the team will meet client requirements
 
 
 ### Part C
