@@ -4,7 +4,7 @@ The following guide explains different ways students can collaborate on Revit mo
 
 Collaboration in the AEC is normally supported in the AEC with a CDE. However, these are frequently cloud based proprietary platforms that lock your data into them. Whilst we understand the need to use proprietary authoring tools in the course, we are keen to find alternatives to these cloud lock in platforms therefore the course will not promote platforms such as BIM360.
 
-In this document, two possible approaches are provided. To keep the workflow as simple and clear as possible, it is recommended that you follow Option 1 in order to minimize complexity. please also check out the [Speckle](Speckle.md) or [Catenda Hub](catendahub.md) as alternatives.
+In this document, two possible approaches are provided. To keep the workflow as simple and clear as possible, it is recommended that you follow Option 1 in order to minimize complexity. please also check out the [Speckle](Speckle.md) or [Catenda Hub](CatendaHub.md) as alternatives.
 
 ## Option 1: Alternative Collaboration Without a Central File
 If your team cannot work with a Central File due to location constraints, follow these steps instead:
