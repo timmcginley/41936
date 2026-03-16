@@ -110,7 +110,7 @@ Perspective view (A3)
 * PM: Performance against the Beats (estimated or calculated)
 * PM: Performance against the KPIs
 
-Option PM
+Optional PM
 * PM: Selected IT tools for simulation/analysis and BIM-modelling, present a process-map, WBS (Work breakdown structure) overview
 * PM: Client requirements coordinated with the system engineering process. 
 
