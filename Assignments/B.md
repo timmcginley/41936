@@ -26,8 +26,6 @@ Define the overall concept for your building through multi-disciplinary drawings
 * Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
 
 
-![image](https://github.com/user-attachments/assets/25107921-674b-46ed-b368-6afb7ad6dc21)
-
 
 ### Required Drawings and Presentation layout
 
