@@ -25,7 +25,7 @@ Define the overall concept for your building through multi-disciplinary drawings
 * Please bring your printed and correctly scaled drawings with you on Monday, March 24th. Space to pin up the drawings will be allocated to each team in Building 116 as per the plan below:
 * Please make sure to be there by 12:45 in front of the main auditorium (81). You will also need to bring pens / pencils so you can annotate and 'mark up' the drawings during the session.
 
-<img width="1020" height="721" alt="image" src="https://github.com/user-attachments/assets/85ce35fa-5e4b-4012-8006-771bf7908750" />
+![DrawingsPartB-Pinup](https://github.com/user-attachments/assets/85ce35fa-5e4b-4012-8006-771bf7908750)
 
 ### Required Drawings and Presentation layout
 
