@@ -344,12 +344,12 @@ _June 23 2025 9.00_
 Reports & BIM Due
 
 ### Day 14 Final Presentation Day 1
-_June 24 2025 9.00_
+_June 24 2025 8.00_
 
 Final Presentations run over 2 days in Building 306 Auditorium 32.
 
-### Day 15 Final Presentation Day 1
-_June 24 2025 9.00_
+### Day 15 Final Presentation Day 2
+_June 25 2025 8.00_
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
