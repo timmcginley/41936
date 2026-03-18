@@ -229,13 +229,17 @@ _March 16 2025 13:00 - 17:00_
 Location: Building 116 Atrium
 
 _March 23 2025 13:00 - 17:00_
-* 13.00 – 17.00 **Interdisciplinary drawing feedback session
+* 13.00 – 15.30 **Interdisciplinary drawing feedback session
+* 15.30 - 17:00 Team time 
 * Check the [Drawing Assignment](/Assignments/B.md#b1-drawings) in Part B for more details
 
 ### Presentation of Drawings
 * Pin up drawings in your allocted spot before 13 in the order described in the assignment.
 * Chief consultants, external lectures and TAs will walk around and give feedback. 
 * Submit the assignment for [Part B](/Assignments/B.md) on DTU Learn.
+<img width="854" height="269" alt="Screenshot 2026-03-18 at 1 39 02 PM" src="https://github.com/user-attachments/assets/8286f1c6-b80d-41bb-88d2-7d01f7865732" />
+
+
 
 
 ```{information}
