@@ -353,38 +353,35 @@ _June 25 2025 8.00_
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
-<!-- TO UPDATE FOR 2026
-### June 24th (Team 1 - 8)
-| Team |  Start | End |
-|------|--------|-----|
-|Team 1 |9:00	 |9:30 |
-|Team 2 |9:35	|10:05|
-|Team 3 |10:10	|10:40|
-|Team 4 |10:45	|11:15|
-|Lunch Break |11:15	|12:25|
-|Team 5 |12:30	|13:00|
-|Team 6 |13:05	|13:35|
-|Team 7 |13:40	|14:10|
-|Team 8 |14:15	|14:45|
 
-### June 25th (Team 9 - 16)
+### June 24th (Team 6 - 10)
 | Team |  Start | End |
 |------|--------|-----|
-|Team 9 |9:00	 |9:30 |
-|Team 10 |9:35	|10:05|
-|Team 11 |10:10	|10:40|
-|Team 12 |10:45	|11:15|
-|Lunch Break |11:15	|12:25|
-|Team 13 |12:30	|13:00|
-|Team 14 |13:05	|13:35|
-|Team 15 |13:40	|14:10|
-|Team 16 |14:15	|14:45|
+|Team 6 |8:00	 |8:40 |
+|Team 7 |8:45	|9:25|
+|Team 8 |9:30	|10:10|
+|Break |10:10	|10:25|
+|Team 9 |10:25	|11:05|
+|Team 10 |11:10	|11:50|
+|Lunch Break |12:00	||
+
+
+### June 25th (Team 1 - 5)
+| Team |  Start | End |
+|------|--------|-----|
+|Team 1 |8:00	 |8:40 |
+|Team 2 |8:45	|9:25|
+|Team 3 |9:30	|10:10|
+|Break |10:10	|10:25|
+|Team 4 |10:25	|11:05|
+|Team 5 |11:10	|11:50|
+|Lunch Break |12:00	||
 
 -->
 It will be possible to swap these presentation slots with other groups if you can agree between you and tell us before the 20th June.
 
 ```{hint}
-Roskilde Festival 2026 doesn't start until 28th June :)
+Roskilde Festival 2026 doesn't start until 27th June :)
 ```
 
 <!--
