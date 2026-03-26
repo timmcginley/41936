@@ -255,6 +255,7 @@ Easter break March 30th - 6th April
 Location: Building 306 Auditorium 32
 
 _April 13 2025 13:00 - 17:00_
+
 * 13.00 - 13.30  **Part C Introduction** (Building 306 Auditorium 32)
 * _13.30 - 14.00 Walk from building 306 to 116_
 * 14.00 – 15.00 **Chief Consultant Lectures** (Consultant rooms in Building 116).
@@ -264,9 +265,12 @@ _April 13 2025 13:00 - 17:00_
 Location: Building 116 - Check consultant guide for your subjects
 
 _April 20 2025 13:00 - 17:00_
+
 Location: Building 306 Auditorium 32
-* 13.00 – 14.00 Innovation in Industry guest lectures ( CCO)
-* 14.00 - 17.00 Team time
+
+* 13.00 – 14.00 Innovation in Industry Guest Lectures (Beth Wiberg from CCO & TBD)
+* _14.00 - 14.30 Walk from building 306 to 116_
+* 14.30 - 17.00 Team time
 
 
 ## Week 11 - Chief Consultation Sessions 
