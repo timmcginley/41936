@@ -273,22 +273,22 @@ Location: Building 306 Auditorium 32
 
 
 _April 27 2025 13:00 - 17:00_
-* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
-* 15.00 - 17.00 Team time
+* 13.00 – 14.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
+* 14.00 - 17.00 Team time
 
 ## Week 12 - Chief Consultation Sessions  
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 4 2025 13:00 - 17:00_
-* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
-* 15.00 - 17.00 Team time
+* 13.00 – 14.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
+* 14.00 - 17.00 Team time
 
 ## Week 13 - Final Consultant Session Part C 
 Location: Building 116 - Check consultant guide for your subject room
 
 _May 11 2025 13:00 - 17:00_
-* 13.00 – 15.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
-* 15.00 - 17.00 Team time
+* 13.00 – 14.00 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
+* 14.00 - 17.00 Team time
 
 <mark>Check DTU Learn for the part C hand in date.</mark>
 
