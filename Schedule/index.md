@@ -262,15 +262,16 @@ _April 13 2025 13:00 - 17:00_
 * 15.00 – 17.00 Team time.
 
 ## Week 10 - Disiciplinary Innovation Session
-Location: Building 116 - Check consultant guide for your subjects
 
 _April 20 2025 13:00 - 17:00_
 
 Location: Building 306 Auditorium 32
 
-* 13.00 – 14.00 Innovation in Industry Guest Lectures (Beth Wiberg from CCO & TBD)
+* 13.00 – 14.00 Multidsicplinary in Industry Guest Lectures
+    * Beth Wiberg from CCO on Comparative Study of Design Alternatives
+    * Maj Bastholm Petrin from Rambøll on Strategic Design Approach and Interdisciplinarity.
 * _14.00 - 14.30 Walk from building 306 to 116_
-* 14.30 - 17.00 Team time
+* 14.30 - 17.00 Team time - TAs available
 
 
 ## Week 11 - Chief Consultation Sessions 
