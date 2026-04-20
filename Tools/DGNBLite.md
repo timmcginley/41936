@@ -215,6 +215,7 @@ Universal design following national guideline - BR18
 * Lv2: T <= 0.8                     40pts
 
 * Guide on [acoustic comfort related to DGNB-Lite](https://learn.inside.dtu.dk/d2l/le/lessons/294890/topics/1107034)
+
 <hr>
 
 ## Technical Criteria
