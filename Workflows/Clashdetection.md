@@ -94,7 +94,9 @@ This method is also useful for evaluating the layout and overall flow of the bui
 #### Workflow
 
 **Publish to Revizto**
+
 The model is published directly from Revit using the Revizto plugin (see Figure below). Once published, the model becomes available in Revizto for review.
+
 **Revizto 5→ Revizto 5 → Publish to Revizto**
 <img width="805" height="155" alt="Picture1111" src="https://github.com/user-attachments/assets/727867e7-ee6c-4738-9a4f-f884122f45a7" />
 
@@ -123,6 +125,7 @@ This makes it especially useful in later design stages or before construction, w
 
 #### Setup Navisworks
 Before running clash detection, the models must be properly prepared and exported.
+
 * Ensure the same software version is used across tools (e.g., Revit 2026, Navisworks 2026)
 * Install required tools:
   * Navisworks Manage
@@ -166,6 +169,7 @@ To improve clarity:
 Navisworks provides a structured overview, making it easier to manage large numbers of clashes compared to manual methods.
  
 **Resolve clashes**
+
 Clash results should be shared with the project team and assigned to the relevant disciplines for resolution.
 
 After updates are made in the individual models, the clash tests should be re-run to verify that issues have been resolved.
@@ -174,7 +178,9 @@ Reports can be generated directly from Navisworks (e.g., HTML format) to documen
 
 #### Learning Resources
 Since Navisworks can be more complex to set up and use, video tutorials can help understand the workflow and interface:
-* 
+* [Perform a clash test in Navisworks Manage - Autodesk](https://www.autodesk.com/learn/ondemand/curated/mep-and-structural-coordination/2MxCJVABpvs0sQGYkuZd1Z)
+* [EXPORTING REVIT TO NAVISWORKS - YouTube](https://www.youtube.com/watch?v=nAZFTtCQyLk)
+* [Autodesk Navisworks Clash Detection Overview - YouTube](https://www.youtube.com/watch?v=v3uDiV2eQt0)
 These provide step-by-step visual demonstrations of model setup, clash detection, and result analysis.
 
 ### Conclusion
