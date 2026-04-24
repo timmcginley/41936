@@ -181,6 +181,7 @@ Since Navisworks can be more complex to set up and use, video tutorials can help
 * [Perform a clash test in Navisworks Manage - Autodesk](https://www.autodesk.com/learn/ondemand/curated/mep-and-structural-coordination/2MxCJVABpvs0sQGYkuZd1Z)
 * [EXPORTING REVIT TO NAVISWORKS - YouTube](https://www.youtube.com/watch?v=nAZFTtCQyLk)
 * [Autodesk Navisworks Clash Detection Overview - YouTube](https://www.youtube.com/watch?v=v3uDiV2eQt0)
+
 These provide step-by-step visual demonstrations of model setup, clash detection, and result analysis.
 
 ### Conclusion
