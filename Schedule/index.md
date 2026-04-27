@@ -278,6 +278,8 @@ Location: Building 306 Auditorium 32
 
 
 _April 27 2025 13:00 - 17:00_
+The chief consultant sesesions are optional sessions to be booked if you would like to get feedback or have any specific questions regarding your discipline and project. 
+
 * 13.00 – 14.30 Chief consultant session ( to be agreed upon between chief consultant and subject consultants)
 * 14.00 - 17.00 Team time
 
