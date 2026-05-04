@@ -382,9 +382,9 @@ More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 |------|--------|-----|
 |Team 1 |8:00	 |8:40 |
 |Team 2 |8:45	|9:25|
-|Team 3 |9:30	|10:10|
+|Team 4 |9:30	|10:10|
 |Break |10:10	|10:25|
-|Team 4 |10:25	|11:05|
+|Team 3 |10:25	|11:05|
 |Team 5 |11:10	|11:50|
 |Lunch Break |12:00	||
 
