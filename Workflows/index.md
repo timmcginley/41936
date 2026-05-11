@@ -15,7 +15,7 @@ This document offers comprehensive guides and walkthroughs on effectively collab
 * [Clash Detection](Clashdetection.md)
 * [IFC 4x3 Export](IFC4X3Export.md)
 * [Rhino Inside Revit ](Rhino.Inside.Revit.md)
-* [Benchmarking Values](Benchmarkingvalues.md)
+* [Benchmarking Values](BenchmarkingValues.md)
 * [Speckle](Speckle.md)
 * [LCAbyg](LCAbyg.md)
 
