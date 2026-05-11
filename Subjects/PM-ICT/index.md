@@ -155,7 +155,7 @@ The Part D reports are a development of the previous reports. This is true for a
 
 #### D Client report
 Contains the final:
-* Final cost estimates.
+*  Final cost estimates.
 * DGNB light score.
 * Explain how the building is used during its operation—for example, how waste is removed and how goods are delivered, including equipment brought into multipurpose spaces.
 * Describe how access is provided to key elements required for operation and maintenance tasks, such as window cleaning or changing filters in the ventilation system.
