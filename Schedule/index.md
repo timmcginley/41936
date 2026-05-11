@@ -306,12 +306,12 @@ _May 11 2025 13:00 - 17:00_
 <hr>
 
 
-## 3Week 1 - (04/06 - 05/06)
+## 3Week 1 - (08/06 - 12/06)
 
 
 
 ### Day 1
-_June 04 2025 11.00_
+_June 08 2025 11.00_
 
 Location: Building 306 Auditorium 32
 * 10.00 - 11.00     Part D Introduction (Building 306 Auditorium 32)
