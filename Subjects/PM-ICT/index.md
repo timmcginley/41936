@@ -117,12 +117,12 @@ Contents:
 * Explain how the project was managed. Present how you used the schedule, tools, system engineering, KPI’s, beats to develop the project. Explain how you took action within the team, during the design meetings, how you overviewed or acted as a mediator when design criteria and client requirements were decided.
 * Document the methods used to ensure traceability between requirements and implemented solutions. Present how you implemented and achieved the client requirements. Hint: Present the integration or requirements, work performed in the context of applied system engineering to your project and specifications.
 * Document the spatial coordination between subjects, including sketches/drawings/renderings. Special attention should be given to:
-* Allocation of spaces in shafts
-* Coordination between building services and the structural system
-* Coordination between the structural system and foundation
-* Elements in the facades.
-* Cost estimated
+   * Allocation of spaces in shafts
+   * Coordination between building services and the structural system
+   * Coordination between the structural system and foundation
+   * Elements in the facades.
 * DGNB light score
+* Cost estimation
 * To be included in the cost estimate:
     * Excavation
     * All materials related to the building
