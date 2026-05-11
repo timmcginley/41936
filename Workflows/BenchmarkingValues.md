@@ -12,7 +12,7 @@
 * Office area of permanent workspaces [m2]
 * Number of permanent workspaces
 * Minimum floor-to-ceiling height [m]
-* Total Building height [m]
+* Total Building height [m] 
 
 ## Environmental Impact
 * CO2 per workspace ([(CO2*kg/m2/year)*Total office area (m2)] / Permanent desks) 
