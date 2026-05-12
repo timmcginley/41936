@@ -325,7 +325,7 @@ The three week period will primarily consist of team work to work on your projec
 
 |               |  Monday 15/06   | Tuesday 16/06   | Wednesday 17/06 | Thursday 18/06  | Friday 19/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Sessions      |Midway PM Check in                 |                 |                 |                 |                 |
+| Sessions      |Midway PM <br>1:1 Check in                 |                 |                 |                 |                 |
 | Submissions   |                 | Clash Detection <br>Workflow          |                 |  Arch BIM    | Draft Submission   |
 | Consultations |                 |                 |                 |                 |                 |
 
@@ -333,23 +333,11 @@ The three week period will primarily consist of team work to work on your projec
 
 |               |  Monday 22/06   | Tuesday 23/06   | Wednesday 24/06 | Thursday 25/06  | Friday 26/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Sessions      |                 |                 | Presentation Day 1     |     Presentation Day 2            |                 |
-| Submissions   |                 | Report & Model Submissions   |                 |                 |   Presentation Submission     |
+| Sessions      |                 |                 | Presentation Day 1  <br>8:00-12:00  <br>B306 Aud 32    |     Presentation Day 2   <br>8:00-12:00  <br>B306 Aud 32         |                 |
+| Submissions   |                 | Reports & BIM Due   |                 |                 |   Presentation Submission     |
 | Consultations |                 |                 |                 |                 |                 |
 
 
-### Day 13
-_June 23 2025 9.00_
-
-Reports & BIM Due
-
-### Day 14 Final Presentation Day 1
-_June 24 2025 8.00_
-
-Final Presentations run over 2 days in Building 306 Auditorium 32.
-
-### Day 15 Final Presentation Day 2
-_June 25 2025 8.00_
 
 More information on the [Part D Presentation](/Assignments/D.md#d4-presentation)
 
