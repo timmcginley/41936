@@ -111,11 +111,10 @@ We want you to embrace parametrics and smarter ways to work in this course.
 PMs can be nominated by their team based on how well they supported collaboration and interdisciplinarity in the team. 
 ``` 
 
-<hr>
 
 ## C4 Invoice
 PM to collect invoices from the consultants on their team and collate into a single invoice fro the team including.
-<hr>
+
 
 ## Part C Submission
 Integrate your recommendations to the client, drawings, separate photos of sketches, and a photo of the all the drawings/sketches on the wall into a client report in PDF. File name: PartC_TeamXX
