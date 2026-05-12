@@ -306,17 +306,7 @@ _May 11 2025 13:00 - 17:00_
 <hr>
 
 
-## 3Week 1 - (08/06 - 12/06)
-
-
-
-### Day 1
-_June 08 2025 11.00_
-
-Location: Building 306 Auditorium 32
-* 10.00 - 11.00     Part D Introduction (Building 306 Auditorium 32)
-* 11.00 -           Team time
-* 23.59             Peer review due June 4th.
+## Week 1 - (08/06 - 12/06)
 
 The three week period will primarily consist of team work to work on your projects. There will be scheduled times to book short 1:1 meeting with your chief consultant. The availabilites of the chief consultants will be posted soon. 
 
@@ -325,29 +315,28 @@ The three week period will primarily consist of team work to work on your projec
 
 ## Week 1 - (08/06 - 12/06)
 
-|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat               | PM                                     |
-|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-------------------|----------------------------------------|
-| Monday    | 08/06 |                                     |               |                                              |               |                   |                                        |
-| Tuesday   | 09/06 |                                     |               |                                              |               |                   |                                        |
-| Wednesday | 10/06 |                                     |               |                                              |               |                   |                                        |
-| Thursday  | 11/06 |                                     |               |                                              |               |                   |                                        |
-| Friday    | 12/06 |                                     |               |                                              |               |                   |                                        |
-
+|               |  Monday 08/06   | Tuesday 09/06   | Wednesday 10/06 | Thursday 11/06  | Friday 11/06    |
+|---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Sessions      |Part D Introduction  <br>10:00-11:00  <br>B306 Aud 32    |  Feedback shared <br>via email              |                 |  |Clash Detection Workflow|
+| Submissions   |Peer Review  <br>due 23.59               |      One-page report <br>on Feedback strategy  <br>  due 23.59            |                 |                 |                 |
+| Consultations |                 |                 |                 |                 |                 |
 ## Week 2 - (15/06 - 19/06)
 
 
-|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat               | PM                                     |
-|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-------------------|----------------------------------------|
-| Monday    | 15/06 |                                     |               |                                              |               |                   |                                        |
-| Tuesday   | 16/06 |                                     |               |                                              |               |                   |                                        |
-| Wednesday | 17/06 |                                     |               |                                              |               |                   |                                        |
-| Thursday  | 18/06 |                                     |               |                                              |               |                   |                                        |
-| Friday    | 19/06 |                                     |               |                                              |               |                   |                                        |
+|               |  Monday 15/06   | Tuesday 16/06   | Wednesday 17/06 | Thursday 18/06  | Friday 19/06    |
+|---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Sessions      |Midway PM Check in                 |                 |                 |                 |                 |
+| Submissions   |                 | Clash Detection Workflow          |                 |  Arch BIM    | Draft Submission   |
+| Consultations |                 |                 |                 |                 |                 |
 
 ## Week 3 - Final Sprint and Part D Presentation (22/06 - 25/06)
 
-### Day 12
-_June 22 2025 
+|               |  Monday 22/06   | Tuesday 23/06   | Wednesday 24/06 | Thursday 25/06  | Friday 26/06    |
+|---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Sessions      |                 |                 | Presentation Day 1     |     Presentation Day 2            |                 |
+| Submissions   |                 | Report & Model Submissions   |                 |                 |   Presentation Submission     |
+| Consultations |                 |                 |                 |                 |                 |
+
 
 ### Day 13
 _June 23 2025 9.00_
@@ -396,6 +385,20 @@ Roskilde Festival 2026 doesn't start until 27th June :)
 ```
 
 <!--
+_June 08 2025 11.00_
+
+Location: Building 306 Auditorium 32
+* 10.00 - 11.00     Part D Introduction (Building 306 Auditorium 32)
+* 11.00 -           Team time
+* 23.59             Peer review due June 8th.
+
+|           |       | Arch                                | Str           | MEP                                          | Geo           | Mat               | PM                                     |
+|-----------|-------|-------------------------------------|---------------|----------------------------------------------|---------------|-------------------|----------------------------------------|
+| Monday    | 08/06 |                                     |               |                                              |               |                   |                                        |
+| Tuesday   | 09/06 |                                     |               |                                              |               |                   |                                        |
+| Wednesday | 10/06 |                                     |               |                                              |               |                   |                                        |
+| Thursday  | 11/06 |                                     |               |                                              |               |                   |                                        |
+| Friday    | 12/06 |                                     |               |                                              |               |                   |                                        |
 
 **[Stage A](/41936/Assignments/A)**
 * Week 1: [Introduction to Course and Part A](01.md)
