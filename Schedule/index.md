@@ -326,7 +326,7 @@ The three week period will primarily consist of team work to work on your projec
 |               |  Monday 15/06   | Tuesday 16/06   | Wednesday 17/06 | Thursday 18/06  | Friday 19/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Sessions      |Midway PM <br>1:1 Check in                 |                 |                 |                 |                 |
-| Submissions   |                 | Clash Detection <br>Workflow          |                 |  Arch BIM    | Draft Submission   |
+| Submissions   |                 | Clash Detection <br>Workflow          |                 |  Arch BIM    | Draft Submission <br>of Reports  |
 | Consultations |                 |                 |                 |                 |                 |
 
 ## Week 3 - Final Sprint and Part D Presentation (22/06 - 25/06)
