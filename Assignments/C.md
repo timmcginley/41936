@@ -50,7 +50,7 @@ All reports:
 * File format: One PDF document per consultancy. No other formats are accepted.
 * Note: words count should be the same on A4 and A3 format
 * File name: [YEAR]-[TEAM]-[PART]-[SUB].file
-* Example for part c consultant report for architecture in team 10: _25-10-C-ARCH.pdf_
+* Example for part c consultant report for architecture in team 10: _26-10-C-ARCH.pdf_
 * Note_1: Over the limit pages will be ignored
 * Note_2: Extra information should be included & referenced to the appendixes chapter at the end of the report, placed after the reference chapter, and will in this way be taken into consideration.
 * Note_3: Pages without an author(s) will be ignored.
@@ -95,7 +95,7 @@ https://timmcginley.github.io/41936/Assignments/A.html#a5-ict-contract
 ```{important}
 File naming: [YR]-[TEAM]-[PART]-[SUB].file (TBC)
 
-Example for the architects in team 10 in 2025 : 25-10-C-ARCH.ifc
+Example for the architects in team 10 in 2026 : 26-10-C-ARCH.ifc
 ```
 
 ### Awards
