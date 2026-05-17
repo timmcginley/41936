@@ -204,7 +204,7 @@ Please ensure your VR model is uploaded to Revizto and your presentation is uplo
 ```{important}
 File naming: [YR]-[TEAM]-[PART]-[SUB].file (TBC)
 
-Example for the architects in team 10 in 2025 : 25-10-D-ARCH.ifc
+Example for the architects in team 10 in 2026 : 26-10-D-ARCH.ifc
 ```
 
 You can find consultant specific requirements below:
