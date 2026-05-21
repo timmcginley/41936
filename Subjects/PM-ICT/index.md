@@ -170,6 +170,7 @@ Contains the final:
 * Explain how coordination issues were documented and solved during the project, and how it could have been improved.
 * Explain how the project was managed during the course and what have been improved.
 * Explain how the review and quality assurance processes were performed.
+* Explain clash detection and your clash detection workflow, how did you work in your teams and what did that look like?
 
 #### D BIM
 Your responsibility is to coordinate the BIM models to the benefit of your building team. This includes clash detection and quality assurance and cost calculations. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues (e.g., clashes, misplaced objects, duplicated objects etc.). Use the VR session as a team, to ensure you find these issues, and together with the clash detection analysis you will conduct, will result in a good overall BIM Management. The team project BIM Model should be corelated, have the same coordinates for all subjects, have as less as possible coordination issues. The BIM Model information must correspond entirely to the ICT Contract rules. For this assignment an overall increase in the quality and coordination has to be seen from the 13-week period. Your Model has to be a in a ready to build stage. Moreover, this will be analysed during the final presentation and assessment of the teamwork.
