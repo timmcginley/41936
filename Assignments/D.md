@@ -102,7 +102,6 @@ Your final client report should include:
 * Summarise the office desks per office floor and where the student spaces are located here.
 * Student areas? – tell us about it – facts and experience – how is it supported? What is the relationship to the ‘office spaces’?
 * The floor build up can be included here - perhaps a section showing how the floor to floor is calculated?
-* Brief summary of subject flexibility (based on results from week 3 lecture) and the integration performance of the team – strengths and weaknesses for this element.
 
 
 ### 09: Spaces
@@ -121,7 +120,6 @@ Your final client report should include:
   * Structural concept for the building.
   * Highlights of the structural disciplinary report.
   * The design / remidiation of the foundations.
-* Provide a brief summary of subject flexibility for structure, provide an example of how the structure was adapted to balance the needs of the team and the proect requirements.
 * **The structure chapter should also represent structure from the needs of the other disciplines.** It is not just a summary of the structural subject but literally how structure supports the rest of the building.
   * An example of a link is to Geo and Str resolved this, but there are many issues across the team to demonstrate structural interdisciplinary integration. This should really tell the story of the project and include the *for helen* element and how you have tried to integrate the design solution.
 
@@ -133,7 +131,6 @@ Your final client report should include:
   * How have you organised your stairs - do they work -  does it conform to building regulations?
   * Overview of the vertical hydronics and ventilation system diagrams. – these are a sub system of the core…
 * Please PM remember to talk about space planning here and also how you coordinated holes in the core to make sure there were not too many.
-* Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
 
 
 ### 12: MEP
@@ -146,7 +143,6 @@ Your final client report should include:
   * a sectional diagram that includes the technical room, tech floor and air handling unit for the building flow systems.
   * Focus on Ventilation, shafts and hydronics.
 * Evidence of a study conducted by MEP to assess the validity of an element of the building i.e. facade.
-* Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
 
 
 ### 13: Facade
@@ -158,7 +154,6 @@ Your final client report should include:
 * Envelope glazing ratio and U values etc.
 * If you have made lots of progress in this perhaps you could show an 'exploded axo' of the facade components - this shows you have started to think about construction - but most don't reach this stage until Part D.
 * Can you show an ‘exploded axonometric view, to give us an idea of how it would be installed? This doesn’t need to be perfect but it helps us understand your thinking.
-* Provide a brief summary of subject flexibility for this element of the report (based on results from week 3 lecture) and the strengths and weaknesses of the integration performance of the team for this element.
   
 ### 14: Evacuation / Fire safety
 * Fire safety
