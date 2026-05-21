@@ -314,7 +314,7 @@ The three week period will primarily consist of team work to work on your projec
 |               |  Monday 08/06   | Tuesday 09/06   | Wednesday 10/06 | Thursday 11/06  | Friday 11/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Sessions      |Part D Introduction  <br>9:00-11:00  <br>B306 Aud 32    | Arch Detailing Session <br>9:00-10:00  <br>B127 R119  <br><br> All feedback shared <br>via email              |                 |  |Clash Detection <br>Workflow workshop|
-| Submissions   |Peer Review  <br>due 23.59               |      One-page report <br>on Feedback strategy  <br>  due 23.59            |                 |                 |                 |
+| Submissions   |Peer Review  <br>due 23.59               |    IFC 4X3 and one-page report <br>on Feedback strategy  <br>  due 23.59            |                 |                 |                 |
 | Consultations |                 |                 |                 |                 |                 |
 ## Week 2 - (15/06 - 19/06)
 
@@ -322,7 +322,7 @@ The three week period will primarily consist of team work to work on your projec
 |               |  Monday 15/06   | Tuesday 16/06   | Wednesday 17/06 | Thursday 18/06  | Friday 19/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Sessions      |Midway PM <br>1:1 Check in                 |                 |                 |                 |                 |
-| Submissions   |                 | Clash Detection <br>Workflow          |                 |  Arch BIM    | Draft Submission <br>of Reports  |
+| Submissions   |                 |       |                 |  Arch BIM    | Draft Submission <br>of Reports  |
 | Consultations |                 |                 |                 |                 |                 |
 
 ## Week 3 - Final Sprint and Part D Presentation (22/06 - 25/06)
