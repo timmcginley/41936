@@ -35,7 +35,7 @@ Your building and your design process should be agile and prepared for change - 
 
 DTU's expected growth and strategic investment in research, education and innovation creates a need for new buildings, which should be balanced alongside its maintenance and renovation of its existing building stock. Capacity analyses have shown a need for 33.000 new sqm over the next 10-15 years. your project will only provide a small part of the required future capacity. You will focus on one existing building on campus, Building 308. All options have the same brief of accomodation. However they will be compared against each other in terms of sustainbility, cost and time etc.
 
-### The Client
+## The Client
 
 Buildings on Campus tend to seperate researchers and students and divied the researchers into to (mostly) disciplinary departments. The client used to be a DTU reseracher before quitting and launching a hugely successful start up. They recently returned for an almuni event and remembering how much they enjoyed the opportunity to meet people with different interests from different backgrounds at DTU and wondered on the travel home how to do better support on campus collaboration. They came up wiht the following simple vision, that you are being asked to execute.
 
@@ -43,7 +43,7 @@ Buildings on Campus tend to seperate researchers and students and divied the res
 
 The client intends to make a donation to DTU to enable this project, however they have lots of other projects and are aware that they can easily become distracted. Therefore, it is essential that they be 'kept in the loop' with the project by the teams reporting on the following KPIs throughout the project.
 
-### 4 Project KPIs (Key Performance Indicators)
+## 4 Project KPIs (Key Performance Indicators)
 
 >This is the engine of the course. These can be combined with other figures to provide an overview of your Team's progress.
 
@@ -51,27 +51,37 @@ In this first session of the course you will be introduced to your teachers and 
 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
-#### 01: Total users
+### 01: Total Desks
 The total number of permanant desks in your building.
 
-#### 02: DGNB Lite Level
-DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools) for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM
+### 02: DGNB Lite Level
+DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools) for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM.
 
-#### 03: LCA / user
-It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. 
+### 03: LCA / user
+```{information}
+This calculation was updated on 01-06-2026 and should be used from Part D 2026 onwards
+```
+It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. The equation is
 
-* User = The number of permanant desks in the offices
-* GFA = m2 of the building (above ground level).
-* The CO2 equivalent per meter square of the GFA per year.
+$GWP / users / years$
 
-Based on this you can calculate:
+where
 
-((CO2*kg/m2/year) * Total office area (m2)) / Permanent desks 
+* GWP = the GWP for the total building.
+* User = The number of permanant desks in the offices [KPI01]
+* Years = 50 years (the number of years in our scope).
 
-#### 04: Construction cost
+See Team 05 Part C for example.
+
+1119676 kg CO2-eq / 306 user / 50 years = 72 kg CO2-eq/user/year
+
+### 04: Construction cost
 The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
 
-#### Points allocation
+### Points allocation
+```{information}
+This is being reviewed following the part c submission and maybe be calibrated for PART D (tbc).
+```
 |                           | 1 pts    | 3 pts   | 5 pts   |
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
