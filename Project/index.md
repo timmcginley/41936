@@ -71,7 +71,7 @@ where
 * User = The number of *permanant desks* in the offices [KPI01]
 * Years = 50 years (the number of years in our scope).
 
-See Team 05 Part C for example.
+See Team 06 Part C for example.
 
 1119676 kg CO2-eq / 306 user / 50 years = 72 kg CO2-eq/user/year
 
