@@ -52,7 +52,7 @@ In this first session of the course you will be introduced to your teachers and 
 In week 1 of the project, the PMs set their KPIs to describe the values of the team, the other subjects can then bid to be part of these teams based on the values. In your subjects you will be expected to make subject specific decisions that support the stated (KPI) values of your team. 
 
 ### 01: Total Desks
-The total number of permanant desks in your building.
+The total number of *permanant desks* in your building.
 
 ### 02: DGNB Lite Level
 DTU wants B308 to achieve a DGNB certification at minimum DGNB ‘Lite’ Gold level. Please see the seperate [DGNB Lite schema](/Tools) for details, that contains a reduced set of criteria for you to achieve each week. We have reduced the criteria and adjusted the points so that LCA for instance gains greater importance. The ‘level’ will be decided by your PM.
@@ -68,7 +68,7 @@ $KPI03 = GWP / users / years$
 where
 
 * GWP = the GWP for the total building.
-* User = The number of permanant desks in the offices [KPI01]
+* User = The number of *permanant desks* in the offices [KPI01]
 * Years = 50 years (the number of years in our scope).
 
 See Team 05 Part C for example.
