@@ -82,7 +82,7 @@ The construction cost level is decided by your PM. Refer to the [PM consultant i
 
 In the [first session](/Schedule/index.md#week-01---part-a) (PM Only): If you are in PM decide on the KPI values and make a describe these in the provided form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 
-> 60 (CO2eq/m2/User) (1 point) + 35.000DKK/M2 (3 pt) + platinum (1 point) + 400 desks (3 point) = 8 Points
+> 60 (CO2eq/desk/year) (3 point) + 35.000DKK/M2 (5 pt) + platinum (1 point) + 400 desks (1 point) = 10 Points
 
 
 ## The Site
