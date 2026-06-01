@@ -63,7 +63,7 @@ This calculation was updated on 01-06-2026 and should be used from Part D 2026 o
 ```
 It is essential that all consultants keep a close eye on the LCA for the elements and systems they are responsible for. The equation is
 
-$GWP / users / years$
+KPI03 = $GWP / users / years$
 
 where
 
