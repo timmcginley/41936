@@ -311,7 +311,7 @@ _May 11 2025 13:00 - 17:00_
 The three week period will primarily consist of team work to work on your projects. There will be scheduled times to book short 1:1 meeting with your chief consultant. The availabilites of the chief consultants will be posted soon. 
 
 
-|               |  Monday 08/06   | Tuesday 09/06   | Wednesday 10/06 | Thursday 11/06  | Friday 11/06    |
+|               |  Monday 08/06   | Tuesday 09/06   | Wednesday 10/06 | Thursday 11/06  | Friday 12/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Sessions      |Part D Introduction  <br>9:00-11:00  <br>B306 Aud 32    | Arch Detailing Session <br>9:00-11:00  <br>B127 R119  <br><br> All feedback shared <br>via email              |                 |  |Clash Detection <br>Workflow workshop|
 | Submissions   |Peer Review  <br>due 23.59               |    IFC 4X3 and one-page report <br>on Feedback strategy  <br>  due 23.59            |                 |                 |                 |
