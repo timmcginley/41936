@@ -305,6 +305,12 @@ _May 11 2025 13:00 - 17:00_
 
 <hr>
 
+| **Allocated Space for June** |**Location**|
+|-------------- |------------|
+|Intro Day Auditorium|B341/ aud. 21 |
+|Auditorium for Sessions and Final Presentations|B116/ aud. 82 |
+|Team Spaces   |B116/ room 16, 18, 19|
+
 
 ## Week 1 - (08/06 - 12/06)
 
@@ -313,7 +319,7 @@ The three week period will primarily consist of team work to work on your projec
 
 |               |  Monday 08/06   | Tuesday 09/06   | Wednesday 10/06 | Thursday 11/06  | Friday 12/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Sessions      |Part D Introduction  <br>9:00-11:00  <br>B306 Aud 32    | Arch Detailing Session <br>9:00-11:00  <br>B127 R119  <br><br> All feedback shared <br>via email              |                 |  |Clash Detection <br>Workflow workshop  <br>10:00-11:00|
+| Sessions      |Part D Introduction  <br>9:00-11:00  <br>B341 Aud 21    | Arch Detailing Session <br>9:00-11:00  <br>B116 R82  <br><br> All feedback shared <br>via email              |                 |  |Clash Detection <br>Workflow workshop  <br>10:00-11:00<br>B116 R82|
 | Submissions   |Peer Review  <br>due 23.59               |    IFC 4X3 and one-page report <br>on Feedback strategy  <br>  due 23.59            |                 |                 |                 |
 | Consultations |                 |                 |                 |                 |                 |
 ## Week 2 - (15/06 - 19/06)
@@ -329,7 +335,7 @@ The three week period will primarily consist of team work to work on your projec
 
 |               |  Monday 22/06   | Tuesday 23/06   | Wednesday 24/06 | Thursday 25/06  | Friday 26/06    |
 |---------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Sessions      |                 |                 | Presentation Day 1  <br>8:00-12:00  <br>B306 Aud 32    |     Presentation Day 2   <br>8:00-12:00  <br>B306 Aud 32         |                 |
+| Sessions      |                 |                 | Presentation Day 1  <br>8:00-12:00  <br>B116 R82    |     Presentation Day 2   <br>8:00-12:00  <br>B116 R82         |                 |
 | Submissions   |                 | Reports & BIM Due   |                 |                 |   Presentation Submission     |
 | Consultations |                 |                 |                 |                 |                 |
 
