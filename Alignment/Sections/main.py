@@ -2,22 +2,28 @@ import os
 
 # Define the expected sections for each subject
 expected_sections = [
-    "Introduction",
-    "Design Principles",
-    "Codes & Standards",
-    "Best Practices",
+    "Skills and motivation",
+    "Your chief consultant can support you with",
+    "You will need to independently learn",
+    "Assignments",
     "Common Pitfalls",
     "References"
 ]
 
-manual_dir = "../manual"  # Adjust path as needed
+manual_dir = os.getcwd()+"\Subjects"   # Adjust path as needed
+print(manual_dir)
+print(os.listdir(manual_dir))
 
-for filename in os.listdir(manual_dir):
-    if filename.endswith(".md"):
-        with open(os.path.join(manual_dir, filename), encoding="utf-8") as f:
-            content = f.read()
-        print(f"Checking {filename}:")
-        for section in expected_sections:
-            if f"# {section}" not in content and f"## {section}" not in content:
-                print(f"  - Missing: {section}")
-        print()
+for dirname in os.listdir(manual_dir):
+    path = os.path.join(manual_dir, dirname)
+    if os.path.isdir(path): 
+        for file in os.listdir(path):
+            if file.endswith(".md"):
+                print(file)
+                with open(file, encoding="utf-8") as f:
+                    content = f.read()
+                print(f"Checking {dirname}:")
+                for section in expected_sections:
+                    if f"# {section}" not in content and f"## {section}" not in content:
+                        print(f"  - Missing: {section}")
+        #print(dirname)
