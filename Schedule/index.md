@@ -14,7 +14,7 @@ Our course runs on Monday Afternoons in the Spring semester and the 3 week perio
 
 **_Make sure you have read the [student guide](/Roles/Student.md) before the first session_**
 
-| **Allocated Space** |**Location**|
+| **Allocated Space for 13 Week Period** |**Location**|
 |-------------- |------------|
 |Main Auditorium|B306/ aud. 32 |
 |Team spaces    |B116/ east and west, room 19 and room 14 |
