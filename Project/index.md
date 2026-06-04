@@ -86,7 +86,7 @@ This is being reviewed following the part c submission and maybe be calibrated f
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
 | DGNB Lite Level           | Platinum | Gold    | Silver  |
-| LCA / user (CO2kgeq/m2/User/Year) | 40       | 60      | 80     |
+| LCA / user (CO2kgeq/User/Year) | 40       | 60      | 80     |
 | Construction & Facility Management Cost(dkk/m2)| 25.000   | 30.000  | 35.000  |
 
 
