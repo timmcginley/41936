@@ -279,7 +279,7 @@ We would like to be able to reuse your work (annonymised) in teaching and resear
 
 Final invoice for the project. Clearly include the total hours of the entire project, the total hours of each stage (A,B,C,D), and the total hours of each discipline. 
 
-## <mark>D7 Physical Model (Optional)</mark>
+## <mark>D7 Physical Model </mark>
 
 The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. This is optional but highly encouraged. The scale of the model is up to you and the materails and production are also up to you. Ideally this would aid your final presentation and give the reviewers something to look at during the presentation. Furthermore we hope that we could keep these models and add them to a permanant exhibition of the work in Advanced Buidling Design which we are currently looking for a location for. Please discuss the models wiht the architecture chief consultant.
 
