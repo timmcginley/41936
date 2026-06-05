@@ -20,7 +20,7 @@ The purpose of the beats is to help us to understand the implications of the dec
 
 ## Stage C
 ### [Core Vs Usable Space Ratio](CoverVsUsableSpaceRatio.md)
-### [Energy Resilience](EnergyResilience.md)
+### [Energy Peak Loads](EnergyPeakLoads.md)
 ### [Horizontal Deflection](HorizontalDeflection.md)
 
 ## Stage D
