@@ -282,7 +282,8 @@ Final invoice for the project. Clearly include the total hours of the entire pro
 
 ## D7 Physical Model
 
-The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. The scale of the model is 1:100. Each team will be assigned a specific grid area in the building to produce in this was segments of an existing building model can be replaced wiht your proposal. 
+The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. The scale of the model is 1:100. You can see below that each team has been assigned a specific grid area in the building for their proposal. We will provide an existing building model wiht removable segments that you can replace with your model in the final presentation.
+
 <img width="1036" height="699" alt="image" src="https://github.com/user-attachments/assets/9bcbd975-63b6-4bb0-a651-22ac7b057e7e" />
 
 * ARCH responsible for finished floors, façade, suspended ceilings, desks in card
