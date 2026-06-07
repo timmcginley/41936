@@ -130,12 +130,12 @@ Check the general Part C BIM requirements. LOD to be defined by PM in the ICT Ag
 
 https://timmcginley.github.io/41936/Assignments/C.html#c3-bim
 
-* Model should include
-* all the spaces,
+Model should include:
+* all the spaces (They must save correctly as IfcSpaces) and not addtionally include floors as a space,
 * facade,
 * entrance,
 * ground floor and reception area including furniture
-* offices inlduing furniture (especially desks / chairs)
+* offices inlduing furniture (especially desks / chairs) Desks should be correctly classified.
 * service spaces i.e. toilets with furniture.
 * auditoriums including seats and screens
 * cafeteria, bike parking,
@@ -146,6 +146,7 @@ https://timmcginley.github.io/41936/Assignments/C.html#c3-bim
 #### D Consultant Report
 This is a continuation on the Part C report but with more detail on the themes discussed in the course. It will contain the following additional content:
 * 3 or 4 really good details (introduced in Part D Architecture lecture)
+* *UPDATE: 07-06-2026 - Clear definition of what is existing and what is proposed in the building (we need clear justification for any demolition and new build elements).*
   
 #### D BIM
 Check IFCSpaces have exported successfully.
