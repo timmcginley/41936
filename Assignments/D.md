@@ -191,15 +191,16 @@ These will be submitted some days before the final presentation to give the revi
 <hr>
 
 ## D3 BIM
-Please ensure your model is uploaded to Speckle/Catebnda, your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at 9:00 am. The BIM should:
+In addition to uploading the BIM files to DTU Learn, Please ensure your model is uploaded to Speckle/Catenda, your VR model is uploaded to Revizto and your presentation is uploaded to Learn by Tuesday at 9:00 am. The BIM should:
 
 * Satisfy all the requirements stated in the [ICT Agreement](/Assignments/A.md#ict-agreement).
-* All BIM should be submitted in **both native format (i.e. Revit) and IFC 4X3**
+* All BIM should be submitted in **both native format (i.e. Revit) and IFC4**
 * For IFC be sure to save also save the quantities and make sure that IFCSpaces have exported correctly.
-* Try and incorporate tools from the Advanced BIM class in your processs
-* Preference OpenBIM models, standards and processes at all stages of the process
-* Validate your IFC files so they conform to the schema with a schema checking tool
-* Check your IFC file conforms to the disciplinary needs using the relevant IDS
+* Make sure all desks export as either ifcfurniture or ifcfurnituretype and mke use the entity is enumerated as a 'DESK'. if not we can't cound them and you will the use KPI.
+* Try and incorporate tools from the Advanced BIM class in your processs.
+* Preference OpenBIM models, standards and processes at all stages of the process.
+* Validate your IFC files so they conform to the schema with a schema checking tool. Your ICT agreement should state whose responsibility this is. If not it is the person that uploaded on DTU Learn.
+* Advanced: Check your IFC file conforms to the disciplinary needs using the relevant IDS.
 
 ```{important}
 File naming: [YR]-[TEAM]-[PART]-[SUB].file (TBC)
