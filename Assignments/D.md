@@ -17,7 +17,7 @@ Stage D starts by reviewing and providing peer feedback on subject and client re
 * D4 Presentation
 * D5 VR Model
 * D6 Invoice
-* <mark>D7 Physical Model (Optional but encouraged)</mark>
+* D7 Physical Model
 <hr>
 
 
@@ -280,7 +280,15 @@ We would like to be able to reuse your work (annonymised) in teaching and resear
 
 Final invoice for the project. Clearly include the total hours of the entire project, the total hours of each stage (A,B,C,D), and the total hours of each discipline. 
 
-## <mark>D7 Physical Model </mark>
+## D7 Physical Model
 
-The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. This is optional but highly encouraged. The scale of the model is up to you and the materails and production are also up to you. Ideally this would aid your final presentation and give the reviewers something to look at during the presentation. Furthermore we hope that we could keep these models and add them to a permanant exhibition of the work in Advanced Buidling Design which we are currently looking for a location for. Please discuss the models wiht the architecture chief consultant.
+The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. The scale of the model is 1:100. Each team will be assigned a specific grid area in the building to produce in this was segments of an existing building model can be replaced wiht your proposal. 
+<img width="1036" height="699" alt="image" src="https://github.com/user-attachments/assets/9bcbd975-63b6-4bb0-a651-22ac7b057e7e" />
+
+* ARCH responsible for finished floors, façade, suspended ceilings, desks in card
+* GEO and STR responsible for clay printing all walls, slabs, stairs and structure
+* MEP responsible for 3d plastic printing MEP elements
+* PM will coordinate and be responsible for model being ready for presentation
+
+You are free to make additional models as required to aid your final presentation and give the reviewers something to investigate during the presentation. Furthermore we hope that we could keep these models and add them to a permanant exhibition of the work in Advanced Buidling Design which we are currently looking for a location for. Please discuss the models with the architecture chief consultant.
 
