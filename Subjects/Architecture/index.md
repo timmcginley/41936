@@ -110,7 +110,7 @@ Report Structure:
 * **Site**, Connection to the campus, site analysis, Koppen-Gieger class
 * **Building Concept**, Building concept development, Design process, General vision and idea of the building
 * **Floors**, Functionality, Distribution ofmain functions, floor plans
-* **Spaces**
+* **Spaces (1 page per space below)**
     *  Entrance
     *  Auditorium
     *  Multipurpose
