@@ -5,7 +5,7 @@
 ```
 
 ```{attention}
-The final presentation will take place in Building 306, Auditorium 32.
+The final presentation will take place in Building 116, Auditorium 82.
 ```
 **Detail and communicate a final design to a variety of stakeholders in technical reports and a presentation including VR.**
 
