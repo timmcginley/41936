@@ -1,4 +1,3 @@
-<img width="901" height="579" alt="Screenshot 2026-06-11 at 3 40 02 PM" src="https://github.com/user-attachments/assets/f057931e-b49c-4da9-a448-851352d60538" />
 # Part D
 
 ```{versionadded}
