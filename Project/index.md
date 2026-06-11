@@ -79,6 +79,7 @@ See Team 06 Part C for example.
 The construction cost level is decided by your PM. Refer to the [PM consultant instructions](/Subjects/PM) for what to include in costs. 
 
 ### Points allocation
+
 ```{information}
 This LCA/User calculation was updated on 11-06-2026 and should be used from Part D 2026 onwards
 ```
@@ -93,7 +94,7 @@ This LCA/User calculation was updated on 11-06-2026 and should be used from Part
 
 In the [first session](/Schedule/index.md#week-01---part-a) (PM Only): If you are in PM decide on the KPI values and make a describe these in the provided form. Each team has a number of points depending on how many points they got from their team selection and has to choose how to spend them on KPIs. For example, if we wanted to do a small expensive sustainable building quickly we could choose:
 
-> 60 (CO2eq/desk/year) (3 point) + 35.000DKK/M2 (5 pt) + platinum (1 point) + 400 desks (1 point) = 10 Points
+> 80 (CO2eq/desk/year) (3 point) + 35.000DKK/M2 (5 pt) + platinum (1 point) + 400 desks (1 point) = 10 Points
 
 
 ## The Site
