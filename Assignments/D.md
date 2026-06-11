@@ -1,3 +1,4 @@
+<img width="901" height="579" alt="Screenshot 2026-06-11 at 3 40 02 PM" src="https://github.com/user-attachments/assets/f057931e-b49c-4da9-a448-851352d60538" />
 # Part D
 
 ```{versionadded}
@@ -85,7 +86,8 @@ Your final client report should include:
 ### 06: Existing Building <mark>new</mark>
 * Plans and drawings of the existing building
 * Existing foundations
-* Include before (existing) and after (your proposal) plans and drawings 
+* Include before (existing) and after (your proposal) plans and drawings
+* Include considerations and practicalitiesreuse of building and componenets.
 
 ### 07: Proposed Building
 * This is a summary of the interdsiciplinary design of your building.
@@ -283,8 +285,7 @@ Final invoice for the project. Clearly include the total hours of the entire pro
 ## D7 Physical Model
 
 The client has asked that you produce a physical model of your building or a part of it that demonstrates the successful integration of your team's needs in the final design. The scale of the model is 1:100. You can see below that each team has been assigned a specific grid area in the building for their proposal. We will provide an existing building model wiht removable segments that you can replace with your model in the final presentation.
-
-<img width="1036" height="699" alt="image" src="https://github.com/user-attachments/assets/9bcbd975-63b6-4bb0-a651-22ac7b057e7e" />
+<img width="905" height="577" alt="Screenshot 2026-06-11 at 3 40 20 PM" src="https://github.com/user-attachments/assets/e9315ea8-eae6-4d14-981f-766d7dcded75" />
 
 * ARCH responsible for finished floors, façade, suspended ceilings, desks in card
 * GEO and STR responsible for clay printing all walls, slabs, stairs and structure
