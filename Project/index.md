@@ -80,13 +80,14 @@ The construction cost level is decided by your PM. Refer to the [PM consultant i
 
 ### Points allocation
 ```{information}
-This is being reviewed following the part c submission and maybe be calibrated for PART D (tbc).
+This LCA/User calculation was updated on 11-06-2026 and should be used from Part D 2026 onwards
 ```
+
 |                           | 1 pts    | 3 pts   | 5 pts   |
 |---------------------------|----------|---------|---------|
 | Perm. desk space          | 400      | 300     | 200     |
 | DGNB Lite Level           | Platinum | Gold    | Silver  |
-| LCA / user (CO2kgeq/User/Year) | 40       | 60      | 80     |
+| LCA / user (CO2kgeq/User/Year) | 60       | 80      | 100     |
 | Construction & Facility Management Cost(dkk/m2)| 25.000   | 30.000  | 35.000  |
 
 
