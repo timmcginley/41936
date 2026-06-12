@@ -7,7 +7,7 @@ Students must prepare two LCA result structures:
 
 | Version | Purpose | Main use |
 |---|---|---|
-| Version 1: Cross-group comparison LCA / LCA light | Simple, strict, and comparable between all student groups | Cross-group comparison and initial carbon screening |
+| Version 1: Cross-group comparison LCA / LCA lite | Simple, strict, and comparable between all student groups | Cross-group comparison and initial carbon screening |
 | Version 2: DGNB / BR18-aligned LCA | More complete environmental assessment | DGNB Lite ENV1.1 discussion, BR18-aligned interpretation, hotspot analysis, design justification, and points calculation |
 
 - Both versions must use the same quantities where relevant. Version 2 is not a separate project. It is the more complete version of Version 1.
@@ -28,11 +28,11 @@ Each group must report the carbon footprint connected to each subject area:
 | MAT | | | | |
 | PM/ICT | | | | |
 
-This table should be provided for Version 2 as the main carbon responsibility overview. A simplified version may also be provided for Version 1 if useful for comparison.
+This table should be provided for both Verion 1 and Version 2 as the main carbon responsibility overview. 
 
 ---
 
-## Version 1: Cross-group Comparison LCA / LCA Light
+## Version 1: Cross-group Comparison LCA / LCA Lite
 
 *Simplified renovation LCA for comparability*
 
@@ -53,6 +53,7 @@ No creative extra assumptions.
 - Cross-group comparison
 - Initial carbon screening
 - Simple identification of major contributors
+- KPI LCA value
 
 **Version 1 is not used for:**
 
