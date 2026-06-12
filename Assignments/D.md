@@ -87,6 +87,37 @@ Your final client report should include:
 * Existing foundations
 * Include before (existing) and after (your proposal) plans and drawings
 * Include considerations and practicalitiesreuse of building and componenets.
+Here's the merged Part D version, combining all requirements from both:
+
+```{information}
+This reuse section was updated on 12-06-2026 and should be used from Part D 2026 onwards
+```
+
+#### Reuse of Building and Components
+
+Reuse of existing building elements and components is strongly encouraged in this project — it aligns with circular economy principles and can significantly reduce embodied carbon. However, reuse must be thoroughly integrated into your design decisions, not stated as a principle without follow-through. **If you claim reuse, you must prove it.**
+
+In practical terms, ask yourself: how will this actually work on site? For example, extracting bricks for reuse typically requires precision cutting with heavy machinery. That extraction process — including its associated emissions — must be captured in your LCA, not just the avoided production of new materials.
+
+By Part D, you should be able to demonstrate:
+
+- A clear inventory of which materials or components are being reused, and where in the building they will go
+- How reuse will be carried out in practice — equipment, process, sequencing
+- Where reused elements are located in the final design — structural drawings, architectural plans, facade details
+- How reuse affects structural design, architectural design, and U-values
+- The emissions associated with the extraction/recovery process (e.g. mechanical removal of bricks, deconstruction sequences)
+- How reuse has been implemented in the LCA — not as an assumption, but as a modelled input
+- A practical action plan: how, when, and by whom will reuse be carried out during construction
+
+Reuse must appear in **all relevant reports**:
+
+- **Client Report:** Overview of existing materials and what is retained, removed, or reused
+- **Materials / LCA Report:** Reuse of materials, implementation in practice, the effects of different materials on overall performance, and how these are considered in your LCA.
+- **Structure Report:** Implications for load-bearing elements, connections, and detailing
+- **Architecture Report:** How reuse shapes spatial and facade decisions
+
+> **Hint:** The question is not just *what* you reuse — it is *how* and *why*. Demonstrate that reuse has shaped your design, not just your sustainability claim. If the LCA does not include the process of extracting and reusing a material, it is incomplete.
+
 
 ### 07: Proposed Building
 * This is a summary of the interdsiciplinary design of your building.
