@@ -21,6 +21,7 @@ The client report is a high level report including information on the:
 * Advanced Building Design, what it is to you
 * Beats
 * Site
+* Existing Building
 * Building Design
 * Floors
 * Spaces, entrance, auditorium, multipupose and cafe
