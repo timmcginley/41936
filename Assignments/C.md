@@ -31,6 +31,30 @@ The client report is a high level report including information on the:
 * Questions for feedback
 <hr>
 
+```{information}
+This reuse information was updated on 12-06-2026 and should be used from ABD 2027 onwards
+```
+
+### Reuse of Building and Components
+
+Reusing existing building elements is a valuable ambition in a transformation project — but the commitment must be reflected in your design choices, LCA, and implementation decisions. **If you claim reuse, you must prove it.**
+
+In practical terms, ask yourself: how will this actually work on site? For example, extracting bricks for reuse typically requires precision cutting with heavy machinery. That extraction process — including its associated emissions — must be captured in your LCA, not just the avoided production of new materials.
+
+Your report should address:
+
+- Which materials or components are being reused, and where in the building they will go
+- How reuse will be carried out in practice — equipment, process, sequencing
+- How reuse affects structural design, architectural design, and U-values
+- The emissions associated with the extraction/recovery process
+- How reuse is integrated into your LCA — not as an assumption, but as a modelled input
+
+Reuse must be addressed across **all relevant reports**. In the client report, this belongs in the existing materials section (section 06: Existing Building). Deeper technical justification should appear in the LCA, structural, and architectural consultant reports.
+
+> **Note:** We want to see reuse — but it must be clearly reasoned and accompanied by an action plan. Where will the material go? How does it affect performance? If you claim it, show your working.
+
+---
+
 ## C2 Consultant Reports
 Each consultancy delivers a report:
 
