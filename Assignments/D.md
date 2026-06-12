@@ -116,7 +116,7 @@ Reuse must appear in **all relevant reports**:
 - **Structure Report:** Implications for load-bearing elements, connections, and detailing
 - **Architecture Report:** How reuse shapes spatial and facade decisions
 
-> **Hint:** The question is not just *what* you reuse — it is *how* and *why*. Demonstrate that reuse has shaped your design, not just your sustainability claim. If the LCA does not include the process of extracting and reusing a material, it is incomplete.
+> **Hint:** The question is not just *what* you reuse — it is *how* and *why*. Demonstrate that reuse has shaped your design, not just your sustainability claim. 
 
 
 ### 07: Proposed Building
