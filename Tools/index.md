@@ -19,6 +19,9 @@ The design grid / Design Matrix
 ## [LCA Guide](LCAInTheBuiltEnvironment/index.md)
 LCA in the built environment guide for Advanced Building Design Course focused on transformation. 
 
+## [LCA Rules](LCArules.md)
+LCA guide for what to include and exclude in your LCA calculations for both LCA-lite ( a course standardized version) and LCA
+
 ## [LCA Optimization and Collaboration](LCAOptimizationAndCollaboration/index.md)
 LCA guide emphasizes the essential role of interdisciplinary collaboration and project optimization in reducing the environmental impact of building projects. The page examines how each major discipline on a project team contributes to a more sustainable project design from the earliest conceptual phase (Phase A) through to the final tender design stage (Phase D).
 
@@ -28,8 +31,6 @@ Cost calculation guide for Advanced Building Design Course.
 ## [IDS](ABD-IDS.md)
 We use IDS to help us define what information needs to be in your BIM models at each stage of the project.
 
-## [LCA Rules](LCARules.md)
-LCA guide for what to include and exclude in your LCA calculations for both LCA-lite ( a course standardized version) and LCA 
 
 
 ## [LCA](LCA.md)
