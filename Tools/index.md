@@ -28,5 +28,9 @@ Cost calculation guide for Advanced Building Design Course.
 ## [IDS](ABD-IDS.md)
 We use IDS to help us define what information needs to be in your BIM models at each stage of the project.
 
+## [LCA Rules](LCARules.md)
+LCA guide for what to include and exclude in your LCA calculations for both LCA-lite ( a course standardized version) and LCA 
+
+
 ## [LCA](LCA.md)
 (outdated) LCA guide for Advanced Building Design Course. 
