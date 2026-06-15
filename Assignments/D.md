@@ -283,8 +283,11 @@ Your presentation should include the following:
   
 ### Project Details
 * Inform the client about the estimated cost of the project.
-* Provide the estimated timeline for construction.
 * State the targeted DGNB certification level and explain the sustainability measures taken to achieve it.
+```{information}
+The timeline for construction requirement was removed on 15-06-2026 and is no longer required. This should be used from Part D 2026 onwards
+```
+
 <hr>
 
 ## D5 VR Model
