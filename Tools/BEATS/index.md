@@ -8,6 +8,29 @@
 
 The purpose of the beats is to help us to understand the implications of the decisions you are making. Also it should help you to see that it is not possible to optimise every requirement. There are 12 beats for you to monitor, 3 in each of the 4 parts of the course.
 
+<! --- 2027 change horizontal deflection to foundation utlisation / total mass of building / max foundation utilisation? 
+  then we could calculate the utlisation - we will need to make the beats single numbers that we can then perform basic analysis on.
+  Most of the times beats should be totals of things, 
+      KPI: desks (ARCH), 
+      GFA (ARCH), 
+      total office space (ARCH), 
+      mass (STR), - future KPI? very much so for space habitation,
+      peak energy load (MEP), 
+      GWP (MAT), 
+      foundation capacity (GEO)
+      hours (PM), 
+      Cost (PM)
+      height (ALL), 
+
+  Key measures
+      F2F in typical office, 
+      F2C in typical office (if no celing then lowest point of any ceiling mounted installations)
+      
+  with some ratios / percentages - 
+      core v useable - (ARCH) needs to be clarified
+      facade transparency (MEP) - can this be derived in ABIM?
+--->
+
 ## Stage A
 ### [Gross Floor Area (Total Above Ground)](GrossFloorArea.md)
 <!-- 2025 ### [Total Height of Building](TotalHeightOfBuilding.md) -->
